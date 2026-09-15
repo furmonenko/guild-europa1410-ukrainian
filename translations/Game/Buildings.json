@@ -1,0 +1,134 @@
+{
+  "Activity_DisplayName_Plural": {
+    "en": "Activities",
+    "uk": "Заняття"
+  },
+  "Build_Button": {
+    "en": "Build",
+    "uk": "Будувати"
+  },
+  "Category_Business_DisplayName": {
+    "en": "Business",
+    "uk": "Підприємство"
+  },
+  "Category_Dwelling_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Category_Residence_DisplayName_plural": {
+    "en": "Residences",
+    "uk": "Житло"
+  },
+  "ConstructionScreen_Private_DisplayName": {
+    "en": "Personal",
+    "uk": "Особисте"
+  },
+  "Exit_prompt": {
+    "en": "Exit",
+    "uk": "Вихід"
+  },
+  "Guild_GuildHouse_DisplayName": {
+    "en": "Guild House",
+    "uk": "Дім гільдії"
+  },
+  "ListOfActions_Header": {
+    "en": "Actions",
+    "uk": "Дії"
+  },
+  "ListOfUpgrades_Header": {
+    "en": "Upgrades",
+    "uk": "Вдосконалення"
+  },
+  "Manager_ProfessionBuilding_DisplayName": {
+    "en": "Master",
+    "uk": "Загальна"
+  },
+  "Parameter_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PersonalBuilding_ConstructionShack_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PersonalBuilding_SecretDen_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PersonalBuilding_Small Brewery_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PersonalBuilding_Stable_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Prison_DisplayName": {
+    "en": "Prison",
+    "uk": "В'язниця"
+  },
+  "PublicBuilding_Prison_II_DisplayName": {
+    "en": "Prison",
+    "uk": "В'язниця"
+  },
+  "PublicBuilding_PublicBathhouse_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Rostrum_DisplayName": {
+    "en": "Rostrum",
+    "uk": "Трибуна"
+  },
+  "PublicBuilding_Rostrum_II_DisplayName": {
+    "en": "Rostrum",
+    "uk": "Трибуна"
+  },
+  "PublicBuilding_Sewers_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_DisplayName_plural": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_TownHall_DisplayName": {
+    "en": "Town Hall",
+    "uk": "Ратуша"
+  },
+  "PublicBuilding_TownHall_II_DisplayName": {
+    "en": "Town Hall",
+    "uk": "Ратуша"
+  },
+  "PublicBuilding_TownsGate_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_University_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Well_DisplayName": {
+    "en": "Well",
+    "uk": "Колодязь"
+  },
+  "Requirement_BuildingOwnership_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Residence_Villa_DisplayName": {
+    "en": "Villa",
+    "uk": "Вілла"
+  },
+  "Trade_DisplayName": {
+    "en": "Trade",
+    "uk": "Торгівля"
+  }
+}

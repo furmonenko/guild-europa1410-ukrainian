@@ -1,0 +1,1642 @@
+{
+  "AmountSelector": {
+    "en": "Select Amount",
+    "uk": "Вибрати кількість"
+  },
+  "BaseCraftingTime_DisplayName": {
+    "en": "Base crafting time",
+    "uk": "Базовий час виготовлення"
+  },
+  "BaseProcessingTime_DisplayName": {
+    "en": "Base processing time",
+    "uk": "Базовий час обробки"
+  },
+  "BeeQueen_Description": {
+    "en": "Bzz. Bzz. A surprisingly effective form of governance.",
+    "uk": "Бзз. Бзз. Напрочуд ефективна форма правління."
+  },
+  "BeeQueen_DisplayName": {
+    "en": "Queen Bee",
+    "uk": "Бджолина матка"
+  },
+  "BeeQueen_Instruction": {
+    "en": "Open the Construction Menu and use the Queen Bee to build a Beehive.",
+    "uk": "Відкрийте меню будівництва й використайте бджолину матку, щоб побудувати вулик."
+  },
+  "CanBeCraftedInThisBuilding": {
+    "en": "Can be crafted here",
+    "uk": "Можна виготовити тут"
+  },
+  "CombatEquipment_Armor_HeavyArmor_Description": {
+    "en": "Built to endure even the deadliest strikes.",
+    "uk": "Виковано, щоб витримати навіть найсмертоносніші удари."
+  },
+  "CombatEquipment_Armor_HeavyArmor_DisplayName": {
+    "en": "Full Plate",
+    "uk": "Повні лати"
+  },
+  "CombatEquipment_Armor_LeatherArmor_Description": {
+    "en": "Light, quiet, and built for those who strike first.",
+    "uk": "Легкий, безшумний і створений для тих, хто б'є першим."
+  },
+  "CombatEquipment_Armor_LeatherArmor_DisplayName": {
+    "en": "Leather Armor",
+    "uk": "Шкіряний обладунок"
+  },
+  "CombatEquipment_Armor_MediumArmor_Description": {
+    "en": "Strong enough to take a hit, light enough to strike back.",
+    "uk": "Достатньо міцний, щоб витримати удар, і достатньо легкий, щоб завдати удар у відповідь."
+  },
+  "CombatEquipment_Armor_MediumArmor_DisplayName": {
+    "en": "Mail Armor",
+    "uk": "Кольчуга"
+  },
+  "CombatEquipment_Armor_Shirt_Description": {
+    "en": "Provides comfort and modesty. Neither stop weapons.",
+    "uk": "Забезпечує зручність і скромність. Від зброї не захищає жодне з двох."
+  },
+  "CombatEquipment_Armor_Shirt_DisplayName": {
+    "en": "Undergarment",
+    "uk": "Спідня сорочка"
+  },
+  "CombatEquipment_Weapon_Bomb_Description": {
+    "en": "Looks harmless enough — until it isn't.",
+    "uk": "Виглядає достатньо безпечно — доки не вибухне."
+  },
+  "CombatEquipment_Weapon_Bomb_DisplayName": {
+    "en": "Bomb",
+    "uk": "Бомба"
+  },
+  "CombatEquipment_Weapon_Bow_Description": {
+    "en": "Wood, string, and nerve — simple tools demand steady skill.",
+    "uk": "Дерево, тятива і нерви — прості знаряддя вимагають твердої руки."
+  },
+  "CombatEquipment_Weapon_Bow_DisplayName": {
+    "en": "Bow",
+    "uk": "Лук"
+  },
+  "CombatEquipment_Weapon_CeramicGrenade_Description": {
+    "en": "Shatters like pottery, except everyone dies.",
+    "uk": "Розлітається на друзки, як глиняний посуд, тільки всі при цьому гинуть."
+  },
+  "CombatEquipment_Weapon_CeramicGrenade_DisplayName": {
+    "en": "Ceramic Grenade",
+    "uk": "Керамічна граната"
+  },
+  "CombatEquipment_Weapon_Crossbow_Description": {
+    "en": "Power locked and loaded — takes time to ready, but hits hard with a steady hand.",
+    "uk": "Сила напоготові — потребує часу на підготовку, але б'є нещадно за твердої руки."
+  },
+  "CombatEquipment_Weapon_Crossbow_DisplayName": {
+    "en": "Crossbow",
+    "uk": "Арбалет"
+  },
+  "CombatEquipment_Weapon_Dagger_Description": {
+    "en": "Small enough to go unnoticed, yet sharp enough to end a fight in an instant.",
+    "uk": "Достатньо малий, щоб лишитися непоміченим, та достатньо гострий, щоб миттю закінчити бій."
+  },
+  "CombatEquipment_Weapon_Dagger_DisplayName": {
+    "en": "Dagger",
+    "uk": "Кинджал"
+  },
+  "CombatEquipment_Weapon_Handgun_Description": {
+    "en": "A deafening new invention, feared more for its noise than its aim — and unlike bow or sword, it requires no skill.",
+    "uk": "Оглушливий новий винахід, якого бояться радше через гуркіт, ніж через влучність — і, на відміну від лука чи меча, не вимагає майстерності."
+  },
+  "CombatEquipment_Weapon_Handgun_DisplayName": {
+    "en": "Hand Cannon",
+    "uk": "Ручна гармата"
+  },
+  "CombatEquipment_Weapon_LongSword_Description": {
+    "en": "A knight's classic.",
+    "uk": "Лицарська класика."
+  },
+  "CombatEquipment_Weapon_LongSword_DisplayName": {
+    "en": "Long Sword",
+    "uk": "Довгий меч"
+  },
+  "CombatEquipment_Weapon_PoisonDagger_Description": {
+    "en": "Lethal beyond the first strike.",
+    "uk": "Смертоносний навіть після першого удару."
+  },
+  "CombatEquipment_Weapon_PoisonDagger_DisplayName": {
+    "en": "Poison Dagger",
+    "uk": "Отруєний кинджал"
+  },
+  "CombatEquipment_Weapon_PotGrenade_Description": {
+    "en": "A simple vessel, but its contents bring explosive ruin.",
+    "uk": "Проста посудина, але її вміст несе вибухову руїну."
+  },
+  "CombatEquipment_Weapon_PotGrenade_DisplayName": {
+    "en": "Pot Grenade",
+    "uk": "Горщикова граната"
+  },
+  "CombatEquipment_Weapon_ShadowDagger_Description": {
+    "en": "A dagger infused with forbidden perfume, leaving enemies to fight shadows. They'll only see you when it's too late.",
+    "uk": "Кинджал, просочений забороненими парфумами: вороги битимуться з тінями. Вас вони побачать, лише коли буде вже пізно."
+  },
+  "CombatEquipment_Weapon_ShadowDagger_DisplayName": {
+    "en": "Shadow Dagger",
+    "uk": "Тіньовий кинджал"
+  },
+  "CombatEquipment_Weapon_ShortSword_Description": {
+    "en": "Travel-size stabbing.",
+    "uk": "Колюча зброя дорожнього розміру."
+  },
+  "CombatEquipment_Weapon_ShortSword_DisplayName": {
+    "en": "Short Sword",
+    "uk": "Короткий меч"
+  },
+  "Durability_CombatEncounters": {
+    "en": "{NumCombat} {CO_COMENC_C}{NumCombat}|plural(one=combat encounter,other=combat encounters){##}",
+    "uk": "{NumCombat} {CO_COMENC_C}{NumCombat}|plural(one=бойова сутичка,few=бойові сутички,many=бойових сутичок,other=бойової сутички){##}"
+  },
+  "Durability_CombatEncounters_Remaining": {
+    "en": "{NumCombat} remaining",
+    "uk": "Залишилося {NumCombat}"
+  },
+  "Durability_Description": {
+    "en": "Once activated, some items provide effects that last for a set number of {C_TRN_C}turns{##}, while {I_TYP_COMEQU_C}combat equipment{##} lasts for a set number of {CO_COMENC_C}combat encounters{##}.",
+    "uk": "Після активації одні предмети діють протягом певної кількості {C_TRN_C}ходів{##}, тоді як {I_TYP_COMEQU_C}бойове спорядження{##} діє протягом певної кількості {CO_COMENC_C}бойових сутичок{##}."
+  },
+  "Durability_DisplayName": {
+    "en": "Durability",
+    "uk": "Міцність"
+  },
+  "Durability_DisplayName_Alt": {
+    "en": "Item Durability",
+    "uk": "Міцність предмета"
+  },
+  "IntermediateProduct_Ectoplasm_Description": {
+    "en": "A viscous substance from spirits, feared as much as it is revered.",
+    "uk": "В'язка субстанція, яку лишають по собі духи: її бояться не менше, ніж шанують."
+  },
+  "IntermediateProduct_Ectoplasm_DisplayName": {
+    "en": "Ectoplasm",
+    "uk": "Ектоплазма"
+  },
+  "IntermediateProduct_Ethanol_Description": {
+    "en": "Pure, potent, and flammable — handle with care.",
+    "uk": "Чистий, дієвий і легкозаймистий — поводьтеся обережно."
+  },
+  "IntermediateProduct_Ethanol_DisplayName": {
+    "en": "Ethanol",
+    "uk": "Етанол"
+  },
+  "IntermediateProduct_Fabric_Description": {
+    "en": "The difference between a beggar's rag and a duke's robe is just tailoring.",
+    "uk": "Різниця між лахміттям жебрака і мантією герцога — лише в кравецькій майстерності."
+  },
+  "IntermediateProduct_Fabric_DisplayName": {
+    "en": "Fabric",
+    "uk": "Тканина"
+  },
+  "IntermediateProduct_Fittings_Description": {
+    "en": "Hinges, brackets, and decorative pieces — used to fasten, support, or add a touch of style in your crafting.",
+    "uk": "Петлі, кронштейни й оздоблювальні деталі — для кріплення, підтримки чи стильного акценту у виробах."
+  },
+  "IntermediateProduct_Fittings_DisplayName": {
+    "en": "Fittings",
+    "uk": "Фурнітура"
+  },
+  "IntermediateProduct_Handle_Description": {
+    "en": "The part you only notice when it breaks.",
+    "uk": "Деталь, яку помічаєш, лише коли вона ламається."
+  },
+  "IntermediateProduct_Handle_DisplayName": {
+    "en": "Handle",
+    "uk": "Ручка"
+  },
+  "IntermediateProduct_JoiningMaterial_Description": {
+    "en": "Nails, rivets, screws — the tiny pieces that hold big things together.",
+    "uk": "Цвяхи, заклепки, шурупи — крихітні деталі, що тримають разом великі речі."
+  },
+  "IntermediateProduct_JoiningMaterial_DisplayName": {
+    "en": "Joining Material",
+    "uk": "З'єднувальний матеріал"
+  },
+  "IntermediateProduct_Leather_Description": {
+    "en": "A skin that outlives its owner. Yesterday's beast, tomorrow's fashion statement.",
+    "uk": "Шкура, що переживає свого власника. Вчорашній звір — завтрашня модна річ."
+  },
+  "IntermediateProduct_Leather_DisplayName": {
+    "en": "Leather",
+    "uk": "Шкіра"
+  },
+  "IntermediateProduct_Paint_Description": {
+    "en": "Color in a jar. What else did you expect?",
+    "uk": "Фарба в глечику. А чого ще Ви чекали?"
+  },
+  "IntermediateProduct_Paint_DisplayName": {
+    "en": "Paint",
+    "uk": "Фарба"
+  },
+  "IntermediateProduct_Paper_Description": {
+    "en": "Just paper... nothing to write home about.",
+    "uk": "Просто папір... і написати про нього нічого."
+  },
+  "IntermediateProduct_Paper_DisplayName": {
+    "en": "Paper",
+    "uk": "Папір"
+  },
+  "IntermediateProduct_Polish_Description": {
+    "en": "A final touch of brilliance for any masterpiece.",
+    "uk": "Останній штрих блиску для будь-якого шедевра."
+  },
+  "IntermediateProduct_Polish_DisplayName": {
+    "en": "Polish",
+    "uk": "Поліроль"
+  },
+  "IntermediateProduct_PolishedStone_Description": {
+    "en": "A stone honed to a flawless sheen.",
+    "uk": "Камінь, відшліфований до бездоганного блиску."
+  },
+  "IntermediateProduct_PolishedStone_DisplayName": {
+    "en": "Polished Stone",
+    "uk": "Полірований камінь"
+  },
+  "IntermediateProduct_SandingBlock_Description": {
+    "en": "Turns rough edges into smooth ones.",
+    "uk": "Перетворює грубі краї на гладенькі."
+  },
+  "IntermediateProduct_SandingBlock_DisplayName": {
+    "en": "Sanding Block",
+    "uk": "Наждачний брусок"
+  },
+  "IntermediateProduct_WoodenSpigots_Description": {
+    "en": "They are like nails. But wooden.",
+    "uk": "Вони як цвяхи. Тільки дерев'яні."
+  },
+  "IntermediateProduct_WoodenSpigots_DisplayName": {
+    "en": "Wooden Nails",
+    "uk": "Дерев'яні цвяхи"
+  },
+  "InventoryItem_BanditContract01_Description": {
+    "en": "A few of the Baron's roughest blades. Cheap, loud, and dangerous enough for easy prey.",
+    "uk": "Кілька найгрубіших головорізів барона. Дешеві, галасливі й досить небезпечні для легкої здобичі."
+  },
+  "InventoryItem_BanditContract01_DisplayName": {
+    "en": "Low-Level Thug Contract",
+    "uk": "Контракт на дрібних головорізів"
+  },
+  "InventoryItem_BanditContract02_Description": {
+    "en": "A seasoned crew from the Baron's ranks. Steady hands, ready for real work.",
+    "uk": "Досвідчений загін з рядів барона. Тверда рука, готова до справжньої роботи."
+  },
+  "InventoryItem_BanditContract02_DisplayName": {
+    "en": "Trained Thug Contract",
+    "uk": "Контракт на досвідчених головорізів"
+  },
+  "InventoryItem_BanditContract03_Description": {
+    "en": "The Baron's finest. Precise, ruthless, and built for well-guarded targets.",
+    "uk": "Найкращі з баронових людей. Точні, безжальні, створені для добре охоронюваних цілей."
+  },
+  "InventoryItem_BanditContract03_DisplayName": {
+    "en": "Elite Professional Contract",
+    "uk": "Контракт на елітних професіоналів"
+  },
+  "InventoryItem_BeeHiveFrame_Description": {
+    "en": "The foundation of a well-organized hive — or at least the human idea of one.",
+    "uk": "Основа добре впорядкованого вулика — принаймні у людському уявленні про такий."
+  },
+  "InventoryItem_BeeHiveFrame_DisplayName": {
+    "en": "Beehive Frame",
+    "uk": "Рамка вулика"
+  },
+  "InventoryItem_BloomOfDiscord_Description": {
+    "en": "A subtle pollen that turns acquaintances into enemies. Plant the seed, watch the hatred bloom.",
+    "uk": "Тонкий пилок, що перетворює знайомих на ворогів. Посадіть насіння — і спостерігайте, як розквітає ненависть."
+  },
+  "InventoryItem_BloomOfDiscord_DisplayName": {
+    "en": "Bloom of Discord",
+    "uk": "Квітка розбрату"
+  },
+  "InventoryItem_BoneBracelet_Description": {
+    "en": "Carved from the bones of history's most devoted friends, David and Jonathan.",
+    "uk": "Вирізаний з кісток найвідданіших друзів історії — Давида та Йонатана."
+  },
+  "InventoryItem_BoneBracelet_DisplayName": {
+    "en": "Bone Bracelet",
+    "uk": "Кістяний браслет"
+  },
+  "InventoryItem_CannonBallDung_Description": {
+    "en": "A cannonball packed with dung and other unspeakable refuse. Damage to masonry is merely a pleasant side effect.",
+    "uk": "Гарматне ядро, начинене гноєм та іншим невимовним сміттям. Шкода мурованим спорудам — лише приємний побічний ефект."
+  },
+  "InventoryItem_CannonBallDung_DisplayName": {
+    "en": "Foul Cannonball",
+    "uk": "Смердюче ядро"
+  },
+  "InventoryItem_CannonBallFire_Description": {
+    "en": "Packed with enough combustible material to ensure the impact is only the beginning of the problem.",
+    "uk": "Начинене достатньою кількістю горючого матеріалу, щоб удар був лише початком проблем."
+  },
+  "InventoryItem_CannonBallFire_DisplayName": {
+    "en": "Incendiary Cannonball",
+    "uk": "Запалювальне ядро"
+  },
+  "InventoryItem_CannonBall_Description": {
+    "en": "A solid iron shot with little regard for walls, windows, or whoever happens to be standing behind them.",
+    "uk": "Суцільне залізне ядро, байдуже до стін, вікон чи будь-кого, хто трапиться за ними."
+  },
+  "InventoryItem_CannonBall_DisplayName": {
+    "en": "Cannonball",
+    "uk": "Гарматне ядро"
+  },
+  "InventoryItem_CartCover_Description": {
+    "en": "Time and weather ruin most things — except this.",
+    "uk": "Час і негода нищать усе — крім цього."
+  },
+  "InventoryItem_CartCover_DisplayName": {
+    "en": "Cart Cover",
+    "uk": "Чохол для воза"
+  },
+  "InventoryItem_ClarifiedHoney_Description": {
+    "en": "Honey stripped of impurities and dressed for a wealthier table.",
+    "uk": "Мед, очищений від домішок і поданий до багатшого столу."
+  },
+  "InventoryItem_ClarifiedHoney_DisplayName": {
+    "en": "Clarified Honey",
+    "uk": "Освітлений мед"
+  },
+  "InventoryItem_Comb_Description": {
+    "en": "A simple comb can shape more than hair — it shapes perception.",
+    "uk": "Простий гребінь формує не лише волосся — а й враження про Вас."
+  },
+  "InventoryItem_Comb_DisplayName": {
+    "en": "Comb",
+    "uk": "Гребінь"
+  },
+  "InventoryItem_CrystalBall_Description": {
+    "en": "Gaze long enough, and the future will reveal itself — exactly as it was meant to be seen.",
+    "uk": "Дивіться достатньо довго, і майбутнє відкриється — саме таким, яким його призначено побачити."
+  },
+  "InventoryItem_CrystalBall_DisplayName": {
+    "en": "Crystal Ball",
+    "uk": "Кришталева куля"
+  },
+  "InventoryItem_DArtagnansScent_Description": {
+    "en": "The aroma of a legendary swordsman, distilled. Opponents facing you will find their courage — and their aim — suddenly unsteady.",
+    "uk": "Аромат легендарного фехтувальника, дистильований. У Ваших супротивників раптом підводитимуть і мужність, і влучність."
+  },
+  "InventoryItem_DArtagnansScent_DisplayName": {
+    "en": "D'Artagnan's Scent",
+    "uk": "Аромат Д'Артаньяна"
+  },
+  "InventoryItem_DecorativeBust_Description": {
+    "en": "Reminds everyone who they work for.",
+    "uk": "Нагадує всім, на кого вони працюють."
+  },
+  "InventoryItem_DecorativeBust_DisplayName": {
+    "en": "Patron's Bust",
+    "uk": "Бюст покровителя"
+  },
+  "InventoryItem_Diamond_Description": {
+    "en": "In an empire where power bows to wealth, a diamond bends the room around it.",
+    "uk": "В імперії, де влада схиляється перед багатством, діамант підкорює весь простір навколо себе."
+  },
+  "InventoryItem_Diamond_DisplayName": {
+    "en": "Diamond",
+    "uk": "Діамант"
+  },
+  "InventoryItem_DrunkardBrewBeer_Description": {
+    "en": "You'll reek of booze, mumbling like a drunken wretch. Even vultures will keep their distance.",
+    "uk": "Ви смердітимете спиртним і мурмотітимете, як п'яний нещасник. Навіть стерв'ятники триматимуться подалі."
+  },
+  "InventoryItem_DrunkardBrewBeer_DisplayName": {
+    "en": "Drunkard Brew Beer",
+    "uk": "Пиво «П'яничне варево»"
+  },
+  "InventoryItem_EnduranceDrink_Description": {
+    "en": "A strange, bubbling brew that tingles on the tongue, leaving you feeling strangely alert.",
+    "uk": "Дивне, шипуче вариво, що поколює на язику й лишає дивне відчуття бадьорості."
+  },
+  "InventoryItem_EnduranceDrink_DisplayName": {
+    "en": "Endurance Drink",
+    "uk": "Напій витривалості"
+  },
+  "InventoryItem_FaustsElixir_Description": {
+    "en": "What Faust would have killed for: a few precious years beyond his demonic contract. Too late for him, just in time for you.",
+    "uk": "Те, за що Фауст убив би: кілька дорогоцінних років понад демонічну угоду. Йому — запізно, Вам — саме вчасно."
+  },
+  "InventoryItem_FaustsElixir_DisplayName": {
+    "en": "Faust's Elixir",
+    "uk": "Еліксир Фауста"
+  },
+  "InventoryItem_FragrantSalve_Description": {
+    "en": "People trust what doesn't offend their senses.",
+    "uk": "Люди довіряють тому, що не ображає їхніх відчуттів."
+  },
+  "InventoryItem_FragrantSalve_DisplayName": {
+    "en": "Fragrant Salve",
+    "uk": "Ароматна мазь"
+  },
+  "InventoryItem_GoldChain_Description": {
+    "en": "Not subtle, not meant to be.",
+    "uk": "Без натяків, та й не мала ними бути."
+  },
+  "InventoryItem_GoldChain_DisplayName": {
+    "en": "Gold Chain",
+    "uk": "Золотий ланцюг"
+  },
+  "InventoryItem_GreasePot_Description": {
+    "en": "A thick, dark grease. Keeps cart wheels moving smoothly while protecting them from wear.",
+    "uk": "Густе темне мастило. Забезпечує плавний хід коліс воза, захищаючи їх від зношення."
+  },
+  "InventoryItem_GreasePot_DisplayName": {
+    "en": "Grease Jar",
+    "uk": "Глечик мастила"
+  },
+  "InventoryItem_Grindstone_Description": {
+    "en": "Turn dull edges into deadly weapons, keeping your entire arsenal sharp and ready.",
+    "uk": "Перетворює тупі леза на смертоносну зброю, тримаючи весь арсенал гострим і готовим."
+  },
+  "InventoryItem_Grindstone_DisplayName": {
+    "en": "Grindstone",
+    "uk": "Точильний камінь"
+  },
+  "InventoryItem_HandcraftedBible_Description": {
+    "en": "This sacred bible radiates a devotion so pure, even the Pope will be moved by it.",
+    "uk": "Ця священна Біблія випромінює таку чисту побожність, що зворушила б навіть Папу."
+  },
+  "InventoryItem_HandcraftedBible_DisplayName": {
+    "en": "Handcrafted Bible",
+    "uk": "Рукописна Біблія"
+  },
+  "InventoryItem_HandicraftCertificate_Description": {
+    "en": "More than paper — this is a key to unlock the loyalty of your workforce, proving you're a true artisan in their eyes.",
+    "uk": "Більше, ніж папір — ключ до відданості Ваших працівників, доказ того, що Ви справжній майстер в їхніх очах."
+  },
+  "InventoryItem_HandicraftCertificate_DisplayName": {
+    "en": "Writ of Mastery",
+    "uk": "Грамота майстерності"
+  },
+  "InventoryItem_HealingBadge_Description": {
+    "en": "Wounds close. Bones set. The body, reluctant as ever, agrees to continue.",
+    "uk": "Рани загоюються. Кістки зростаються. Тіло, як завжди неохоче, погоджується жити далі."
+  },
+  "InventoryItem_HealingBadge_DisplayName": {
+    "en": "Bandages",
+    "uk": "Бинти"
+  },
+  "InventoryItem_HealingBalm_Description": {
+    "en": "Ancient wisdom in balm form that heals wounds and restores vigor, turning gray hairs black when no one is watching.",
+    "uk": "Древня мудрість у вигляді бальзаму, що гоїть рани й повертає бадьорість, а сиве волосся чорнить, коли ніхто не бачить."
+  },
+  "InventoryItem_HealingBalm_DisplayName": {
+    "en": "Healing Balm",
+    "uk": "Цілющий бальзам"
+  },
+  "InventoryItem_HerbalLiqueur_Description": {
+    "en": "This potent liquor burns going down, yet it banishes even the deadliest illnesses before the empty glass hits the table.",
+    "uk": "Цей міцний напій пече горлянку, проте виганяє навіть найлютіші хвороби, перш ніж спорожніє келих."
+  },
+  "InventoryItem_HerbalLiqueur_DisplayName": {
+    "en": "Herbal Liqueur",
+    "uk": "Трав'яний лікер"
+  },
+  "InventoryItem_HolyRelic_Description": {
+    "en": "A plank from Noah's Ark, a stone from Golgotha, Lazarus' shroud, or a fragment of Moses' tablets.",
+    "uk": "Дошка з Ноєвого ковчега, камінь із Голгофи, плащаниця Лазаря або уламок скрижалей Мойсея."
+  },
+  "InventoryItem_HolyRelic_DisplayName": {
+    "en": "Holy Relic",
+    "uk": "Свята реліквія"
+  },
+  "InventoryItem_HolyRelic_Instruction": {
+    "en": "Open the Construction menu and use the Holy Relic to build a Shrine.",
+    "uk": "Відкрийте меню будівництва й використайте святу реліквію, щоб звести святиню."
+  },
+  "InventoryItem_JewelryChest_Description": {
+    "en": "A sturdy chest that keeps your treasures safe, almost as valuable as the jewels it holds.",
+    "uk": "Міцна скриня, що береже Ваші скарби, — майже така ж цінна, як самі коштовності всередині."
+  },
+  "InventoryItem_JewelryChest_DisplayName": {
+    "en": "Jewelry Chest",
+    "uk": "Скриня для коштовностей"
+  },
+  "InventoryItem_KillerBee_Description": {
+    "en": "Trained in the ancient art of the One-Point Stinging Heart Technique.",
+    "uk": "Навчена стародавньому мистецтву Техніки Серцеразячого Жала в Одну Точку."
+  },
+  "InventoryItem_KillerBee_DisplayName": {
+    "en": "Killer Bee",
+    "uk": "Бджола-вбивця"
+  },
+  "InventoryItem_LeatherDoublet_Description": {
+    "en": "Tailored for those who seek style but are wary of the dangers lurking in the city's streets.",
+    "uk": "Пошитий для тих, хто цінує стиль, але пам'ятає про небезпеки міських вулиць."
+  },
+  "InventoryItem_LeatherDoublet_DisplayName": {
+    "en": "Leather Doublet",
+    "uk": "Шкіряний дублет"
+  },
+  "InventoryItem_LemonGrassOil_Description": {
+    "en": "Proof that even bees can be bribed.",
+    "uk": "Доказ того, що навіть бджіл можна підкупити."
+  },
+  "InventoryItem_LemonGrassOil_DisplayName": {
+    "en": "Lemongrass Oil",
+    "uk": "Олія лемонграсу"
+  },
+  "InventoryItem_LetterFromRome_Description": {
+    "en": "Authentic-looking seals and damning accusations turn trusted faithful into heretics in the eyes that matter most.",
+    "uk": "Достовірні на вигляд печатки та тяжкі звинувачення перетворюють вірних на єретиків в очах тих, чия думка важить найбільше."
+  },
+  "InventoryItem_LetterFromRome_DisplayName": {
+    "en": "Letter from Rome",
+    "uk": "Лист із Рима"
+  },
+  "InventoryItem_LuckyStone_Description": {
+    "en": "Rub it once and suddenly regional officials think you're a lot more charming than you actually are.",
+    "uk": "Потріть один раз — і раптом міські посадовці вважають Вас набагато чарівнішим, ніж Ви є насправді."
+  },
+  "InventoryItem_LuckyStone_DisplayName": {
+    "en": "Lucky Stone",
+    "uk": "Щасливий камінь"
+  },
+  "InventoryItem_LuxuryFood_Description": {
+    "en": "Slow-cooked tender cuts of meat, their juices mingling with fragrant herbs and velvety sauces.",
+    "uk": "Ніжне м'ясо повільного тушкування, чиї соки змішуються з ароматними травами й оксамитовими соусами."
+  },
+  "InventoryItem_LuxuryFood_DisplayName": {
+    "en": "Heroes' Feast",
+    "uk": "Бенкет героїв"
+  },
+  "InventoryItem_MagicHat_Description": {
+    "en": "The oddest things can happen to the wearer of a magic hat...",
+    "uk": "Найдивовижніші речі можуть трапитися з тим, хто носить чарівний капелюх..."
+  },
+  "InventoryItem_MagicHat_DisplayName": {
+    "en": "Magic Hat",
+    "uk": "Чарівний капелюх"
+  },
+  "InventoryItem_MetaphysicalBelt_Description": {
+    "en": "A simple belt, yet once worn, it fills your mind with the certainty that no one can challenge you.",
+    "uk": "Простий пояс, та щойно Ви його вдягнете, Вас сповнює певність, що ніхто не посміє кинути Вам виклик."
+  },
+  "InventoryItem_MetaphysicalBelt_DisplayName": {
+    "en": "Metaphysical Belt",
+    "uk": "Метафізичний пояс"
+  },
+  "InventoryItem_MuskScent_Description": {
+    "en": "One dab behind the ears makes you irresistible. Even the most indifferent admirers fall for your “magnetic personality.”",
+    "uk": "Один дотик за вухом — і Ви невідпорно приваблюєте всіх довкола. Навіть найбайдужіші шанувальники піддаються Вашій «магнетичній особистості»."
+  },
+  "InventoryItem_MuskScent_DisplayName": {
+    "en": "Musk Scent",
+    "uk": "Мускусний аромат"
+  },
+  "InventoryItem_NecromancersRobe_Description": {
+    "en": "Assault becomes self-defense, theft becomes borrowing, and even if you lose, the executioner will aim for a cleaner cut.",
+    "uk": "Напад стає самообороною, крадіжка — позичкою, а навіть якщо Ви програєте, кат постарається рубонути чистіше."
+  },
+  "InventoryItem_NecromancersRobe_DisplayName": {
+    "en": "Penitent's Robe",
+    "uk": "Ряса каянника"
+  },
+  "InventoryItem_NobilityRights_Description": {
+    "en": "A sealed charter issued by the ruling authority, granting its bearer recognition as a member of the noble estate.",
+    "uk": "Скріплена печаткою грамота, видана правлячою владою, що визнає її власника членом дворянського стану."
+  },
+  "InventoryItem_NobilityRights_DisplayName": {
+    "en": "Nobility Rights",
+    "uk": "Дворянські права"
+  },
+  "InventoryItem_NoblemansStaff_Description": {
+    "en": "More than mere walking aid, this elegant staff makes those in power see you as their equal.",
+    "uk": "Більше, ніж просто ціпок для ходьби, — цей елегантний посох змушує можновладців бачити у Вас рівню."
+  },
+  "InventoryItem_NoblemansStaff_DisplayName": {
+    "en": "Nobleman's Staff",
+    "uk": "Дворянський посох"
+  },
+  "InventoryItem_PendulumToInduceHypnosis_Description": {
+    "en": "When shops are closed, a quick swing of this pendulum convinces a merchant to open their store just for you.",
+    "uk": "Коли крамниці зачинені, короткий помах цим маятником переконує торговця відчинити двері саме для Вас."
+  },
+  "InventoryItem_PendulumToInduceHypnosis_DisplayName": {
+    "en": "Hypnotic Pendulum",
+    "uk": "Гіпнотичний маятник"
+  },
+  "InventoryItem_PesticideSpray_Description": {
+    "en": "Invisible barrier against the invisible enemy — disease stands no chance where this formula was sprayed.",
+    "uk": "Незрима перепона проти незримого ворога — там, де розпорошено цю формулу, хвороба не має шансів."
+  },
+  "InventoryItem_PesticideSpray_DisplayName": {
+    "en": "Plague Repellent",
+    "uk": "Засіб від чуми"
+  },
+  "InventoryItem_Pipe_Description": {
+    "en": "Its music grants great power at a cost. The rats were practice. The children of Hamelin were the prize.",
+    "uk": "Її мелодія дарує велику силу, та не задарма. Щури були лише вправою. Діти Гамельна стали справжньою нагородою."
+  },
+  "InventoryItem_Pipe_DisplayName": {
+    "en": "Pipe",
+    "uk": "Сопілка"
+  },
+  "InventoryItem_Poem_Description": {
+    "en": "A delicate poem crafted to speak the words your heart longs to say.",
+    "uk": "Витончений вірш, складений, щоб мовити слова, які так прагне мовити серце."
+  },
+  "InventoryItem_Poem_DisplayName": {
+    "en": "Poem",
+    "uk": "Вірш"
+  },
+  "InventoryItem_PowderOfDarkDecline_Description": {
+    "en": "A subtle dust that clouds combat instincts, causing blades to waver and strikes to falter.",
+    "uk": "Тонкий порошок, що затуманює бойові інстинкти, змушуючи клинки тремтіти, а удари — схибити."
+  },
+  "InventoryItem_PowderOfDarkDecline_DisplayName": {
+    "en": "Powder of Dark Decline",
+    "uk": "Порошок темного занепаду"
+  },
+  "InventoryItem_ProtectiveCross_Description": {
+    "en": "A divine safeguard against both supernatural threats and mortal gossip.",
+    "uk": "Божественний захист і від надприродних загроз, і від людських пліток."
+  },
+  "InventoryItem_ProtectiveCross_DisplayName": {
+    "en": "Protective Cross",
+    "uk": "Захисний хрест"
+  },
+  "InventoryItem_RoyalGambeson_Description": {
+    "en": "A masterwork of luxury and protection, the Royal Gambeson weaves power into every golden stitch.",
+    "uk": "Шедевр розкоші й захисту — Королівський гамбезон вплітає владу в кожен золотий стібок."
+  },
+  "InventoryItem_RoyalGambeson_DisplayName": {
+    "en": "Royal Gambeson",
+    "uk": "Королівський гамбезон"
+  },
+  "InventoryItem_RoyalJelly_Description": {
+    "en": "Fit for a queen — and excellent for a struggling hive.",
+    "uk": "Годиться для королеви — і чудово підходить для ослаблого вулика."
+  },
+  "InventoryItem_RoyalJelly_DisplayName": {
+    "en": "Royal Jelly",
+    "uk": "Маточине молочко"
+  },
+  "InventoryItem_SacredScent_Description": {
+    "en": "The aura of piety in a bottle — one drop transforms any criminal into a saint in the eyes of judges.",
+    "uk": "Аура побожності у флаконі — крапля перетворює будь-якого злочинця на святого в очах суддів."
+  },
+  "InventoryItem_SacredScent_DisplayName": {
+    "en": "Sacred Scent",
+    "uk": "Священний аромат"
+  },
+  "InventoryItem_SashThreadedWithGold_Description": {
+    "en": "An argument you wear.",
+    "uk": "Аргумент, який Ви носите."
+  },
+  "InventoryItem_SashThreadedWithGold_DisplayName": {
+    "en": "Gold-Threaded Sash",
+    "uk": "Пояс, гаптований золотом"
+  },
+  "InventoryItem_SilverChain_Description": {
+    "en": "A striking silver chain that draws admiration — and perhaps a hint of envy — for its unmistakable presence.",
+    "uk": "Разючий срібний ланцюг, що викликає захоплення — і, можливо, дрібку заздрощів — своєю неповторністю."
+  },
+  "InventoryItem_SilverChain_DisplayName": {
+    "en": "Silver Chain",
+    "uk": "Срібний ланцюг"
+  },
+  "InventoryItem_SilverRing_Description": {
+    "en": "In city halls, a polished ring says more than a polished speech.",
+    "uk": "У ратуші начищений перстень говорить більше, ніж вилощена промова."
+  },
+  "InventoryItem_SilverRing_DisplayName": {
+    "en": "Silver Ring",
+    "uk": "Срібний перстень"
+  },
+  "InventoryItem_SkillBookII_Description": {
+    "en": "The sequel delves into techniques once deemed “too advanced for beginners.” The author hasn't been seen since the manuscript was delivered.",
+    "uk": "Продовження заглиблюється в техніки, які колись вважалися «надто складними для початківців». Автора не бачили відтоді, як рукопис було передано."
+  },
+  "InventoryItem_SkillBookII_DisplayName": {
+    "en": "Skill Book II",
+    "uk": "Підручник навичок II"
+  },
+  "InventoryItem_SkillBookI_Description": {
+    "en": "Hidden knowledge revealed. One reading and you'll discover talents you never knew were dormant inside you.",
+    "uk": "Приховані знання відкриваються. Одне читання — і Ви віднайдете таланти, про які й не здогадувалися."
+  },
+  "InventoryItem_SkillBookI_DisplayName": {
+    "en": "Skill Book I",
+    "uk": "Підручник навичок I"
+  },
+  "InventoryItem_SkullCandle_Description": {
+    "en": "A candle of eerie flame, burning itself — and half your misdeeds — from official records and witnesses' memory.",
+    "uk": "Свічка з моторошним полум'ям, що спалює саму себе — а разом і половину Ваших прогріхів — з офіційних записів і пам'яті свідків."
+  },
+  "InventoryItem_SkullCandle_DisplayName": {
+    "en": "Skull Candle",
+    "uk": "Свічка-череп"
+  },
+  "InventoryItem_Skullfire_Description": {
+    "en": "Slip a few drops into the drink of someone you hold disdain for, and soon their head will throb with smoldering pain.",
+    "uk": "Додайте кілька крапель у напій особи, яку зневажаєте, — і незабаром її голову охопить тлілий біль."
+  },
+  "InventoryItem_Skullfire_DisplayName": {
+    "en": "Skullfire",
+    "uk": "Черепний вогонь"
+  },
+  "InventoryItem_SlateBoard_Description": {
+    "en": "For when you want your kids to debate with wit, even if it's in chalk.",
+    "uk": "Для тих, хто хоче, щоб їхні діти дотепно сперечалися, навіть якщо крейдою."
+  },
+  "InventoryItem_SlateBoard_DisplayName": {
+    "en": "Slate Board",
+    "uk": "Грифельна дошка"
+  },
+  "InventoryItem_SleepingBeautySpindle_Description": {
+    "en": "One prick puts a rival to sleep at the worst moment, costing them the election. The snoring is a bonus.",
+    "uk": "Один укол — і суперник засинає в найгірший момент і програє вибори. Хропіння — приємний бонус."
+  },
+  "InventoryItem_SleepingBeautySpindle_DisplayName": {
+    "en": "Slumber Spindle",
+    "uk": "Веретено дрімоти"
+  },
+  "InventoryItem_SoapOfDisgust_Description": {
+    "en": "A stench so offensive, spies will choose failure over proximity. And so will everyone else.",
+    "uk": "Такий огидний сморід, що шпигуни радше зазнають невдачі, ніж наблизяться. Як і всі інші."
+  },
+  "InventoryItem_SoapOfDisgust_DisplayName": {
+    "en": "Soap of Disgust",
+    "uk": "Мило огиди"
+  },
+  "InventoryItem_SoilSolution_Description": {
+    "en": "Feed the soil and watch your workers gather more of everything the land provides.",
+    "uk": "Підживлюйте землю — і побачите, як Ваші працівники збирають ще більше з усього, що дає природа."
+  },
+  "InventoryItem_SoilSolution_DisplayName": {
+    "en": "Soil Solution",
+    "uk": "Ґрунтовий розчин"
+  },
+  "InventoryItem_SourcerersDocumentII_Description": {
+    "en": "Twice the accusations, twice the headache. Your enemy won't just be defending themselves in one court, but two.",
+    "uk": "Удвічі більше звинувачень — удвічі більше клопоту. Ваш ворог захищатиметься не в одному суді, а в двох."
+  },
+  "InventoryItem_SourcerersDocumentII_DisplayName": {
+    "en": "Sorcerer's Document II",
+    "uk": "Чаклунський документ II"
+  },
+  "InventoryItem_SourcerersDocumentI_Description": {
+    "en": "Your enemy's worst nightmare — evidence. Every spy in the city suddenly remembers seeing your rival at a crime scene they never visited.",
+    "uk": "Найгірший кошмар Вашого ворога — докази. Раптом кожен шпигун у місті пригадує, що бачив Вашого суперника на місці злочину, де той ніколи не був."
+  },
+  "InventoryItem_SourcerersDocumentI_DisplayName": {
+    "en": "Sorcerer's Document I",
+    "uk": "Чаклунський документ I"
+  },
+  "InventoryItem_SpinningTop_Description": {
+    "en": "A child's toy, a craftsman's first lesson in precision.",
+    "uk": "Дитяча забавка — перший урок точності для майбутнього майстра."
+  },
+  "InventoryItem_SpinningTop_DisplayName": {
+    "en": "Spinning Top",
+    "uk": "Дзиґа"
+  },
+  "InventoryItem_StinkBomb_Description": {
+    "en": "Unleashes a stench so foul even rats flee, emptying your rival's shop in seconds. Remember to act surprised when it “accidentally” drops.",
+    "uk": "Вивільняє такий бридкий сморід, що навіть щури тікають, спорожняючи крамницю суперника за лічені секунди. Не забудьте вдати здивування, коли вона «випадково» впаде."
+  },
+  "InventoryItem_StinkBomb_DisplayName": {
+    "en": "Stink Bomb",
+    "uk": "Смердюча бомба"
+  },
+  "InventoryItem_StoneChest_Description": {
+    "en": "Too heavy to steal, but don't forget to lock it.",
+    "uk": "Занадто важка, щоб її вкрасти, але не забудьте замкнути."
+  },
+  "InventoryItem_StoneChest_DisplayName": {
+    "en": "Stone Chest",
+    "uk": "Кам'яна скриня"
+  },
+  "InventoryItem_StrongBeer_Description": {
+    "en": "Offered with a smile to hide its true intent, this potent ale turns a “friend” into a stumbling fool with dulled reflexes.",
+    "uk": "Піднесене з усмішкою, щоб приховати справжній намір, це міцне пиво перетворює «друга» на п'яного дурня з притупленими рефлексами."
+  },
+  "InventoryItem_StrongBeer_DisplayName": {
+    "en": "Strong Beer",
+    "uk": "Міцне пиво"
+  },
+  "InventoryItem_TiradeOfHatred_Description": {
+    "en": "Sign this distasteful letter with someone else's name, and watch as it sets the stage for mistrust and betrayal among them.",
+    "uk": "Підпишіть цей огидний лист чужим ім'ям — і подивіться, як він сіє недовіру й зраду між ними."
+  },
+  "InventoryItem_TiradeOfHatred_DisplayName": {
+    "en": "Tirade of Hatred",
+    "uk": "Тирада ненависті"
+  },
+  "InventoryItem_ToadSlime_Description": {
+    "en": "Placed on the doorknob, unnoticed at first, but soon its consequences will stick.",
+    "uk": "Нанесена на дверну ручку, спершу непомітна, та невдовзі її наслідки таки прилипнуть."
+  },
+  "InventoryItem_ToadSlime_DisplayName": {
+    "en": "Toad Slime",
+    "uk": "Жаб'яча слизь"
+  },
+  "InventoryItem_ToySword_Description": {
+    "en": "A child's first step toward knighthood.",
+    "uk": "Перший крок дитини на шляху до лицарства."
+  },
+  "InventoryItem_ToySword_DisplayName": {
+    "en": "Toy Sword",
+    "uk": "Іграшковий меч"
+  },
+  "InventoryItem_Tunic_Description": {
+    "en": "Worn close to the skin, it absorbs the impact of what's to come.",
+    "uk": "Носиться близько до тіла й пом'якшує удари, що чекають попереду."
+  },
+  "InventoryItem_Tunic_DisplayName": {
+    "en": "Tunic",
+    "uk": "Туніка"
+  },
+  "InventoryItem_VoodooDoll_Description": {
+    "en": "Made with care, used with caution — this effigy weaves unseen threads between you and those it represents.",
+    "uk": "Виготовлена з дбайливістю, застосована з обережністю — ця лялька плете невидимі нитки між Вами й тим, кого вона зображує."
+  },
+  "InventoryItem_VoodooDoll_DisplayName": {
+    "en": "Voodoo Doll",
+    "uk": "Лялька вуду"
+  },
+  "InventoryItem_WalkingStick_Description": {
+    "en": "Long stretches of road are easier to traverse with a walking stick in hand.",
+    "uk": "Довгі відрізки шляху легше долати з ціпком у руці."
+  },
+  "InventoryItem_WalkingStick_DisplayName": {
+    "en": "Walking Stick",
+    "uk": "Ціпок"
+  },
+  "InventoryItem_WarmSocks_Description": {
+    "en": "For those who can't afford cold feet — literally or figuratively — these socks are your first step toward winter labor readiness.",
+    "uk": "Для тих, хто не може дозволити собі холодні ноги — буквально чи фігурально, — ці шкарпетки стануть першим кроком до готовності до зимової праці."
+  },
+  "InventoryItem_WarmSocks_DisplayName": {
+    "en": "Warm Socks",
+    "uk": "Теплі шкарпетки"
+  },
+  "InventoryItem_WeakBeer_Description": {
+    "en": "A brew so mild, you'll hardly notice... until you're ordering a second round.",
+    "uk": "Такий м'який напій, що його майже не відчуваєш... поки не замовиш другу порцію."
+  },
+  "InventoryItem_WeakBeer_DisplayName": {
+    "en": "Weak Beer",
+    "uk": "Слабке пиво"
+  },
+  "InventoryItem_WholegrainMeal_Description": {
+    "en": "Not the tastiest meal, but it's not bad when washed down with beer.",
+    "uk": "Не найсмачніша страва, але непогана, якщо запити пивом."
+  },
+  "InventoryItem_WholegrainMeal_DisplayName": {
+    "en": "Wholegrain Meal",
+    "uk": "Цільнозернова каша"
+  },
+  "InventoryItem_WillowRod_Description": {
+    "en": "When your workers drag their feet, a willow rod offers a persuasive push to finish the job.",
+    "uk": "Коли Ваші працівники ліниво тягнуть час, вербова лозина дає переконливий поштовх, щоб довести справу до кінця."
+  },
+  "InventoryItem_WillowRod_DisplayName": {
+    "en": "Willow Rod",
+    "uk": "Вербова лозина"
+  },
+  "InventoryItem_WoollenCloak_Description": {
+    "en": "Turns out, wool is cheaper than a funeral.",
+    "uk": "Виявляється, вовна дешевша за похорон."
+  },
+  "InventoryItem_WoollenCloak_DisplayName": {
+    "en": "Woollen Cloak",
+    "uk": "Вовняний плащ"
+  },
+  "Item_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Item_DisplayName": {
+    "en": "Item",
+    "uk": "Предмет"
+  },
+  "Item_DisplayName_plural": {
+    "en": "Items",
+    "uk": "Предмети"
+  },
+  "Law_UseItemRegulatedByLaw": {
+    "en": "The use of this item is regulated by the law \"{lawname}.\"",
+    "uk": "Використання цього предмета регулюється законом «{lawname}»."
+  },
+  "MoveItem_FromInventory_Warning": {
+    "en": "Once placed in your Personal Inventory, an item cannot be returned to the Marketplace, Cart, Business Storage, or Storefront.",
+    "uk": "Предмет, покладений до Вашого особистого інвентарю, не можна повернути на ринок, у віз, до комори підприємства чи крамниці."
+  },
+  "ObtainedVia_Label": {
+    "en": "Obtained via",
+    "uk": "Отримано через"
+  },
+  "OpenItemContextMenu": {
+    "en": "Open Item Context Menu",
+    "uk": "Відкрити контекстне меню предмета"
+  },
+  "PickItem": {
+    "en": "Pick Item",
+    "uk": "Взяти предмет"
+  },
+  "PickItem_OneByOne": {
+    "en": "Pick Item One By One",
+    "uk": "Брати предмети по одному"
+  },
+  "PickItem_Stack": {
+    "en": "Pick Stack",
+    "uk": "Взяти стос"
+  },
+  "PlaceItem": {
+    "en": "Place Item",
+    "uk": "Покласти предмет"
+  },
+  "Potion_Antidote_Description": {
+    "en": "Tastes worse than the poison, works better than most prayers.",
+    "uk": "На смак гірше за отруту, діє краще за більшість молитов."
+  },
+  "Potion_Antidote_DisplayName": {
+    "en": "Antidote",
+    "uk": "Протиотрута"
+  },
+  "Potion_DraughtOfThe7thSense_Description": {
+    "en": "Feels like heaven signed a coupon for your sins.",
+    "uk": "Відчуття, наче небеса підписали купон на Ваші гріхи."
+  },
+  "Potion_DraughtOfThe7thSense_DisplayName": {
+    "en": "Draught of the 7th Sense",
+    "uk": "Напій сьомого чуття"
+  },
+  "Potion_DraughtOfZest_Description": {
+    "en": "Poured over weary hands, it turns drudgery into drive and toil into triumph.",
+    "uk": "Полийте ним стомлені руки — і виснаження обернеться на завзяття, а праця стане тріумфом."
+  },
+  "Potion_DraughtOfZest_DisplayName": {
+    "en": "Draught of Zest",
+    "uk": "Напій завзяття"
+  },
+  "Potion_DreamPoison_Description": {
+    "en": "The victim sleeps deep, their strength stolen by dreams they cannot escape.",
+    "uk": "Жертва поринає в глибокий сон, і сили її крадуть сновидіння, від яких не втекти."
+  },
+  "Potion_DreamPoison_DisplayName": {
+    "en": "Dream Poison",
+    "uk": "Отрута сновидінь"
+  },
+  "Potion_FragranceOfBlindJealousy_Description": {
+    "en": "A single breath twists admiration into envy, and envy into ruinous spite.",
+    "uk": "Один подих — і захоплення обертається заздрістю, а заздрість — згубною злістю."
+  },
+  "Potion_FragranceOfBlindJealousy_DisplayName": {
+    "en": "Fragrance of Blind Jealousy",
+    "uk": "Аромат сліпої заздрості"
+  },
+  "Potion_FragranceOfComplaisance_Description": {
+    "en": "One sniff, and suddenly “yes” feels like the only word in the language.",
+    "uk": "Один подих — і раптом «так» здається єдиним словом мови."
+  },
+  "Potion_FragranceOfComplaisance_DisplayName": {
+    "en": "Fragrance of Complaisance",
+    "uk": "Аромат поступливості"
+  },
+  "Potion_FragranceOfManipulation_Description": {
+    "en": "A sly aroma that shields from schemes and even turns plots back on their makers.",
+    "uk": "Хитрий аромат, що захищає від інтриг і навіть повертає змови проти їхніх творців."
+  },
+  "Potion_FragranceOfManipulation_DisplayName": {
+    "en": "Fragrance of Manipulation",
+    "uk": "Аромат маніпуляції"
+  },
+  "Potion_FumeOfBerserkRage_Description": {
+    "en": "Breath it in, and reason flees — leaving only the frenzy of broken bodies.",
+    "uk": "Вдихніть — і розум тікає геть, лишаючи саму лиш лють понівечених тіл."
+  },
+  "Potion_FumeOfBerserkRage_DisplayName": {
+    "en": "Fume of Berserk Rage",
+    "uk": "Випар шаленої люті"
+  },
+  "Potion_FumeOfDecay_Description": {
+    "en": "A foul vapor that gnaws through storerooms, leaving rot where wealth once stood.",
+    "uk": "Смердючий випар, що прогризає комори, лишаючи гниль там, де раніше були статки."
+  },
+  "Potion_FumeOfDecay_DisplayName": {
+    "en": "Fume of Decay",
+    "uk": "Випар занепаду"
+  },
+  "Potion_FumeOfForgetfulness_Description": {
+    "en": "One whiff and skill itself begins to wither, as if the body forgets what it once knew.",
+    "uk": "Один подих — і самі навички починають в'янути, наче тіло забуває те, що колись уміло."
+  },
+  "Potion_FumeOfForgetfulness_DisplayName": {
+    "en": "Fume of Forgetfulness",
+    "uk": "Випар забудькуватості"
+  },
+  "Potion_MagicalInk_Description": {
+    "en": "Write it with this, and even nonsense sounds profound.",
+    "uk": "Пишіть цим — і навіть дурниця звучатиме глибокодумно."
+  },
+  "Potion_MagicalInk_DisplayName": {
+    "en": "Magical Ink",
+    "uk": "Магічне чорнило"
+  },
+  "Potion_ParalysingPoison_Description": {
+    "en": "It creeps through the veins until even lifting a hand feels like moving stone.",
+    "uk": "Воно повзе по жилах, аж доки навіть підняти руку не здається важче за камінь."
+  },
+  "Potion_ParalysingPoison_DisplayName": {
+    "en": "Paralysing Poison",
+    "uk": "Отрута паралічу"
+  },
+  "Potion_PerfumeOfRomance_Description": {
+    "en": "Fragrant, intoxicating — hearts warm, reason chills. Few resist, fewer should.",
+    "uk": "Пахуче, п'янке — серця палають, розум холоне. Мало хто встоїть, і не варто."
+  },
+  "Potion_PerfumeOfRomance_DisplayName": {
+    "en": "Perfume of Romance",
+    "uk": "Парфум романтики"
+  },
+  "Potion_PhilosophersStone_Description": {
+    "en": "The great transmuter's prize. Its touch wards off sickness, steel, and even time itself.",
+    "uk": "Здобуток великого перетворювача. Його дотик відганяє хворобу, сталь і навіть сам час."
+  },
+  "Potion_PhilosophersStone_DisplayName": {
+    "en": "Philosopher's Stone",
+    "uk": "Філософський камінь"
+  },
+  "Potion_PoisonOfAnxiety_Description": {
+    "en": "It crawls under the skin, draining vigor and binding the victim tighter than chains.",
+    "uk": "Воно повзе під шкірою, виснажуючи сили й зв'язуючи жертву міцніше за кайдани."
+  },
+  "Potion_PoisonOfAnxiety_DisplayName": {
+    "en": "Poison of Anxiety",
+    "uk": "Отрута тривоги"
+  },
+  "Potion_SleepingDraught_Description": {
+    "en": "The fastest way to miss a meeting. Or a year.",
+    "uk": "Найшвидший спосіб пропустити зустріч. Або й рік."
+  },
+  "Potion_SleepingDraught_DisplayName": {
+    "en": "Sleeping Draught",
+    "uk": "Сонний напій"
+  },
+  "Potion_TinctureOfOblivion_Description": {
+    "en": "A sip, and even your worst enemy forgets why they hate you.",
+    "uk": "Ковток — і навіть найлютіший ворог забуває, за що Вас ненавидить."
+  },
+  "Potion_TinctureOfOblivion_DisplayName": {
+    "en": "Tincture of Oblivion",
+    "uk": "Настоянка забуття"
+  },
+  "Potion_WeaponPoison_Description": {
+    "en": "Because sometimes stabbing once just isn't enough.",
+    "uk": "Бо іноді одного удару просто замало."
+  },
+  "Potion_WeaponPoison_DisplayName": {
+    "en": "Weapon Poison",
+    "uk": "Отрута для зброї"
+  },
+  "Price_BuyingPrice_DisplayName": {
+    "en": "Buying Price",
+    "uk": "Ціна купівлі"
+  },
+  "Price_SellingPrice_DisplayName": {
+    "en": "Selling Price",
+    "uk": "Ціна продажу"
+  },
+  "ProducedBy_DisplayName": {
+    "en": "Produced by",
+    "uk": "Виробляється"
+  },
+  "RawMaterial_Barley_Description": {
+    "en": "A common grain used in both food and brewing.",
+    "uk": "Поширене зерно, яке використовують і в їжі, і у пивоварінні."
+  },
+  "RawMaterial_Barley_DisplayName": {
+    "en": "Barley",
+    "uk": "Ячмінь"
+  },
+  "RawMaterial_BatsBlood_Description": {
+    "en": "A dark fluid, rumored to hold unnatural properties.",
+    "uk": "Темна рідина, якій приписують неприродні властивості."
+  },
+  "RawMaterial_BatsBlood_DisplayName": {
+    "en": "Bat's Blood",
+    "uk": "Кров кажана"
+  },
+  "RawMaterial_BeechwoodBoard_Description": {
+    "en": "A craftsman's dream — carves like butter, but don't expect it to outlive you.",
+    "uk": "Мрія майстра — ріжеться, як масло, але не сподівайтеся, що переживе Вас."
+  },
+  "RawMaterial_BeechwoodBoard_DisplayName": {
+    "en": "Beechwood Board",
+    "uk": "Дошка з буку"
+  },
+  "RawMaterial_Beeswax_Descrition": {
+    "en": "Not the honey. The other reason bees are worth robbing.",
+    "uk": "Не мед. Ще одна причина, чому варто грабувати бджіл."
+  },
+  "RawMaterial_Beeswax_DisplayName": {
+    "en": "Beeswax",
+    "uk": "Бджолиний віск"
+  },
+  "RawMaterial_Bones_Description": {
+    "en": "Silent remnants of the past, used in rituals and crafts.",
+    "uk": "Мовчазні рештки минулого, що використовуються в ритуалах і ремеслах."
+  },
+  "RawMaterial_Bones_DisplayName": {
+    "en": "Bones",
+    "uk": "Кістки"
+  },
+  "RawMaterial_Brick_Description": {
+    "en": "Fired clay block, the foundation of almost every city ever built.",
+    "uk": "Обпалений глиняний блок — основа майже кожного збудованого міста."
+  },
+  "RawMaterial_Brick_DisplayName": {
+    "en": "Brick",
+    "uk": "Цегла"
+  },
+  "RawMaterial_ContaminatedHoney_Descrition": {
+    "en": "Something has gone terribly wrong with this honey. Probably on purpose.",
+    "uk": "З цим медом сталося щось жахливе. Певно, навмисно."
+  },
+  "RawMaterial_ContaminatedHoney_DisplayName": {
+    "en": "Tainted Honey",
+    "uk": "Зіпсований мед"
+  },
+  "RawMaterial_DeadlyNightshade_Description": {
+    "en": "Potent botanical that causes hallucinations in small doses, death in larger ones.",
+    "uk": "Потужна рослина, що спричиняє галюцинації в малих дозах і смерть у великих."
+  },
+  "RawMaterial_DeadlyNightshade_DisplayName": {
+    "en": "Deadly Nightshade",
+    "uk": "Красавка"
+  },
+  "RawMaterial_Flax_Description": {
+    "en": "Fibrous plant processed into linen for clothing.",
+    "uk": "Волокниста рослина, з якої виробляють лляну тканину для одягу."
+  },
+  "RawMaterial_Flax_DisplayName": {
+    "en": "Flax",
+    "uk": "Льон"
+  },
+  "RawMaterial_Gold_Description": {
+    "en": "A solid bar of pure gold.",
+    "uk": "Суцільний зливок чистого золота."
+  },
+  "RawMaterial_Gold_DisplayName": {
+    "en": "Gold Ingot",
+    "uk": "Золотий зливок"
+  },
+  "RawMaterial_GraniteBlock_Description": {
+    "en": "Only granite blocks can provide a foundation as strong as stone.",
+    "uk": "Лише гранітні блоки можуть дати фундамент, міцний, як сам камінь."
+  },
+  "RawMaterial_GraniteBlock_DisplayName": {
+    "en": "Granite Block",
+    "uk": "Гранітний блок"
+  },
+  "RawMaterial_Hare_Description": {
+    "en": "Swift forest creature valued for both meat and fur.",
+    "uk": "Прудка лісова тваринка, цінна і м'ясом, і хутром."
+  },
+  "RawMaterial_Hare_DisplayName": {
+    "en": "Hare",
+    "uk": "Заєць"
+  },
+  "RawMaterial_Honey_Descrition": {
+    "en": "Sweet, sticky, and worth fighting bees for.",
+    "uk": "Солодкий, липкий і вартий кожного бджолиного укусу."
+  },
+  "RawMaterial_Honey_DisplayName": {
+    "en": "Honey",
+    "uk": "Мед"
+  },
+  "RawMaterial_Iron_Description": {
+    "en": "A solid, standardized chunk of iron. ",
+    "uk": "Суцільний, стандартизований шматок заліза."
+  },
+  "RawMaterial_Iron_DisplayName": {
+    "en": "Iron Ingot",
+    "uk": "Залізний зливок"
+  },
+  "RawMaterial_Jasmin_Description": {
+    "en": "Sweet-scented blossoms that release their strongest aroma at night.",
+    "uk": "Солодкопахучі квіти, що найсильніше пахнуть уночі."
+  },
+  "RawMaterial_Jasmin_DisplayName": {
+    "en": "Jasmin",
+    "uk": "Жасмин"
+  },
+  "RawMaterial_Lavender_Description": {
+    "en": "Purple herb known for its calming properties and clean scent.",
+    "uk": "Пурпурова трава, відома заспокійливими властивостями й чистим ароматом."
+  },
+  "RawMaterial_Lavender_DisplayName": {
+    "en": "Lavender",
+    "uk": "Лаванда"
+  },
+  "RawMaterial_Mandragora_Description": {
+    "en": "Human-shaped root believed to possess magical properties.",
+    "uk": "Корінь у формі людини, якому приписують магічні властивості."
+  },
+  "RawMaterial_Mandragora_DisplayName": {
+    "en": "Mandragora",
+    "uk": "Мандрагора"
+  },
+  "RawMaterial_Musk_Description": {
+    "en": "A substance with an alluring, earthy fragrance, extracted in ways best left unsaid.",
+    "uk": "Речовина зі спокусливим, землистим ароматом, здобута способом, про який краще промовчати."
+  },
+  "RawMaterial_Musk_DisplayName": {
+    "en": "Musk",
+    "uk": "Мускус"
+  },
+  "RawMaterial_OakwoodBoard_Description": {
+    "en": "Oak doesn't bend — it waits for you to break.",
+    "uk": "Дуб не гнеться — він чекає, доки зламаєтесь Ви."
+  },
+  "RawMaterial_OakwoodBoard_DisplayName": {
+    "en": "Oakwood Board",
+    "uk": "Дошка з дуба"
+  },
+  "RawMaterial_PinewoodBoard_Description": {
+    "en": "A beginner-friendly wood, easy to shape and tough to ruin.",
+    "uk": "Деревина для новачків — легко обробляти й важко зіпсувати."
+  },
+  "RawMaterial_PinewoodBoard_DisplayName": {
+    "en": "Pinewood Board",
+    "uk": "Соснова дошка"
+  },
+  "RawMaterial_PreciousStone_Description": {
+    "en": "A variety of precious stones, but not enough to recreate the Imperial Crown.",
+    "uk": "Різноманітні коштовні камені, але їх не вистачить, щоб відтворити Імперську корону."
+  },
+  "RawMaterial_PreciousStone_DisplayName": {
+    "en": "Precious Stone",
+    "uk": "Коштовний камінь"
+  },
+  "RawMaterial_RowanBerry_Description": {
+    "en": "Its red berries were said to turn aside will-o'-the-wisps.",
+    "uk": "Кажуть, її червоні ягоди відганяють блудні вогники."
+  },
+  "RawMaterial_RowanBerry_DisplayName": {
+    "en": "Rowan Berry",
+    "uk": "Ягода горобини"
+  },
+  "RawMaterial_Rye_Description": {
+    "en": "A sturdy grain, perfect for bread — solid or liquid.",
+    "uk": "Витривале зерно, ідеальне для хліба — твердого чи рідкого."
+  },
+  "RawMaterial_Rye_DisplayName": {
+    "en": "Rye",
+    "uk": "Жито"
+  },
+  "RawMaterial_Shroud_Description": {
+    "en": "The last outfit you'll ever need.",
+    "uk": "Останній одяг, що Вам колись знадобиться."
+  },
+  "RawMaterial_Shroud_DisplayName": {
+    "en": "Shroud",
+    "uk": "Саван"
+  },
+  "RawMaterial_Silver_Description": {
+    "en": "Precious metal brick, second only to gold in value.",
+    "uk": "Брусок дорогоцінного металу, що поступається цінністю лише золоту."
+  },
+  "RawMaterial_Silver_DisplayName": {
+    "en": "Silver Ingot",
+    "uk": "Срібний зливок"
+  },
+  "RawMaterial_Skull_Description": {
+    "en": "The remaining bone structure that once protected a brain.",
+    "uk": "Кісткова структура, що колись захищала мозок."
+  },
+  "RawMaterial_Skull_DisplayName": {
+    "en": "Skull",
+    "uk": "Череп"
+  },
+  "RawMaterial_SlateTile_Description": {
+    "en": "Durable and sturdy tile for roofs and floors.",
+    "uk": "Міцна й довговічна плитка для дахів і підлог."
+  },
+  "RawMaterial_SlateTile_DisplayName": {
+    "en": "Slate Tile",
+    "uk": "Шиферна плитка"
+  },
+  "RawMaterial_SpidersLegs_Description": {
+    "en": "Eight segmented limbs plucked from the stealthiest of hunters.",
+    "uk": "Вісім членистих кінцівок, вирваних у найпотайнішого з мисливців."
+  },
+  "RawMaterial_SpidersLegs_DisplayName": {
+    "en": "Spider's Legs",
+    "uk": "Павучі лапки"
+  },
+  "RawMaterial_ToadsEyes_Description": {
+    "en": "Bulging orbs harvested from common amphibians.",
+    "uk": "Опуклі кульки очей, здобуті у звичайних земноводних."
+  },
+  "RawMaterial_ToadsEyes_DisplayName": {
+    "en": "Toad's Eyes",
+    "uk": "Жаб'ячі очі"
+  },
+  "RawMaterial_VegetableDye_Description": {
+    "en": "Natural coloring extracted from plants and roots.",
+    "uk": "Природний барвник, здобутий із рослин і коренів."
+  },
+  "RawMaterial_VegetableDye_DisplayName": {
+    "en": "Vegetable Dye",
+    "uk": "Рослинний барвник"
+  },
+  "RawMaterial_WildRose_Description": {
+    "en": "Legends say that wild roses grow where the blood of saints or holy knights was spilled.",
+    "uk": "Легенди кажуть, дикі троянди ростуть там, де пролилася кров святих чи праведних лицарів."
+  },
+  "RawMaterial_WildRose_DisplayName": {
+    "en": "Wild Rose",
+    "uk": "Дика троянда"
+  },
+  "RawMaterial_WillowWood_Description": {
+    "en": "Flexible timber harvested from trees that grow near water.",
+    "uk": "Гнучка деревина, здобута з дерев, що ростуть біля води."
+  },
+  "RawMaterial_WillowWood_DisplayName": {
+    "en": "Willow Wood",
+    "uk": "Вербова деревина"
+  },
+  "RawMaterial_Wool_Description": {
+    "en": "It warms. It itches.",
+    "uk": "Вона гріє. Вона колеться."
+  },
+  "RawMaterial_Wool_DisplayName": {
+    "en": "Wool",
+    "uk": "Вовна"
+  },
+  "Resource_Clay_Description": {
+    "en": "Malleable earth, typically used for making bricks and pottery.",
+    "uk": "Пластична земля, з якої зазвичай виготовляють цеглу та кераміку."
+  },
+  "Resource_Clay_DisplayName": {
+    "en": "Clay",
+    "uk": "Глина"
+  },
+  "Resource_GoldOre_Description": {
+    "en": "Unprocessed stone with gold waiting to be extracted.",
+    "uk": "Необроблений камінь із золотом, яке ще треба видобути."
+  },
+  "Resource_GoldOre_DisplayName": {
+    "en": "Gold Ore",
+    "uk": "Золота руда"
+  },
+  "Resource_GraniteUnhewn_Description": {
+    "en": "Big, heavy, and stubborn — like your uncle after two ales.",
+    "uk": "Великий, важкий і впертий — як Ваш дядько після двох кухлів пива."
+  },
+  "Resource_GraniteUnhewn_DisplayName": {
+    "en": "Granite Unhewn",
+    "uk": "Необтесаний граніт"
+  },
+  "Resource_IronOre_Description": {
+    "en": "Reddish stone that yields workable iron when properly smelted.",
+    "uk": "Червонуватий камінь, що дає придатне до обробки залізо після плавлення."
+  },
+  "Resource_IronOre_DisplayName": {
+    "en": "Iron Ore",
+    "uk": "Залізна руда"
+  },
+  "Resource_MeterOfBeechwood_Description": {
+    "en": "Pale, smooth timber.",
+    "uk": "Світла, гладка деревина."
+  },
+  "Resource_MeterOfBeechwood_DisplayName": {
+    "en": "Meter of Beechwood",
+    "uk": "Стовбур бука"
+  },
+  "Resource_MeterOfOakwood_Description": {
+    "en": "Dense, dark timber.",
+    "uk": "Щільна, темна деревина."
+  },
+  "Resource_MeterOfOakwood_DisplayName": {
+    "en": "Meter of Oakwood",
+    "uk": "Стовбур дуба"
+  },
+  "Resource_MeterOfPinewood_Description": {
+    "en": "Light, fragrant timber.",
+    "uk": "Легка, ароматна деревина."
+  },
+  "Resource_MeterOfPinewood_DisplayName": {
+    "en": "Meter of Pinewood",
+    "uk": "Стовбур сосни"
+  },
+  "Resource_RoughPreciousStone_Description": {
+    "en": "A dull, colorful rock that can be cut and polished to real gems.",
+    "uk": "Тьмяний, барвистий камінь, який можна огранити й відполірувати до справжніх коштовностей."
+  },
+  "Resource_RoughPreciousStone_DisplayName": {
+    "en": "Rough Precious Stone",
+    "uk": "Необроблений коштовний камінь"
+  },
+  "Resource_SilverOre_Description": {
+    "en": "Pale-veined stone that catches the light, like a fallen shard of the moon.",
+    "uk": "Блідожильний камінь, що вловлює світло, наче уламок місяця."
+  },
+  "Resource_SilverOre_DisplayName": {
+    "en": "Silver Ore",
+    "uk": "Срібна руда"
+  },
+  "Resource_SlateUnhewn_Description": {
+    "en": "Unprocessed rock material, waiting to be transformed into roofing or flooring.",
+    "uk": "Необроблений камінь, з якого можна виготовити покрівлю чи підлогу."
+  },
+  "Resource_SlateUnhewn_DisplayName": {
+    "en": "Slate Unhewn",
+    "uk": "Необроблений сланець"
+  },
+  "Type_AllItems_DisplayName": {
+    "en": "All Items",
+    "uk": "Усі предмети"
+  },
+  "Type_AromasAndHerbs_DisplayName": {
+    "en": "Aromas & Herbs",
+    "uk": "Аромати й трави"
+  },
+  "Type_Books_DisplayName": {
+    "en": "Books",
+    "uk": "Книги"
+  },
+  "Type_FinishedProduct_Book_Description": {
+    "en": "Knowledge is rarely dangerous — until it is. \nCheck the law on {L_BOOLAM_C}Books and Lampoons{##} before turning the page.",
+    "uk": "Знання рідко бувають небезпечними — доки не стають такими. \nПеревірте закон про {L_BOOLAM_C}книги й пасквілі{##}, перш ніж гортати сторінки."
+  },
+  "Type_FinishedProduct_Book_DisplayName": {
+    "en": "Book",
+    "uk": "Книга"
+  },
+  "Type_FinishedProduct_Book_DisplayName_plural": {
+    "en": "Books",
+    "uk": "Книги"
+  },
+  "Type_FinishedProduct_CombatEquipment_Armor_Description": {
+    "en": "Armor provides protection during all {CO_PHA_C}combat phases{##}.",
+    "uk": "Броня захищає в усіх {CO_PHA_C}фазах бою{##}."
+  },
+  "Type_FinishedProduct_CombatEquipment_Armor_DisplayName": {
+    "en": "Armor",
+    "uk": "Броня"
+  },
+  "Type_FinishedProduct_CombatEquipment_Description": {
+    "en": "Equippable items used in {CO_COM_C}combat{##}, including weapons and armors.",
+    "uk": "Спорядження для {CO_COM_C}бою{##}, зокрема зброя й броня."
+  },
+  "Type_FinishedProduct_CombatEquipment_DisplayName": {
+    "en": "Combat Equipment",
+    "uk": "Бойове спорядження"
+  },
+  "Type_FinishedProduct_CombatEquipment_Melee_DisplayName": {
+    "en": "Melee Weapon",
+    "uk": "Зброя ближнього бою"
+  },
+  "Type_FinishedProduct_CombatEquipment_Ranged_DisplayName": {
+    "en": "Ranged Weapon",
+    "uk": "Далекобійна зброя"
+  },
+  "Type_FinishedProduct_CombatEquipment_Special_DisplayName": {
+    "en": "Special Weapon",
+    "uk": "Особлива зброя"
+  },
+  "Type_FinishedProduct_CombatEquipment_Weapon_DisplayName": {
+    "en": "Weapon",
+    "uk": "Зброя"
+  },
+  "Type_FinishedProduct_DisplayName": {
+    "en": "Finished product",
+    "uk": "Готова продукція"
+  },
+  "Type_FinishedProduct_DisplayName_plural": {
+    "en": "Finished Products",
+    "uk": "Готова продукція"
+  },
+  "Type_FinishedProduct_InventoryItem_Description": {
+    "en": "Inventory Items are finished products that can be placed in your personal inventory and consumed, providing gameplay effects.",
+    "uk": "Предмети інвентарю — це готова продукція, яку можна розмістити в особистому інвентарі й використати, отримавши ігрові ефекти."
+  },
+  "Type_FinishedProduct_InventoryItem_DisplayName": {
+    "en": "Inventory Item",
+    "uk": "Предмет інвентарю"
+  },
+  "Type_FinishedProduct_Perfume_Description": {
+    "en": "Fragrance travels farther than gossip.\nEnsure the law on {L_PER_C}Use of Perfume{##} permits its use.",
+    "uk": "Аромат розноситься далі, ніж плітки.\nПереконайтеся, що закон про {L_PER_C}вживання парфумів{##} дозволяє їх використання."
+  },
+  "Type_FinishedProduct_Perfume_DisplayName": {
+    "en": "Perfume",
+    "uk": "Парфуми"
+  },
+  "Type_FinishedProduct_Perfume_DisplayName_plural": {
+    "en": "Perfumes",
+    "uk": "Парфуми"
+  },
+  "Type_FinishedProduct_Potion_Description": {
+    "en": "A harmless tonic — or a punishable substance? \nConsult the law on {L_POT_C}Use of Potions{##} before drinking.",
+    "uk": "Нешкідлива настоянка — чи каране зілля? \nЗвіртеся із законом про {L_POT_C}вживання настоянок{##}, перш ніж пити."
+  },
+  "Type_FinishedProduct_Potion_DisplayName": {
+    "en": "Potion",
+    "uk": "Настоянка"
+  },
+  "Type_FinishedProduct_Potion_DisplayName_plural": {
+    "en": "Potions",
+    "uk": "Настоянки"
+  },
+  "Type_FinishedProduct_Witchcraft_Description": {
+    "en": "SORCERY!!!\nConsult the {L_WITCRA_C}Witchcraft Law{##} before they bring the torches.",
+    "uk": "ЧАКЛУНСТВО!!!\nЗвіртеся із {L_WITCRA_C}законом про чаклунство{##}, перш ніж принесуть смолоскипи."
+  },
+  "Type_FinishedProduct_Witchcraft_DisplayName": {
+    "en": "Mystical Object",
+    "uk": "Містичний предмет"
+  },
+  "Type_FinishedProduct_Witchcraft_DisplayName_plural": {
+    "en": "Mystical Objects",
+    "uk": "Містичні предмети"
+  },
+  "Type_Imports_DisplayName": {
+    "en": "Imports",
+    "uk": "Імпорт"
+  },
+  "Type_Ingredient_DisplayName": {
+    "en": "Ingredient",
+    "uk": "Інгредієнт"
+  },
+  "Type_Ingredient_DisplayName_Plural": {
+    "en": "Ingredients",
+    "uk": "Інгредієнти"
+  },
+  "Type_Ingredient_IntermediateProduct_Description": {
+    "en": "Crafted products used as ingredients for further {A_ACT_CRA_C}crafting{##}. ",
+    "uk": "Виготовлена продукція, що використовується як інгредієнти для подальшого {A_ACT_CRA_C}виготовлення{##}."
+  },
+  "Type_Ingredient_IntermediateProduct_Description_extra1": {
+    "en": "Intermediate products don't have any effects and can't be placed in your personal inventory.",
+    "uk": "Напівфабрикати не мають жодних ефектів і не можуть бути розміщені в особистому інвентарі."
+  },
+  "Type_Ingredient_IntermediateProduct_DisplayName": {
+    "en": "Intermediate Product",
+    "uk": "Напівфабрикат"
+  },
+  "Type_Ingredient_IntermediateProduct_DisplayName_plural": {
+    "en": "Intermediate Products",
+    "uk": "Напівфабрикати"
+  },
+  "Type_Ingredient_RawMaterial_Description": {
+    "en": "Raw materials are used in {A_ACT_CRA_C}crafting{##} as ingredients to create {I_TYP_INTPRO_C}intermediate products{##} and {I_TYP_INVITE_C}inventory items{##}. ",
+    "uk": "Сировина використовується у {A_ACT_CRA_C}виготовленні{##} як інгредієнти для створення {I_TYP_INTPRO_C}напівфабрикатів{##} і {I_TYP_INVITE_C}предметів інвентарю{##}."
+  },
+  "Type_Ingredient_RawMaterial_Description_extra1": {
+    "en": "They can be either {A_ACT_GATING_C}found in nature{##} or created from {I_TYP_RES_C}resources{##} at {B_TYP_EXTFAC_C}Resource Sites{##}. ",
+    "uk": "Її можна {A_ACT_GATING_C}знайти в природі{##} або отримати з {I_TYP_RES_C}ресурсів{##} на {B_TYP_EXTFAC_C}ресурсних угіддях{##}."
+  },
+  "Type_Ingredient_RawMaterial_Description_extra2": {
+    "en": "You cannot place them in your personal inventory, but only manage them through carts and building storages.",
+    "uk": "Ви не можете розміщувати її в особистому інвентарі — керувати нею можна лише через вози та сховища будівель."
+  },
+  "Type_Ingredient_RawMaterial_DisplayName": {
+    "en": "Raw Material",
+    "uk": "Сировина"
+  },
+  "Type_Ingredient_RawMaterial_DisplayName_plural": {
+    "en": "Raw Materials",
+    "uk": "Сировина"
+  },
+  "Type_Ingredient_Resource_Description": {
+    "en": "Resources are harvested and turned into {I_TYP_RAWMAT_C}raw materials{##} at {B_TYP_EXTFAC_C}Resource Sites{##}. ",
+    "uk": "Ресурси видобувають і перетворюють на {I_TYP_RAWMAT_C}сировину{##} на {B_TYP_EXTFAC_C}ресурсних угіддях{##}."
+  },
+  "Type_Ingredient_Resource_Description_extra1": {
+    "en": "You cannot place them in your personal inventory, but only manage them through carts and building storages.",
+    "uk": "Ви не можете розміщувати їх в особистому інвентарі — керувати ними можна лише через вози та сховища будівель."
+  },
+  "Type_Ingredient_Resource_DisplayName": {
+    "en": "Resource",
+    "uk": "Ресурс"
+  },
+  "Type_Ingredient_Resource_DisplayName_plural": {
+    "en": "Resources",
+    "uk": "Ресурси"
+  },
+  "Type_ItemType_DisplayName": {
+    "en": "Item type",
+    "uk": "Тип предмета"
+  },
+  "Type_Mysticals_DisplayName": {
+    "en": "Mysticals",
+    "uk": "Містика"
+  },
+  "Type_StoneAndBeer_DisplayName": {
+    "en": "Stone & Beer",
+    "uk": "Камінь і пиво"
+  },
+  "Type_WoodAndIron_DisplayName": {
+    "en": "Wood & Iron",
+    "uk": "Дерево й залізо"
+  }
+}

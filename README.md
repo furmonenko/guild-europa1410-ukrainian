@@ -11,7 +11,8 @@
 | Налаштування (`Game/Settings`) | 225 | ✅ |
 | Назви клавіш (`Game/Controls`) | 108 | ✅ |
 | Тексти у віджетах (`Uncategorized Texts`) | 461 | ✅ |
-| Решта гри (події, дії, будівлі, предмети…) | ~6600 | ⬜ |
+| Предмети (`Game/Items`) | 410 | ✅ |
+| Решта гри (події, дії, будівлі…) | ~6200 | ⬜ план у `docs/plan.md` |
 
 Актуальні цифри: `python uk.py status --all`.
 
@@ -51,7 +52,10 @@ uk.py                  CLI
 ukloc/formats.py       читання .pak v11, читання/патч .locres v3
 translations/<ціль>/<розділ>.json   переклади — єдине, що редагується вручну
 glossary.md            глосарій термінів
-docs/translator-brief.md  інструкція для перекладу нових розділів (людьми чи LLM)
+termcodes.json         канонічні українські терміни для інлайн-кодів {XXX_C}…{##}
+translate.py           LLM-драйвер: run / review / apply / terms / log (див. docs/plan.md)
+docs/translator-brief.md  системна інструкція для перекладу (людьми чи LLM)
+docs/prompt-*.md       завдання для чернетки й рецензії, докладаються до брифу
 work/                  (не в git) витягнуті з гри файли
 tools/, dist/          (не в git) інструменти й зібраний мод
 ```

@@ -1,0 +1,2231 @@
+{
+  "ACC_C": {
+    "uk": "нещасні випадки",
+    "en": [
+      "accidents"
+    ]
+  },
+  "ACC_CHAACC_C": {
+    "uk": "шанс нещасного випадку",
+    "en": [
+      "chance of accidents"
+    ]
+  },
+  "A_ACTPRO_C": {
+    "uk": "активна професія",
+    "en": [
+      "active professions",
+      "pick it as your line of work",
+      "set as your line of work"
+    ]
+  },
+  "A_ACT_C": {
+    "uk": "завдання",
+    "en": [
+      "tasks",
+      "task",
+      "tasks for your workers"
+    ]
+  },
+  "A_ACT_CRA_C": {
+    "uk": "виготовлення",
+    "en": [
+      "crafting",
+      "craft"
+    ]
+  },
+  "A_ACT_FINEVIFROWOR_C": {
+    "uk": "підслуховувати відвідувачів",
+    "en": [
+      "eavesdrop on customers",
+      "eavesdropping on customers",
+      "gathering rumors"
+    ]
+  },
+  "A_ACT_FRAFORCRI_C": {
+    "uk": "підкинуті докази",
+    "en": [
+      "planted evidence"
+    ]
+  },
+  "A_ACT_GATING_C": {
+    "uk": "пошук інгредієнтів",
+    "en": [
+      "looking for ingredients",
+      "{NumTrip}|plural(one=trip,other=trips)",
+      "The land itself stocks your shelves",
+      "found in nature"
+    ]
+  },
+  "A_ACT_GUAPAT_C": {
+    "uk": "патрулювання",
+    "en": [
+      "guard patrol",
+      "patrol",
+      "patrols"
+    ]
+  },
+  "A_ACT_HAVCHA_C": {
+    "uk": "побалакати",
+    "en": [
+      "have a chat"
+    ]
+  },
+  "A_ACT_HOLSTRSER_C": {
+    "uk": "вулична проповідь",
+    "en": [
+      "street sermon",
+      "sermons"
+    ]
+  },
+  "A_ACT_IMPCAR_C": {
+    "uk": "поліпшити віз",
+    "en": [
+      "improve carts",
+      "sturdier carts"
+    ]
+  },
+  "A_ACT_IMPQUA_C": {
+    "uk": "поліпшити квартал",
+    "en": [
+      "improve quarter",
+      "improving roads"
+    ]
+  },
+  "A_ACT_IMPSTR_C": {
+    "uk": "поліпшити будівлю",
+    "en": [
+      "improve structure",
+      "building foundations"
+    ]
+  },
+  "A_ACT_INSBUS_C": {
+    "uk": "перевірити справу",
+    "en": [
+      "inspect business"
+    ]
+  },
+  "A_ACT_LIVPER_C": {
+    "uk": "виступ на сцені",
+    "en": [
+      "take the stage",
+      "put on a show",
+      "Put on a show",
+      "entertainment"
+    ]
+  },
+  "A_ACT_OUT_C": {
+    "uk": "виїзні завдання",
+    "en": [
+      "outdoor tasks"
+    ]
+  },
+  "A_ACT_PASVIS_C": {
+    "uk": "відпустити гріхи",
+    "en": [
+      "giving absolution",
+      "give absolution",
+      "absolving sins"
+    ]
+  },
+  "A_ACT_PESCON_C": {
+    "uk": "боротьба зі шкідниками",
+    "en": [
+      "pest control",
+      "pest-control"
+    ]
+  },
+  "A_ACT_PICPOCCIT_C": {
+    "uk": "шахрайства",
+    "en": [
+      "scams"
+    ]
+  },
+  "A_ACT_PICPOC_C": {
+    "uk": "кишенькові крадіжки",
+    "en": [
+      "pickpocketing",
+      "thefts"
+    ]
+  },
+  "A_ACT_ROB_C": {
+    "uk": "пограбування зі зломом",
+    "en": [
+      "break into",
+      "break-ins"
+    ]
+  },
+  "A_ACT_SCEENH_C": {
+    "uk": "ароматизація",
+    "en": [
+      "scent enhancement",
+      "attract customers"
+    ]
+  },
+  "A_ACT_SEWCLO_C": {
+    "uk": "оновити вбрання",
+    "en": [
+      "refine someone's attire",
+      "refining attire"
+    ]
+  },
+  "A_ACT_STEITESTOMKT_C": {
+    "uk": "крадіжка з крамниці",
+    "en": [
+      "shoplift"
+    ]
+  },
+  "A_ACT_STRBAR_C": {
+    "uk": "посилити охорону",
+    "en": [
+      "reinforce security"
+    ]
+  },
+  "A_ACT_TRACOMGUA_C": {
+    "uk": "тренувати бойові навички",
+    "en": [
+      "train martial"
+    ]
+  },
+  "A_ACT_TRACOMROB_C": {
+    "uk": "тренувати бойові навички",
+    "en": [
+      "train martial"
+    ]
+  },
+  "A_ACT_TRACOMTHI_C": {
+    "uk": "тренувати бойові навички",
+    "en": [
+      "train martial"
+    ]
+  },
+  "A_ACT_TRALIVPER_C": {
+    "uk": "репетирувати",
+    "en": [
+      "rehearse"
+    ]
+  },
+  "A_ACT_TRASTEGUA_C": {
+    "uk": "тренувати шахрайство",
+    "en": [
+      "train roguery"
+    ]
+  },
+  "A_ACT_TRASTEROB_C": {
+    "uk": "тренувати шахрайство",
+    "en": [
+      "train roguery"
+    ]
+  },
+  "A_ACT_TRASTETHI_C": {
+    "uk": "тренувати шахрайство",
+    "en": [
+      "train roguery"
+    ]
+  },
+  "A_ACT_WAYTRA_C": {
+    "uk": "засідка на віз",
+    "en": [
+      "waylaying a cart",
+      "cart ambushes"
+    ]
+  },
+  "A_ACT_WORINN_C": {
+    "uk": "робота за шинквасом",
+    "en": [
+      "working at the bar"
+    ]
+  },
+  "A_ATKCAR_C": {
+    "uk": "напад на віз",
+    "en": [
+      "attack",
+      "lurking robbers",
+      "confronting",
+      "attackers",
+      "ambushes",
+      "attacked"
+    ]
+  },
+  "A_BLANAM_C": {
+    "uk": "зганьбити чиєсь ім’я",
+    "en": [
+      "blacken someone's name",
+      "undermine"
+    ]
+  },
+  "A_BRI_C": {
+    "uk": "підкупити",
+    "en": [
+      "bribe",
+      "Bribe",
+      "greasing their palms"
+    ]
+  },
+  "A_C": {
+    "uk": "дії",
+    "en": [
+      "actions"
+    ]
+  },
+  "A_CATBEE_C": {
+    "uk": "полювання на бджолину матку",
+    "en": [
+      "Hunt for Queen Bee"
+    ]
+  },
+  "A_CHOHEI_C": {
+    "uk": "призначити іншого спадкоємця",
+    "en": [
+      "name a different heir"
+    ]
+  },
+  "A_COU_C": {
+    "uk": "залицятися",
+    "en": [
+      "court",
+      "Begin Courtship"
+    ]
+  },
+  "A_DUECHA_C": {
+    "uk": "дуель",
+    "en": [
+      "duel"
+    ]
+  },
+  "A_GUASER_C": {
+    "uk": "записатися до варти",
+    "en": [
+      "Sign Up for Guard Service"
+    ]
+  },
+  "A_HEA_C": {
+    "uk": "знайти ліки",
+    "en": [
+      "Seek a Cure"
+    ]
+  },
+  "A_HIRESC_C": {
+    "uk": "найняти супровід",
+    "en": [
+      "hiring an escort",
+      "escort",
+      "unguarded",
+      "protected",
+      "serious resistance",
+      "light protection"
+    ]
+  },
+  "A_IMPSKI_C": {
+    "uk": "покращити навички",
+    "en": [
+      "Improve Skills",
+      "hone your skills"
+    ]
+  },
+  "A_INVDIN_C": {
+    "uk": "запросити на вечерю",
+    "en": [
+      "dinners",
+      "invite to dinner"
+    ]
+  },
+  "A_MASGRA_C": {
+    "uk": "ступінь майстерності",
+    "en": [
+      "Mastery Grade",
+      "Gain Mastery Grade",
+      "Mastery Grades"
+    ]
+  },
+  "A_OVEPRO_C": {
+    "uk": "наглядати за роботою",
+    "en": [
+      "Oversee Work"
+    ]
+  },
+  "A_PAYONETIMBON_C": {
+    "uk": "платити",
+    "en": [
+      "paying"
+    ]
+  },
+  "A_PHYCHE_C": {
+    "uk": "відвідати лікаря",
+    "en": [
+      "Visit the physician",
+      "visit a physician"
+    ]
+  },
+  "A_PRAOTH_C": {
+    "uk": "молитися за інших",
+    "en": [
+      "praying for others",
+      "pray for others",
+      "praying"
+    ]
+  },
+  "A_PRASHR_C": {
+    "uk": "молитися",
+    "en": [
+      "pray"
+    ]
+  },
+  "A_PRA_C": {
+    "uk": "помолитися",
+    "en": [
+      "Pray"
+    ]
+  },
+  "A_PRECHA_C": {
+    "uk": "висунути звинувачення",
+    "en": [
+      "press charges",
+      "Press Charges"
+    ]
+  },
+  "A_PRITIM_C": {
+    "uk": "провести час наодинці",
+    "en": [
+      "Spend Private Time",
+      "Share a private moment",
+      "marital efforts"
+    ]
+  },
+  "A_PROWOR_C": {
+    "uk": "підвищення",
+    "en": [
+      "promotion",
+      "Promote Worker",
+      "promote",
+      "promoted"
+    ]
+  },
+  "A_REMOFF_C": {
+    "uk": "звільнення з посади",
+    "en": [
+      "dismissals"
+    ]
+  },
+  "A_RESOFF_C": {
+    "uk": "дострокова відставка",
+    "en": [
+      "early retirement"
+    ]
+  },
+  "A_SAB_C": {
+    "uk": "саботаж",
+    "en": [
+      "sabotage"
+    ]
+  },
+  "A_SENGIF_C": {
+    "uk": "надіслати подарунок",
+    "en": [
+      "sending gifts",
+      "Send gifts",
+      "fine gifts",
+      "send gifts"
+    ]
+  },
+  "A_SMEREP_C": {
+    "uk": "очорнити репутацію",
+    "en": [
+      "sabotaging the competition",
+      "planted"
+    ]
+  },
+  "A_SNI_C": {
+    "uk": "донести про чутки",
+    "en": [
+      "report rumors",
+      "Report Rumors",
+      "spread the rumor",
+      "reports"
+    ]
+  },
+  "A_SOCATINN_C": {
+    "uk": "поспілкуватися",
+    "en": [
+      "Socialize"
+    ]
+  },
+  "A_SPOHEL_C": {
+    "uk": "інші заручини",
+    "en": [
+      "other engagements"
+    ]
+  },
+  "A_SPYPER_C": {
+    "uk": "стежити",
+    "en": [
+      "spy"
+    ]
+  },
+  "A_SPY_C": {
+    "uk": "шпигувати",
+    "en": [
+      "spy",
+      "spying",
+      "Spy",
+      "spied"
+    ]
+  },
+  "A_SWETAL_C": {
+    "uk": "лестити",
+    "en": [
+      "sweet-talk",
+      "sweet-talking",
+      "Sweet-talk Love Interest",
+      "Sweet words"
+    ]
+  },
+  "A_TEAEXP_C": {
+    "uk": "підвищення",
+    "en": [
+      "promotion"
+    ]
+  },
+  "A_THRLET_C": {
+    "uk": "лист із погрозами",
+    "en": [
+      "threatening letter"
+    ]
+  },
+  "A_THR_C": {
+    "uk": "побити",
+    "en": [
+      "beaten up"
+    ]
+  },
+  "A_TRACHI_C": {
+    "uk": "навчання дитини",
+    "en": [
+      "education",
+      "training"
+    ]
+  },
+  "A_TRAPRO_C": {
+    "uk": "фахове навчання",
+    "en": [
+      "Train in Profession",
+      "training",
+      "specialized training"
+    ]
+  },
+  "A_TRAWOREXP_C": {
+    "uk": "наставництво",
+    "en": [
+      "Mentor",
+      "mentor"
+    ]
+  },
+  "A_TRAWORSKI_C": {
+    "uk": "тренувати навички",
+    "en": [
+      "train your workers' skills",
+      "Train Skill"
+    ]
+  },
+  "A_WRILAM_C": {
+    "uk": "пасквілі",
+    "en": [
+      "lampoons"
+    ]
+  },
+  "BAL_PER_C": {
+    "uk": "борг",
+    "en": [
+      "Debt"
+    ]
+  },
+  "B_EXTFAC_MIN_C": {
+    "uk": "копальні",
+    "en": [
+      "mines"
+    ]
+  },
+  "B_EXTFAC_VILMKT_C": {
+    "uk": "ринок виробників",
+    "en": [
+      "producer's market"
+    ]
+  },
+  "B_EXTFAC_WOOARE_C": {
+    "uk": "лісові угіддя",
+    "en": [
+      "Timberlands"
+    ]
+  },
+  "B_GUILD_C": {
+    "uk": "гільдія",
+    "en": [
+      "guild",
+      "Guild",
+      "guild house",
+      "Guild House"
+    ]
+  },
+  "B_HP_C": {
+    "uk": "цілісність",
+    "en": [
+      "Integrity",
+      "repair",
+      "condition",
+      "integrity",
+      "repairs",
+      "maintenance"
+    ]
+  },
+  "B_HP_DEC_C": {
+    "uk": "знос",
+    "en": [
+      "Integrity Decay",
+      "damage"
+    ]
+  },
+  "B_HP_MAX_C": {
+    "uk": "міцність",
+    "en": [
+      "Tough",
+      "toughest",
+      "sturdier",
+      "sturdy"
+    ]
+  },
+  "B_IMP_BETBED_C": {
+    "uk": "кращі ліжка",
+    "en": [
+      "better beds"
+    ]
+  },
+  "B_IMP_BRI_C": {
+    "uk": "гаманець переконання",
+    "en": [
+      "Purse of Persuasion"
+    ]
+  },
+  "B_IMP_HEA_C": {
+    "uk": "тепло",
+    "en": [
+      "warmth"
+    ]
+  },
+  "B_IMP_IMPCOM_C": {
+    "uk": "стійка для зброї",
+    "en": [
+      "weapon rack"
+    ]
+  },
+  "B_IMP_IMPHAN_C": {
+    "uk": "скринька ремісника",
+    "en": [
+      "Artisan's Toolbox"
+    ]
+  },
+  "B_IMP_INN_BAR_C": {
+    "uk": "більший шинквас",
+    "en": [
+      "larger bar"
+    ]
+  },
+  "B_IMP_OCCBUI_ACCPRO_C": {
+    "uk": "заходи безпеки",
+    "en": [
+      "safety measures"
+    ]
+  },
+  "B_IMP_OCCBUI_PROD_C": {
+    "uk": "належні інструменти",
+    "en": [
+      "proper tools"
+    ]
+  },
+  "B_IMP_SPY_C": {
+    "uk": "підзорна труба",
+    "en": [
+      "spyglass"
+    ]
+  },
+  "B_OCC_ALC_01_C": {
+    "uk": "лабораторія",
+    "en": [
+      "lab's"
+    ]
+  },
+  "B_OCC_ALC_C": {
+    "uk": "лабораторія алхіміка",
+    "en": [
+      "Alchemist's Lab"
+    ]
+  },
+  "B_OCC_ENT_C": {
+    "uk": "табір мандрівного цирку",
+    "en": [
+      "Travelling Circus Camp"
+    ]
+  },
+  "B_OCC_GRA_C": {
+    "uk": "цвинтар",
+    "en": [
+      "Graveyard"
+    ]
+  },
+  "B_OCC_GUA_C": {
+    "uk": "казарма",
+    "en": [
+      "Barracks",
+      "barracks"
+    ]
+  },
+  "B_OCC_INN_C": {
+    "uk": "заїзд",
+    "en": [
+      "Inn",
+      "inn"
+    ]
+  },
+  "B_OCC_JOI_C": {
+    "uk": "столярня",
+    "en": [
+      "Joiner's Workshop",
+      "joiner's workshop"
+    ]
+  },
+  "B_OCC_MAS_C": {
+    "uk": "каменярня",
+    "en": [
+      "Masonry",
+      "masonry business"
+    ]
+  },
+  "B_OCC_MGR_C": {
+    "uk": "майстер",
+    "en": [
+      "Master",
+      "master",
+      "charge",
+      "take charge",
+      "duties",
+      "head"
+    ]
+  },
+  "B_OCC_MONLEN_C": {
+    "uk": "лихварський дім",
+    "en": [
+      "Counting House"
+    ]
+  },
+  "B_OCC_PER_C": {
+    "uk": "парфумерія",
+    "en": [
+      "Perfumery",
+      "perfumery"
+    ]
+  },
+  "B_OCC_PRE_C": {
+    "uk": "церква",
+    "en": [
+      "Church",
+      "church"
+    ]
+  },
+  "B_OCC_ROB_C": {
+    "uk": "фортеця розбійного барона",
+    "en": [
+      "Robber Baron's Fortress",
+      "criminal enterprise"
+    ]
+  },
+  "B_OCC_SMI_01_C": {
+    "uk": "кузня",
+    "en": [
+      "forge"
+    ]
+  },
+  "B_OCC_SMI_C": {
+    "uk": "кузня",
+    "en": [
+      "smithy",
+      "Smithy"
+    ]
+  },
+  "B_OCC_TAI_C": {
+    "uk": "кравецька майстерня",
+    "en": [
+      "Tailor's Workshop",
+      "tailor's workshop"
+    ]
+  },
+  "B_OCC_THI_C": {
+    "uk": "схованка",
+    "en": [
+      "Hideout"
+    ]
+  },
+  "B_OCC_TRA_C": {
+    "uk": "склад",
+    "en": [
+      "Storehouse"
+    ]
+  },
+  "B_PARAM_ACCPRO_C": {
+    "uk": "захист від нещасних випадків",
+    "en": [
+      "prevention",
+      "safety",
+      "accident protection"
+    ]
+  },
+  "B_PARAM_ATT_C": {
+    "uk": "привабливість для покупців",
+    "en": [
+      "Customer Appeal",
+      "customer appeal",
+      "draw a bigger crowd",
+      "inviting",
+      "attractive",
+      "customers"
+    ]
+  },
+  "B_PARAM_BURPRO_C": {
+    "uk": "захист від зломів",
+    "en": [
+      "security",
+      "Unsecured"
+    ]
+  },
+  "B_PARAM_HYG_C": {
+    "uk": "санітарія",
+    "en": [
+      "sanitation"
+    ]
+  },
+  "B_PARAM_PROBON_C": {
+    "uk": "продуктивність",
+    "en": [
+      "productivity"
+    ]
+  },
+  "B_PARAM_STOREV_C": {
+    "uk": "ціна продажу",
+    "en": [
+      "selling price"
+    ]
+  },
+  "B_PARAM_VAL_C": {
+    "uk": "вартість",
+    "en": [
+      "value"
+    ]
+  },
+  "B_PER_BEEHIV_C": {
+    "uk": "вулик",
+    "en": [
+      "hives",
+      "hive",
+      "Beehive",
+      "Bee Hives"
+    ]
+  },
+  "B_PER_SHR_C": {
+    "uk": "святиня",
+    "en": [
+      "Shrine"
+    ]
+  },
+  "B_PUB_FOU_C": {
+    "uk": "фонтан",
+    "en": [
+      "fountain"
+    ]
+  },
+  "B_PUB_MKT_C": {
+    "uk": "ринок",
+    "en": [
+      "marketplace",
+      "Marketplace"
+    ]
+  },
+  "B_PUB_PIL_C": {
+    "uk": "ганебний стовп",
+    "en": [
+      "pillory"
+    ]
+  },
+  "B_PUB_PRI_C": {
+    "uk": "в’язниця",
+    "en": [
+      "Prison",
+      "prison"
+    ]
+  },
+  "B_PUB_TOWHAL_C": {
+    "uk": "ратуша",
+    "en": [
+      "Town Hall"
+    ]
+  },
+  "B_STOFRO_C": {
+    "uk": "крамниця",
+    "en": [
+      "storefront",
+      "Storefront",
+      "storefronts"
+    ]
+  },
+  "B_STOROO_C": {
+    "uk": "комора",
+    "en": [
+      "storeroom",
+      "{NumStorage}|plural(one=storeroom slot,other=storeroom slots)",
+      "Storeroom"
+    ]
+  },
+  "B_TYP_EXTFAC_C": {
+    "uk": "ресурсні угіддя",
+    "en": [
+      "Resource Sites"
+    ]
+  },
+  "B_TYP_OCCBUI_C": {
+    "uk": "фахові будівлі",
+    "en": [
+      "Profession Buildings",
+      "business",
+      "professional building",
+      "business building"
+    ]
+  },
+  "B_TYP_PUBBUI_C": {
+    "uk": "міська інфраструктура",
+    "en": [
+      "City Infrastructure"
+    ]
+  },
+  "CAR_2_C": {
+    "uk": "швидший віз",
+    "en": [
+      "faster cart"
+    ]
+  },
+  "CAR_C": {
+    "uk": "вози",
+    "en": [
+      "carts",
+      "cart",
+      "Carts"
+    ]
+  },
+  "CAR_CHANATT_C": {
+    "uk": "ризик нападу",
+    "en": [
+      "gamble",
+      "risk of waylaying"
+    ]
+  },
+  "CAR_SPE_C": {
+    "uk": "швидкість",
+    "en": [
+      "fast",
+      "pace",
+      "hurry",
+      "nimble"
+    ]
+  },
+  "CHAR_CHABABY_C": {
+    "uk": "шанс народження спадкоємця",
+    "en": [
+      "chance",
+      "chance of producing heirs"
+    ]
+  },
+  "CHAR_CITVSWOR_C": {
+    "uk": "працівники",
+    "en": [
+      "citizens",
+      "citizen",
+      "workers",
+      "townspeople",
+      "Citizens",
+      "Workers"
+    ]
+  },
+  "CHAR_COU_C": {
+    "uk": "почати залицяння",
+    "en": [
+      "Start courting"
+    ]
+  },
+  "CHAR_DYNRAN_C": {
+    "uk": "рейтинг династій",
+    "en": [
+      "Top 3 Most Prestigious Dynasties",
+      "Ranked",
+      "The Most Prestigious Dynasty"
+    ]
+  },
+  "CHAR_DYN_C": {
+    "uk": "династія",
+    "en": [
+      "dynasty",
+      "legacy",
+      "family",
+      "Dynasties",
+      "dynasties",
+      "Dynasty"
+    ]
+  },
+  "CHAR_ENEREG_C": {
+    "uk": "відновлення енергії",
+    "en": [
+      "Energy Regeneration",
+      "regenerates",
+      "restore",
+      "energy regeneration",
+      "Energy regeneration"
+    ]
+  },
+  "CHAR_ENE_C": {
+    "uk": "енергія",
+    "en": [
+      "energy",
+      "Energy",
+      "demanding"
+    ]
+  },
+  "CHAR_FER_C": {
+    "uk": "плідність",
+    "en": [
+      "fertility",
+      "fertile"
+    ]
+  },
+  "CHAR_HEI_C": {
+    "uk": "спадкоємець",
+    "en": [
+      "heir",
+      "heirs",
+      "child",
+      "Heirs"
+    ]
+  },
+  "CHAR_HP_C": {
+    "uk": "здоров’я",
+    "en": [
+      "Health",
+      "health",
+      "healthier"
+    ]
+  },
+  "CHAR_MON_C": {
+    "uk": "гроші",
+    "en": [
+      "Money"
+    ]
+  },
+  "CHAR_PERINV_C": {
+    "uk": "особистий інвентар",
+    "en": [
+      "Personal Inventory"
+    ]
+  },
+  "CHAR_PRO_C": {
+    "uk": "продуктивність",
+    "en": [
+      "productive",
+      "productivity",
+      "Productivity",
+      "efficient"
+    ]
+  },
+  "CHAR_PRO_SKIEMP_C": {
+    "uk": "вправний наймач",
+    "en": [
+      "skilled employer"
+    ]
+  },
+  "CHAR_RENDYN_C": {
+    "uk": "династія",
+    "en": [
+      "dynasty"
+    ]
+  },
+  "CHAR_REN_C": {
+    "uk": "слава",
+    "en": [
+      "renown",
+      "Renown"
+    ]
+  },
+  "CHAR_STA_C": {
+    "uk": "прихильність",
+    "en": [
+      "opinion",
+      "Opinion",
+      "allies",
+      "favor",
+      "friends",
+      "grateful"
+    ]
+  },
+  "CHAR_STA_WOR_C": {
+    "uk": "прихильність",
+    "en": [
+      "opinion"
+    ]
+  },
+  "CHAR_WEA_C": {
+    "uk": "статки",
+    "en": [
+      "wealth",
+      "Wealth"
+    ]
+  },
+  "CHAR_XP_C": {
+    "uk": "досвід",
+    "en": [
+      "experience",
+      "Experience"
+    ]
+  },
+  "CO_COMENC_C": {
+    "uk": "бойові сутички",
+    "en": [
+      "{NumCombat}|plural(one=combat encounter,other=combat encounters)",
+      "combat encounters"
+    ]
+  },
+  "CO_COMEQU_DAM_C": {
+    "uk": "шкода",
+    "en": [
+      "Damage",
+      "damage"
+    ]
+  },
+  "CO_COMEQU_WEAMEL_C": {
+    "uk": "зброя ближнього бою",
+    "en": [
+      "melee weapons",
+      "weapon"
+    ]
+  },
+  "CO_COMEQU_WEARAN_C": {
+    "uk": "далекобійна зброя",
+    "en": [
+      "ranged weapons"
+    ]
+  },
+  "CO_COMEQU_WEASPE_C": {
+    "uk": "особлива зброя",
+    "en": [
+      "special weapons"
+    ]
+  },
+  "CO_COM_C": {
+    "uk": "бій",
+    "en": [
+      "combat",
+      "fight",
+      "defend",
+      "{NumCombatants}|plural(one=combatant,other=combatants)",
+      "{NumCrime}|plural(one=crime,other=crimes)"
+    ]
+  },
+  "CO_ORD_C": {
+    "uk": "стійки",
+    "en": [
+      "stances"
+    ]
+  },
+  "CO_PHA_C": {
+    "uk": "фази бою",
+    "en": [
+      "phases",
+      "combat phases",
+      "close combat"
+    ]
+  },
+  "CO_ROU_C": {
+    "uk": "раунд бою",
+    "en": [
+      "rounds",
+      "round",
+      "combat round",
+      "Combat rounds"
+    ]
+  },
+  "CO_SCOBAR_C": {
+    "uk": "шкала перемоги",
+    "en": [
+      "Victory Meter"
+    ]
+  },
+  "CO_SCOWAR_C": {
+    "uk": "*",
+    "en": [
+      "*"
+    ]
+  },
+  "CO_SCO_C": {
+    "uk": "рахунок",
+    "en": [
+      "score",
+      "scores"
+    ]
+  },
+  "CO_TIMOUT_C": {
+    "uk": "*",
+    "en": [
+      "*"
+    ]
+  },
+  "CO_TYPE_ATTCAR_C": {
+    "uk": "напад на віз",
+    "en": [
+      "cart attack"
+    ]
+  },
+  "CO_TYPE_DUE_C": {
+    "uk": "дуель",
+    "en": [
+      "duel"
+    ]
+  },
+  "CR_CRI_C": {
+    "uk": "злочин",
+    "en": [
+      "crime",
+      "sins",
+      "crimes",
+      "drinks",
+      "outlawing",
+      "decriminalizes"
+    ]
+  },
+  "CR_EVISTR_C": {
+    "uk": "вагомість доказів",
+    "en": [
+      "stronger",
+      "Greater proof"
+    ]
+  },
+  "CR_EVI_C": {
+    "uk": "докази",
+    "en": [
+      "evidence",
+      "Evidence",
+      "Leverage",
+      "gossip"
+    ]
+  },
+  "CR_NOI_C": {
+    "uk": "помітність",
+    "en": [
+      "secret",
+      "conspicuous",
+      "overt",
+      "subtle",
+      "noticeable",
+      "concealed"
+    ]
+  },
+  "CR_SEV_C": {
+    "uk": "тяжкість злочину",
+    "en": [
+      "severe",
+      "minor crime",
+      "trivial crime",
+      "severity of your crime",
+      "Severity",
+      "severity of the crime"
+    ]
+  },
+  "CR_SEV_EXT_C": {
+    "uk": "надзвичайний",
+    "en": [
+      "extreme"
+    ]
+  },
+  "CR_SEV_MAJ_C": {
+    "uk": "тяжкий",
+    "en": [
+      "severe"
+    ]
+  },
+  "CR_SEV_MIN_C": {
+    "uk": "дрібний",
+    "en": [
+      "minor"
+    ]
+  },
+  "CR_SEV_SEV_C": {
+    "uk": "серйозний",
+    "en": [
+      "major"
+    ]
+  },
+  "CR_SEV_TRI_C": {
+    "uk": "незначний",
+    "en": [
+      "trivial"
+    ]
+  },
+  "CR_STALIM_C": {
+    "uk": "давність",
+    "en": [
+      "time",
+      "Time"
+    ]
+  },
+  "CR_TRIPUN_C": {
+    "uk": "вирок",
+    "en": [
+      "sentenced",
+      "absolved",
+      "punishment",
+      "sentences",
+      "punished",
+      "Trial Conviction"
+    ]
+  },
+  "CR_TRIPUN_EXT_C": {
+    "uk": "смертний вирок",
+    "en": [
+      "capital sentence"
+    ]
+  },
+  "CR_TRIPUN_MAJ_C": {
+    "uk": "тяжкий вирок",
+    "en": [
+      "severe sentence"
+    ]
+  },
+  "CR_TRIPUN_MIN_C": {
+    "uk": "дрібне покарання",
+    "en": [
+      "minor sentence"
+    ]
+  },
+  "CR_TRIPUN_SEV_C": {
+    "uk": "серйозний вирок",
+    "en": [
+      "major sentence"
+    ]
+  },
+  "CR_TRIPUN_TRI_C": {
+    "uk": "незначне покарання",
+    "en": [
+      "trivial sentence"
+    ]
+  },
+  "CR_TRI_C": {
+    "uk": "суд",
+    "en": [
+      "trial",
+      "Trial",
+      "court"
+    ]
+  },
+  "CR_TRI_JUR_C": {
+    "uk": "присяжні",
+    "en": [
+      "Juror",
+      "Jury",
+      "jury"
+    ]
+  },
+  "C_DIS_C": {
+    "uk": "райони",
+    "en": [
+      "Districts"
+    ]
+  },
+  "C_QUA_C": {
+    "uk": "квартал",
+    "en": [
+      "quarter",
+      "quarters",
+      "Quarters",
+      "quarter's",
+      "city quarter"
+    ]
+  },
+  "C_TRN_C": {
+    "uk": "хід",
+    "en": [
+      "turn",
+      "turns",
+      "{NumTurns}|plural(one=turn,other=turns)"
+    ]
+  },
+  "C_TRN_DURACT_C": {
+    "uk": "*",
+    "en": [
+      "*"
+    ]
+  },
+  "H_ABG_C": {
+    "uk": "Ashborne Games",
+    "en": [
+      "Ashborne Games"
+    ]
+  },
+  "H_BATOFGRU_C": {
+    "uk": "Ґрюнвальдська битва",
+    "en": [
+      "Battle of Grunwald",
+      "battle of Grunwald"
+    ]
+  },
+  "H_BATOFLIP_C": {
+    "uk": "битва під Ліпанами",
+    "en": [
+      "Battle of Lipany",
+      "Hussite Wars",
+      "end of the Hussite Wars"
+    ]
+  },
+  "H_BOH_C": {
+    "uk": "Богемія",
+    "en": [
+      "Bohemia",
+      "Bohemian",
+      "Bohemia's",
+      "Bohemian Crown"
+    ]
+  },
+  "H_BRN_C": {
+    "uk": "Брно",
+    "en": [
+      "Brno"
+    ]
+  },
+  "H_CHA4_C": {
+    "uk": "Карл IV",
+    "en": [
+      "Emperor Charles IV",
+      "Charles IV"
+    ]
+  },
+  "H_COMOFBAS_C": {
+    "uk": "Базельські компакти",
+    "en": [
+      "Compacts of Basel"
+    ]
+  },
+  "H_COUOFCON_C": {
+    "uk": "Констанцький собор",
+    "en": [
+      "Council of Constance",
+      "Council of Constance (1414–1418)"
+    ]
+  },
+  "H_ELE_C": {
+    "uk": "курфюрсти",
+    "en": [
+      "electoral votes",
+      "prince-electors",
+      "electors"
+    ]
+  },
+  "H_EMPROR_C": {
+    "uk": "імператор Священної Римської імперії",
+    "en": [
+      "Holy Roman Emperor",
+      "Holy Roman Empire"
+    ]
+  },
+  "H_EMP_C": {
+    "uk": "Священна Римська імперія",
+    "en": [
+      "Empire",
+      "Holy Roman Empire"
+    ]
+  },
+  "H_HOUOFLUX_C": {
+    "uk": "Люксембурзький дім",
+    "en": [
+      "House of Luxembourg"
+    ]
+  },
+  "H_HUS_C": {
+    "uk": "гусити",
+    "en": [
+      "Hussite",
+      "Hussites",
+      "Jan Hus",
+      "Hussites'"
+    ]
+  },
+  "H_JANHUS_C": {
+    "uk": "Ян Гус",
+    "en": [
+      "Jan Hus"
+    ]
+  },
+  "H_JANZIZ_C": {
+    "uk": "Ян Жижка",
+    "en": [
+      "Jan Žižka",
+      "Žižka's"
+    ]
+  },
+  "H_JOBOFMOR_C": {
+    "uk": "Йобст Моравський",
+    "en": [
+      "Jobst of Moravia"
+    ]
+  },
+  "H_KINOFROM_C": {
+    "uk": "король римлян",
+    "en": [
+      "King of the Romans"
+    ]
+  },
+  "H_KUT_C": {
+    "uk": "Куттенберг",
+    "en": [
+      "Kuttenberg",
+      "Kuttenberg!"
+    ]
+  },
+  "H_MOR_C": {
+    "uk": "Моравія",
+    "en": [
+      "Moravia"
+    ]
+  },
+  "H_NEM_C": {
+    "uk": "Нємецький Брод",
+    "en": [
+      "Německý Brod"
+    ]
+  },
+  "H_PRA_C": {
+    "uk": "Прага",
+    "en": [
+      "Prague"
+    ]
+  },
+  "H_PRI_C": {
+    "uk": "Пршибислав",
+    "en": [
+      "Přibyslav"
+    ]
+  },
+  "H_PROTHEGRE_C": {
+    "uk": "Прокоп Великий",
+    "en": [
+      "Prokop the Great"
+    ]
+  },
+  "H_RAB_C": {
+    "uk": "Рабі",
+    "en": [
+      "Rabí",
+      "Rábí"
+    ]
+  },
+  "H_SIG_C": {
+    "uk": "Сигізмунд",
+    "en": [
+      "Sigismund",
+      "Sigismund's",
+      "King Sigismund's",
+      "King Sigismund",
+      "Sigismund of Luxembourg"
+    ]
+  },
+  "H_VYS_C": {
+    "uk": "Вишеград",
+    "en": [
+      "Vyšehrad"
+    ]
+  },
+  "H_WEN_C": {
+    "uk": "король Вацлав IV",
+    "en": [
+      "King Wenceslaus",
+      "King Wenceslaus IV"
+    ]
+  },
+  "H_ZNO_C": {
+    "uk": "Зноймо",
+    "en": [
+      "Znojmo"
+    ]
+  },
+  "I_BEEQUE_C": {
+    "uk": "бджолина матка",
+    "en": [
+      "Queen Bee"
+    ]
+  },
+  "I_ENDPOT_C": {
+    "uk": "напій витривалості",
+    "en": [
+      "endurance drink"
+    ]
+  },
+  "I_NOBRIG_C": {
+    "uk": "дворянські права",
+    "en": [
+      "Nobility Rights",
+      "right",
+      "rights"
+    ]
+  },
+  "I_ROBCON_01_C": {
+    "uk": "контракт",
+    "en": [
+      "contract"
+    ]
+  },
+  "I_ROBCON_02_C": {
+    "uk": "контракт",
+    "en": [
+      "contract"
+    ]
+  },
+  "I_ROBCON_03_C": {
+    "uk": "контракт",
+    "en": [
+      "contract"
+    ]
+  },
+  "I_SILCHA_C": {
+    "uk": "срібний ланцюг",
+    "en": [
+      "Silver Chain"
+    ]
+  },
+  "I_SILRIN_C": {
+    "uk": "срібні персні",
+    "en": [
+      "silver rings"
+    ]
+  },
+  "I_SKIBOOI_C": {
+    "uk": "підручник",
+    "en": [
+      "skill book"
+    ]
+  },
+  "I_TYP_COMEQU_C": {
+    "uk": "бойове спорядження",
+    "en": [
+      "Combat equipment",
+      "equipment",
+      "weapons and armor",
+      "well-equipped",
+      "combat equipment"
+    ]
+  },
+  "I_TYP_INTPRO_C": {
+    "uk": "напівфабрикати",
+    "en": [
+      "intermediate wares",
+      "intermediate products"
+    ]
+  },
+  "I_TYP_INVITE_C": {
+    "uk": "предмети інвентарю",
+    "en": [
+      "Inventory Items",
+      "inventory items",
+      "items"
+    ]
+  },
+  "I_TYP_RAWMAT_C": {
+    "uk": "сировина",
+    "en": [
+      "raw materials",
+      "crafting materials"
+    ]
+  },
+  "I_TYP_RES_C": {
+    "uk": "ресурси",
+    "en": [
+      "resources"
+    ]
+  },
+  "L_BOOLAM_C": {
+    "uk": "книги й пасквілі",
+    "en": [
+      "Books and Lampoons"
+    ]
+  },
+  "L_LAWSEV_C": {
+    "uk": "суворість закону",
+    "en": [
+      "harsh"
+    ]
+  },
+  "L_LAW_C": {
+    "uk": "закони",
+    "en": [
+      "laws",
+      "Laws",
+      "Unlawful"
+    ]
+  },
+  "L_PER_C": {
+    "uk": "вживання парфумів",
+    "en": [
+      "Use of Perfume"
+    ]
+  },
+  "L_POT_C": {
+    "uk": "вживання настоянок",
+    "en": [
+      "Use of Potions"
+    ]
+  },
+  "L_SALTAX_C": {
+    "uk": "податок з продажу",
+    "en": [
+      "sales tax"
+    ]
+  },
+  "L_WITCRA_C": {
+    "uk": "закон про чаклунство",
+    "en": [
+      "Witchcraft Law"
+    ]
+  },
+  "O_CHA_C": {
+    "uk": "палата",
+    "en": [
+      "chamber"
+    ]
+  },
+  "O_CHA_CHUAUT_C": {
+    "uk": "церковна влада",
+    "en": [
+      "Church Authority",
+      "church authorities"
+    ]
+  },
+  "O_CHA_INF_C": {
+    "uk": "інформатори",
+    "en": [
+      "informants",
+      "Informants"
+    ]
+  },
+  "O_CHA_STAAUT_C": {
+    "uk": "державна влада",
+    "en": [
+      "State Authority"
+    ]
+  },
+  "O_CHA_TOWBAI_C": {
+    "uk": "міські бейліфи",
+    "en": [
+      "Town Bailiffs"
+    ]
+  },
+  "O_CHA_TOWCOU_C": {
+    "uk": "міська рада",
+    "en": [
+      "Town Council",
+      "Town Council's"
+    ]
+  },
+  "O_CHA_TOWSER_C": {
+    "uk": "міські служителі",
+    "en": [
+      "Town Servants",
+      "Town Servant"
+    ]
+  },
+  "O_CITTRE_C": {
+    "uk": "міська скарбниця",
+    "en": [
+      "city treasury"
+    ]
+  },
+  "O_ELE_C": {
+    "uk": "вибори",
+    "en": [
+      "election",
+      "apply for office",
+      "elections"
+    ]
+  },
+  "O_TYP_CIVOFF_C": {
+    "uk": "посада",
+    "en": [
+      "office",
+      "politics",
+      "officials",
+      "political",
+      "deacon",
+      "Political offices"
+    ]
+  },
+  "PM_ATT_C": {
+    "uk": "попит",
+    "en": [
+      "demand"
+    ]
+  },
+  "PM_CITSKILL_NEG_C": {
+    "uk": "угода",
+    "en": [
+      "deal"
+    ]
+  },
+  "PM_STOREV_C": {
+    "uk": "монета вдячності",
+    "en": [
+      "coin of appreciation"
+    ]
+  },
+  "P_ACTPRO_C": {
+    "uk": "активна професія",
+    "en": [
+      "active profession",
+      "Active Profession"
+    ]
+  },
+  "P_ALC_C": {
+    "uk": "алхімік",
+    "en": [
+      "Alchemist"
+    ]
+  },
+  "P_C": {
+    "uk": "професія",
+    "en": [
+      "profession",
+      "professions",
+      "business",
+      "license",
+      "smith",
+      "Profession"
+    ]
+  },
+  "P_GUA_C": {
+    "uk": "вартовий",
+    "en": [
+      "guards",
+      "Guard",
+      "Guards"
+    ]
+  },
+  "P_INN_C": {
+    "uk": "шинкар",
+    "en": [
+      "Innkeeper"
+    ]
+  },
+  "P_JOI_C": {
+    "uk": "столяр",
+    "en": [
+      "Joiner"
+    ]
+  },
+  "P_MASGRA_C": {
+    "uk": "ступінь майстерності",
+    "en": [
+      "Mastery Grade",
+      "Mastery Grades",
+      "Mastery"
+    ]
+  },
+  "P_MAS_C": {
+    "uk": "каменяр",
+    "en": [
+      "Stone Mason"
+    ]
+  },
+  "P_PER_C": {
+    "uk": "парфумер",
+    "en": [
+      "Perfumer"
+    ]
+  },
+  "P_PRE_C": {
+    "uk": "проповідник",
+    "en": [
+      "Preacher"
+    ]
+  },
+  "P_ROB_C": {
+    "uk": "розбійники",
+    "en": [
+      "Robbers",
+      "robbers"
+    ]
+  },
+  "P_SMI_C": {
+    "uk": "коваль",
+    "en": [
+      "Smith"
+    ]
+  },
+  "P_TAI_C": {
+    "uk": "кравець",
+    "en": [
+      "Tailor"
+    ]
+  },
+  "P_THI_C": {
+    "uk": "злодії",
+    "en": [
+      "thieves",
+      "Thieves"
+    ]
+  },
+  "QUAPEREFF_BUR_C": {
+    "uk": "зломи",
+    "en": [
+      "break-ins"
+    ]
+  },
+  "QUAPEREFF_ILL_C": {
+    "uk": "ризик хвороб",
+    "en": [
+      "risk of illnesses",
+      "sickness"
+    ]
+  },
+  "QUA_CRI_C": {
+    "uk": "рівень злочинності",
+    "en": [
+      "crime",
+      "crime rate",
+      "safe",
+      "Crime Rate",
+      "crime rates",
+      "dangerous areas"
+    ]
+  },
+  "QUA_DEV_C": {
+    "uk": "занепад і бруд",
+    "en": [
+      "ruin and filth",
+      "Filth and devastation",
+      "Ruin & Filth",
+      "devastation",
+      "Filth and Ruin"
+    ]
+  },
+  "QUA_HYG_C": {
+    "uk": "санітарія",
+    "en": [
+      "Sanitation",
+      "sanitation"
+    ]
+  },
+  "QUA_REP_C": {
+    "uk": "репутація",
+    "en": [
+      "reputation",
+      "Reputation"
+    ]
+  },
+  "QUA_UNR_C": {
+    "uk": "заворушення",
+    "en": [
+      "unrest",
+      "Unrest"
+    ]
+  },
+  "QUA_ZEA_C": {
+    "uk": "побожність",
+    "en": [
+      "Zeal"
+    ]
+  },
+  "SE_BLE_C": {
+    "uk": "благословення",
+    "en": [
+      "blessings"
+    ]
+  },
+  "ST_CAR_BADMAI_C": {
+    "uk": "занедбаний",
+    "en": [
+      "Neglected"
+    ]
+  },
+  "ST_CAR_BRO_C": {
+    "uk": "непридатний",
+    "en": [
+      "Broken Beyond Use"
+    ]
+  },
+  "ST_CAR_TERMAI_C": {
+    "uk": "розбитий",
+    "en": [
+      "Run-Down"
+    ]
+  },
+  "ST_CAR_WRE_C": {
+    "uk": "розтрощений",
+    "en": [
+      "Wrecked"
+    ]
+  },
+  "ST_CHR_DEAMAR_C": {
+    "uk": "смерть",
+    "en": [
+      "death"
+    ]
+  },
+  "ST_CHR_FERDEC_C": {
+    "uk": "спальня",
+    "en": [
+      "bedroom"
+    ]
+  },
+  "ST_CHR_IMP_C": {
+    "uk": "ув’язнення",
+    "en": [
+      "imprisoned",
+      "prisoner",
+      "freedom",
+      "imprisonment",
+      "Imprisoned"
+    ]
+  },
+  "ST_CHR_KNODOW_C": {
+    "uk": "збитий з ніг",
+    "en": [
+      "knocked down",
+      "tired"
+    ]
+  },
+  "ST_CHR_SIC_C": {
+    "uk": "хвороба",
+    "en": [
+      "illness",
+      "ill",
+      "sick",
+      "illnesses"
+    ]
+  },
+  "ST_CHR_TRALIVPER_C": {
+    "uk": "готовий до виступу",
+    "en": [
+      "stage-ready"
+    ]
+  },
+  "ST_INJ_C": {
+    "uk": "поранений",
+    "en": [
+      "injured",
+      "hurt"
+    ]
+  },
+  "ST_QTR_CRI_1_C": {
+    "uk": "сумнівний",
+    "en": [
+      "shadier",
+      "Shady"
+    ]
+  },
+  "ST_QTR_CRI_3_C": {
+    "uk": "небезпечний",
+    "en": [
+      "dangerous quarters",
+      "scheme"
+    ]
+  },
+  "ST_QTR_DEV_1_C": {
+    "uk": "занедбаний",
+    "en": [
+      "Poorly Maintained"
+    ]
+  },
+  "ST_QTR_DEV_3_C": {
+    "uk": "смердючий і згубний",
+    "en": [
+      "smell bad and kill you slowly"
+    ]
+  },
+  "ST_QTR_STRROA_C": {
+    "uk": "стан доріг",
+    "en": [
+      "passable roads",
+      "nearly at the gates",
+      "rough"
+    ]
+  },
+  "ST_QTR_UNR_1_C": {
+    "uk": "неспокійний",
+    "en": [
+      "Restless"
+    ]
+  },
+  "ST_QTR_ZEA_1_C": {
+    "uk": "побожний",
+    "en": [
+      "Piously Inclined"
+    ]
+  },
+  "ST_QTR_ZEA_3_C": {
+    "uk": "молитися",
+    "en": [
+      "pray"
+    ]
+  },
+  "ST_STR_BADMAI_C": {
+    "uk": "занедбаний",
+    "en": [
+      "neglected",
+      "Neglected"
+    ]
+  },
+  "ST_STR_DES_C": {
+    "uk": "покинутий",
+    "en": [
+      "Desolate"
+    ]
+  },
+  "ST_STR_RUI_C": {
+    "uk": "зруйнований",
+    "en": [
+      "Ruined"
+    ]
+  },
+  "ST_STR_TERMAI_C": {
+    "uk": "ветхий",
+    "en": [
+      "Dilapidated"
+    ]
+  },
+  "ST_STR_WORBAR_C": {
+    "uk": "щаслива година",
+    "en": [
+      "happy hour"
+    ]
+  },
+  "S_C": {
+    "uk": "навички",
+    "en": [
+      "skills",
+      "skill",
+      "skilled",
+      "Skills"
+    ]
+  },
+  "S_COM_C": {
+    "uk": "бойові навички",
+    "en": [
+      "martial",
+      "fight",
+      "toughest",
+      "Martial"
+    ]
+  },
+  "S_HAN_C": {
+    "uk": "ремесло",
+    "en": [
+      "handicraft",
+      "Handicraft"
+    ]
+  },
+  "S_NEG_C": {
+    "uk": "торг",
+    "en": [
+      "negotiation",
+      "negotiation skill",
+      "Negotiation"
+    ]
+  },
+  "S_RHE_C": {
+    "uk": "красномовство",
+    "en": [
+      "rhetoric",
+      "Rhetoric",
+      "convince",
+      "Rhetoric skill",
+      "arguments",
+      "convincing"
+    ]
+  },
+  "S_STE_C": {
+    "uk": "шахрайство",
+    "en": [
+      "roguery",
+      "roguish",
+      "Roguery",
+      "street-smart",
+      "silver-tongued",
+      "easy to fool"
+    ]
+  },
+  "TR_EXCBLO_C": {
+    "uk": "виняткова кров",
+    "en": [
+      "exceptional bloodline"
+    ]
+  },
+  "TR_STRBLO_C": {
+    "uk": "міцна кров",
+    "en": [
+      "strong"
+    ]
+  },
+  "TUT_TOO_1_C": {
+    "uk": "виділений текст",
+    "en": [
+      "highlighted text"
+    ]
+  },
+  "TUT_TOO_2_C": {
+    "uk": "виділений текст",
+    "en": [
+      "highlighted text"
+    ]
+  },
+  "T_C": {
+    "uk": "титул",
+    "en": [
+      "title",
+      "titles",
+      "wealthy",
+      "Claim Next Title",
+      "Title",
+      "ranks of society"
+    ]
+  },
+  "T_FULCIT_C": {
+    "uk": "міщанин",
+    "en": [
+      "burgher",
+      "citizenship",
+      "Burgher"
+    ]
+  },
+  "T_NOB_C": {
+    "uk": "дворянин",
+    "en": [
+      "noble",
+      "noble title"
+    ]
+  },
+  "WORHOU_C": {
+    "uk": "робочі години",
+    "en": [
+      "working hours"
+    ]
+  },
+  "WOR_SAL_C": {
+    "uk": "платня",
+    "en": [
+      "Salary"
+    ]
+  },
+  "WOR_TRE_C": {
+    "uk": "ставлення",
+    "en": [
+      "Treatment",
+      "treating"
+    ]
+  }
+}
