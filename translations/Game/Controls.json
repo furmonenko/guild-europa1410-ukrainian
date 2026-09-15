@@ -1,0 +1,434 @@
+{
+  "Ampersand": {
+    "en": "Ampersand",
+    "uk": "Амперсанд"
+  },
+  "AnyKey": {
+    "en": "Any Key",
+    "uk": "Будь-яка клавіша"
+  },
+  "Apostrophe": {
+    "en": "Apostrophe",
+    "uk": "Апостроф"
+  },
+  "Asterix": {
+    "en": "Asterisk",
+    "uk": "Зірочка"
+  },
+  "Backslash": {
+    "en": "Backslash",
+    "uk": "Обернена похила риска"
+  },
+  "BackSpace": {
+    "en": "Backspace",
+    "uk": "Backspace"
+  },
+  "CapsLockShort": {
+    "en": "Caps",
+    "uk": "Caps"
+  },
+  "CapsLock": {
+    "en": "Caps Lock",
+    "uk": "Caps Lock"
+  },
+  "Caret": {
+    "en": "Caret",
+    "uk": "Дашок"
+  },
+  "Colon": {
+    "en": "Colon",
+    "uk": "Двокрапка"
+  },
+  "Comma": {
+    "en": "Comma",
+    "uk": "Кома"
+  },
+  "DeleteShort": {
+    "en": "Del",
+    "uk": "Del"
+  },
+  "Delete": {
+    "en": "Delete",
+    "uk": "Delete"
+  },
+  "Dollar": {
+    "en": "Dollar",
+    "uk": "Долар"
+  },
+  "LeftMouseButton_Click_Double": {
+    "en": "Double left-click",
+    "uk": "Подвійне клацання лівою кнопкою"
+  },
+  "Down": {
+    "en": "Down",
+    "uk": "Стрілка вниз"
+  },
+  "End": {
+    "en": "End",
+    "uk": "End"
+  },
+  "Enter": {
+    "en": "Enter",
+    "uk": "Enter"
+  },
+  "Equals": {
+    "en": "Equals",
+    "uk": "Знак рівності"
+  },
+  "EscapeShort": {
+    "en": "Esc",
+    "uk": "Esc"
+  },
+  "Escape": {
+    "en": "Escape",
+    "uk": "Escape"
+  },
+  "Exclamation": {
+    "en": "Exclamation Point",
+    "uk": "Знак оклику"
+  },
+  "F1": {
+    "en": "F1",
+    "uk": "F1"
+  },
+  "F10": {
+    "en": "F10",
+    "uk": "F10"
+  },
+  "F11": {
+    "en": "F11",
+    "uk": "F11"
+  },
+  "F12": {
+    "en": "F12",
+    "uk": "F12"
+  },
+  "F2": {
+    "en": "F2",
+    "uk": "F2"
+  },
+  "F3": {
+    "en": "F3",
+    "uk": "F3"
+  },
+  "F4": {
+    "en": "F4",
+    "uk": "F4"
+  },
+  "F5": {
+    "en": "F5",
+    "uk": "F5"
+  },
+  "F6": {
+    "en": "F6",
+    "uk": "F6"
+  },
+  "F7": {
+    "en": "F7",
+    "uk": "F7"
+  },
+  "F8": {
+    "en": "F8",
+    "uk": "F8"
+  },
+  "F9": {
+    "en": "F9",
+    "uk": "F9"
+  },
+  "ForwardDelete": {
+    "en": "Fn+Delete",
+    "uk": "Fn+Delete"
+  },
+  "Home": {
+    "en": "Home",
+    "uk": "Home"
+  },
+  "Hyphen": {
+    "en": "Hyphen",
+    "uk": "Дефіс"
+  },
+  "InsertShort": {
+    "en": "Ins",
+    "uk": "Ins"
+  },
+  "Insert": {
+    "en": "Insert",
+    "uk": "Insert"
+  },
+  "KeyboardSubCategory": {
+    "en": "Keyboard",
+    "uk": "Клавіатура"
+  },
+  "LeftMouseButtonShort": {
+    "en": "LMB",
+    "uk": "ЛКМ"
+  },
+  "Left": {
+    "en": "Left",
+    "uk": "Стрілка вліво"
+  },
+  "LeftAlt": {
+    "en": "Left Alt",
+    "uk": "Лівий Alt"
+  },
+  "LeftBracket": {
+    "en": "Left Bracket",
+    "uk": "Ліва квадратна дужка"
+  },
+  "LeftCommand": {
+    "en": "Left Cmd",
+    "uk": "Лівий Cmd"
+  },
+  "LeftControl": {
+    "en": "Left Ctrl",
+    "uk": "Лівий Ctrl"
+  },
+  "LeftMouseButton": {
+    "en": "Left Mouse Button",
+    "uk": "Ліва кнопка миші"
+  },
+  "LeftParantheses": {
+    "en": "Left Paranthesis",
+    "uk": "Ліва дужка"
+  },
+  "LeftShift": {
+    "en": "Left Shift",
+    "uk": "Лівий Shift"
+  },
+  "LeftMouseButton_Click": {
+    "en": "Left-click",
+    "uk": "Клацніть лівою кнопкою"
+  },
+  "LeftMouseButton_Click_Repeatedly": {
+    "en": "Left-click at intervals",
+    "uk": "Клацайте лівою кнопкою з інтервалами"
+  },
+  "LeftMouseButton_Click_Repeatedly_alt": {
+    "en": "Left-click repeatedly, with a short pause between each click",
+    "uk": "Клацайте лівою кнопкою повторно з короткою паузою між клацаннями"
+  },
+  "LeftMouseButton_Click_HighlightedArea": {
+    "en": "Left-click within the highlighted area",
+    "uk": "Клацніть лівою кнопкою в межах виділеної області"
+  },
+  "LeftMouseButton_HoldAndDrag": {
+    "en": "Left-click, hold and drag",
+    "uk": "Клацніть лівою кнопкою, утримуйте та перетягніть"
+  },
+  "MiddleMouseButton": {
+    "en": "Middle Mouse Button",
+    "uk": "Середня кнопка миші"
+  },
+  "MiddleMouseButton_Click": {
+    "en": "Middle-click",
+    "uk": "Клацніть середньою кнопкою"
+  },
+  "MouseSubCategory": {
+    "en": "Mouse",
+    "uk": "Миша"
+  },
+  "MouseWheel": {
+    "en": "Mouse Wheel",
+    "uk": "Коліщатко миші"
+  },
+  "MouseWheelAxis": {
+    "en": "Mouse Wheel Axis",
+    "uk": "Вісь коліщатка миші"
+  },
+  "MouseScrollDown": {
+    "en": "Mouse Wheel Down",
+    "uk": "Коліщатко миші вниз"
+  },
+  "MouseScrollUp": {
+    "en": "Mouse Wheel Up",
+    "uk": "Коліщатко миші вгору"
+  },
+  "MouseX": {
+    "en": "Mouse X",
+    "uk": "Миша X"
+  },
+  "Mouse2D": {
+    "en": "Mouse XY 2D-Axis",
+    "uk": "Миша XY (2D-вісь)"
+  },
+  "MouseY": {
+    "en": "Mouse Y",
+    "uk": "Миша Y"
+  },
+  "Multiply": {
+    "en": "Num *",
+    "uk": "Num *"
+  },
+  "Add": {
+    "en": "Num +",
+    "uk": "Num +"
+  },
+  "Subtract": {
+    "en": "Num -",
+    "uk": "Num -"
+  },
+  "Decimal": {
+    "en": "Num .",
+    "uk": "Num ."
+  },
+  "Divide": {
+    "en": "Num /",
+    "uk": "Num /"
+  },
+  "NumPadZero": {
+    "en": "Num 0",
+    "uk": "Num 0"
+  },
+  "NumPadOne": {
+    "en": "Num 1",
+    "uk": "Num 1"
+  },
+  "NumPadTwo": {
+    "en": "Num 2",
+    "uk": "Num 2"
+  },
+  "NumPadThree": {
+    "en": "Num 3",
+    "uk": "Num 3"
+  },
+  "NumPadFour": {
+    "en": "Num 4",
+    "uk": "Num 4"
+  },
+  "NumPadFive": {
+    "en": "Num 5",
+    "uk": "Num 5"
+  },
+  "NumPadSix": {
+    "en": "Num 6",
+    "uk": "Num 6"
+  },
+  "NumPadSeven": {
+    "en": "Num 7",
+    "uk": "Num 7"
+  },
+  "NumPadEight": {
+    "en": "Num 8",
+    "uk": "Num 8"
+  },
+  "NumPadNine": {
+    "en": "Num 9",
+    "uk": "Num 9"
+  },
+  "NumLock": {
+    "en": "Num Lock",
+    "uk": "Num Lock"
+  },
+  "PageDown": {
+    "en": "Page Down",
+    "uk": "Page Down"
+  },
+  "PageUp": {
+    "en": "Page Up",
+    "uk": "Page Up"
+  },
+  "Pause": {
+    "en": "Pause",
+    "uk": "Pause"
+  },
+  "Period": {
+    "en": "Period",
+    "uk": "Крапка"
+  },
+  "PageDownShort": {
+    "en": "PgDn",
+    "uk": "PgDn"
+  },
+  "PageUpShort": {
+    "en": "PgUp",
+    "uk": "PgUp"
+  },
+  "Quote": {
+    "en": "Quote",
+    "uk": "Лапки"
+  },
+  "RightMouseButtonShort": {
+    "en": "RMB",
+    "uk": "ПКМ"
+  },
+  "Right": {
+    "en": "Right",
+    "uk": "Стрілка вправо"
+  },
+  "RightAlt": {
+    "en": "Right Alt",
+    "uk": "Правий Alt"
+  },
+  "RightBracket": {
+    "en": "Right Bracket",
+    "uk": "Права квадратна дужка"
+  },
+  "RightCommand": {
+    "en": "Right Cmd",
+    "uk": "Правий Cmd"
+  },
+  "RightControl": {
+    "en": "Right Ctrl",
+    "uk": "Правий Ctrl"
+  },
+  "RightMouseButton": {
+    "en": "Right Mouse Button",
+    "uk": "Права кнопка миші"
+  },
+  "RightParantheses": {
+    "en": "Right Paranthesis",
+    "uk": "Права дужка"
+  },
+  "RightShift": {
+    "en": "Right Shift",
+    "uk": "Правий Shift"
+  },
+  "RightMouseButton_Click": {
+    "en": "Right-click",
+    "uk": "Клацніть правою кнопкою"
+  },
+  "ScrollLock": {
+    "en": "Scroll Lock",
+    "uk": "Scroll Lock"
+  },
+  "MouseWheel_alt": {
+    "en": "Scroll Up/Down",
+    "uk": "Прокрутка вгору/вниз"
+  },
+  "Semicolon": {
+    "en": "Semicolon",
+    "uk": "Крапка з комою"
+  },
+  "Slash": {
+    "en": "Slash",
+    "uk": "Похила риска"
+  },
+  "SpaceBarShort": {
+    "en": "Space",
+    "uk": "Пробіл"
+  },
+  "SpaceBar": {
+    "en": "Space Bar",
+    "uk": "Пробіл"
+  },
+  "Tab": {
+    "en": "Tab",
+    "uk": "Tab"
+  },
+  "ThumbMouseButton": {
+    "en": "Thumb Mouse Button",
+    "uk": "Бічна кнопка миші"
+  },
+  "ThumbMouseButton2": {
+    "en": "Thumb Mouse Button 2",
+    "uk": "Бічна кнопка миші 2"
+  },
+  "Underscore": {
+    "en": "Underscore",
+    "uk": "Підкреслення"
+  },
+  "Up": {
+    "en": "Up",
+    "uk": "Стрілка вгору"
+  }
+}

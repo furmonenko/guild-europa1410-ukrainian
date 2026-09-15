@@ -1,0 +1,902 @@
+{
+  "Speed_Slow": {
+    "en": "1 (Slow)",
+    "uk": "1 (Повільно)"
+  },
+  "Speed_Insane": {
+    "en": "10 (Insane)",
+    "uk": "10 (Шалено)"
+  },
+  "Speed_SlowPlus": {
+    "en": "2 (Slow+)",
+    "uk": "2 (Повільно+)"
+  },
+  "Speed_SlowPlusPlus": {
+    "en": "3 (Slow++)",
+    "uk": "3 (Повільно++)"
+  },
+  "Audio_HeadphoneMode_Name": {
+    "en": "3D Headphones",
+    "uk": "3D-навушники"
+  },
+  "Video_Display_Resolution_Scale_Name": {
+    "en": "3D Resolution",
+    "uk": "3D-роздільна здатність"
+  },
+  "Video_Display_Resolution_Scale_Description": {
+    "en": "3D resolution determines the resolution that objects are rendered in game, but does not affect the main menu. Lower resolutions can significantly increase frame rate.",
+    "uk": "3D-роздільна здатність визначає, з якою роздільною здатністю рендеряться об'єкти в грі, але не впливає на головне меню. Нижчі значення можуть суттєво підвищити частоту кадрів."
+  },
+  "Speed_Normal": {
+    "en": "4 (Normal)",
+    "uk": "4 (Звичайно)"
+  },
+  "Speed_NormalPlus": {
+    "en": "5 (Normal+)",
+    "uk": "5 (Звичайно+)"
+  },
+  "Speed_NormalPlusPlus": {
+    "en": "6 (Normal++)",
+    "uk": "6 (Звичайно++)"
+  },
+  "Speed_Fast": {
+    "en": "7 (Fast)",
+    "uk": "7 (Швидко)"
+  },
+  "Speed_FastPlus": {
+    "en": "8 (Fast+)",
+    "uk": "8 (Швидко+)"
+  },
+  "Speed_FastPlusPlus": {
+    "en": "9 (Fast++)",
+    "uk": "9 (Швидко++)"
+  },
+  "Video_Brightness_Description": {
+    "en": "Adjusts the brightness.",
+    "uk": "Регулює яскравість."
+  },
+  "UserInterface_CursorScale_Description": {
+    "en": "Adjusts the size of the mouse cursor.",
+    "uk": "Змінює розмір курсора миші."
+  },
+  "UserInterface_Scale_Description": {
+    "en": "Adjusts the size of user interface elements.",
+    "uk": "Змінює розмір елементів інтерфейсу користувача."
+  },
+  "Audio_Volume_UI_Description": {
+    "en": "Adjusts the volume of UI sounds.",
+    "uk": "Регулює гучність звуків інтерфейсу."
+  },
+  "Audio_Volume_Master_Description": {
+    "en": "Adjusts the volume of everything.",
+    "uk": "Регулює загальну гучність."
+  },
+  "Audio_Volume_Music_Description": {
+    "en": "Adjusts the volume of music.",
+    "uk": "Регулює гучність музики."
+  },
+  "Audio_Volume_SoundEffects_Description": {
+    "en": "Adjusts the volume of sound effects.",
+    "uk": "Регулює гучність звукових ефектів."
+  },
+  "Audio_Volume_Dialogue_Description": {
+    "en": "Adjusts the volume of spoken dialogue.",
+    "uk": "Регулює гучність озвучених діалогів."
+  },
+  "Video_AdvancedGraphics_Name": {
+    "en": "Advanced Graphics",
+    "uk": "Розширена графіка"
+  },
+  "Control_LookSensitivityPresetAds_Name": {
+    "en": "Aim Sensitivity (ADS)",
+    "uk": "Чутливість прицілювання (ADS)"
+  },
+  "Audio_EGuildAllowBackgroundAudioSetting_AllSounds": {
+    "en": "All Sounds",
+    "uk": "Усі звуки"
+  },
+  "Video_AntiAliasing_Name": {
+    "en": "Anti-Aliasing",
+    "uk": "Згладжування"
+  },
+  "Video_AntiAliasing_Description": {
+    "en": "Anti-Aliasing reduces jaggy artifacts along geometry edges. Increasing this setting will make edges look smoother, but can reduce performance. Higher settings mean more anti-aliasing.",
+    "uk": "Згладжування зменшує ефект «сходинок» на краях геометрії. Збільшення цього параметра робить краї плавнішими, але може знизити продуктивність. Що вище значення, то сильніше згладжування."
+  },
+  "Audio_Collection_Name": {
+    "en": "Audio",
+    "uk": "Звук"
+  },
+  "Language_AudioLanguage_Name": {
+    "en": "Audio Language",
+    "uk": "Мова озвучення"
+  },
+  "Audio_OutputDevice_Name": {
+    "en": "Audio Output Device",
+    "uk": "Пристрій виводу звуку"
+  },
+  "Video_Graphics_AutoSetQuality_Action": {
+    "en": "Auto-Set",
+    "uk": "Автоналаштування"
+  },
+  "Video_Graphics_AutoSetQuality_Name": {
+    "en": "Auto-Set Quality",
+    "uk": "Автоналаштування якості"
+  },
+  "Video_Graphics_AutoSetQuality_Description": {
+    "en": "Automatically configure the graphics quality options based on a benchmark of the hardware.",
+    "uk": "Автоматично налаштовує параметри якості графіки на основі тестування апаратного забезпечення."
+  },
+  "Audio_BackgroundAudio_Name": {
+    "en": "Background Audio",
+    "uk": "Звук у фоновому режимі"
+  },
+  "Video_UpscalingMode_Balanced": {
+    "en": "Balanced",
+    "uk": "Збалансований"
+  },
+  "Control_DynamicDetails_KeyboardInputAction": {
+    "en": "Bindings for {0}",
+    "uk": "Призначення клавіш для {0}"
+  },
+  "Video_Brightness_Name": {
+    "en": "Brightness",
+    "uk": "Яскравість"
+  },
+  "Control_CameraEdgeMovement_Name": {
+    "en": "Camera Edge Scrolling",
+    "uk": "Прокручування камери біля краю"
+  },
+  "Control_CameraParallax_Name": {
+    "en": "Camera Parallax",
+    "uk": "Паралакс камери"
+  },
+  "Audio_OutputDevice_Description": {
+    "en": "Changes the audio output device for game audio, not voice chat.",
+    "uk": "Змінює пристрій виводу для звуку гри, але не для голосового чату."
+  },
+  "Control_KeyBinding_CloseAllWindows_Name": {
+    "en": "Close All Windows",
+    "uk": "Закрити всі вікна"
+  },
+  "Control_KeyBinding_CloseTopWindow_Name": {
+    "en": "Close Top Window",
+    "uk": "Закрити верхнє вікно"
+  },
+  "ColorBlindMode_Name": {
+    "en": "Color Blind Mode",
+    "uk": "Режим для дальтоніків"
+  },
+  "ColorBlindStrength_Name": {
+    "en": "Color Blind Strength",
+    "uk": "Сила корекції кольору"
+  },
+  "Subtitles_Setting_Description": {
+    "en": "Configure the visual appearance of subtitles.",
+    "uk": "Налаштуйте зовнішній вигляд субтитрів."
+  },
+  "Control_DeadZone_Collection_Name": {
+    "en": "Controller Dead Zone",
+    "uk": "Мертва зона контролера"
+  },
+  "Control_ControllerHardware_Name": {
+    "en": "Controller Hardware",
+    "uk": "Тип контролера"
+  },
+  "Control_GamepadBinding_Collection_Name": {
+    "en": "Controls",
+    "uk": "Керування"
+  },
+  "Video_CharacterDensityQuality_Name": {
+    "en": "Crowd Density",
+    "uk": "Щільність натовпу"
+  },
+  "Option_Custom": {
+    "en": "Custom",
+    "uk": "Користувацька"
+  },
+  "Video_UpscalingMode_DLSS": {
+    "en": "DLSS",
+    "uk": "DLSS"
+  },
+  "GuildInputDefaults": {
+    "en": "Default Experiences",
+    "uk": "Типові прив'язки"
+  },
+  "Audio_DefaultAudioOutputDevice": {
+    "en": "Default Output - {0}",
+    "uk": "Стандартний вивід – {0}"
+  },
+  "Video_UpscalingQuality_Description": {
+    "en": "Determines which upscaling quality level is used for the selected upscaling system.",
+    "uk": "Визначає, який рівень якості масштабування використовується для обраної системи масштабування."
+  },
+  "ColorBlindMode_Deuteranope": {
+    "en": "Deuteranope",
+    "uk": "Дейтеранопія"
+  },
+  "Audio_Volume_Dialogue_Name": {
+    "en": "Dialogue",
+    "uk": "Діалоги"
+  },
+  "Video_Display_Collection_Name": {
+    "en": "Display",
+    "uk": "Екран"
+  },
+  "Video_Display_Resolution_Description": {
+    "en": "Display Resolution determines the size of the window in Windowed mode. In Fullscreen mode, Display Resolution determines the graphics card output resolution, which can result in black bars depending on monitor and graphics card. Display Resolution is inactive in Windowed Fullscreen mode.",
+    "uk": "Роздільна здатність екрана визначає розмір вікна в режимі вікна. У повноекранному режимі роздільна здатність екрана визначає вихідну роздільну здатність відеокарти, що залежно від монітора та відеокарти може призвести до появи чорних смуг. У режимі без рамки роздільна здатність екрана неактивна."
+  },
+  "Control_MouseDoubleClickDelay_Name": {
+    "en": "Double-click Delay",
+    "uk": "Затримка подвійного клацання"
+  },
+  "Video_VisualEffectQuality_Name": {
+    "en": "Effects",
+    "uk": "Ефекти"
+  },
+  "Video_VisualEffectQuality_Description": {
+    "en": "Effects determines the quality of visual effects and lighting in game. Increasing this setting will increase the quality of visual effects, but can reduce performance.",
+    "uk": "«Ефекти» визначає якість візуальних ефектів та освітлення в грі. Збільшення цього параметра підвищує якість візуальних ефектів, але може знизити продуктивність."
+  },
+  "Audio_HeadphoneMode_Description": {
+    "en": "Enable binaural audio. Provides 3D audio spatialization, so you can hear the location of sounds more precisely, including above, below, and behind you. Recommended for use with stereo headphones only.",
+    "uk": "Увімкнути бінауральний звук. Забезпечує просторове 3D-звучання, завдяки чому ви точніше чуєте розташування джерел звуку, зокрема зверху, знизу та позаду. Рекомендується використовувати лише зі стереонавушниками."
+  },
+  "Audio_HDRAudioMode_Description": {
+    "en": "Enable high dynamic range audio. Changes the runtime processing chain to increase the dynamic range of the audio mixdown, appropriate for theater or more cinematic experiences.",
+    "uk": "Увімкнути звук із високим динамічним діапазоном. Змінює ланцюжок обробки звуку в реальному часі, щоб збільшити динамічний діапазон мікшування, що підходить для кінотеатрального або більш кінематографічного враження."
+  },
+  "Control_InvertHorizontalAxis_Description": {
+    "en": "Enable the inversion of the Horizontal look axis.",
+    "uk": "Вмикає інвертування горизонтальної осі огляду."
+  },
+  "Control_InvertVerticalAxis_Description": {
+    "en": "Enable the inversion of the Vertical look axis.",
+    "uk": "Вмикає інвертування вертикальної осі огляду."
+  },
+  "Video_NaniteTessellation_Description": {
+    "en": "Enables Nanite tessellation.",
+    "uk": "Вмикає теселяцію Nanite."
+  },
+  "Control_CameraParallax_Description": {
+    "en": "Enables slight camera movement when you move the mouse in certain scenes.",
+    "uk": "Вмикає легкий рух камери під час руху миші в певних сценах."
+  },
+  "Video_VerticalSync_Description": {
+    "en": "Enabling Vertical Sync eliminates screen tearing by always rendering and presenting a full frame. Disabling Vertical Sync can give higher frame rate and better input response, but can result in horizontal screen tearing.",
+    "uk": "Увімкнення вертикальної синхронізації усуває розриви зображення, оскільки завжди рендериться й показується повний кадр. Вимкнення вертикальної синхронізації може підвищити частоту кадрів і покращити реакцію на введення, але може спричинити горизонтальні розриви зображення."
+  },
+  "Option_Epic": {
+    "en": "Epic",
+    "uk": "Епічна"
+  },
+  "Video_UpscalingMode_FSR": {
+    "en": "FSR",
+    "uk": "FSR"
+  },
+  "Video_ViewDistance_Far": {
+    "en": "Far",
+    "uk": "Далека"
+  },
+  "Video_FrameRateLimit_Always_Name": {
+    "en": "Frame Rate Limit",
+    "uk": "Обмеження частоти кадрів"
+  },
+  "Video_FrameRateLimit_WhenBackgrounded_Name": {
+    "en": "Frame Rate Limit (Background)",
+    "uk": "Обмеження частоти кадрів (фон)"
+  },
+  "Video_FrameRateLimit_InMenu_Name": {
+    "en": "Frame Rate Limit (Menu)",
+    "uk": "Обмеження частоти кадрів (меню)"
+  },
+  "Video_FrameRateLimit_OnBattery_Name": {
+    "en": "Frame Rate Limit (On Battery)",
+    "uk": "Обмеження частоти кадрів (живлення від батареї)"
+  },
+  "Video_FrameRateLimit_Always_Description": {
+    "en": "Frame rate limit sets the highest frame rate that is allowed. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.",
+    "uk": "Обмеження частоти кадрів встановлює максимально допустиму частоту кадрів. Установіть нижче значення для стабільнішої частоти кадрів або вище значення для найкращого враження на потужніших системах. Можливо, доведеться вимкнути V-Sync, щоб досягти високої частоти кадрів."
+  },
+  "Video_FrameRateLimit_WhenBackgrounded_Description": {
+    "en": "Frame rate limit when in the background. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.",
+    "uk": "Обмеження частоти кадрів у фоновому режимі. Установіть нижче значення для стабільнішої частоти кадрів або вище значення для найкращого враження на потужніших системах. Можливо, доведеться вимкнути V-Sync, щоб досягти високої частоти кадрів."
+  },
+  "Video_FrameRateLimit_InMenu_Description": {
+    "en": "Frame rate limit when in the menu. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.",
+    "uk": "Обмеження частоти кадрів у меню. Установіть нижче значення для стабільнішої частоти кадрів або вище значення для найкращого враження на потужніших системах. Можливо, доведеться вимкнути V-Sync, щоб досягти високої частоти кадрів."
+  },
+  "Video_FrameRateLimit_OnBattery_Description": {
+    "en": "Frame rate limit when running on battery. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.",
+    "uk": "Обмеження частоти кадрів під час роботи від батареї. Установіть нижче значення для стабільнішої частоти кадрів або вище значення для найкращого враження на потужніших системах. Можливо, доведеться вимкнути V-Sync, щоб досягти високої частоти кадрів."
+  },
+  "Video_WindowMode_Fullscreen": {
+    "en": "Fullscreen",
+    "uk": "Повноекранний"
+  },
+  "Game_Collection_Name": {
+    "en": "Game",
+    "uk": "Гра"
+  },
+  "Control_Gamepad_Collection_Name": {
+    "en": "Gamepad",
+    "uk": "Геймпад"
+  },
+  "Gameplay_Collection_Name": {
+    "en": "Gameplay",
+    "uk": "Ігровий процес"
+  },
+  "Video_GlobalIlluminationQuality_Name": {
+    "en": "Global Illumination",
+    "uk": "Глобальне освітлення"
+  },
+  "Video_GlobalIlluminationQuality_Description": {
+    "en": "Global Illumination controls the quality of dynamically calculated indirect lighting bounces, sky shadowing and Ambient Occlusion. Settings of 'High' and above use more accurate ray tracing methods to solve lighting, but can reduce performance.",
+    "uk": "Глобальне освітлення керує якістю динамічно розрахованих відбитих світлових променів, тіней від неба та навколишнього затінення (Ambient Occlusion). Значення «Висока» і вище використовують точніші методи трасування променів для розрахунку освітлення, що може знизити продуктивність."
+  },
+  "Video_Graphics_Collection_Name": {
+    "en": "Graphics",
+    "uk": "Графіка"
+  },
+  "Video_GraphicsQuality_Name": {
+    "en": "Graphics Quality",
+    "uk": "Якість графіки"
+  },
+  "Control_Hardware_Collection_Name": {
+    "en": "Hardware",
+    "uk": "Обладнання"
+  },
+  "Option_High": {
+    "en": "High",
+    "uk": "Висока"
+  },
+  "Audio_HDRAudioMode_Name": {
+    "en": "High Dynamic Range Audio",
+    "uk": "Звук із високим динамічним діапазоном"
+  },
+  "Video_CharacterDensityQuality_Description": {
+    "en": "How many characters are visible in game.",
+    "uk": "Визначає, скільки персонажів відображається в грі."
+  },
+  "Control_LookSensitivityPresetAds_Description": {
+    "en": "How quickly your view rotates while aiming down sights (ADS).",
+    "uk": "Визначає, наскільки швидко обертається огляд під час прицілювання (ADS)."
+  },
+  "Control_LookSensitivityPreset_Description": {
+    "en": "How quickly your view rotates.",
+    "uk": "Визначає, наскільки швидко обертається огляд."
+  },
+  "Video_WindowMode_Description": {
+    "en": "In Windowed mode you can interact with other windows more easily, and drag the edges of the window to set the size. In Windowed Fullscreen mode you can easily switch between applications. In Fullscreen mode you cannot interact with other windows as easily, but the game will run slightly faster.",
+    "uk": "У режимі вікна ви можете простіше взаємодіяти з іншими вікнами та змінювати розмір вікна, перетягуючи його краї. У режимі без рамки можна легко перемикатися між застосунками. У повноекранному режимі взаємодіяти з іншими вікнами складніше, зате гра працює трохи швидше."
+  },
+  "Control_LookStickDeadZone_Description": {
+    "en": "Increase or decrease the area surrounding the stick that we ignore input from. Setting this value too low may result in the camera continuing to move even after removing your finger from the stick.",
+    "uk": "Збільшує або зменшує область навколо стіка, в якій вводи ігноруються. Якщо встановити занадто низьке значення, камера може продовжувати рухатися навіть після того, як ви відпустите стік."
+  },
+  "Control_MoveStickDeadZone_Description": {
+    "en": "Increase or decrease the area surrounding the stick that we ignore input from. Setting this value too low may result in the character continuing to move even after removing your finger from the stick.",
+    "uk": "Збільшує або зменшує область навколо стіка, в якій вводи ігноруються. Якщо встановити занадто низьке значення, персонаж може продовжувати рухатися навіть після того, як ви відпустите стік."
+  },
+  "Control_InputInfo_Collection_Name": {
+    "en": "Interaction Guide",
+    "uk": "Довідник взаємодії"
+  },
+  "Control_InvertHorizontalAxis_Name": {
+    "en": "Invert Horizontal Axis",
+    "uk": "Інвертувати горизонтальну вісь"
+  },
+  "Control_InvertVerticalAxis_Name": {
+    "en": "Invert Vertical Axis",
+    "uk": "Інвертувати вертикальну вісь"
+  },
+  "Control_KeyBinding_Collection_Name_alt": {
+    "en": "Keybinding",
+    "uk": "Призначення клавіш"
+  },
+  "Control_KeyBinding_Collection_Name": {
+    "en": "Keyboard & Mouse",
+    "uk": "Клавіатура і миша"
+  },
+  "Language_Collection_Name": {
+    "en": "Language",
+    "uk": "Мова"
+  },
+  "Language_Changed_Warning_Title": {
+    "en": "Language Changed",
+    "uk": "Мову змінено"
+  },
+  "Option_Large": {
+    "en": "Large",
+    "uk": "Велика"
+  },
+  "Input_Key_Gamepad_LeftStick": {
+    "en": "Left Stick",
+    "uk": "Лівий стік"
+  },
+  "Control_MoveStickDeadZone_Name": {
+    "en": "Left Stick Dead Zone",
+    "uk": "Мертва зона лівого стіка"
+  },
+  "Control_LockMouseToViewport_Name": {
+    "en": "Lock Mouse to Window",
+    "uk": "Заблокувати мишу у вікні"
+  },
+  "Control_LockMouseToViewport_Description": {
+    "en": "Locks mouse cursor to the application window.",
+    "uk": "Обмежує курсор миші межами вікна застосунку."
+  },
+  "Control_LookSensitivityPreset_Name": {
+    "en": "Look Sensitivity",
+    "uk": "Чутливість огляду"
+  },
+  "Option_Low": {
+    "en": "Low",
+    "uk": "Низька"
+  },
+  "Audio_Volume_Master_Name": {
+    "en": "Master",
+    "uk": "Загальна"
+  },
+  "Option_Medium": {
+    "en": "Medium",
+    "uk": "Середня"
+  },
+  "Control_MouseAndKeyboard_Collection_Name": {
+    "en": "Mouse & Keyboard",
+    "uk": "Миша і клавіатура"
+  },
+  "UserInterface_CursorScale_Name": {
+    "en": "Mouse Cursor Size",
+    "uk": "Розмір курсора миші"
+  },
+  "Input_Key_Mouse_Wheel": {
+    "en": "Mouse Wheel",
+    "uk": "Коліщатко миші"
+  },
+  "Control_CameraEdgeMovement_Description": {
+    "en": "Move camera when cursor is near the edge of the game window.",
+    "uk": "Переміщує камеру, коли курсор перебуває біля краю вікна гри."
+  },
+  "Audio_Volume_Music_Name": {
+    "en": "Music",
+    "uk": "Музика"
+  },
+  "Video_NaniteTessellation_Name": {
+    "en": "Nanite tessellation",
+    "uk": "Теселяція Nanite"
+  },
+  "Video_ViewDistance_Near": {
+    "en": "Near",
+    "uk": "Близька"
+  },
+  "Option_Normal": {
+    "en": "Normal",
+    "uk": "Звичайна"
+  },
+  "Option_Off": {
+    "en": "Off",
+    "uk": "Вимкнено"
+  },
+  "Option_On": {
+    "en": "On",
+    "uk": "Увімкнено"
+  },
+  "Control_KeyBinding_OpenGuildopedia_Name": {
+    "en": "Open City Archives",
+    "uk": "Відкрити архів міста"
+  },
+  "Control_KeyBinding_OpenPauseMenu_Name": {
+    "en": "Open Pause Menu",
+    "uk": "Відкрити меню паузи"
+  },
+  "Subtitles_Setting_Navigation": {
+    "en": "Options",
+    "uk": "Параметри"
+  },
+  "Control_KeyBinding_CameraBackward_Name": {
+    "en": "Pan Camera Backward",
+    "uk": "Пересунути камеру назад"
+  },
+  "Control_KeyBinding_CameraForward_Name": {
+    "en": "Pan Camera Forward",
+    "uk": "Пересунути камеру вперед"
+  },
+  "Control_KeyBinding_CameraLeft_Name": {
+    "en": "Pan Camera Left",
+    "uk": "Пересунути камеру ліворуч"
+  },
+  "Control_KeyBinding_CameraRight_Name": {
+    "en": "Pan Camera Right",
+    "uk": "Пересунути камеру праворуч"
+  },
+  "Game_PauseOnTurnStartMP_Name": {
+    "en": "Pause on turn start (Multiplayer)",
+    "uk": "Пауза на початку ходу (Мультиплеєр)"
+  },
+  "Game_PauseOnTurnStartSP_Name": {
+    "en": "Pause on turn start (Singleplayer)",
+    "uk": "Пауза на початку ходу (Одиночна гра)"
+  },
+  "Game_PauseOnTurnStartMP_Description": {
+    "en": "Pause the game at the start of the next turn in multiplayer.",
+    "uk": "Ставить гру на паузу на початку наступного ходу в мультиплеєрі."
+  },
+  "Game_PauseOnTurnStartSP_Description": {
+    "en": "Pause the game at the start of the next turn in singeplayer.",
+    "uk": "Ставить гру на паузу на початку наступного ходу в одиночній грі."
+  },
+  "Control_KeyBinding_TogglePause_Description": {
+    "en": "Pauses the game, or resumes it at the previous game speed.",
+    "uk": "Ставить гру на паузу або відновлює її з попередньою швидкістю."
+  },
+  "Control_KeyBinding_GameSpeed_Pause_Description": {
+    "en": "Pauses the time in the game. This will not resume the game if it is already paused.",
+    "uk": "Зупиняє час у грі. Не відновлює гру, якщо вона вже на паузі."
+  },
+  "Video_UpscalingMode_Performance": {
+    "en": "Performance",
+    "uk": "Продуктивність"
+  },
+  "Video_PostProcessingQuality_Name": {
+    "en": "Post Processing",
+    "uk": "Постобробка"
+  },
+  "Video_PostProcessingQuality_Description": {
+    "en": "Post Processing effects include Motion Blur, Depth of Field and Bloom. Increasing this setting improves the quality of post process effects, but can reduce performance.",
+    "uk": "Ефекти постобробки включають розмиття руху, глибину різкості та світлове сяйво (Bloom). Збільшення цього параметра покращує якість ефектів постобробки, але може знизити продуктивність."
+  },
+  "Control_KeyBinding_AssignKey": {
+    "en": "Press any key to assign it to the selected action.",
+    "uk": "Натисніть будь-яку клавішу, щоб призначити її вибраній дії."
+  },
+  "Control_KeyBinding_AlreadyBound_Cancel": {
+    "en": "Press button to cancel, or press {InKey} again to confirm rebinding.",
+    "uk": "Натисніть кнопку, щоб скасувати, або натисніть {InKey} ще раз, щоб підтвердити перепризначення."
+  },
+  "ColorBlindMode_Protanope": {
+    "en": "Protanope",
+    "uk": "Протанопія"
+  },
+  "Video_UpscalingMode_Quality": {
+    "en": "Quality",
+    "uk": "Якість"
+  },
+  "Video_GraphicsQualityPresets_Description": {
+    "en": "Quality Preset allows you to adjust multiple video options at once. Try a few options to see what fits your preference and device's performance.",
+    "uk": "Пресет якості дає змогу одночасно налаштувати кілька параметрів відео. Спробуйте різні варіанти, щоб визначити, що найкраще підходить для ваших уподобань і продуктивності пристрою."
+  },
+  "Video_GraphicsQualityPresets_Name": {
+    "en": "Quality Presets",
+    "uk": "Пресети якості"
+  },
+  "Video_ReflectionQuality_Description": {
+    "en": "Reflection quality determines the resolution and accuracy of reflections. Settings of 'High' and above use more accurate ray tracing methods to render reflections, but can reduce performance.",
+    "uk": "Якість відбиттів визначає роздільну здатність і точність відбиттів. Значення «Висока» і вище використовують точніші методи трасування променів для рендерингу відбиттів, що може знизити продуктивність."
+  },
+  "Video_ReflectionQuality_Name": {
+    "en": "Reflections",
+    "uk": "Відбиття"
+  },
+  "Control_KeyBinding_ResetToDefault": {
+    "en": "Reset to Default",
+    "uk": "Скинути до типових"
+  },
+  "Video_Display_Resolution_Name": {
+    "en": "Resolution",
+    "uk": "Роздільна здатність"
+  },
+  "Control_LookStickDeadZone_Name": {
+    "en": "Right Stick Dead Zone",
+    "uk": "Мертва зона правого стіка"
+  },
+  "Control_KeyBinding_CameraRotateLeft_Name": {
+    "en": "Rotate Camera Left",
+    "uk": "Обертати камеру ліворуч"
+  },
+  "Control_KeyBinding_CameraRotateRight_Name": {
+    "en": "Rotate Camera Right",
+    "uk": "Обертати камеру праворуч"
+  },
+  "Video_SafeZone_Name": {
+    "en": "Safe Zone",
+    "uk": "Безпечна зона"
+  },
+  "Video_SafeZoneValue_Name": {
+    "en": "Safe Zone Value",
+    "uk": "Значення безпечної зони"
+  },
+  "Control_BasicSensitivity_Collection_Name": {
+    "en": "Sensitivity",
+    "uk": "Чутливість"
+  },
+  "Control_MouseSensitivity_Collection_Name": {
+    "en": "Sensitivity",
+    "uk": "Чутливість"
+  },
+  "Control_KeyBinding_SelectPrimaryKey": {
+    "en": "Set Primary Key",
+    "uk": "Призначити основну клавішу"
+  },
+  "Video_SafeZone_Action": {
+    "en": "Set Safe Zone",
+    "uk": "Встановити безпечну зону"
+  },
+  "Control_KeyBinding_SelectSecondaryKey": {
+    "en": "Set Secondary Key",
+    "uk": "Призначити додаткову клавішу"
+  },
+  "Control_KeyBinding_GameSpeed_Fast_Name": {
+    "en": "Set Speed to Fast",
+    "uk": "Встановити швидкість: Швидко"
+  },
+  "Control_KeyBinding_GameSpeed_Fastest_Name": {
+    "en": "Set Speed to Fastest",
+    "uk": "Встановити швидкість: Максимально швидко"
+  },
+  "Control_KeyBinding_GameSpeed_Normal_Name": {
+    "en": "Set Speed to Normal",
+    "uk": "Встановити швидкість: Звичайно"
+  },
+  "Control_KeyBinding_GameSpeed_Pause_Name": {
+    "en": "Set Speed to Paused",
+    "uk": "Встановити швидкість: Пауза"
+  },
+  "Control_KeyBinding_GameSpeed_Slow_Name": {
+    "en": "Set Speed to Slow",
+    "uk": "Встановити швидкість: Повільно"
+  },
+  "Video_SafeZone_Description": {
+    "en": "Sets the UI safe zone for the platform.",
+    "uk": "Встановлює безпечну зону інтерфейсу для платформи."
+  },
+  "UserInterface_TooltipDelay_Description": {
+    "en": "Sets the delay before a tooltip is shown.",
+    "uk": "Встановлює затримку перед показом підказки."
+  },
+  "Control_MouseTargetingMultiplier_Description": {
+    "en": "Sets the modifier for reducing mouse sensitivity when targeting. 100% will have no slowdown when targeting. Lower settings will have more slowdown when targeting.",
+    "uk": "Встановлює модифікатор зниження чутливості миші під час прицілювання. За значення 100% уповільнення під час прицілювання відсутнє. Нижчі значення спричиняють сильніше уповільнення під час прицілювання."
+  },
+  "Control_MouseSensitivityYaw_Description": {
+    "en": "Sets the sensitivity of the mouse's horizontal (x) axis. With higher settings the camera will move faster when looking left and right with the mouse.",
+    "uk": "Встановлює чутливість горизонтальної (X) осі миші. За вищих значень камера рухається швидше під час огляду ліворуч і праворуч мишею."
+  },
+  "Control_MouseSensitivityPitch_Description": {
+    "en": "Sets the sensitivity of the mouse's vertical (y) axis. With higher settings the camera will move faster when looking up and down with the mouse.",
+    "uk": "Встановлює чутливість вертикальної (Y) осі миші. За вищих значень камера рухається швидше під час огляду вгору і вниз мишею."
+  },
+  "Video_Shadows_Description": {
+    "en": "Shadow quality determines the resolution and view distance of dynamic shadows. Shadows improve visual quality and give better depth perception, but can reduce performance.",
+    "uk": "Якість тіней визначає роздільну здатність і дальність відображення динамічних тіней. Тіні покращують візуальну якість і сприйняття глибини, але можуть знизити продуктивність."
+  },
+  "Video_Shadows_Name": {
+    "en": "Shadows",
+    "uk": "Тіні"
+  },
+  "Option_Small": {
+    "en": "Small",
+    "uk": "Мала"
+  },
+  "Audio_Sound_Collection_Name": {
+    "en": "Sound",
+    "uk": "Звук"
+  },
+  "Audio_Volume_SoundEffects_Name": {
+    "en": "Sound Effects",
+    "uk": "Звукові ефекти"
+  },
+  "Subtitles_Collection_Name": {
+    "en": "Subtitles",
+    "uk": "Субтитри"
+  },
+  "Subtitles_Name": {
+    "en": "Subtitles",
+    "uk": "Субтитри"
+  },
+  "Language_SystemDefaultLanguage": {
+    "en": "System Default ({0})",
+    "uk": "Системна за замовчуванням ({0})"
+  },
+  "Control_MouseTargetingMultiplier_Name": {
+    "en": "Targeting Sensitivity",
+    "uk": "Чутливість прицілювання"
+  },
+  "Language_TextLanguage_Name": {
+    "en": "Text Language",
+    "uk": "Мова тексту"
+  },
+  "Video_TextureQuality_Description": {
+    "en": "Texture quality determines the resolution of textures in game. Increasing this setting will make objects more detailed, but can reduce performance.",
+    "uk": "Якість текстур визначає роздільну здатність текстур у грі. Збільшення цього параметра робить об'єкти детальнішими, але може знизити продуктивність."
+  },
+  "Video_TextureQuality_Name": {
+    "en": "Textures",
+    "uk": "Текстури"
+  },
+  "Language_TextLanguage_Description": {
+    "en": "The language of the game.",
+    "uk": "Мова гри."
+  },
+  "Language_AudioLanguage_Description": {
+    "en": "The language of the voiced audio.",
+    "uk": "Мова озвучення."
+  },
+  "Control_MouseDoubleClickDelay_Description": {
+    "en": "The length of time between button presses that still enables a double-click action.",
+    "uk": "Проміжок часу між натисканнями кнопки, у межах якого дія ще розпізнається як подвійне клацання."
+  },
+  "Video_SafeZoneValue_Description": {
+    "en": "The safe zone area percentage.",
+    "uk": "Відсоток площі безпечної зони."
+  },
+  "Control_ControllerHardware_Description": {
+    "en": "The type of controller you're using.",
+    "uk": "Тип контролера, яким ви користуєтеся."
+  },
+  "Video_VerticalSync_FullscreenNeededForVSync": {
+    "en": "This feature only works if 'Window Mode' is set to 'Fullscreen'.",
+    "uk": "Ця функція працює лише тоді, коли «Режим вікна» встановлено на «Повноекранний»."
+  },
+  "Control_KeyBinding_TogglePause_Name": {
+    "en": "Toggle Pause",
+    "uk": "Перемкнути паузу"
+  },
+  "UserInterface_TooltipDelay_Name": {
+    "en": "Tooltip delay",
+    "uk": "Затримка підказки"
+  },
+  "ColorBlindMode_Tritanope": {
+    "en": "Tritanope",
+    "uk": "Тританопія"
+  },
+  "Control_GamepadVibration_Description": {
+    "en": "Turns controller vibration on or off.",
+    "uk": "Вмикає або вимикає вібрацію контролера."
+  },
+  "Audio_BackgroundAudio_Description": {
+    "en": "Turns game audio on or off when the game is in the background. When on, the game audio will continue to play when the game is minimized, or another window is focused.",
+    "uk": "Вмикає або вимикає звук гри, коли гра працює у фоновому режимі. Якщо увімкнено, звук гри продовжує відтворюватися, навіть коли гру згорнуто або активне інше вікно."
+  },
+  "Subtitles_Description": {
+    "en": "Turns subtitles on or off.",
+    "uk": "Вмикає або вимикає субтитри."
+  },
+  "Video_UpscalingMode_Description": {
+    "en": "Type of upscaling system to be used.",
+    "uk": "Тип системи масштабування, яку буде використано."
+  },
+  "UserInterface_Scale_Name": {
+    "en": "UI Scale",
+    "uk": "Масштаб інтерфейсу"
+  },
+  "Audio_Volume_UI_Name": {
+    "en": "UI Sounds",
+    "uk": "Звуки інтерфейсу"
+  },
+  "Video_UpscalingMode_UltraPerformance": {
+    "en": "Ultra performance",
+    "uk": "Ультра-продуктивність"
+  },
+  "Control_KeyBinding_Unbind": {
+    "en": "Unbind Keys",
+    "uk": "Скасувати призначення клавіш"
+  },
+  "GuildErrors_UnknownMappingName": {
+    "en": "Unknown Mapping",
+    "uk": "Невідоме призначення"
+  },
+  "Video_UnlimitedFPS": {
+    "en": "Unlimited",
+    "uk": "Необмежено"
+  },
+  "Video_UpscalingMode_Name": {
+    "en": "Upscaling Mode",
+    "uk": "Режим масштабування"
+  },
+  "Video_UpscalingQuality_Name": {
+    "en": "Upscaling Quality",
+    "uk": "Якість масштабування"
+  },
+  "Video_UpscalingQuality_UpscalingDisabled": {
+    "en": "Upscaling is disabled.",
+    "uk": "Масштабування вимкнено."
+  },
+  "Video_Brightness_AdjustInstructions": {
+    "en": "Use <text color=\\\"FFFFFFFF\\\" fontface=\\\"black\\\">{0}</> to adjust the brightness",
+    "uk": "Використовуйте <text color=\\\"FFFFFFFF\\\" fontface=\\\"black\\\">{0}</>, щоб налаштувати яскравість"
+  },
+  "Video_SafeZone_ActionInstructions": {
+    "en": "Use <text color=\\\"FFFFFFFF\\\" fontface=\\\"black\\\">{0}</> to adjust the corners so it lines up with the edges of your display.",
+    "uk": "За допомогою <text color=\\\"FFFFFFFF\\\" fontface=\\\"black\\\">{0}</> вирівняйте кути так, щоб вони збігалися з краями вашого екрана."
+  },
+  "UserInterface_Collection_Name": {
+    "en": "User Interface",
+    "uk": "Інтерфейс користувача"
+  },
+  "ColorBlindMode_Description": {
+    "en": "Using the provided images, test out the different color blind modes to find a color correction that works best for you.",
+    "uk": "За допомогою наданих зображень випробуйте різні режими для дальтоніків, щоб знайти корекцію кольору, яка підходить вам найкраще."
+  },
+  "ColorBlindStrength_Description": {
+    "en": "Using the provided images, test out the different strengths to find a color correction that works best for you.",
+    "uk": "За допомогою наданих зображень випробуйте різні рівні сили, щоб знайти корекцію кольору, яка підходить вам найкраще."
+  },
+  "Video_VerticalSync_Name": {
+    "en": "Vertical Sync",
+    "uk": "Вертикальна синхронізація"
+  },
+  "Control_GamepadVibration_Name": {
+    "en": "Vibration",
+    "uk": "Вібрація"
+  },
+  "Video_Collection_Name": {
+    "en": "Video",
+    "uk": "Відео"
+  },
+  "Video_ViewDistance_Name": {
+    "en": "View Distance",
+    "uk": "Дальність огляду"
+  },
+  "Video_ViewDistance_Description": {
+    "en": "View distance determines how far away objects remain visible. Lower settings may improve performance.",
+    "uk": "Дальність огляду визначає, на якій відстані об'єкти залишаються видимими. Нижчі значення можуть покращити продуктивність."
+  },
+  "Audio_Volume_Collection_Name": {
+    "en": "Volume",
+    "uk": "Гучність"
+  },
+  "Video_Display_Resolution_WhenWindowedFullscreen_Disabled": {
+    "en": "When the Window Mode is set to <strong>Windowed Fullscreen</>, the resolution must match the native desktop resolution.",
+    "uk": "Якщо для параметра «Режим вікна» встановлено значення <strong>Без рамки</>, роздільна здатність повинна збігатися з нативною роздільною здатністю робочого столу."
+  },
+  "Video_WindowMode_Name": {
+    "en": "Window Mode",
+    "uk": "Режим вікна"
+  },
+  "Video_WindowMode_Windowed": {
+    "en": "Windowed",
+    "uk": "У вікні"
+  },
+  "Video_WindowMode_WindowedFullscreen": {
+    "en": "Windowed Fullscreen",
+    "uk": "Без рамки"
+  },
+  "Control_MouseSensitivityYaw_Name": {
+    "en": "X-Axis Sensitivity",
+    "uk": "Чутливість осі X"
+  },
+  "Video_UpscalingMode_XeSS": {
+    "en": "XeSS",
+    "uk": "XeSS"
+  },
+  "Control_MouseSensitivityPitch_Name": {
+    "en": "Y-Axis Sensitivity",
+    "uk": "Чутливість осі Y"
+  },
+  "Language_Changed_Warning_Message": {
+    "en": "You will need to restart the game completely for all language related changes to take effect.",
+    "uk": "Щоб усі зміни мови набули чинності, потрібно повністю перезапустити гру."
+  },
+  "Video_Brightness_Format": {
+    "en": "{0}%",
+    "uk": "{0}%"
+  },
+  "Control_KeyBinding_AssignKey_Header": {
+    "en": "{ActionName}",
+    "uk": "{ActionName}"
+  },
+  "Control_KeyBinding_AlreadyBound_Warning": {
+    "en": "{InKey} is already bound to {ActionNames}. Are you sure you want to rebind it?",
+    "uk": "{InKey} вже призначено дії {ActionNames}. Ви справді хочете перепризначити цю клавішу?"
+  },
+  "Video_Display_Resolution_Format": {
+    "en": "{X} x {Y}",
+    "uk": "{X} x {Y}"
+  },
+  "Video_Display_AspectRatio_Format": {
+    "en": "{X}:{Y}",
+    "uk": "{X}:{Y}"
+  }
+}

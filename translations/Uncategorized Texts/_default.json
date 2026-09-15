@@ -1,0 +1,1778 @@
+{
+  "33B997714A2746970BFCAD85EF585D24": {
+    "en": "(W.I.P.) Elections",
+    "uk": "(В розробці) Вибори"
+  },
+  "0691BB6D47702F278F75C4A5803C7105": {
+    "en": "A Cursed Life",
+    "uk": "Прокляте життя"
+  },
+  "64AC36974EB90AC338DBDBA5881618DE": {
+    "en": "Actions",
+    "uk": "Дії"
+  },
+  "AE60D4894A28807A55F52F8CDA51C2BD": {
+    "en": "Actions",
+    "uk": "Дії"
+  },
+  "8C4273F84E87BDB6AD09CD8848947249": {
+    "en": "Activities",
+    "uk": "Заняття"
+  },
+  "9A9DF68347086771FCEAF2970ACF079F": {
+    "en": "Adam",
+    "uk": "Adam"
+  },
+  "3CC6B47B4B520B3A0EAA0AAEBE6409E9": {
+    "en": "Adéla",
+    "uk": "Adéla"
+  },
+  "517C86BC4206AED9DD1D60A4038CEFD6": {
+    "en": "Alchemist",
+    "uk": "Алхімік"
+  },
+  "BD04F1F54887A6455761159C599B40EE": {
+    "en": "Alena",
+    "uk": "Alena"
+  },
+  "7B7C2D6B4E555F47AAC045B86808F85E": {
+    "en": "Aleš",
+    "uk": "Aleš"
+  },
+  "E1AF255C4F1C7E45218A2C80236327B1": {
+    "en": "Almighty Praise",
+    "uk": "Хвала Всевишньому"
+  },
+  "7CEB9DF64C90F98BB8D283B1E25A98BF": {
+    "en": "Andrea",
+    "uk": "Andrea"
+  },
+  "22B00BEF4BD81DB769538F9C67317369": {
+    "en": "Animals & Sensations",
+    "uk": "Тварини та відчуття"
+  },
+  "D5AEC1E24C1D367901BE02AE33B88F2E": {
+    "en": "Anna",
+    "uk": "Anna"
+  },
+  "4843F44A4AE0096FBFF253B360F36C22": {
+    "en": "Apply",
+    "uk": "Застосувати"
+  },
+  "D63173074EA5DFF66B006286DCDD35A2": {
+    "en": "Apply for Office",
+    "uk": "Подати заявку на посаду"
+  },
+  "9F63EE2B49E63A37F9A0C29AE7FF34E4": {
+    "en": "Appointer(s)",
+    "uk": "Призначувач(і)"
+  },
+  "999B62864517B8ACA47E379B6BB3DFE9": {
+    "en": "Are you sure?",
+    "uk": "Ви впевнені?"
+  },
+  "FA5C7707466B2BBC2A4A768E34CF68F9": {
+    "en": "Atheist",
+    "uk": "Атеїст"
+  },
+  "7899F76047B6339EDCD01E8330414285": {
+    "en": "Back",
+    "uk": "Назад"
+  },
+  "CA9ED2204FAFAA84DC825AA5FF0B704C": {
+    "en": "Barbora",
+    "uk": "Barbora"
+  },
+  "8039D2504E150FB241D596B9DC863819": {
+    "en": "Bark 1",
+    "uk": "Bark 1"
+  },
+  "0781C87848FC9D6E7EF012A563CE38E4": {
+    "en": "Beneath the Linden Tree",
+    "uk": "Під Липою"
+  },
+  "AEC8321F497766BCAA58F7AA8D42DE4D": {
+    "en": "Beáta",
+    "uk": "Beáta"
+  },
+  "43E73EE1461DA6A70C5A1DA4D2B9832F": {
+    "en": "Blood & Revenge",
+    "uk": "Кров і помста"
+  },
+  "FD471F6246C6AECE56C1369B306C3650": {
+    "en": "Bone Spa",
+    "uk": "Кістяний спа"
+  },
+  "94DFF99E43C023F398CEBEB741CA539B": {
+    "en": "Bourgeois Homestead",
+    "uk": "Буржуазна садиба"
+  },
+  "1A663D244FD75EEFFF942E98D28CF2D5": {
+    "en": "Božena",
+    "uk": "Božena"
+  },
+  "D6BA024E48838E3FE41BA9BC77AE6789": {
+    "en": "Build",
+    "uk": "Будувати"
+  },
+  "B343B64449ECC45D3A9C388D97BBBC36": {
+    "en": "Burning Embers",
+    "uk": "Палаючі вуглини"
+  },
+  "739D3EBF486D2945007D8291BCFAEF7C": {
+    "en": "Buy building",
+    "uk": "Купити будівлю"
+  },
+  "7E0C4DF748C2BFAAD06FD1BE99C956FC": {
+    "en": "COLOR",
+    "uk": "COLOR"
+  },
+  "319439E844CE03938ECD9A81159704A7": {
+    "en": "Cancel Changes",
+    "uk": "Скасувати зміни"
+  },
+  "E8DD79164547AC488445698D955C4118": {
+    "en": "Candidates",
+    "uk": "Кандидати"
+  },
+  "71577595411E0E134A50078DB3B1ADFA": {
+    "en": "Carcass Camp",
+    "uk": "Табір падалі"
+  },
+  "D7069695470A3F357748C4B90E612CAE": {
+    "en": "Carda",
+    "uk": "Carda"
+  },
+  "10B523B64E23DECBA6E42AB814A7419A": {
+    "en": "Carts can be bought or sold at Marketplace. Joiners can improve carts to avoid deterioration.",
+    "uk": "Вози можна купити або продати на ринку. Столярі можуть покращувати вози, щоб запобігти їхньому зношенню."
+  },
+  "215D335F40FF8497DD262BBFDFDBF379": {
+    "en": "Castle",
+    "uk": "Замок"
+  },
+  "04559D2842DB0D1B15D591982F78A4E5": {
+    "en": "Character Creation",
+    "uk": "Створення персонажа"
+  },
+  "652B7DBD45B8409D7EC63689BCF37ED7": {
+    "en": "Character Creation",
+    "uk": "Створення персонажа"
+  },
+  "B5F3159B49C9C2B56BC988BF27F3A753": {
+    "en": "Children (0)",
+    "uk": "Діти (0)"
+  },
+  "0C5615C745290DE1D72E7D9D889ED65D": {
+    "en": "Chonky Nuggets",
+    "uk": "Товстенькі наґетси"
+  },
+  "8DB13D4C478DF6727D9BFB856071D356": {
+    "en": "Christian",
+    "uk": "Християнин"
+  },
+  "C0B7D3B94B162E9D23C0AC9EE38BB7CC": {
+    "en": "Church Authority",
+    "uk": "Церковна влада"
+  },
+  "10A2ADD04B4EECA07A549A9269A59900": {
+    "en": "City 1",
+    "uk": "Місто 1"
+  },
+  "D95D6182472902EA49FAFE9074D1042A": {
+    "en": "City 1",
+    "uk": "Місто 1"
+  },
+  "6B2AAC76416B3DE94E0913A5FD032D72": {
+    "en": "City 2",
+    "uk": "Місто 2"
+  },
+  "930CE9044895C8973028BEB879686F8C": {
+    "en": "City 2",
+    "uk": "Місто 2"
+  },
+  "B446394449A7D5CAF751CB9522A0857E": {
+    "en": "City 3",
+    "uk": "Місто 3"
+  },
+  "D93B85EB423289A41B8758BBDF3FAA7E": {
+    "en": "City 3",
+    "uk": "Місто 3"
+  },
+  "8D00483F47022B7CFE48EDB36668F6B9": {
+    "en": "City: {map}, Save name: {name}\r\n{date} - {playtime} s - {savetype} - {mp}\r\nGF: {features}",
+    "uk": "Місто: {map}, Назва збереження: {name}\r\n{date} - {playtime} с - {savetype} - {mp}\r\nGF: {features}"
+  },
+  "FE3D64CE455CC84C889D0EB7C7A251E9": {
+    "en": "Clan Life",
+    "uk": "Життя клану"
+  },
+  "8A7A75774A60F874C1AAC6B1D399B59D": {
+    "en": "CleanPlaster",
+    "uk": "CleanPlaster"
+  },
+  "077A42A34C2F209A88F09D8EC573E18F": {
+    "en": "Cold Cottage",
+    "uk": "Холодна хатина"
+  },
+  "B481309741219B905C56B588BCCC095C": {
+    "en": "Cold Storeroom",
+    "uk": "Холодна комора"
+  },
+  "2F5F6D8A4EF48F2F7F65C9B5B941CE6F": {
+    "en": "ColdWhite",
+    "uk": "ColdWhite"
+  },
+  "38D673C04FC468DA0972358EF1D9AB3C": {
+    "en": "Collect items into table",
+    "uk": "Зібрати предмети в таблицю"
+  },
+  "36B15A2045CA0788BC90D1BAD49D69AB": {
+    "en": "Comfortably Habitable",
+    "uk": "Зручне для життя"
+  },
+  "2CC4FA8F4A39ACAF493364AB2F007201": {
+    "en": "Concept",
+    "uk": "Концепт"
+  },
+  "B061245540E586C962C8BCB37BC582E9": {
+    "en": "Concept map",
+    "uk": "Концепт-мапа"
+  },
+  "0DD0A8304022EBA8950824A9FFE25406": {
+    "en": "Confess & Pray",
+    "uk": "Сповідатися та молитися"
+  },
+  "4F18B9E44939B614B09362AAC2D64B93": {
+    "en": "Conservative Concepts",
+    "uk": "Консервативні концепції"
+  },
+  "293E2B56414F8568ED011084986D5C53": {
+    "en": "Considered Walls",
+    "uk": "Продумані стіни"
+  },
+  "1FEABDC34634A52E22DEF0B5A48CBE11": {
+    "en": "Continue to {Season} {Year}",
+    "uk": "Продовжити до {Season} {Year}"
+  },
+  "BEA1A62940597C82367B998C3ECD94FB": {
+    "en": "Corners",
+    "uk": "Кути"
+  },
+  "4899B16E40E1DDBADA9E56A97B7D7E31": {
+    "en": "Corpse Depot",
+    "uk": "Склад трупів"
+  },
+  "97D3F82A4BE697ED9C9798876200F49D": {
+    "en": "Could Collapse",
+    "uk": "Може обвалитися"
+  },
+  "538674074C8B7653D544CF91E1D4FBB9": {
+    "en": "Count the Bricks",
+    "uk": "Порахувати цеглу"
+  },
+  "F86B09E34B6912BAEF1127BE6620AAE7": {
+    "en": "CountrySeat",
+    "uk": "CountrySeat"
+  },
+  "C99D772F48D62E04554A849E2A407940": {
+    "en": "Credits",
+    "uk": "Автори"
+  },
+  "734B9EA145F3C4413077939A8626C121": {
+    "en": "Curses and Charms",
+    "uk": "Прокляття та чари"
+  },
+  "7E51A22A4A4F4F3139CDB38DBBA010DC": {
+    "en": "DIRT",
+    "uk": "DIRT"
+  },
+  "47138DBD431F4D3A7C68E7ADD01A9CE4": {
+    "en": "Daniel",
+    "uk": "Daniel"
+  },
+  "E8E055F54874C45070FFE081A3F1AAA9": {
+    "en": "David",
+    "uk": "David"
+  },
+  "56A8E44E488F092F6FE08A9B27377570": {
+    "en": "Deathly Hush",
+    "uk": "Смертельна тиша"
+  },
+  "089959D4460B798033F0CA878CB0CE71": {
+    "en": "Debug Menu",
+    "uk": "Меню налагодження"
+  },
+  "E7232F0A4DD63AA250E65581CD033887": {
+    "en": "Debug Menu Select",
+    "uk": "Вибір меню налагодження"
+  },
+  "19D7870B42950141E603ADAE3D39EFC7": {
+    "en": "Decaying Cadaver",
+    "uk": "Розкладений труп"
+  },
+  "3F69C4764624D5E2C87F6E8B01B829F3": {
+    "en": "Dedication & Peace",
+    "uk": "Відданість і спокій"
+  },
+  "C24642FF46350E6C9B25579E4FBDA445": {
+    "en": "Deep Shaft",
+    "uk": "Глибока шахта"
+  },
+  "5216450448C210A102ED0D9A79016AE6": {
+    "en": "Difficulty",
+    "uk": "Складність"
+  },
+  "A747190247523A199BC2868B91FA2CBC": {
+    "en": "Difficulty",
+    "uk": "Складність"
+  },
+  "003FABB141BE79B86975A7AA022AF806": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "117D79CF4C994CE4C5EBBF9D6B02FFE9": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "14114EAD4EA4C958204C57AC3E44EBE1": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "144331EC438683DA792E768C4F03593C": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "1AD30E8B4F047CC601D1DD8EBBC54297": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "1D0753264A490E4C79082A8FA9EC9413": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "304412E745FA705FD5482BB837E8E7DE": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "32F4CFDA434EEF01C8A3CFA66A75146C": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "36DB16DF420B4F3D15610F97DA4E0F90": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "396BD601493EEB141D72C3AE4725897E": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "3CBA6A014D190CFA6743C886231CCD5D": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "55B7644B48C33D39410C70BB44536343": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "5D590C1F4A4C36FE894E93AA8A285715": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "5E1B86EF4EFC6E92A08940AEE81D0FD5": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "6140EE8B4D3FBC77D34186BD9E19F65C": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "90E5EC7844D8064B104D4986C2E6243C": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "9E418F334B128783487701AAABD8204E": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "B43DF244449E77A2561C9F98029D58A9": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "D858328B46CEDD4F66848AB522392E56": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "E77E99B0449C86817F04C69D0F81542A": {
+    "en": "Dirt",
+    "uk": "Бруд"
+  },
+  "5C5975A7483FC1F9925902AC1CC67C49": {
+    "en": "Dirt ",
+    "uk": "Бруд "
+  },
+  "0487BAA9462C39A9B137B48359638932": {
+    "en": "Dlouhý",
+    "uk": "Dlouhý"
+  },
+  "9533778240F7E9667E22298694CCC13F": {
+    "en": "Do you want to repair this building for {0}? ",
+    "uk": "Бажаєте відремонтувати цю будівлю за {0}? "
+  },
+  "E4CD34A145E33BE93CC07D83589D8FE2": {
+    "en": "Dominik",
+    "uk": "Dominik"
+  },
+  "409EAE9544F05F19EF9F1DB9CF56A741": {
+    "en": "Donations Welcome!",
+    "uk": "Пожертви вітаються!"
+  },
+  "8F4D493C456EC25C4CBDE0AAFEFDF26F": {
+    "en": "Drop item here to throw it away",
+    "uk": "Перетягніть предмет сюди, щоб викинути його"
+  },
+  "D0644EDB43A4B0DF3FEB84A8B19C81EF": {
+    "en": "Drop worker here",
+    "uk": "Перетягніть працівника сюди"
+  },
+  "D1AE37F54F5B8D80A6B9F5933A61E472": {
+    "en": "Durable Woodwork",
+    "uk": "Довговічна теслярська робота"
+  },
+  "291D9C7C42AFB974E1D569A5A08C2E7B": {
+    "en": "END OF TURN",
+    "uk": "КІНЕЦЬ ХОДУ"
+  },
+  "00A8005A4C32717235BCD78913BB109C": {
+    "en": "Edges",
+    "uk": "Краї"
+  },
+  "2FBAAA9043170726E7F9F8A0B0E02249": {
+    "en": "Edges",
+    "uk": "Краї"
+  },
+  "5EBD0748422AF27CFAA605A24AB514EA": {
+    "en": "Edges",
+    "uk": "Краї"
+  },
+  "DE4C60C343BBDED2CC72748F865B4B52": {
+    "en": "Edges",
+    "uk": "Краї"
+  },
+  "099F37474CC544D9F32E6083EDD1B8B8": {
+    "en": "Election will happen next year ([year] at [time])",
+    "uk": "Вибори відбудуться наступного року ([year] о [time])"
+  },
+  "B04E0AF5473DB4BABB33DA871022B09C": {
+    "en": "Eliška",
+    "uk": "Eliška"
+  },
+  "02225EB342488E39AB869788250A608F": {
+    "en": "Empire Authority",
+    "uk": "Імперська влада"
+  },
+  "57BB714B4593ACCC418355957A99F36E": {
+    "en": "End of the Day",
+    "uk": "Кінець дня"
+  },
+  "C74327AC482FCC3BD97943B80BF9731A": {
+    "en": "Erik",
+    "uk": "Erik"
+  },
+  "CC6FB4534094109DBD0771A82724E46C": {
+    "en": "Eternal Rest",
+    "uk": "Вічний спокій"
+  },
+  "E612403E496BBDD1485ACAB4F0337896": {
+    "en": "European",
+    "uk": "Європеєць"
+  },
+  "EB707BA7458B0A98579188A743BCC6CF": {
+    "en": "Evening Peace",
+    "uk": "Вечірній спокій"
+  },
+  "993F617644346B203E14F8AE8724D5E7": {
+    "en": "Faith Will be Rewarded!",
+    "uk": "Віра буде винагороджена!"
+  },
+  "EF511482470282B8B38EAEAD33A244CB": {
+    "en": "Filip",
+    "uk": "Filip"
+  },
+  "58E353974C27970EB53C0CBFF32AA46B": {
+    "en": "Find Viewmodel",
+    "uk": "Знайти Viewmodel"
+  },
+  "8AB7A8B8414C3859F4618BBE5D9A7D45": {
+    "en": "Fine Stone Mason's Art",
+    "uk": "Витончене мистецтво каменяра"
+  },
+  "8EDA64AB48A93FBA2C2708BC5FEEEF43": {
+    "en": "Finished Products",
+    "uk": "Готова продукція"
+  },
+  "AD0B3C3F4C96EB14CC4954A598C822ED": {
+    "en": "First Attempt",
+    "uk": "Перша спроба"
+  },
+  "E30AA6114F1662F42F9381A527B2F57B": {
+    "en": "Floor_02",
+    "uk": "Floor_02"
+  },
+  "6CFF1C5546432E328886968C5E144E6E": {
+    "en": "Forged Hot",
+    "uk": "Кування навгарячо"
+  },
+  "6FCAC9F049AFE3A058BEFE849F4DB80F": {
+    "en": "Fundamentals of Foundations",
+    "uk": "Основи фундаменту"
+  },
+  "00E9BD624BEBCAF730262FB09DE51D90": {
+    "en": "Gain master grade",
+    "uk": "Отримати звання майстра"
+  },
+  "33FD34384184E98DE28091BECAACCCC6": {
+    "en": "Game Rules",
+    "uk": "Правила гри"
+  },
+  "76011B7D414544554BE11581BC314285": {
+    "en": "Game Rules",
+    "uk": "Правила гри"
+  },
+  "2701C0EC4CBCFDBD31CB3C90C48837E0": {
+    "en": "Game name:",
+    "uk": "Назва гри:"
+  },
+  "C55A8EE8405FBA1605A4D5850D1116B6": {
+    "en": "Game name:",
+    "uk": "Назва гри:"
+  },
+  "2731C97F40986F4A6B562FB543E921AE": {
+    "en": "Game summary",
+    "uk": "Підсумок гри"
+  },
+  "411182E446437D088AC00ABFC3411739": {
+    "en": "Generate items from table",
+    "uk": "Згенерувати предмети з таблиці"
+  },
+  "43558344408A67397B45D7A77D8B29F7": {
+    "en": "Glowing Coals",
+    "uk": "Розжарене вугілля"
+  },
+  "800A1BA74E548BA0A453109BD21FBD39": {
+    "en": "Go to Marketplace",
+    "uk": "Перейти на ринок"
+  },
+  "F236CF3C47A0FC55F9297493FAE315ED": {
+    "en": "Goblin Watch",
+    "uk": "Гоблінський дозор"
+  },
+  "65849A7C430434B34B6031966664A487": {
+    "en": "God's Homestead",
+    "uk": "Господня оселя"
+  },
+  "AEB50ABE4AEE3FC0BD5B2EB96D5955CE": {
+    "en": "Good Wood Construction",
+    "uk": "Добротна дерев'яна конструкція"
+  },
+  "EE1F3FEC4EAE6C8F70E1C6BBB546A763": {
+    "en": "Grass",
+    "uk": "Трава"
+  },
+  "EDCD87F94E143C1345C3DBB69444881B": {
+    "en": "Gregor",
+    "uk": "Gregor"
+  },
+  "226AF8A9457936B6D771BFB3FB176CD8": {
+    "en": "Guaranteed Weather-Proof",
+    "uk": "Гарантований захист від негоди"
+  },
+  "4B7030B143F8DBEDD694FDB0A5D84174": {
+    "en": "Guild House",
+    "uk": "Дім гільдії"
+  },
+  "BC667186466AF8B608078A9B867D63E9": {
+    "en": "Guild House",
+    "uk": "Дім гільдії"
+  },
+  "C78A2F9744504213CDDCB3A2BC3038DF": {
+    "en": "Hackhofer",
+    "uk": "Hackhofer"
+  },
+  "BE6518964D3B7164C5B3198DCC438C67": {
+    "en": "Hajduk",
+    "uk": "Hajduk"
+  },
+  "FF3827FF40A643018CA61FA66C4635D6": {
+    "en": "Heavy Hammer",
+    "uk": "Важкий молот"
+  },
+  "B4A853344E7F28EB082363B3EFD25B9E": {
+    "en": "Homestead",
+    "uk": "Садиба"
+  },
+  "0D1DBAC540BE7CE371B4E9A9AEDFB398": {
+    "en": "Honest Home",
+    "uk": "Чесна домівка"
+  },
+  "01AA71B2455B212818E402879C295929": {
+    "en": "Horák",
+    "uk": "Horák"
+  },
+  "A83AC4884B2D398B1C461B83FFC7E717": {
+    "en": "Host",
+    "uk": "Хост"
+  },
+  "DE3F662F45F14E8E26FD8C8BD9DD1698": {
+    "en": "Host Game",
+    "uk": "Створити гру"
+  },
+  "A1B7290C44EE9083C87FF2BD11418CEA": {
+    "en": "Hot Embers",
+    "uk": "Гарячі жарини"
+  },
+  "23E2025842040E0F93DC7085EFEDE59D": {
+    "en": "Hot join",
+    "uk": "Приєднання під час гри"
+  },
+  "3C1E05DC4550F3DC9CCEFAB931FC708F": {
+    "en": "Hot join",
+    "uk": "Приєднання під час гри"
+  },
+  "AEF775A448E4118C2E846E8F98A50DEB": {
+    "en": "House and Court",
+    "uk": "Дім і двір"
+  },
+  "04CDEB19456D846CEF2732A01CF32074": {
+    "en": "Improve",
+    "uk": "Покращити"
+  },
+  "65B45BAA4664CE6026665393469513B0": {
+    "en": "Improve",
+    "uk": "Покращити"
+  },
+  "ED8D5ED0425D7BEBAC5844A22DB25694": {
+    "en": "Improve Skill",
+    "uk": "Покращити навичку"
+  },
+  "D265D2E54B1CE2F5C6C63EACC5287D19": {
+    "en": "Improve {SkillName}",
+    "uk": "Покращити {SkillName}"
+  },
+  "6E1B79314A0A181034B8DB907BCC28C6": {
+    "en": "In progress:",
+    "uk": "У процесі:"
+  },
+  "A68268FA477E18A9C941F9AA71C7B419": {
+    "en": "Informants",
+    "uk": "Інформатори"
+  },
+  "1D9C2B004224513E46A731AF40B43F02": {
+    "en": "Ingredients",
+    "uk": "Інгредієнти"
+  },
+  "C8DC0F7D4B390CBD546154BEA0D6D219": {
+    "en": "Installed:",
+    "uk": "Встановлено:"
+  },
+  "7B99C48B425FBDE2AE2955A1FB165BA4": {
+    "en": "Iron Work",
+    "uk": "Ковальська справа"
+  },
+  "A8B5A2F24413271BBBABC3869DDF0AB6": {
+    "en": "Item will be lost.\r\nDiscard {count} {item}? ",
+    "uk": "Предмет буде втрачено.\r\nВикинути {count} {item}? "
+  },
+  "34997BE04C66758590516A9400FD17FF": {
+    "en": "Ivana",
+    "uk": "Ivana"
+  },
+  "6BA092C742747B74E62A54B67D8C4BF1": {
+    "en": "Jakub",
+    "uk": "Jakub"
+  },
+  "BF83896F4BD194723D30FC93EBEF9752": {
+    "en": "Jan",
+    "uk": "Jan"
+  },
+  "E4B8219D47DE0C58413B8F90947CE864": {
+    "en": "Jana",
+    "uk": "Jana"
+  },
+  "280A65AE449B33AF24FD028FB08353E6": {
+    "en": "Jaroslav",
+    "uk": "Jaroslav"
+  },
+  "ABAA00154E2E94A1EEAFD9BEC291E59E": {
+    "en": "Jindřiška",
+    "uk": "Jindřiška"
+  },
+  "4440761B42F4F6993FC568AC27FC113E": {
+    "en": "Jiří",
+    "uk": "Jiří"
+  },
+  "E4CD0B2049727AC130E8498C9BCDF94C": {
+    "en": "Join Game",
+    "uk": "Приєднатися до гри"
+  },
+  "10CA69AD40C6D3A2E6DCDF98A2B2788B": {
+    "en": "Join Server",
+    "uk": "Приєднатися до сервера"
+  },
+  "3F90A7FA4D9462E988A5CE95E139DC61": {
+    "en": "Josef",
+    "uk": "Josef"
+  },
+  "A2D61164427E1882D5D7228AF0D6BF6A": {
+    "en": "Karel",
+    "uk": "Karel"
+  },
+  "4E1C6AAF4218FC46DDC6EB91311FFF9A": {
+    "en": "Karolína",
+    "uk": "Karolína"
+  },
+  "805484DD426869C06A26729F7DB08B7D": {
+    "en": "Kateřina",
+    "uk": "Kateřina"
+  },
+  "EB81BE3048BD94F9D82ECEAB23C9E850": {
+    "en": "Klára",
+    "uk": "Klára"
+  },
+  "CDB5869B4046A8C2CC19539911CFEC85": {
+    "en": "Kolář",
+    "uk": "Kolář"
+  },
+  "2878073C49EE01F5CB0BEE8DA3E69025": {
+    "en": "Kristýna",
+    "uk": "Kristýna"
+  },
+  "57DACB4C4C4AC890D7CAB995DFC27900": {
+    "en": "Krátký",
+    "uk": "Krátký"
+  },
+  "E22724354BF34504B65EBBB885852A38": {
+    "en": "Landlord",
+    "uk": "Землевласник"
+  },
+  "55FDF9B746E8BB52F01DABAE40C1C3FF": {
+    "en": "Langer",
+    "uk": "Langer"
+  },
+  "F99EF2994A54B6DF961170B28A793FA4": {
+    "en": "Layer 1",
+    "uk": "Шар 1"
+  },
+  "D4F07AC34AD0B4BA5E896ABD2436B477": {
+    "en": "Layer 2",
+    "uk": "Шар 2"
+  },
+  "20982F4D4E2770110F7E1AB0BB7BA21B": {
+    "en": "Lenka",
+    "uk": "Lenka"
+  },
+  "D8BA5380441620FE78CD8B8935D5A509": {
+    "en": "Light",
+    "uk": "Світлий"
+  },
+  "4D97F8E940EE227ABD67B18763DA466F": {
+    "en": "Luboš",
+    "uk": "Luboš"
+  },
+  "0F826A1641A66440B0540084F2C633C1": {
+    "en": "Lucie",
+    "uk": "Lucie"
+  },
+  "D467B2D64E97A0A8CD82778D4F1A854E": {
+    "en": "Lukáš",
+    "uk": "Lukáš"
+  },
+  "E6E0A6A34265A33EBDEC7E95864D6A3E": {
+    "en": "Main Marketplace",
+    "uk": "Головний ринок"
+  },
+  "B69791FB4D7445D98DD7DA8D775B2287": {
+    "en": "Making Merry",
+    "uk": "Веселе гуляння"
+  },
+  "7210B7F44279FBA3D9E5B89BF1C0A39A": {
+    "en": "Malý",
+    "uk": "Malý"
+  },
+  "804D5CCF47DDDAC2965BDA87A1468A3B": {
+    "en": "Marek",
+    "uk": "Marek"
+  },
+  "081639594C6C32EC951D1FAA24A197EA": {
+    "en": "Mareček",
+    "uk": "Mareček"
+  },
+  "44C086F54005FC5FD672348A9EBB5D12": {
+    "en": "Marie",
+    "uk": "Marie"
+  },
+  "8C29024048B88123419552BC45B0CA25": {
+    "en": "Markéta",
+    "uk": "Markéta"
+  },
+  "E36AD15742DBC0F08ADB54830CF04B69": {
+    "en": "Martin",
+    "uk": "Martin"
+  },
+  "9B2BED14448B21BEF05BCB9450E5F75F": {
+    "en": "Marvellous Life",
+    "uk": "Чудове життя"
+  },
+  "99B035654328EC71D782E0ADDBD2C5E6": {
+    "en": "Matěj",
+    "uk": "Matěj"
+  },
+  "0A35720F4A35FB283F4C019E84CDDDBB": {
+    "en": "Metal",
+    "uk": "Метал"
+  },
+  "AD30EC8D4AD99CE68DA2B280D2F75501": {
+    "en": "Michal",
+    "uk": "Michal"
+  },
+  "117EB1A14401AEE21DCF60BEF126709E": {
+    "en": "Milada",
+    "uk": "Milada"
+  },
+  "88DF00DE428F9EA652F7F0BF1A69E1FF": {
+    "en": "Mildew & Decay",
+    "uk": "Цвіль і гниття"
+  },
+  "1AD7A41942AB12C495BDE395A7D7DD71": {
+    "en": "Milos",
+    "uk": "Milos"
+  },
+  "47C827944843698ED3568C93BB8EB517": {
+    "en": "Misty Silence",
+    "uk": "Туманна тиша"
+  },
+  "8D09952B42C7DB6F307978A64115E40D": {
+    "en": "MoneyLender",
+    "uk": "MoneyLender"
+  },
+  "13ECAA9C4DEE60CFCC3F6B985604410E": {
+    "en": "Monika",
+    "uk": "Monika"
+  },
+  "6CE33D4B46C47BF3BCC757B3F026C961": {
+    "en": "Moss",
+    "uk": "Мох"
+  },
+  "A022D2454C9351C704A2D69E3ED6C5DE": {
+    "en": "Moss",
+    "uk": "Мох"
+  },
+  "96308D1047850EB2F5DD64A8C2DB62CC": {
+    "en": "Mouth of Hell",
+    "uk": "Паща пекла"
+  },
+  "945CFF7749BAB80BB18999AF5405DB26": {
+    "en": "Mud",
+    "uk": "Грязюка"
+  },
+  "F3358AAB4E01DAC197DBAB9AE00BC66E": {
+    "en": "Nails Here!",
+    "uk": "Цвяхи тут!"
+  },
+  "50C14DC34B09C65E86C1A792F7A5D678": {
+    "en": "Name: ",
+    "uk": "Ім'я: "
+  },
+  "12F9A88245BC283C6F650CACD08E4913": {
+    "en": "Natálie",
+    "uk": "Natálie"
+  },
+  "56E9A1654CE1B5983D5A34A9538D637F": {
+    "en": "Neuwirth",
+    "uk": "Neuwirth"
+  },
+  "A9DC07714045B863200DA7B9F64C1C8C": {
+    "en": "Nezval",
+    "uk": "Nezval"
+  },
+  "4BE11B8E4A4D3F0071AFD6A92B8F1057": {
+    "en": "Nikola",
+    "uk": "Nikola"
+  },
+  "2B035D814DB5EC0BA3D1C5B99B56B542": {
+    "en": "No Editor Found",
+    "uk": "Редактор не знайдено"
+  },
+  "0F24E3A843D6535B881F10BA71579D0B": {
+    "en": "No Experiments",
+    "uk": "Без експериментів"
+  },
+  "55B6256645AB97C97AB4BC838EAB002B": {
+    "en": "No improvement",
+    "uk": "Без покращення"
+  },
+  "6FA74D8843D0279F1422D08964178D44": {
+    "en": "No office",
+    "uk": "Без посади"
+  },
+  "0C26BEC348D069BB789BF085066978EA": {
+    "en": "Nürnberg",
+    "uk": "Нюрнберг"
+  },
+  "432EE7B049971C3D6586048C9CF44726": {
+    "en": "On the way to {BuildingName} ({Progress})",
+    "uk": "На шляху до {BuildingName} ({Progress})"
+  },
+  "55FBF40240EFFB25653ABC8D7126F3AF": {
+    "en": "Ondřej",
+    "uk": "Ondřej"
+  },
+  "6189D7BF4357602F577C1F97F767DA28": {
+    "en": "Only Oak",
+    "uk": "Лише дуб"
+  },
+  "A90114BD40CA4B7920DD9B81AFD17F7D": {
+    "en": "Open items table",
+    "uk": "Відкрити таблицю предметів"
+  },
+  "A93E47824C521472DAB5148384E3A41B": {
+    "en": "Orange",
+    "uk": "Помаранчевий"
+  },
+  "E374E984451ED58439D0AFB1E1A8A421": {
+    "en": "Ornate Decoration",
+    "uk": "Вишукане оздоблення"
+  },
+  "9711698E4BD13508B45C7AA661B94BEE": {
+    "en": "Ornate Relief",
+    "uk": "Вишуканий барельєф"
+  },
+  "5F757BA8487674476040218E623D9E29": {
+    "en": "Owner",
+    "uk": "Власник"
+  },
+  "BF7E974245E2E7C2F8EC35963F02E54C": {
+    "en": "Owner didn't put anything in the storefront.",
+    "uk": "Власник нічого не виставив у вітрині."
+  },
+  "2ED16A4040AF6C981C67F2BA1B811B8A": {
+    "en": "PL1:\r\nPL2:",
+    "uk": "PL1:\r\nPL2:"
+  },
+  "E9D9EEA143F228BF5FEA4B9D9A0C1CBB": {
+    "en": "Pale Bones",
+    "uk": "Бліді кістки"
+  },
+  "A4149BB941148B3BCC213A9276CBDB6F": {
+    "en": "Panáček",
+    "uk": "Panáček"
+  },
+  "9F938C52422B73525DDBFCA2816A1F14": {
+    "en": "Parfumer",
+    "uk": "Парфумер"
+  },
+  "AD992F9A4A26DDA8511367899A3D823F": {
+    "en": "Parléř",
+    "uk": "Parléř"
+  },
+  "04C4ED7D429845BB017580AC2972D833": {
+    "en": "Password:",
+    "uk": "Пароль:"
+  },
+  "DC500BE24B5D59A6D5D6BD97B396C666": {
+    "en": "Password:",
+    "uk": "Пароль:"
+  },
+  "92422427441784F13934CF83ACE089AD": {
+    "en": "Patrik",
+    "uk": "Patrik"
+  },
+  "288564ED4B1482CE841C448076B4613E": {
+    "en": "Peaceful Work",
+    "uk": "Мирна праця"
+  },
+  "26F93AEB4A73ED6835253CAB07DE735C": {
+    "en": "Personal costs",
+    "uk": "Особисті витрати"
+  },
+  "6D0EEE4044DE965C23329BAD90CCEBC9": {
+    "en": "Petr",
+    "uk": "Petr"
+  },
+  "7DC00E904A6697648533109CC479C4C9": {
+    "en": "Petra",
+    "uk": "Petra"
+  },
+  "7A6870E04BE2EA2E745474A652F37198": {
+    "en": "Physician",
+    "uk": "Лікар"
+  },
+  "3D0F4E484954255C87A9B3B9CE2CACCE": {
+    "en": "Players",
+    "uk": "Гравці"
+  },
+  "5917A51D4A81D15802C4179F5C0CC03F": {
+    "en": "Pleasant & Prosperous",
+    "uk": "Приємне та заможне"
+  },
+  "E5FF0BFD40DFD595607C96ABF4F8D4DB": {
+    "en": "Podhájský",
+    "uk": "Podhájský"
+  },
+  "97C38C464304BB21ADE6A389501B42DB": {
+    "en": "Position",
+    "uk": "Позиція"
+  },
+  "83E1BA6B466D16E2E105AA96E4904C07": {
+    "en": "Press Start",
+    "uk": "Натисніть Start"
+  },
+  "439F0F2E432705FAEAE8159F6F1B0A2D": {
+    "en": "Prison",
+    "uk": "В'язниця"
+  },
+  "C31CDED74C76225317252FA19B0CFB69": {
+    "en": "Productivity",
+    "uk": "Продуктивність"
+  },
+  "045EF8864563A087726868A586913136": {
+    "en": "Protestant",
+    "uk": "Протестант"
+  },
+  "606A8AED454564B56883CD984FA0F1D2": {
+    "en": "Public game",
+    "uk": "Публічна гра"
+  },
+  "825550FC4E395DE97BF0519264AFDFC8": {
+    "en": "Public game",
+    "uk": "Публічна гра"
+  },
+  "690817C04786407936B5CE9066A5EED4": {
+    "en": "Quit",
+    "uk": "Вийти"
+  },
+  "CBFE459D47D7837DB0F6DA8CFF385BBD": {
+    "en": "Radka",
+    "uk": "Radka"
+  },
+  "7A1D1CBF49B36170221C67A6B535289F": {
+    "en": "RandomBuilding",
+    "uk": "RandomBuilding"
+  },
+  "67C07B154500EA730CDF17B1285D2467": {
+    "en": "Ready",
+    "uk": "Готово"
+  },
+  "E234C7484B893F8283F6FB9E172DF121": {
+    "en": "Ready To Move In!",
+    "uk": "Готово до заселення!"
+  },
+  "664E35B74B9C8FC34AF25BB5C4A45D49": {
+    "en": "Red",
+    "uk": "Червоний"
+  },
+  "10B548C0406BA6E43F3DFA986831046E": {
+    "en": "Refresh",
+    "uk": "Оновити"
+  },
+  "AF95725841B5DBAF68318E8F598F3A8F": {
+    "en": "Refresh Servers",
+    "uk": "Оновити список серверів"
+  },
+  "6C9244DC462FEB9115DD75B19937EA8A": {
+    "en": "Repair building",
+    "uk": "Відремонтувати будівлю"
+  },
+  "DC2F1BB7487EB6C6D4D1AF8965E1F2D6": {
+    "en": "Residences",
+    "uk": "Резиденції"
+  },
+  "47735EAA474ABF7BF61F2F95CA4B3354": {
+    "en": "Resting-Place",
+    "uk": "Місце спочинку"
+  },
+  "D4084A0B47FB4BE47D39379E90E75B5E": {
+    "en": "Return",
+    "uk": "Повернутися"
+  },
+  "AC085D544D52E8A13EAFE79A539ADA82": {
+    "en": "Richard",
+    "uk": "Richard"
+  },
+  "653E07024015AE0CBC55E5B63E603562": {
+    "en": "Rob’s raw materials",
+    "uk": "Сировина від Rob"
+  },
+  "A30E25F94EC38645844CE6B3FB77AA8D": {
+    "en": "Roman",
+    "uk": "Roman"
+  },
+  "85F4B7C8439BB96FEDA5FBB36BF0B389": {
+    "en": "Rostrum",
+    "uk": "Трибуна"
+  },
+  "4E8AA8EB4EB3AD4E1A0D00A16420C772": {
+    "en": "Rotten Wood",
+    "uk": "Гниле дерево"
+  },
+  "D540F5BD453CA9D574F0ED83C0F92C24": {
+    "en": "RoughPlaster",
+    "uk": "RoughPlaster"
+  },
+  "46AD33824109DCD73879CA9B5A1DF0F6": {
+    "en": "Rusty & Heavy",
+    "uk": "Іржаве та важке"
+  },
+  "045223184A1AA84452C62691C87BF8E5": {
+    "en": "Rájský",
+    "uk": "Rájský"
+  },
+  "CE5684994FBFC3AAD3AF93A555415647": {
+    "en": "START OF TURN",
+    "uk": "ПОЧАТОК ХОДУ"
+  },
+  "D5B4416B4B1794CD458913A6EE9BFE12": {
+    "en": "STONEWALL",
+    "uk": "STONEWALL"
+  },
+  "9C30EBDD417415621D81D1A5365E4C9F": {
+    "en": "Saw Shavings",
+    "uk": "Тирса"
+  },
+  "175CFA164F03A7B1E411CC95EEFAD526": {
+    "en": "Select profession",
+    "uk": "Оберіть професію"
+  },
+  "ACF1E8C342F59014FA9BA6B70809C96A": {
+    "en": "Select profession\r\nfrom list of available",
+    "uk": "Оберіть професію\r\nзі списку доступних"
+  },
+  "53A4534844AF72B9A9E1CFB7E0702447": {
+    "en": "Select skill to improve by one point",
+    "uk": "Оберіть навичку, яку покращити на один пункт"
+  },
+  "9BE404CD4FB4338790EE3091272D183E": {
+    "en": "Serfs' Home",
+    "uk": "Домівка кріпаків"
+  },
+  "002C98744C73EE8652A1FD92031D6A88": {
+    "en": "Servers",
+    "uk": "Сервери"
+  },
+  "13C4FEA049AEA7E7BFDF87B16A8879B1": {
+    "en": "Short-Lived Curses",
+    "uk": "Короткочасні прокляття"
+  },
+  "DDDBBDAF4A40E9B42F730AB7B4720B0F": {
+    "en": "Simona",
+    "uk": "Simona"
+  },
+  "B1ADA3104851435316BA39A38C7B7ED8": {
+    "en": "Simple Tool",
+    "uk": "Простий інструмент"
+  },
+  "C400BAD04C050A934044869310FD014B": {
+    "en": "Skřítek",
+    "uk": "Skřítek"
+  },
+  "D1A760FB4DC3E94EDDCD64B9882478B2": {
+    "en": "Slate & Ebony",
+    "uk": "Сланець і чорне дерево"
+  },
+  "8E9BBBC44D94AA71023E42AFD0EB3D2C": {
+    "en": "Sleepy Abode",
+    "uk": "Сонна оселя"
+  },
+  "951C42514256ADC91564DC9CE17F4615": {
+    "en": "Smutný",
+    "uk": "Smutný"
+  },
+  "77062C8D402988A82CB0558C6F5E7267": {
+    "en": "Solid Walls",
+    "uk": "Міцні стіни"
+  },
+  "5FBF7C7647680355A094FCAB25B2E9F6": {
+    "en": "Spend money to buy {building name}?",
+    "uk": "Витратити гроші на купівлю {building name}?"
+  },
+  "3B2BE20E471BD7D828EEC686E0C80003": {
+    "en": "Start Game",
+    "uk": "Почати гру"
+  },
+  "499C302B42C697AD3CAB189B97FA2C7F": {
+    "en": "Start Game",
+    "uk": "Почати гру"
+  },
+  "5A3EE4CB4C9B7A43C548A3875C5B452D": {
+    "en": "Starý",
+    "uk": "Starý"
+  },
+  "9C6F5C664927C86A7F38119835C5F36E": {
+    "en": "State Authority",
+    "uk": "Державна влада"
+  },
+  "6E06D3334DAD4910E0C9CB9B879BE24C": {
+    "en": "Stone by Stone",
+    "uk": "Камінь за каменем"
+  },
+  "B8C9228F4994A81C51D4B88E3A7F99FF": {
+    "en": "StoneSoil",
+    "uk": "StoneSoil"
+  },
+  "0723BD2E468B4EA620F18BA2FA926D74": {
+    "en": "Stone_Light",
+    "uk": "Stone_Light"
+  },
+  "0459939741387891E78619ACE7C160EC": {
+    "en": "Stones",
+    "uk": "Каміння"
+  },
+  "061208BD4B327F6FA9350DB9009865C7": {
+    "en": "Stones",
+    "uk": "Каміння"
+  },
+  "99BCB5A6413B0D3E4D34D0A74147BE0C": {
+    "en": "Stones",
+    "uk": "Каміння"
+  },
+  "CC8AE7894F7576E7498635B20DCE47D4": {
+    "en": "Stones",
+    "uk": "Каміння"
+  },
+  "A4ABC8464CC385AFACC4A39AFC24B1DA": {
+    "en": "Study for Rank Up",
+    "uk": "Навчатися для підвищення рангу"
+  },
+  "F966EBD741A606800E8E8BBFFB07D400": {
+    "en": "Svoboda",
+    "uk": "Svoboda"
+  },
+  "60EA92EF4AD680C7B536F9A69B419120": {
+    "en": "Svobodný",
+    "uk": "Svobodný"
+  },
+  "027935354C333F14675239A0051F04F0": {
+    "en": "Tailor",
+    "uk": "Кравець"
+  },
+  "668CEED346C68F01295487A3AB556642": {
+    "en": "Tereza",
+    "uk": "Tereza"
+  },
+  "93C4097744F2CF0D5A5FB3AD4DE996E9": {
+    "en": "The 5 Apostles",
+    "uk": "П'ять апостолів"
+  },
+  "A4DC3B484295E9B6128A43950A9950F6": {
+    "en": "The Bed of Straw",
+    "uk": "Солом'яне ложе"
+  },
+  "C7C6C03E435737CBB16195A101761898": {
+    "en": "The Creaking Gates",
+    "uk": "Скрипучі ворота"
+  },
+  "FDE074D447EFFAD19C4080A554FF5212": {
+    "en": "The Crying Virgin",
+    "uk": "Плачуча діва"
+  },
+  "4B5DD22D481003CC31FFF097A881CCB1": {
+    "en": "The Farrier",
+    "uk": "Коваль-підковник"
+  },
+  "50A465004C5B5E635D22EDBB60E3D594": {
+    "en": "The Forge",
+    "uk": "Кузня"
+  },
+  "D4C0434145E250EEE3CDDD8B495374F9": {
+    "en": "The Haunted Grounds",
+    "uk": "Земля привидів"
+  },
+  "B9A0EB944C747FC623530396FF34BFCE": {
+    "en": "The Iron Oak",
+    "uk": "Залізний дуб"
+  },
+  "8C769A074CA2911E79014C94CCCAA30D": {
+    "en": "Thief",
+    "uk": "Злодій"
+  },
+  "D3C8E57F44F53C586D263EBCFFEC2463": {
+    "en": "Throw away goods",
+    "uk": "Викинути товари"
+  },
+  "DFA7B75544D88AB7F3C71C95C1F72511": {
+    "en": "Title",
+    "uk": "Титул"
+  },
+  "78B07B9245B8448B26EF69B8E1255A51": {
+    "en": "Toggles pause of the in-game time",
+    "uk": "Перемикає паузу ігрового часу"
+  },
+  "FC62C5CB48C58906C2BC0ABF009F93FA": {
+    "en": "Tomáš",
+    "uk": "Tomáš"
+  },
+  "ED8956784206892FC12B589A620198C0": {
+    "en": "Town Bailifs",
+    "uk": "Міські пристави"
+  },
+  "08DE05C24380FED85163F5B44659767E": {
+    "en": "Town Council",
+    "uk": "Міська рада"
+  },
+  "0F69DFBD43620532490DF8AC3EC42FF9": {
+    "en": "Town Hall",
+    "uk": "Ратуша"
+  },
+  "530249E843201EBCEFCB06B85A144228": {
+    "en": "Town Servants",
+    "uk": "Міські слуги"
+  },
+  "D855AD8A4594C0516C2EFFBD435353EE": {
+    "en": "TownWatch",
+    "uk": "TownWatch"
+  },
+  "AFBA756C43D249311A2FF09102646731": {
+    "en": "Trade",
+    "uk": "Торгівля"
+  },
+  "682D41BD4376138C4CAC49BAAC286C82": {
+    "en": "Trader",
+    "uk": "Торговець"
+  },
+  "9A55BC724CF4C7A82077E690BA717741": {
+    "en": "True Vagabonds",
+    "uk": "Справжні волоцюги"
+  },
+  "ED07279C4DB491C2AA979AA9A0AAD691": {
+    "en": "Trumpery & Theatre",
+    "uk": "Мішура та театральність"
+  },
+  "874891C44BD2B9B8D677D3966E4239F5": {
+    "en": "Truthful & Virtuous",
+    "uk": "Правдиве та доброчесне"
+  },
+  "283180714BB6E60168B7E3ADFB3FE792": {
+    "en": "Turned Angel",
+    "uk": "Занепалий ангел"
+  },
+  "623C8FB341035AF0E89EEABED4436615": {
+    "en": "Unlocks additional Crafting Recipe",
+    "uk": "Відкриває додатковий рецепт виготовлення"
+  },
+  "BC2676754B1A37E2D77DC2A26A6D912E": {
+    "en": "VARIATION",
+    "uk": "VARIATION"
+  },
+  "0A67E2ED43628C09F7AD68A033E5A6CD": {
+    "en": "Valášek",
+    "uk": "Valášek"
+  },
+  "0A6F59724E59FBCA05C1BF8B30C472BD": {
+    "en": "Variation",
+    "uk": "Варіація"
+  },
+  "41A9EBDD45B65005079B47A280AEA90C": {
+    "en": "Variation",
+    "uk": "Варіація"
+  },
+  "8FDA55EB4119CE56634D6E96A88D0F1E": {
+    "en": "Variation",
+    "uk": "Варіація"
+  },
+  "DCB1F9594922997AC4DCA5A45B8C8C21": {
+    "en": "Variation",
+    "uk": "Варіація"
+  },
+  "F5C553D143468EC94DCF7B8D10BCCC53": {
+    "en": "Variation",
+    "uk": "Варіація"
+  },
+  "30B079A5401CAAFB7FFA88A54D94E72E": {
+    "en": "Velký",
+    "uk": "Velký"
+  },
+  "5FB9904142F276A1A04DF4818529DEE8": {
+    "en": "Veronika",
+    "uk": "Veronika"
+  },
+  "2313803241BCB8BC6233E181A026086C": {
+    "en": "Very Brittle",
+    "uk": "Дуже крихке"
+  },
+  "C4868B36499B594563C0F48DFF01F006": {
+    "en": "Veselý",
+    "uk": "Veselý"
+  },
+  "4878828243882004D63368913E68C04D": {
+    "en": "Victory Condition",
+    "uk": "Умова перемоги"
+  },
+  "7C99EC494DDA77CC489B489FCE129D46": {
+    "en": "Victory Condition",
+    "uk": "Умова перемоги"
+  },
+  "02F293104AF235F7B4C35CBEA6AF5193": {
+    "en": "Victory condition has been met by some player",
+    "uk": "Умову перемоги виконав один із гравців"
+  },
+  "D08EF8F14151321A90D41592E4BAA32A": {
+    "en": "Villa",
+    "uk": "Вілла"
+  },
+  "A19DE12E4394FB49A0B751A4A231D401": {
+    "en": "Vladimír",
+    "uk": "Vladimír"
+  },
+  "F84D474A48E5DB785230CCBA2E6BB2C0": {
+    "en": "Václav",
+    "uk": "Václav"
+  },
+  "5A0C5DB84BCE2F68D3E3688A415B77DB": {
+    "en": "Vítek",
+    "uk": "Vítek"
+  },
+  "C0173CC44975C534B097E78968E5EE61": {
+    "en": "Warm Winters",
+    "uk": "Теплі зими"
+  },
+  "F013101B457C6F3765CE2AB3E5ECF24C": {
+    "en": "WarmWhite",
+    "uk": "WarmWhite"
+  },
+  "0F02CEF242002530FA5F0987F35B95AE": {
+    "en": "Well",
+    "uk": "Колодязь"
+  },
+  "7675FCD740AB94E3D4E7AAA5ACBF190A": {
+    "en": "Windy Hut",
+    "uk": "Вітряна хатина"
+  },
+  "9683FBE4486B95974FF18EA4120BA5F0": {
+    "en": "Witching Hour",
+    "uk": "Відьомська година"
+  },
+  "80D3E84B44944BC8676B919AD08413D6": {
+    "en": "Without tags",
+    "uk": "Без тегів"
+  },
+  "953F18124E9CD5D09F69E0A6036988D2": {
+    "en": "Wood ends",
+    "uk": "Торці дерева"
+  },
+  "239BCEF24B52285E14C885BCDD946FB3": {
+    "en": "Wood_02",
+    "uk": "Wood_02"
+  },
+  "FFDA37EB45717EBC033417B3B371D095": {
+    "en": "Wood_03",
+    "uk": "Wood_03"
+  },
+  "2C75402C4C3D0B1C4B100896B20BA855": {
+    "en": "Wood_light",
+    "uk": "Wood_light"
+  },
+  "285224544A81F6C9C571D7A475B29502": {
+    "en": "Wooden Decorations",
+    "uk": "Дерев'яні прикраси"
+  },
+  "92961D7B4F024C7A04B30E84723FDA43": {
+    "en": "WoodlandArea",
+    "uk": "WoodlandArea"
+  },
+  "14C7A4DD4CAF5371E5E932850A4D30C3": {
+    "en": "Workers' Peace",
+    "uk": "Спокій працівників"
+  },
+  "E026649649269474AF5A24B80C2615A2": {
+    "en": "Workers' Rest",
+    "uk": "Відпочинок працівників"
+  },
+  "8B9BBE784E7CB355D7EE9B81B70929FD": {
+    "en": "Yellow",
+    "uk": "Жовтий"
+  },
+  "0812B8054AB912D7589CCD8B5D80F62D": {
+    "en": "Zdeněk",
+    "uk": "Zdeněk"
+  },
+  "F47A99244E54260AA000FE8D4DD781E5": {
+    "en": "Zelený",
+    "uk": "Zelený"
+  },
+  "5C023FD548402674E405359C261932CE": {
+    "en": "Zuzana",
+    "uk": "Zuzana"
+  },
+  "AC2716A74B35877DAE059EB4E369407C": {
+    "en": "Zámecký",
+    "uk": "Zámecký"
+  },
+  "59BB461C4069A58F89B8E3B814A762A2": {
+    "en": "Zítko",
+    "uk": "Zítko"
+  },
+  "E005D9A94DEBC818D2FC5BBC67EFBA79": {
+    "en": "[location and type]",
+    "uk": "[location and type]"
+  },
+  "68AD8BD24FAF7905E002B298BA7F0A51": {
+    "en": "[office position]",
+    "uk": "[office position]"
+  },
+  "2BD950594E81AE75B3CD23BA53C8E2FF": {
+    "en": "[surname]",
+    "uk": "[surname]"
+  },
+  "0E468BD141A559B78B01F9ABB61327DC": {
+    "en": "[title]",
+    "uk": "[title]"
+  },
+  "5B9DE5E0420516CBF4FCBB965B34AB4E": {
+    "en": "black",
+    "uk": "чорний"
+  },
+  "D306EA714B0593968E50DAA93A3A833C": {
+    "en": "citizen",
+    "uk": "громадянин"
+  },
+  "BDCEBBE04D532D9807BEE0908345E2EA": {
+    "en": "cut parts",
+    "uk": "обрізки"
+  },
+  "17FC1BED4D8838DDF48CE99E7CFA6FD2": {
+    "en": "dark dirt whatever",
+    "uk": "темний бруд, чи що там"
+  },
+  "0954AD06478A642540BD01AD1D007327": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "17EC85BF4526FD9C600D4D8460F72899": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "199EA902497F543F9712188268C94ECB": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "22C6A54045764BA68D7606A12980932E": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "2517F8E7440C55BB261B64815747D5D2": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "3A635D89441E5A09455D4093F2275154": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "834435354D35F2DAE9BF9DA2624E3A8B": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "8C8B84AC404443B9929348B4AF243F29": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "91DCEF184BEC7A6BC0E048A6633C8139": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "A0A664104D480DDE40C073AB5A54D260": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "B6436EE140E5CF2F1F2CBF8377394FFC": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "BFA3F45946CB512D0F8353B00EE29218": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "CC6343264FDF57FD36DDBCA2BB762868": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "CD90B1D241A4BBE8D46C4BB4F3D7E73B": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "E73AF0484436492ACC467695039AD51D": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "E90C264A4488A1F896E3A88E82BC83A9": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "FFDCE3C44C3BC858CE45598E1B2C4717": {
+    "en": "dirt",
+    "uk": "бруд"
+  },
+  "29DB5BF7440051B78277CF8691F1311C": {
+    "en": "dmg",
+    "uk": "dmg"
+  },
+  "5E37B00243F82FABC4580091EB0E22E3": {
+    "en": "dmg",
+    "uk": "dmg"
+  },
+  "D7347A3E4A88BA9FB0B369B4929ABC6A": {
+    "en": "item",
+    "uk": "предмет"
+  },
+  "04164AA74D0A3EF2BE84F9BCCE24DB7B": {
+    "en": "moss",
+    "uk": "мох"
+  },
+  "699750B246926588E8C7CFA86D732DD4": {
+    "en": "moss",
+    "uk": "мох"
+  },
+  "E7DAC3D749738839E7DB8C948FE8D499": {
+    "en": "moss",
+    "uk": "мох"
+  },
+  "FAD99EEA40DE6BDD28ACBEA610D6348D": {
+    "en": "moss",
+    "uk": "мох"
+  },
+  "26CF9C7B434E8167CA83ECB1D51ED56E": {
+    "en": "mud",
+    "uk": "грязюка"
+  },
+  "5B276313420D0DB78B2DA7B557BC0D0B": {
+    "en": "mud",
+    "uk": "грязюка"
+  },
+  "E48351624D34FF8393E71CB3FE4312DC": {
+    "en": "mud",
+    "uk": "грязюка"
+  },
+  "64D13C9241195BFA9D145085DE4EDC82": {
+    "en": "open next year",
+    "uk": "відкриється наступного року"
+  },
+  "01FC5AAE447EE39615B9ABA4F82C5DBC": {
+    "en": "promote",
+    "uk": "підвищити"
+  },
+  "DD7628A1471F9E3E25B34E9E1640FFF4": {
+    "en": "promote",
+    "uk": "підвищити"
+  },
+  "2FD043C444A0BB11703380AFAB43E7C1": {
+    "en": "random nelokalizovaný text ",
+    "uk": "випадковий нелокалізований текст "
+  },
+  "BDCC46B543E68C0465EBB5B62922D4AE": {
+    "en": "send to doctor",
+    "uk": "відправити до лікаря"
+  },
+  "ACDC8FF14116C67AB142E7A8216C3166": {
+    "en": "send to rest",
+    "uk": "відправити відпочивати"
+  },
+  "B31C4AAC46F9F7C1D621B28A78ADC8C1": {
+    "en": "shit",
+    "uk": "лайно"
+  },
+  "BFFC154743688478747B12B616947990": {
+    "en": "vacant",
+    "uk": "вакантно"
+  },
+  "048AB49A4B61DDB3FEBDD1A10F6F4D12": {
+    "en": "variation",
+    "uk": "варіація"
+  },
+  "36AB10BB45D93584E57E0DA4827DC9DF": {
+    "en": "variation",
+    "uk": "варіація"
+  },
+  "3A0626294642EFDC001477A9B4167456": {
+    "en": "variation",
+    "uk": "варіація"
+  },
+  "AEF941AB41F9234A34A472AE21918ACF": {
+    "en": "variation",
+    "uk": "варіація"
+  },
+  "BF7ECC7A4CB140D194CA6280AC9593E9": {
+    "en": "variation",
+    "uk": "варіація"
+  },
+  "C7F238AE4C7F98D7B04C2D9DB5A42E95": {
+    "en": "variation",
+    "uk": "варіація"
+  },
+  "C9BB52F24275F6CA05B495B6365A68D9": {
+    "en": "variation",
+    "uk": "варіація"
+  },
+  "DFD9272648C3132967F697ABE1DFF17A": {
+    "en": "variation",
+    "uk": "варіація"
+  },
+  "705168FB4B2670777DCC33BA9B238AED": {
+    "en": "worker",
+    "uk": "працівник"
+  },
+  "CDAA6132460109C0FF3246BE5965B6C8": {
+    "en": "you",
+    "uk": "ви"
+  },
+  "FF7BCAD74359FB1762975C8308ABE521": {
+    "en": "{Season} {Year} ended",
+    "uk": "{Season} {Year} завершено"
+  },
+  "254CAB114ABD94997037828563D7CCF0": {
+    "en": "{Type} (lvl {LevelValue})",
+    "uk": "{Type} (рів. {LevelValue})"
+  },
+  "5B61663C4E58D9AF2B6C5DA37338ADDE": {
+    "en": "{Value} min",
+    "uk": "{Value} хв"
+  },
+  "AFCBEC29416F69AC812A69B3EA0B5B83": {
+    "en": "{a} {b}",
+    "uk": "{a} {b}"
+  },
+  "FB4F668F44DC925DE375A7B6924F7520": {
+    "en": "{city} - {desc}",
+    "uk": "{city} - {desc}"
+  },
+  "4CF6830D49783B8EB04EB69370F5CE8F": {
+    "en": "{count} owned",
+    "uk": "{count} у власності"
+  },
+  "4C29664F47032554F322A2902F2B1888": {
+    "en": "{current}/{max}",
+    "uk": "{current}/{max}"
+  },
+  "09F0A06043375662A89726A847EB04AB": {
+    "en": "{server} ({city}) {CurPlayers}/{MaxPlayers} players",
+    "uk": "{server} ({city}) {CurPlayers}/{MaxPlayers} гравців"
+  },
+  "B4C9720A4B8345D4DCD4E59945F76410": {
+    "en": "{term1} · {term2}",
+    "uk": "{term1} · {term2}"
+  },
+  "EAE097CC4EF83097DEFCC784C350389C": {
+    "en": "Široký",
+    "uk": "Široký"
+  },
+  "7DBC800449C85B7792A2AA9CFD514189": {
+    "en": "Štěpán",
+    "uk": "Štěpán"
+  },
+  "A758DED446DDE20AE289079845541706": {
+    "en": "Šťastný",
+    "uk": "Šťastný"
+  },
+  "01B3762141E3249CB6F4C094BCDACE71": {
+    "en": "Žaneta",
+    "uk": "Žaneta"
+  }
+}

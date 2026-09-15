@@ -1,0 +1,7 @@
+# Extracted game files - regenerate with `python uk.py extract`
+work/
+# Downloaded tools and build output
+tools/
+dist/
+.venv/
+__pycache__/

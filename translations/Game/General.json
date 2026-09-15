@@ -1,0 +1,1470 @@
+{
+  "General_Connector_Or": {
+    "en": " or ",
+    "uk": " або "
+  },
+  "General_BulletPointListItem": {
+    "en": " • {ListItem}",
+    "uk": " • {ListItem}"
+  },
+  "TributeToFirstGuild_GameLobby_Title": {
+    "en": "A Tribute to the First Guild",
+    "uk": "Данина першій Гільдії"
+  },
+  "Guildopedia_Description": {
+    "en": "A comprehensive record of laws, professions, buildings, and mechanics within the city.",
+    "uk": "Повний довідник законів, професій, будівель і механік міста."
+  },
+  "VictoryCondition_Challenge_Office_CongratulationText": {
+    "en": "A foothold in the halls of power. The real game is just beginning.",
+    "uk": "Опора у залах влади здобута. Справжня гра лише починається."
+  },
+  "MaintenancePhase_BalancePersonal_Description_extra1": {
+    "en": "A negative balance for too long will result in being {ST_CHR_IMP_C}imprisoned{##}.",
+    "uk": "Надто тривалий від'ємний баланс призведе до {ST_CHR_IMP_C}ув'язнення{##}."
+  },
+  "General_Button_Accept": {
+    "en": "Accept",
+    "uk": "Прийняти"
+  },
+  "UpcomingEventsScreen_Trial": {
+    "en": "Accused: {1}\nAccuser: {2}\nCrime: {3}\nJury: {4}",
+    "uk": "Обвинувачений: {1}\nОбвинувач: {2}\nЗлочин: {3}\nПрисяжні: {4}"
+  },
+  "MaintenancePhase_BusinessesRevenue_BuyBuilding_DisplayName": {
+    "en": "Acquisitions",
+    "uk": "Придбання"
+  },
+  "MaintenancePhase_HouseExpenses_Purchase_DisplayName": {
+    "en": "Acquisitions",
+    "uk": "Придбання"
+  },
+  "MaintenancePhase_AP_DisplayName": {
+    "en": "Action Points Balance",
+    "uk": "Баланс очок дій"
+  },
+  "AllSaves_MultiplayerSingleplayer": {
+    "en": "All",
+    "uk": "Усі"
+  },
+  "ComingSoon_Warning_Description_Item": {
+    "en": "All items can be traded, but some cannot be used yet. In some cases, their effects may represent only a small part of what we ultimately have planned for them.",
+    "uk": "Усіма товарами можна торгувати, але деякі поки не можна використати. У деяких випадках їхні ефекти відображають лише невелику частину того, що ми зрештою для них запланували."
+  },
+  "ComingSoon_Warning_Description_Law": {
+    "en": "All laws can be changed once you obtain the office position that grants the necessary authority. Some laws, however, are still awaiting the supporting systems that bring them to life, while others may not yet influence the world to their full intended extent.",
+    "uk": "Усі закони можна змінити, щойно ви здобудете посаду з потрібними повноваженнями. Утім, деякі закони ще чекають на системи, які втілять їх у життя, тоді як інші поки впливають на світ не такою мірою, як задумано."
+  },
+  "Guildopedia_AllPages": {
+    "en": "All pages",
+    "uk": "Усі сторінки"
+  },
+  "Price_AllTimeHighCity": {
+    "en": "All-time high in city",
+    "uk": "Історичний максимум у місті"
+  },
+  "Price_AllTimeLowCity": {
+    "en": "All-time low in city",
+    "uk": "Історичний мінімум у місті"
+  },
+  "GameModeMultiplayer_HotJoin": {
+    "en": "Allow Hot Join",
+    "uk": "Дозволити приєднання під час гри"
+  },
+  "VictoryCondition_Wealth_Description": {
+    "en": "Amass {value} {CHAR_WEA_C}wealth{##}",
+    "uk": "Накопичте {CHAR_WEA_C}багатство{##} на суму {value}"
+  },
+  "EveryTurn_Label_alt": {
+    "en": "Annually",
+    "uk": "Щорічно"
+  },
+  "General_Button_Apply": {
+    "en": "Apply",
+    "uk": "Застосувати"
+  },
+  "PriceModifier_Storefront_DisplayName": {
+    "en": "At the Source",
+    "uk": "Просто від виробника"
+  },
+  "VictoryCondition_Title_Description": {
+    "en": "Attain the {T_C}title{##} of {title}",
+    "uk": "Здобудьте {T_C}титул{##} «{title}»"
+  },
+  "General_Button_Back": {
+    "en": "Back",
+    "uk": "Назад"
+  },
+  "MaintenancePhase_BalancePersonal_DisplayName": {
+    "en": "Balance",
+    "uk": "Баланс"
+  },
+  "VictoryCondition_Office_Description": {
+    "en": "Be elected to a rank {icon_n} {O_TYP_CIVOFF_C}office position{##}",
+    "uk": "Здобудьте обрання на {O_TYP_CIVOFF_C}посаду{##} рангу {icon_n}"
+  },
+  "Benefits_DisplayName": {
+    "en": "Benefits",
+    "uk": "Привілеї"
+  },
+  "MaintenancePhase_PersonnelCosts_Bonuses_DisplayName": {
+    "en": "Bonuses",
+    "uk": "Премії"
+  },
+  "UpcomingEventsScreen_Wedding_alt": {
+    "en": "Bride and Groom:",
+    "uk": "Наречена та наречений:"
+  },
+  "MaintenancePhase_BusinessesRevenue_SellBuilding_DisplayName": {
+    "en": "Buildings Sold",
+    "uk": "Продані будівлі"
+  },
+  "MaintenancePhase_HouseExpenses_SellBuilding_DisplayName": {
+    "en": "Buildings Sold",
+    "uk": "Продані будівлі"
+  },
+  "Parameter_Integrity_Description": {
+    "en": "Buildings and carts wear down over time. Lost integrity means lost {B_PARAM_VAL_C}value{##}. Since your {CHAR_WEA_C}wealth{##} is measured by what you own, every crack and splinter lowers it.",
+    "uk": "Будівлі та вози зношуються з часом. Втрачена цілісність означає втрачену {B_PARAM_VAL_C}вартість{##}. Оскільки Ваше {CHAR_WEA_C}багатство{##} вимірюється тим, чим Ви володієте, кожна тріщина й скалка його зменшує."
+  },
+  "Guildopedia_Buildings_Description": {
+    "en": "Buildings each serve a role in the city. Some support {P_C}professions{##}, others serve the public. Most can be upgraded and fitted with improvements.",
+    "uk": "Кожна будівля виконує в місті свою роль. Одні підтримують {P_C}професії{##}, інші служать громаді. Більшість можна вдосконалити та оснастити покращеннями."
+  },
+  "Guildopedia_Business_DisplayName": {
+    "en": "Business",
+    "uk": "Підприємство"
+  },
+  "Price_Buying_Label": {
+    "en": "Buying price",
+    "uk": "Ціна купівлі"
+  },
+  "Price_BuyingInBuilding": {
+    "en": "Buying price in this building",
+    "uk": "Ціна купівлі в цій будівлі"
+  },
+  "CanConstruct_Header": {
+    "en": "Can construct",
+    "uk": "Можна побудувати"
+  },
+  "CanCraft_Header": {
+    "en": "Can craft",
+    "uk": "Можна виготовити"
+  },
+  "CanUpgrade_Header": {
+    "en": "Can upgrade",
+    "uk": "Можна покращити"
+  },
+  "General_Button_Cancel": {
+    "en": "Cancel",
+    "uk": "Скасувати"
+  },
+  "General_Button_CancelChanges": {
+    "en": "Cancel Changes",
+    "uk": "Скасувати зміни"
+  },
+  "General_Button_CancelSelection": {
+    "en": "Cancel Selection",
+    "uk": "Скасувати вибір"
+  },
+  "MaintenancePhase_Cart_BuyCart_DisplayName": {
+    "en": "Cart Purchase",
+    "uk": "Купівля возів"
+  },
+  "MaintenancePhase_Cart_RepairCart_DisplayName": {
+    "en": "Cart Repairs",
+    "uk": "Ремонт возів"
+  },
+  "MaintenancePhase_Cart_SellCart_DisplayName": {
+    "en": "Cart Sale",
+    "uk": "Продаж возів"
+  },
+  "Parameter_IntegrityDecay_Description_extra1": {
+    "en": "Carts, however, suffer from use. The more often they travel, the more they wear down.",
+    "uk": "Вози ж, навпаки, страждають від використання. Що частіше вони в дорозі, то швидше зношуються."
+  },
+  "Warning_SaveLimit_Header": {
+    "en": "Caution!",
+    "uk": "Увага!"
+  },
+  "General_Button_Cheat": {
+    "en": "Cheat",
+    "uk": "Чит"
+  },
+  "RoadMap_Button": {
+    "en": "Check our Roadmap!",
+    "uk": "Погляньте на нашу дорожню карту!"
+  },
+  "Chronicle_DisplayName": {
+    "en": "Chronicle",
+    "uk": "Хроніка"
+  },
+  "Chronicle_DisplayName_WithNumber": {
+    "en": "Chronicle (NumChronicle)",
+    "uk": "Хроніка (NumChronicle)"
+  },
+  "Guildopedia_DisplayName": {
+    "en": "City Archives ",
+    "uk": "Міські архіви "
+  },
+  "MaintenancePhase_CityTreasury_DisplayName": {
+    "en": "City Treasury",
+    "uk": "Міська скарбниця"
+  },
+  "Diorama_Interaction_Instruction": {
+    "en": "Click a character to learn more about them and see the actions available.",
+    "uk": "Натисніть на персонажа, щоб дізнатися про нього більше та побачити доступні дії."
+  },
+  "General_Button_Close": {
+    "en": "Close",
+    "uk": "Закрити"
+  },
+  "MaintenancePhase_OfficeIncome_Description": {
+    "en": "Coin earned by holding an office position.",
+    "uk": "Монети, отримані завдяки посаді."
+  },
+  "PriceModifier_SrorefrontRevenue_DisplayName": {
+    "en": "Coin of Appreciation",
+    "uk": "Чайові"
+  },
+  "Demo_Multiplayer_DisplayName": {
+    "en": "Coming soon!",
+    "uk": "Незабаром!"
+  },
+  "ComingSoon_Label": {
+    "en": "Coming soon…",
+    "uk": "Незабаром…"
+  },
+  "General_Button_Confirm": {
+    "en": "Confirm",
+    "uk": "Підтвердити"
+  },
+  "VictoryCondition_Office_CongratulationText": {
+    "en": "Congratulations! You earned influence and wielded it. Whether for the greater good or your own ambitions, you played the game and won it.",
+    "uk": "Вітаємо! Ви здобули вплив і скористалися ним. Заради спільного блага чи власних амбіцій — Ви зіграли цю гру і перемогли."
+  },
+  "VictoryCondition_Title_CongratulationText": {
+    "en": "Congratulations! You proved that hard work and determination can rise above the station you were born into. The title is yours, and you earned every bit of it.",
+    "uk": "Вітаємо! Ви довели, що наполеглива праця й рішучість здатні піднести над становищем, у якому ви народилися. Титул тепер Ваш, і Ви заслужили на нього повністю."
+  },
+  "MaintenancePhase_BusinessesRevenue_ConstructBuilding_DisplayName": {
+    "en": "Constructions",
+    "uk": "Будівництво"
+  },
+  "MaintenancePhase_HouseExpenses_Construction_DisplayName": {
+    "en": "Constructions",
+    "uk": "Будівництво"
+  },
+  "ContextMenu_DisplayName": {
+    "en": "Context Menu",
+    "uk": "Контекстне меню"
+  },
+  "General_Button_Continue": {
+    "en": "Continue",
+    "uk": "Продовжити"
+  },
+  "General_Button_ContinuePlaying": {
+    "en": "Continue Playing",
+    "uk": "Продовжити гру"
+  },
+  "Cost_Label": {
+    "en": "Cost",
+    "uk": "Вартість"
+  },
+  "Costs_Label": {
+    "en": "Costs",
+    "uk": "Витрати"
+  },
+  "CostsAndRequirements_Label": {
+    "en": "Costs and Requirements",
+    "uk": "Витрати та вимоги"
+  },
+  "General_MainMenu_Credits": {
+    "en": "Credits",
+    "uk": "Автори"
+  },
+  "Guildopedia_CrimeAndEvidence_DisplayName": {
+    "en": "Crime & Evidence",
+    "uk": "Злочини та докази"
+  },
+  "SpyingScreen_DisplayName": {
+    "en": "Crime & Evidence",
+    "uk": "Злочини та докази"
+  },
+  "MaintenancePhase_CityQuarterReputationEndOfTurn_DisplayName": {
+    "en": "Crown Funding",
+    "uk": "Фінансування від Корони"
+  },
+  "Price_BuyingCurrent_Title": {
+    "en": "Current Prices to Buy",
+    "uk": "Поточні ціни купівлі"
+  },
+  "Price_SellingCurrent_Title": {
+    "en": "Current Prices to Sell",
+    "uk": "Поточні ціни продажу"
+  },
+  "PriceModifier_Attractiveness_DisplayName": {
+    "en": "Demand",
+    "uk": "Попит"
+  },
+  "Demo_DisplayName": {
+    "en": "Demo Edition",
+    "uk": "Демоверсія"
+  },
+  "TooltipClose_All": {
+    "en": "Dismiss All Locked Tooltips",
+    "uk": "Закрити всі закріплені підказки"
+  },
+  "General_Button_DoNothing": {
+    "en": "Do nothing",
+    "uk": "Нічого не робити"
+  },
+  "ComingSoon_Warning_DisplayName": {
+    "en": "Early Access",
+    "uk": "Ранній доступ"
+  },
+  "EarlyAccess_GameLobby_Title": {
+    "en": "Early Access",
+    "uk": "Ранній доступ"
+  },
+  "VictoryCondition_Renown_Description": {
+    "en": "Earn {value} {CHAR_REN_C}renown{##}",
+    "uk": "Здобудьте {CHAR_REN_C}славу{##} на суму {value}"
+  },
+  "MaintenancePhase_BusinessesRevenue_Description": {
+    "en": "Earnings from selling goods and services, reduced by the cost of materials, improvements, upgrades and repairs.",
+    "uk": "Прибуток від продажу товарів і послуг, зменшений на вартість матеріалів, покращень, вдосконалень і ремонту."
+  },
+  "General_Button_Edit": {
+    "en": "Edit",
+    "uk": "Редагувати"
+  },
+  "MaintenancePhase_Energy_Degeneration_DisplayName": {
+    "en": "Energy Decay",
+    "uk": "Втрата енергії"
+  },
+  "MaintenancePhase_EspionageCosts_DisplayName": {
+    "en": "Espionage Costs",
+    "uk": "Витрати на шпигунство"
+  },
+  "MaintenancePhase_DeathRemoveMoney_DisplayName": {
+    "en": "Estate",
+    "uk": "Майно"
+  },
+  "EveryTurn_Label": {
+    "en": "Every turn",
+    "uk": "Кожен хід"
+  },
+  "General_Button_Exit": {
+    "en": "Exit",
+    "uk": "Вихід"
+  },
+  "MaintenancePhase_Payment_DisplayName": {
+    "en": "Expenses",
+    "uk": "Витрати"
+  },
+  "SpeedControl_Faster_DisplayName": {
+    "en": "Faster speed",
+    "uk": "Швидше"
+  },
+  "SpeedControl_Fastest_DisplayName": {
+    "en": "Fastest speed",
+    "uk": "Максимальна швидкість"
+  },
+  "Filter_SortBy": {
+    "en": "Filter by: ",
+    "uk": "Фільтрувати за: "
+  },
+  "HighlightOptions_DisplayName_alt": {
+    "en": "Filters",
+    "uk": "Фільтри"
+  },
+  "VictoryCondition_None_DisplayName": {
+    "en": "Free Mode",
+    "uk": "Вільний режим"
+  },
+  "Demo_FullGameRequirement_DisplayName": {
+    "en": "Full Game",
+    "uk": "Повна версія"
+  },
+  "GameModeMultiplayer_GameName": {
+    "en": "Game Name",
+    "uk": "Назва гри"
+  },
+  "GameOver_DisplayName": {
+    "en": "Game Over",
+    "uk": "Кінець гри"
+  },
+  "Guildopedia_General_DisplayName": {
+    "en": "General",
+    "uk": "Загальне"
+  },
+  "EarlyAccess_Steam_Prompt": {
+    "en": "Get Early Access",
+    "uk": "Отримати ранній доступ"
+  },
+  "MoveCameraTo_Button": {
+    "en": "Go to Location",
+    "uk": "Перейти до місця"
+  },
+  "ScreenRepositioning_Instruction": {
+    "en": "Grab the top of the window to reposition it.",
+    "uk": "Перетягніть вікно за верхній край, щоб перемістити його."
+  },
+  "Demo_Victory_DisplayName": {
+    "en": "Grow your business",
+    "uk": "Розвивайте свою справу"
+  },
+  "GameLobby_Message": {
+    "en": "Hey, thanks for jumping in!\nWe genuinely appreciate you giving our game a try.\n\nThis is an <text fontface=\"bold\">early build</>, so some things may be missing or break. We're eager to hear your thoughts — so don't forget to fill out the <text fontface=\"bold\">feedback survey</>. It helps us build a better version!\n \nIf anything feels confusing, check the guide for a smoother experience.\nJoin our <text fontface=\"bold\">private Discord</> server to discuss with other playtesters and us devs!",
+    "uk": "Вітаємо, дякуємо, що приєдналися!\nМи щиро цінуємо те, що ви вирішили спробувати нашу гру.\n\nЦе <text fontface=\"bold\">рання збірка</>, тож дещо може бути відсутнім або працювати не так, як слід. Нам дуже цікаво почути вашу думку, тож не забудьте заповнити <text fontface=\"bold\">опитування</>. Це допоможе нам створити кращу версію гри!\n \nЯкщо щось видається незрозумілим, зазирніть до гайда — так буде зручніше грати.\nПриєднуйтеся до нашого <text fontface=\"bold\">приватного Discord</>-сервера, щоб поспілкуватися з іншими тестувальниками та розробниками!"
+  },
+  "Demo_GameLobby_Message": {
+    "en": "Hey, thanks for jumping in!\nWe genuinely appreciate you trying out our game.\n\nThis is a demo version, offering a glimpse of what The Guild 1 Remake: Europa 1410 has to offer. We hope you enjoy building your business and shaping your story.\n\nDon't forget to wishlist the game on Steam so you don't miss the full release.",
+    "uk": "Вітаємо, дякуємо, що приєдналися!\nМи щиро цінуємо те, що ви вирішили спробувати нашу гру.\n\nЦе демоверсія, яка дає змогу побачити, що пропонує The Guild 1 Remake: Europa 1410. Сподіваємося, вам сподобається розвивати свою справу та творити власну історію.\n\nНе забудьте додати гру до списку бажань у Steam, щоб не пропустити повний реліз."
+  },
+  "PriceModifier_Attractiveness_Description": {
+    "en": "Higher {B_PARAM_ATT_C}customer appeal{##} draws more buyers, making items more expensive.",
+    "uk": "Вища {B_PARAM_ATT_C}привабливість для клієнтів{##} приваблює більше покупців і підвищує ціни на товари."
+  },
+  "Parameter_IntegrityMax_Description_extra2": {
+    "en": "Higher-level buildings usually have higher Maximum Integrity.",
+    "uk": "Будівлі вищого рівня зазвичай мають вищу максимальну цілісність."
+  },
+  "HighlightOptions_DisplayName": {
+    "en": "Highlight Options",
+    "uk": "Параметри підсвічування"
+  },
+  "MaintenancePhase_PersonnelCosts_HiringCosts_DisplayName": {
+    "en": "Hiring Costs",
+    "uk": "Витрати на найм"
+  },
+  "HighlightInteractiveObjects_Instruction": {
+    "en": "Hold Alt to temporarily highlight all interactive objects.",
+    "uk": "Утримуйте Alt, щоб тимчасово підсвітити всі інтерактивні об'єкти."
+  },
+  "General_Button_HostGame": {
+    "en": "Host Game",
+    "uk": "Створити гру"
+  },
+  "RomanNumeral_01": {
+    "en": "I",
+    "uk": "I"
+  },
+  "RomanNumeral_02": {
+    "en": "II",
+    "uk": "II"
+  },
+  "RomanNumeral_03": {
+    "en": "III",
+    "uk": "III"
+  },
+  "RomanNumeral_04": {
+    "en": "IV",
+    "uk": "IV"
+  },
+  "RomanNumeral_09": {
+    "en": "IX",
+    "uk": "IX"
+  },
+  "VictoryCondition_Wealth_CongratulationText": {
+    "en": "Impressive! You knew what others pretend not to — that money moves the world. While they chased prestige, you took the prize that matters.",
+    "uk": "Вражає! Ви знали те, що інші вдають, ніби не знають, — гроші рухають світ. Поки вони гналися за престижем, Ви здобули те, що дійсно важливо."
+  },
+  "MaintenancePhase_BusinessesRevenue_Improvement_DisplayName": {
+    "en": "Improvements",
+    "uk": "Покращення"
+  },
+  "MaintenancePhase_HouseExpenses_Improvements_DisplayName": {
+    "en": "Improvements",
+    "uk": "Покращення"
+  },
+  "Demo_Multiplayer_Description": {
+    "en": "In multiplayer, you'll be able to scheme and cooperate with other players.",
+    "uk": "У мультиплеєрі ви зможете плести інтриги та співпрацювати з іншими гравцями."
+  },
+  "InProgress": {
+    "en": "In progress…",
+    "uk": "Виконується…"
+  },
+  "MaintenancePhase_Income_DisplayName": {
+    "en": "Income",
+    "uk": "Дохід"
+  },
+  "MaintenancePhase_Inheritance_DisplayName": {
+    "en": "Inheritance",
+    "uk": "Спадщина"
+  },
+  "MaintenancePhase_DeathRemoveMoney_Description": {
+    "en": "Inheritance before the inheritance tax.",
+    "uk": "Спадок до вирахування податку на спадщину."
+  },
+  "Parameter_Integrity_DisplayName": {
+    "en": "Integrity",
+    "uk": "Цілісність"
+  },
+  "Parameter_IntegrityDecay_DisplayName": {
+    "en": "Integrity Decay",
+    "uk": "Знос цілісності"
+  },
+  "MaintenancePhase_Interactions_DisplayName": {
+    "en": "Interactions",
+    "uk": "Взаємодії"
+  },
+  "GameModeMultiplayer_Password_Invalid": {
+    "en": "Invalid Password",
+    "uk": "Неправильний пароль"
+  },
+  "General_MainMenu_JoinGame": {
+    "en": "Join Game",
+    "uk": "Приєднатися до гри"
+  },
+  "General_MainMenu_JoinServer": {
+    "en": "Join Server",
+    "uk": "Приєднатися до сервера"
+  },
+  "JoinDiscord_Prompt": {
+    "en": "Join us on Discord",
+    "uk": "Приєднуйтеся до нас у Discord"
+  },
+  "LedgerScreen_DisplayName": {
+    "en": "Ledger",
+    "uk": "Гросбух"
+  },
+  "ScreenPan_Instruction": {
+    "en": "Left-click and drag to pan",
+    "uk": "Затисніть ліву кнопку миші й перетягніть, щоб пересунути камеру"
+  },
+  "TooltipClose_Instruction": {
+    "en": "Left-click to dismiss",
+    "uk": "Клацніть лівою кнопкою миші, щоб закрити"
+  },
+  "Level_LevelUp_Prompt": {
+    "en": "Level up",
+    "uk": "Підвищити рівень"
+  },
+  "Level_Number_Label": {
+    "en": "Level {number}",
+    "uk": "Рівень {number}"
+  },
+  "General_MainMenu_LoadGame": {
+    "en": "Load Game",
+    "uk": "Завантажити гру"
+  },
+  "Price_ForLocals_Description": {
+    "en": "Local business owners know the trade and won't overpay",
+    "uk": "Місцеві власники справ знають ринок і не переплачуватимуть"
+  },
+  "LocalizationIncomplete_Warning_Title": {
+    "en": "Localization in Progress",
+    "uk": "Переклад ще триває"
+  },
+  "TooltipLock": {
+    "en": "Lock Tooltip",
+    "uk": "Закріпити підказку"
+  },
+  "General_Button_Manage": {
+    "en": "Manage",
+    "uk": "Керувати"
+  },
+  "PriceModifier_Buying_DisplayName": {
+    "en": "Market Spread",
+    "uk": "Ринковий спред"
+  },
+  "PriceModifier_Selling_DisplayName": {
+    "en": "Market Spread",
+    "uk": "Ринковий спред"
+  },
+  "PriceModifier_Marketplace_DisplayName": {
+    "en": "Market price",
+    "uk": "Ринкова ціна"
+  },
+  "MaintenancePhase_BusinessesRevenue_SellGoods_DisplayName": {
+    "en": "Marketplace Sales",
+    "uk": "Продаж на ринку"
+  },
+  "Parameter_IntegrityMax_DisplayName": {
+    "en": "Maximum Integrity",
+    "uk": "Максимальна цілісність"
+  },
+  "TooltipLock_Instruction": {
+    "en": "Middle-click to lock",
+    "uk": "Клацніть середньою кнопкою миші, щоб закріпити"
+  },
+  "MaintenancePhase_CityQuarterReputationEndOfTurn_Description": {
+    "en": "Money granted by the Crown. The higher the city's reputation, the more funding it receives.",
+    "uk": "Кошти, надані Короною. Що вища репутація міста, то більше фінансування воно отримує."
+  },
+  "GameModeMultiplayer_Label": {
+    "en": "Multiplayer",
+    "uk": "Мультиплеєр"
+  },
+  "Benefits_DisplayName_My": {
+    "en": "My Benefits",
+    "uk": "Мої привілеї"
+  },
+  "General_MainMenu_NewGame": {
+    "en": "New Game",
+    "uk": "Нова гра"
+  },
+  "General_Button_Next": {
+    "en": "Next",
+    "uk": "Далі"
+  },
+  "UpcomingEventsScreen_NextTurn": {
+    "en": "Next turn",
+    "uk": "Наступний хід"
+  },
+  "General_Button_No": {
+    "en": "No",
+    "uk": "Ні"
+  },
+  "Select_NoEligibleTarget": {
+    "en": "No suitable target can be found.",
+    "uk": "Не знайдено відповідної цілі."
+  },
+  "VictoryCondition_None_Description": {
+    "en": "No victory conditions. Follow your own ambitions.",
+    "uk": "Без умов перемоги. Дійте за власними амбіціями."
+  },
+  "SpeedControl_Normal_DisplayName": {
+    "en": "Normal speed",
+    "uk": "Звичайна швидкість"
+  },
+  "Parameter_IntegrityMax_Description": {
+    "en": "Not all things are built alike. Maximum Integrity determines how much {B_HP_DEC_C}damage{##} a building or cart can endure before it fully deteriorates.",
+    "uk": "Не все збудовано однаково міцно. Максимальна цілісність визначає, скільки {B_HP_DEC_C}пошкоджень{##} витримає будівля чи віз, перш ніж повністю прийде в непридатність."
+  },
+  "Demo_FullGameRequirement_Warning": {
+    "en": "Not available in the demo",
+    "uk": "Недоступно в демоверсії"
+  },
+  "General_Button_OK": {
+    "en": "OK",
+    "uk": "Гаразд"
+  },
+  "Benefits_Office_NoField": {
+    "en": "Office Benefits",
+    "uk": "Привілеї посади"
+  },
+  "Benefits_Office": {
+    "en": "Office Benefits ({office})",
+    "uk": "Привілеї посади ({office})"
+  },
+  "MaintenancePhase_OfficeIncome_DisplayName": {
+    "en": "Office Income",
+    "uk": "Дохід від посади"
+  },
+  "Demo_FullGameRequirement_Description": {
+    "en": "Oh, you want that too? Yeah… not in the demo, sadly. You'll find it in the full game.",
+    "uk": "О, і це також хочете? Так… на жаль, недоступно в демо. Це є в повній версії гри."
+  },
+  "UpcomingEventsScreen_OnTheNextNumberTurns": {
+    "en": "On the next {NumTurns} {NumTurns}|plural(one=turn,other=turns)",
+    "uk": "На наступні {NumTurns} {NumTurns}|plural(one=хід,few=ходи,many=ходів,other=ходів)"
+  },
+  "ContextMenu_Open": {
+    "en": "Open Context Menu",
+    "uk": "Відкрити контекстне меню"
+  },
+  "GameModeMultiplayer_Prompt": {
+    "en": "Open to Multiplayer",
+    "uk": "Відкрити для мультиплеєра"
+  },
+  "ChanceOfSuccess_DisplayName": {
+    "en": "Outcome Chance",
+    "uk": "Ймовірність результату"
+  },
+  "GameModeMultiplayer_Password": {
+    "en": "Password",
+    "uk": "Пароль"
+  },
+  "ComingSoon_Warning_Description": {
+    "en": "Patience, burgher! \nThe guild craftsmen are still hammering this feature into shape. It may not work as intended. It may not work at all.",
+    "uk": "Терпіння, городянине! \nМайстри гільдії ще доопрацьовують цю функцію. Вона може працювати не так, як задумано. А може не працювати взагалі."
+  },
+  "SpeedControl_Pause_DisplayName": {
+    "en": "Pause",
+    "uk": "Пауза"
+  },
+  "PauseMenuScreen_DisplayName": {
+    "en": "Pause Menu",
+    "uk": "Меню паузи"
+  },
+  "MaintenancePhase_Personal_DisplayName": {
+    "en": "Personal",
+    "uk": "Особисте"
+  },
+  "MaintenancePhase_Personal_PersonalCost_DisplayName": {
+    "en": "Personal Spending",
+    "uk": "Особисті витрати"
+  },
+  "MaintenancePhase_Personal_Description": {
+    "en": "Personal expenses and gains.",
+    "uk": "Особисті витрати та надходження."
+  },
+  "GameModeSingleplayer_Prompt": {
+    "en": "Play in Singleplayer",
+    "uk": "Грати в одиночну гру"
+  },
+  "Player_DisplayName": {
+    "en": "Player",
+    "uk": "Гравець"
+  },
+  "Player_DisplayName_plural": {
+    "en": "Players",
+    "uk": "Гравці"
+  },
+  "General_Button_Previous": {
+    "en": "Previous",
+    "uk": "Назад"
+  },
+  "Price_Breakdown_Name": {
+    "en": "Price Breakdown",
+    "uk": "Розбивка ціни"
+  },
+  "Price_ForLocals_Name": {
+    "en": "Price for locals",
+    "uk": "Ціна для місцевих"
+  },
+  "Price_ForVisitors_Name": {
+    "en": "Price for visitors",
+    "uk": "Ціна для відвідувачів"
+  },
+  "Price_InBuilding": {
+    "en": "Price in this building",
+    "uk": "Ціна в цій будівлі"
+  },
+  "PriceModifier_Storefront_Description": {
+    "en": "Prices at the {B_STOFRO_C}storefront{##} are often lower than those at the {B_PUB_MKT_C}marketplace{##}.",
+    "uk": "Ціни в {B_STOFRO_C}крамниці{##} часто нижчі, ніж на {B_PUB_MKT_C}ринку{##}."
+  },
+  "GameModeMultiplayer_PrivateGame_alt": {
+    "en": "Private",
+    "uk": "Приватна"
+  },
+  "GameModeMultiplayer_PrivateGame": {
+    "en": "Private Game",
+    "uk": "Приватна гра"
+  },
+  "Benefits_Profession_NoField": {
+    "en": "Profession Benefits",
+    "uk": "Привілеї професії"
+  },
+  "Benefits_Profession": {
+    "en": "Profession Benefits ({profession_lvl})",
+    "uk": "Привілеї професії ({profession_lvl})"
+  },
+  "GameModeMultiplayer_PublicGame_alt": {
+    "en": "Public",
+    "uk": "Публічна"
+  },
+  "GameModeMultiplayer_PublicGame": {
+    "en": "Public Game",
+    "uk": "Публічна гра"
+  },
+  "General_Button_Quit": {
+    "en": "Quit",
+    "uk": "Вийти"
+  },
+  "General_Button_QuitToDesktop": {
+    "en": "Quit to Desktop",
+    "uk": "Вийти на робочий стіл"
+  },
+  "General_Button_QuitToMainMenu": {
+    "en": "Quit to Main Menu",
+    "uk": "Вийти в головне меню"
+  },
+  "Randomize_Button": {
+    "en": "Randomize",
+    "uk": "Випадково"
+  },
+  "General_Button_Refuse": {
+    "en": "Refuse",
+    "uk": "Відмовити"
+  },
+  "MaintenancePhase_BusinessesRevenue_Repair_DisplayName": {
+    "en": "Repairs",
+    "uk": "Ремонт"
+  },
+  "MaintenancePhase_HouseExpenses_Repairs_DisplayName": {
+    "en": "Repairs",
+    "uk": "Ремонт"
+  },
+  "ReportBug_Prompt": {
+    "en": "Report a bug",
+    "uk": "Повідомити про помилку"
+  },
+  "ChanceOfSuccess_Description": {
+    "en": "Represents how likely an outcome is to occur, taking into account skills, circumstances, and random factors.",
+    "uk": "Показує, наскільки ймовірний той чи інший результат, з урахуванням навичок, обставин і випадкових чинників."
+  },
+  "Requirements_Label": {
+    "en": "Requirements",
+    "uk": "Вимоги"
+  },
+  "Camera_Reset_DisplayName": {
+    "en": "Reset camera position",
+    "uk": "Скинути позицію камери"
+  },
+  "MaintenancePhase_HouseExpenses_DisplayName": {
+    "en": "Residences",
+    "uk": "Житло"
+  },
+  "MaintenancePhase_Interactions_Description": {
+    "en": "Resources spent and received through actions.",
+    "uk": "Ресурси, витрачені та отримані внаслідок дій."
+  },
+  "General_Button_Resume": {
+    "en": "Resume",
+    "uk": "Продовжити"
+  },
+  "Diorama_Leave": {
+    "en": "Return to the City",
+    "uk": "Повернутися до міста"
+  },
+  "Camera_RotateRight_Shortcut": {
+    "en": "Right-hold or [E]",
+    "uk": "Утримуйте ПКМ або [E]"
+  },
+  "Camera_RotateLeft_Shortcut": {
+    "en": "Right-hold or [Q]",
+    "uk": "Утримуйте ПКМ або [Q]"
+  },
+  "RoadMap_Button_alt": {
+    "en": "Roadmap",
+    "uk": "Дорожня карта"
+  },
+  "MaintenancePhase_BusinessesRevenue_ConstructRoom_DisplayName": {
+    "en": "Rooms",
+    "uk": "Кімнати"
+  },
+  "MaintenancePhase_HouseExpenses_Rooms_DisplayName": {
+    "en": "Rooms",
+    "uk": "Кімнати"
+  },
+  "Camera_Rotate_DisplayName": {
+    "en": "Rotate camera",
+    "uk": "Обертати камеру"
+  },
+  "Camera_RotateLeft_DisplayName": {
+    "en": "Rotate left",
+    "uk": "Обернути ліворуч"
+  },
+  "Camera_RotateRight_DisplayName": {
+    "en": "Rotate right",
+    "uk": "Обернути праворуч"
+  },
+  "Demo_TurnsRemaining_Description": {
+    "en": "Sadly, the accountants refuse to simulate history past {NumYear} without additional funding. Thank you for playing our Demo!",
+    "uk": "На жаль, бухгалтери відмовляються моделювати історію після {NumYear} року без додаткового фінансування. Дякуємо, що грали в нашу демоверсію!"
+  },
+  "MaintenancePhase_PersonnelCosts_Salaries_DisplayName": {
+    "en": "Salaries",
+    "uk": "Зарплати"
+  },
+  "MaintenancePhase_PersonnelCosts_Description": {
+    "en": "Salaries, hiring fees, and bonuses paid to workers.",
+    "uk": "Зарплати, витрати на найм і премії, виплачені працівникам."
+  },
+  "PriceModifier_Skill_Negotiation_DisplayName": {
+    "en": "Salesmanship",
+    "uk": "Торговельна майстерність"
+  },
+  "General_SaveGame": {
+    "en": "Save Game",
+    "uk": "Зберегти гру"
+  },
+  "Camera_ZoomOut_Shortcut": {
+    "en": "Scroll down",
+    "uk": "Прокрутіть вниз"
+  },
+  "ScreenZoom_Instruction": {
+    "en": "Scroll to zoom in and out",
+    "uk": "Прокручуйте колесо миші, щоб наближати й віддаляти"
+  },
+  "Camera_ZoomIn_Shortcut": {
+    "en": "Scroll up",
+    "uk": "Прокрутіть вгору"
+  },
+  "SearchBar_Search": {
+    "en": "Search",
+    "uk": "Пошук"
+  },
+  "General_Button_Select": {
+    "en": "Select",
+    "uk": "Вибрати"
+  },
+  "SelectTarget_Prompt_alt": {
+    "en": "Select Target",
+    "uk": "Виберіть ціль"
+  },
+  "SelectChild_Prompt": {
+    "en": "Select a child",
+    "uk": "Виберіть дитину"
+  },
+  "SelectACitizen_Prompt": {
+    "en": "Select a citizen",
+    "uk": "Виберіть громадянина"
+  },
+  "HostGame_Start_Instruction": {
+    "en": "Select a city and a victory condition to proceed.",
+    "uk": "Виберіть місто та умову перемоги, щоб продовжити."
+  },
+  "SelectALocation_Prompt": {
+    "en": "Select a location",
+    "uk": "Виберіть місце"
+  },
+  "SelectACitizenOrWorker_Prompt": {
+    "en": "Select a target",
+    "uk": "Виберіть ціль"
+  },
+  "SelectTarget_Prompt": {
+    "en": "Select a target",
+    "uk": "Виберіть ціль"
+  },
+  "SelectAVictim_Prompt": {
+    "en": "Select a victim",
+    "uk": "Виберіть жертву"
+  },
+  "SelectAWorker_Prompt": {
+    "en": "Select a worker",
+    "uk": "Виберіть працівника"
+  },
+  "SelectEvidence_Prompt": {
+    "en": "Select evidence",
+    "uk": "Виберіть докази"
+  },
+  "SelectTargetFromScene_Prompt": {
+    "en": "Select target from scene.",
+    "uk": "Виберіть ціль у сцені."
+  },
+  "SelectTargetFromScreen_Prompt": {
+    "en": "Select target from screen.",
+    "uk": "Виберіть ціль на екрані."
+  },
+  "SelectToContinue": {
+    "en": "Select to continue:",
+    "uk": "Виберіть, щоб продовжити:"
+  },
+  "SelectUpToCitizens_Prompt": {
+    "en": "Select up to {NumCitizens} {NumCitizens}|plural(one=citizen,other=citizens)",
+    "uk": "Виберіть до {NumCitizens} {NumCitizens}|plural(one=громадянина,few=громадян,many=громадян,other=громадян)"
+  },
+  "SelectUpToWorkers_Prompt": {
+    "en": "Select up to {NumWorkers} {NumWorkers}|plural(one=worker,other=workers)",
+    "uk": "Виберіть до {NumWorkers} {NumWorkers}|plural(one=працівника,few=працівників,many=працівників,other=працівників)"
+  },
+  "SelectWhoWillReceiveInformation_Prompt": {
+    "en": "Select who will receive the information",
+    "uk": "Виберіть, хто отримає цю інформацію"
+  },
+  "SelectCitizen_Prompt": {
+    "en": "Select {NumCitizens} {NumCitizens}|plural(one=citizen,other=citizens)",
+    "uk": "Виберіть {NumCitizens} {NumCitizens}|plural(one=громадянина,few=громадян,many=громадян,other=громадян)"
+  },
+  "Price_Selling_Label": {
+    "en": "Selling price",
+    "uk": "Ціна продажу"
+  },
+  "Price_SellingInBuilding": {
+    "en": "Selling price in this building",
+    "uk": "Ціна продажу в цій будівлі"
+  },
+  "General_MainMenu_Settings": {
+    "en": "Settings",
+    "uk": "Налаштування"
+  },
+  "UpcomingEventsScreen_Description": {
+    "en": "Shows list of upcoming events",
+    "uk": "Показує список найближчих подій"
+  },
+  "GameModeSingleplayer_Label": {
+    "en": "Singleplayer",
+    "uk": "Одиночна гра"
+  },
+  "SpeedControl_Slower_DisplayName": {
+    "en": "Slower speed",
+    "uk": "Повільніше"
+  },
+  "ComingSoon_Warning_Description_StatusEffects": {
+    "en": "Some Status Effects and Traits may not yet produce all of the effects we have planned for them. We are continuing to expand these systems and improve how their effects are communicated throughout the game.",
+    "uk": "Деякі статусні ефекти та риси характеру поки не мають усіх ефектів, які ми для них запланували. Ми продовжуємо розвивати ці системи та покращувати, як їхні наслідки відображаються в грі."
+  },
+  "ComingSoon_Warning_Description_Action": {
+    "en": "Some actions may not yet produce all of the effects we have planned for them. We are continuing to expand these systems and improve how their effects are communicated throughout the game.",
+    "uk": "Деякі дії поки не мають усіх ефектів, які ми для них запланували. Ми продовжуємо розвивати ці системи та покращувати, як їхні наслідки відображаються в грі."
+  },
+  "ComingSoon_Warning_Description_Activity": {
+    "en": "Some activities may not yet produce all of the effects we have planned for them. We're developing additional features and clearer information as these systems continue to grow.",
+    "uk": "Деякі заняття поки не мають усіх ефектів, які ми для них запланували. Ми розробляємо додаткові функції та точнішу інформацію в міру розвитку цих систем."
+  },
+  "Parameter_IntegrityDecay_Description_extra2": {
+    "en": "Some effects can make your buildings and carts more durable — or more fragile. Still, the safest choice is to buy {B_HP_MAX_C}sturdy{##} things to begin with.",
+    "uk": "Деякі ефекти можуть зробити Ваші будівлі та вози міцнішими — або, навпаки, крихкішими. Та все ж найнадійніше — одразу купувати {B_HP_MAX_C}міцні{##} речі."
+  },
+  "ComingSoon_Warning_Description_Improvement": {
+    "en": "Some improvements do not currently provide gameplay effects. They will, however, add furniture or visual upgrades to your business or home while we continue working on their intended functionality.",
+    "uk": "Деякі покращення поки не мають ігрового ефекту. Утім, вони вже додадуть меблі чи візуальні зміни до Вашої справи чи домівки, поки ми працюємо над їхньою повноцінною функціональністю."
+  },
+  "LocalizationIncomplete_Warning_Message": {
+    "en": "Some parts of the game are not yet translated and will appear in English.",
+    "uk": "Деякі частини гри ще не перекладено, і вони відображатимуться англійською."
+  },
+  "SortBy_Ascending": {
+    "en": "Sort in Ascending Order",
+    "uk": "Сортувати за зростанням"
+  },
+  "SortBy_Descending": {
+    "en": "Sort in Descending Order",
+    "uk": "Сортувати за спаданням"
+  },
+  "General_Button_Start": {
+    "en": "Start",
+    "uk": "Почати"
+  },
+  "General_Button_StartGame": {
+    "en": "Start Game",
+    "uk": "Почати гру"
+  },
+  "Guildopedia_StatusEffectsAndTraits_DisplayName": {
+    "en": "Status Effects & Traits",
+    "uk": "Статусні ефекти та риси"
+  },
+  "MaintenancePhase_BusinessesRevenue_SellGoodsStorefront_DisplayName": {
+    "en": "Storefront Sales",
+    "uk": "Продаж у крамниці"
+  },
+  "VictoryCondition_General_CongratulationText": {
+    "en": "Success means something different to everyone. You found yours. What will you conquer next?",
+    "uk": "Успіх для кожного означає щось своє. Ви знайшли свій. Що підкорите наступним?"
+  },
+  "MaintenancePhase_BusinessesRevenue_BuyGoods_DisplayName": {
+    "en": "Supplies (Marketplace)",
+    "uk": "Постачання (ринок)"
+  },
+  "MaintenancePhase_BusinessesRevenue_BuyGoodsStorefront_DisplayName": {
+    "en": "Supplies (Storefront)",
+    "uk": "Постачання (крамниця)"
+  },
+  "Price_Breakdown_Description": {
+    "en": "Supply, demand and your {S_NEG_C}negotiation skill{##} push an item's price above or below its base value. Sales from your {B_STOFRO_C}storefront{##} benefit from the building's {B_HP_C}condition{##} and {B_PARAM_ATT_C}customer appeal{##}. Seasons and events can also affect prices.",
+    "uk": "Пропозиція, попит і Ваше {S_NEG_C}уміння вести перемовини{##} підвищують або знижують ціну товару відносно базової вартості. Продажі у Вашій {B_STOFRO_C}крамниці{##} виграють від {B_HP_C}стану{##} будівлі та її {B_PARAM_ATT_C}привабливості для покупців{##}. Пори року та події також можуть впливати на ціни."
+  },
+  "Guildopedia_General_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PriceModifier_Marketplace_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "MaintenancePhase_Taxes_DisplayName": {
+    "en": "Taxes",
+    "uk": "Податки"
+  },
+  "Demo_MaxTurns_Message": {
+    "en": "Thank you for playing Europa 1410. We hope you enjoyed your playthrough.\nWishlist the game on Steam so you don't miss the full release and any news from us!",
+    "uk": "Дякуємо, що грали в Europa 1410. Сподіваємося, Вам сподобалося проходження.\nДодайте гру до списку бажань у Steam, щоб не пропустити повний реліз і всі наші новини!"
+  },
+  "TributeToFirstGuild_GameLobby_Message": {
+    "en": "The Guild 1 Remake: Europa 1410 is a deliberate return to the origins of the series and an homage to its first game, Europa 1400: The Guild.\n\nTrue to the original concept, you manage your business and guide your dynasty from a strategist's perspective rather than controlling characters directly. Set your plans and schemes in motion and watch how they unfold!",
+    "uk": "The Guild 1 Remake: Europa 1410 — це свідоме повернення до витоків серії та данина її першій грі, Europa 1400: The Guild.\n\nВірні первісній концепції, Ви керуєте своєю справою та ведете свою династію з позиції стратега, а не керуєте персонажами напряму. Запустіть свої плани й задуми та спостерігайте, як вони втілюються в життя!"
+  },
+  "MaintenancePhase_CityTreasury_Description": {
+    "en": "The city's common fund, managed by officials.",
+    "uk": "Спільна скарбниця міста, якою керують посадовці."
+  },
+  "MaintenancePhase_BalanceCity_Description": {
+    "en": "The city's total funds after revenue and expenses.",
+    "uk": "Загальні кошти міста після доходів і витрат."
+  },
+  "MaintenancePhase_HouseExpenses_Description": {
+    "en": "The cost of keeping the house standing — from fixes to improvements and upgrades.",
+    "uk": "Витрати на утримання будинку — від ремонту до покращень і вдосконалень."
+  },
+  "PriceModifier_Header": {
+    "en": "The displayed price already includes:",
+    "uk": "Показана ціна вже враховує:"
+  },
+  "Turn_DurationFromActivation": {
+    "en": "The effect lasts for the stated number of turns, counted from the moment it begins.",
+    "uk": "Ефект триває вказану кількість ходів, рахуючи з моменту його початку."
+  },
+  "MaintenancePhase_BalancePersonal_Description": {
+    "en": "The final sum of your coin purse after all income and expenses.",
+    "uk": "Кінцева сума у Вашому гаманці після всіх доходів і витрат."
+  },
+  "OutcomePresentation_Header": {
+    "en": "The following changes occurred:",
+    "uk": "Відбулися такі зміни:"
+  },
+  "Parameter_IntegrityMax_Description_extra1": {
+    "en": "The higher the Maximum Integrity, the longer it takes to wear down completely, provided it is kept in good condition.",
+    "uk": "Що вища максимальна цілісність, то довше триватиме повний знос за умови належного догляду."
+  },
+  "PriceModifier_StorefrontRevenue_Description": {
+    "en": "The service is so good that customers willingly pay a little extra when buying directly from you. This bonus is calculated as a percentage of the {B_PARAM_STOREV_C}selling price{##}.",
+    "uk": "Обслуговування настільки гарне, що клієнти охоче платять трохи більше, купуючи безпосередньо у Вас. Ця надбавка обчислюється як відсоток від {B_PARAM_STOREV_C}ціни продажу{##}."
+  },
+  "MaintenancePhase_Taxes_Description": {
+    "en": "The sum of all levies and dues decreed in the lawbook.",
+    "uk": "Сума всіх зборів і мит, передбачених зводом законів."
+  },
+  "MaintenancePhase_AP_Description": {
+    "en": "The total amount of {CHAR_AP} for the next turn.",
+    "uk": "Загальна кількість {CHAR_AP} на наступний хід."
+  },
+  "Demo_GameLobby_Message_alt": {
+    "en": "This demo offers a glimpse of what The Guild 1 Remake: Europa 1410 has to offer. We hope you enjoy building your business and shaping your story.",
+    "uk": "Ця демоверсія дає змогу побачити, що пропонує The Guild 1 Remake: Europa 1410. Сподіваємося, Вам сподобається розвивати свою справу та творити власну історію."
+  },
+  "EarlyAccess_GameLobby_Message": {
+    "en": "This game is still being developed by a small, dedicated team, and you will most certainly encounter unfinished features and bugs. Your feedback is extremely valuable for the future development of the game. Please join our Discord to share your thoughts, report issues, or just chat with us about The Guild!",
+    "uk": "Цю гру досі розробляє невелика віддана команда, тож Ви точно натрапите на недороблені функції та помилки. Ваші відгуки надзвичайно цінні для подальшого розвитку гри. Приєднуйтеся до нашого Discord, щоб поділитися думками, повідомити про проблеми або просто поспілкуватися з нами про The Guild!"
+  },
+  "UpcomingEventsScreen_ThisTurn": {
+    "en": "This turn",
+    "uk": "Цей хід"
+  },
+  "Demo_Victory_Description": {
+    "en": "Thrive for {NumYears} {NumYears}|plural(one=year,other=years)",
+    "uk": "Процвітайте протягом {NumYears} {NumYears}|plural(one=року,few=років,many=років,other=років)"
+  },
+  "Turn_Description": {
+    "en": "Time advances in turns.\nEach turn represents a full cycle of daily activity, from morning to night.\nWith every turn, the season and year progress.",
+    "uk": "Час вимірюється ходами.\nКожен хід — це повний цикл денної діяльності, від ранку до ночі.\nІз кожним ходом минає пора року та рік."
+  },
+  "Parameter_IntegrityDecay_Description": {
+    "en": "Time is a patient vandal. Buildings slowly lose {B_HP_C}integrity{##} as the years pass.",
+    "uk": "Час — терплячий руйнівник. Будівлі поступово втрачають {B_HP_C}цілісність{##} з плином років."
+  },
+  "TimeRemaining": {
+    "en": "Time remaining: {Minutes}|plural(one=1 minute, other={Minutes} minutes)",
+    "uk": "Залишилося часу: {Minutes}|plural(one=1 хвилина,few={Minutes} хвилини,many={Minutes} хвилин,other={Minutes} хвилини)"
+  },
+  "HUD_Timeline_DisplayName": {
+    "en": "Timeline",
+    "uk": "Часова шкала"
+  },
+  "Benefits_Title_NoField": {
+    "en": "Title Benefits",
+    "uk": "Привілеї титулу"
+  },
+  "Benefits_Title": {
+    "en": "Title Benefits ({title})",
+    "uk": "Привілеї титулу ({title})"
+  },
+  "ToggleOverlay_Buildings_Prompt": {
+    "en": "Toggle Building Overlay",
+    "uk": "Перемкнути підсвічування будівель"
+  },
+  "ToggleOverlay_District_Prompt": {
+    "en": "Toggle District Overlay",
+    "uk": "Перемкнути підсвічування районів"
+  },
+  "Tooltip_DisplayName": {
+    "en": "Tooltip",
+    "uk": "Підказка"
+  },
+  "Tooltip_DisplayName_plural": {
+    "en": "Tooltips",
+    "uk": "Підказки"
+  },
+  "MaintenancePhase_BusinessesRevenue_DisplayName": {
+    "en": "Trade & Craft",
+    "uk": "Торгівля та ремесло"
+  },
+  "Price_ForVisitors_Description": {
+    "en": "Traveling merchants and wanderers pay more when the place looks the part",
+    "uk": "Мандрівні торговці та подорожні платять більше, якщо заклад має відповідний вигляд"
+  },
+  "MaintenancePhase_BalanceCity_DisplayName": {
+    "en": "Treasury Balance",
+    "uk": "Баланс скарбниці"
+  },
+  "Turn_DisplayName": {
+    "en": "Turn",
+    "uk": "Хід"
+  },
+  "SearchBar_PlaceholderText": {
+    "en": "Type here…",
+    "uk": "Введіть текст…"
+  },
+  "MaintenancePhase_Transaction_Fallback_DisplayName": {
+    "en": "Unknown",
+    "uk": "Невідомо"
+  },
+  "Unlocks_Label": {
+    "en": "Unlocks",
+    "uk": "Відкриває"
+  },
+  "UpcomingEventsScreen_DisplayName": {
+    "en": "Upcoming Events",
+    "uk": "Найближчі події"
+  },
+  "MaintenancePhase_BusinessesRevenue_UpgradeBuilding_DisplayName": {
+    "en": "Upgrades",
+    "uk": "Вдосконалення"
+  },
+  "MaintenancePhase_HouseExpenses_Upgrades_DisplayName": {
+    "en": "Upgrades",
+    "uk": "Вдосконалення"
+  },
+  "RomanNumeral_05": {
+    "en": "V",
+    "uk": "V"
+  },
+  "RomanNumeral_06": {
+    "en": "VI",
+    "uk": "VI"
+  },
+  "RomanNumeral_07": {
+    "en": "VII",
+    "uk": "VII"
+  },
+  "RomanNumeral_08": {
+    "en": "VIII",
+    "uk": "VIII"
+  },
+  "VictoryCondition_DisplayName": {
+    "en": "Victory Condition",
+    "uk": "Умова перемоги"
+  },
+  "VictoryCondition_Description": {
+    "en": "Victory Conditions are the ultimate objectives of a match. Each match has a single Victory Condition shared by every dynasty head. Be the first to achieve it to win. If another dynasty reaches it first, you lose.",
+    "uk": "Умови перемоги — це найвищі цілі партії. Кожна партія має єдину умову перемоги, спільну для всіх голів династій. Досягніть її першими, щоб перемогти. Якщо інша династія випередить Вас, Ви програєте."
+  },
+  "Diorama_Enter": {
+    "en": "Visit: {place}",
+    "uk": "Відвідати: {place}"
+  },
+  "GameModeMultiplayer_WaitingForOtherPlayers": {
+    "en": "Waiting for other players…",
+    "uk": "Очікування інших гравців…"
+  },
+  "HUD_Timeline_Description": {
+    "en": "Watch the flow of time, track business hours, and prepare for what's to come this turn.",
+    "uk": "Стежте за плином часу, відстежуйте робочі години та готуйтеся до подій цього ходу."
+  },
+  "VictoryCondition_Challenge_General_CongratulationText": {
+    "en": "Well done! You've completed a challenge.",
+    "uk": "Чудова робота! Ви виконали випробування."
+  },
+  "VictoryCondition_Renown_CongratulationText": {
+    "en": "Well done! Your dynasty will outlast you. Honor, reputation, the respect of the public... these are harder to build than any fortune, and you built them.",
+    "uk": "Чудова робота! Ваша династія переживе Вас. Честь, репутація, повага людей... здобути їх складніше, ніж будь-яке багатство, а Ви це зробили."
+  },
+  "Demo_MaxTurns_Header": {
+    "en": "Well played! You've reached the end of the demo.",
+    "uk": "Гарна гра! Ви дійшли до кінця демоверсії."
+  },
+  "MaintenancePhase_Transaction_Fallback_Description": {
+    "en": "What a mystery, huh?",
+    "uk": "Ото загадка, чи не так?"
+  },
+  "PriceModifier_Buying_Description": {
+    "en": "When buying, prices are slightly higher than the market would pay.",
+    "uk": "Під час купівлі ціни трохи вищі за ті, які запропонував би ринок."
+  },
+  "PriceModifier_Selling_Description": {
+    "en": "When selling, prices are slightly lower than the market would ask.",
+    "uk": "Під час продажу ціни трохи нижчі за ті, які запросив би ринок."
+  },
+  "Wishlist_Steam_Prompt_alt": {
+    "en": "Wishlist on Steam",
+    "uk": "Додати до списку бажань у Steam"
+  },
+  "Wishlist_Steam_Prompt": {
+    "en": "Wishlist the game on Steam",
+    "uk": "Додати гру до списку бажань у Steam"
+  },
+  "GameOver_NoHeir_Description": {
+    "en": "With no heir to bear it, your name is buried with you. Time remembers what it chooses. Will it remember you?",
+    "uk": "Без спадкоємця, який продовжив би рід, Ваше ім'я згасне разом із Вами. Час пам'ятає лише те, що сам обирає. Чи запам'ятає він Вас?"
+  },
+  "MaintenancePhase_PersonnelCosts_DisplayName": {
+    "en": "Workforce",
+    "uk": "Робоча сила"
+  },
+  "RomanNumeral_10": {
+    "en": "X",
+    "uk": "X"
+  },
+  "General_Button_Yes": {
+    "en": "Yes",
+    "uk": "Так"
+  },
+  "Warning_SaveLimit_Message": {
+    "en": "You can keep up to {NumManual} {NumManual}|plural(one=manual save,other=manual saves) and {NumAuto} {NumAuto}|plural(one=autosave,other=autosaves) — tracked separately for singleplayer and multiplayer. Once you hit the limit, saving again will overwrite the oldest slot.",
+    "uk": "Ви можете мати щонайбільше {NumManual} {NumManual}|plural(one=ручне збереження,few=ручні збереження,many=ручних збережень,other=ручних збережень) та {NumAuto} {NumAuto}|plural(one=автозбереження,few=автозбереження,many=автозбережень,other=автозбережень) — окремо для одиночної та мережевої гри. Після досягнення ліміту нове збереження перезапише найстаріший слот."
+  },
+  "Benefits_Office_None": {
+    "en": "You currently hold no office position.",
+    "uk": "Наразі Ви не обіймаєте жодної посади."
+  },
+  "VictoryCondition_Description_extra1": {
+    "en": "You may continue playing after victory or defeat if you wish.",
+    "uk": "За бажання Ви можете продовжити гру після перемоги чи поразки."
+  },
+  "VictoryCondition_Challenge_Title_CongratulationText": {
+    "en": "You've risen above where you started. This is your first title, but there are greater ones still to claim.",
+    "uk": "Ви піднялися вище того, з чого починали. Це Ваш перший титул, але попереду ще вищі."
+  },
+  "Chronicle_SharedHistory_Header": {
+    "en": "Your shared history:",
+    "uk": "Ваша спільна історія:"
+  },
+  "Camera_ZoomIn_DisplayName": {
+    "en": "Zoom in",
+    "uk": "Наблизити"
+  },
+  "Camera_ZoomOut_DisplayName": {
+    "en": "Zoom out",
+    "uk": "Віддалити"
+  },
+  "SpeedControl_Slower_Shortcut": {
+    "en": "[1]",
+    "uk": "[1]"
+  },
+  "SpeedControl_Normal_Shortcut": {
+    "en": "[2]",
+    "uk": "[2]"
+  },
+  "SpeedControl_Faster_Shortcut": {
+    "en": "[3]",
+    "uk": "[3]"
+  },
+  "SpeedControl_Fastest_Shortcut": {
+    "en": "[4]",
+    "uk": "[4]"
+  },
+  "PauseMenuScreen_Shortcut": {
+    "en": "[Esc]",
+    "uk": "[Esc]"
+  },
+  "SpeedControl_Pause_Shortcut": {
+    "en": "[Space]",
+    "uk": "[Space]"
+  },
+  "Camera_Reset_Shortcut": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "MaintenancePhase_Personal_PersonalCost_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Turn_DurationByTurn": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "MoneyPerTurn": {
+    "en": "{CV_({Value})} {icon} every {C_TRN_C}turn{##}",
+    "uk": "{CV_({Value})} {icon} за {C_TRN_C}хід{##}"
+  },
+  "MoneyPerHour": {
+    "en": "{CV_({Value})} {icon}/h",
+    "uk": "{CV_({Value})} {icon}/год."
+  },
+  "MoneyPerMinute": {
+    "en": "{CV_({Value})} {icon}/min",
+    "uk": "{CV_({Value})} {icon}/хв."
+  },
+  "MoneyPerYear": {
+    "en": "{CV_({Value})} {icon}/yr",
+    "uk": "{CV_({Value})} {icon}/рік"
+  },
+  "MoneyPerTurn_alt": {
+    "en": "{CV_({Value})} {icon}/{C_TRN_C}turn{##}",
+    "uk": "{CV_({Value})} {icon}/{C_TRN_C}хід{##}"
+  },
+  "General_Amount_CurrentMax": {
+    "en": "{Current}/{Maximum}",
+    "uk": "{Current}/{Maximum}"
+  },
+  "CharacterName_Format": {
+    "en": "{FirstName} {LastName}",
+    "uk": "{FirstName} {LastName}"
+  },
+  "MaintenancePhase_Personal_BuyFinishedProducts_DisplayName": {
+    "en": "{I_TYP_INVITE_C}Inventory Items{##} (Marketplace)",
+    "uk": "{I_TYP_INVITE_C}Товари з інвентарю{##} (ринок)"
+  },
+  "MaintenancePhase_Personal_BuyFinishedProductsStorefront_DisplayName": {
+    "en": "{I_TYP_INVITE_C}Inventory Items{##} (Storefront)",
+    "uk": "{I_TYP_INVITE_C}Товари з інвентарю{##} (крамниця)"
+  },
+  "Turn_NumberOfTurnsRemaining": {
+    "en": "{NumTurns} remaining",
+    "uk": "{NumTurns} залишилося"
+  },
+  "Turn_NumberOfTurns": {
+    "en": "{NumTurns} {C_TRN_C}{NumTurns}|plural(one=turn,other=turns){##}",
+    "uk": "{NumTurns} {C_TRN_C}{NumTurns}|plural(one=хід,few=ходи,many=ходів,other=ходів){##}"
+  },
+  "Demo_TurnsRemaining_DisplayName": {
+    "en": "{NumTurns} {NumTurns}|plural(one=turn,other=turns) remaining",
+    "uk": "{NumTurns} {NumTurns}|plural(one=хід,few=ходи,many=ходів,other=ходів) залишилося"
+  },
+  "ChanceOfSuccess": {
+    "en": "{SUCCHA}{ChanceOfSuccess}%",
+    "uk": "{SUCCHA}{ChanceOfSuccess}%"
+  },
+  "PriceModifier_Skill_Negotiation_Description": {
+    "en": "{S_NEG_C}Negotiation{##} can shift prices in your favor — securing discounts when buying or better offers when selling.",
+    "uk": "{S_NEG_C}Уміння перемовин{##} може змінювати ціни на Вашу користь — забезпечувати знижки під час купівлі або вигідніші пропозиції під час продажу."
+  },
+  "UpcomingEventsScreen_Wedding": {
+    "en": "{bride} and {groom}",
+    "uk": "{bride} і {groom}"
+  },
+  "UpcomingEventsScreen_Duel": {
+    "en": "{charactername1} against {charactername2}",
+    "uk": "{charactername1} проти {charactername2}"
+  },
+  "UpcomingEventsScreen_Duel_alt": {
+    "en": "{charactername1} vs. {charactername2}",
+    "uk": "{charactername1} проти {charactername2}"
+  },
+  "TimeFormat_Duration_InHours": {
+    "en": "{hour} {hourAbbreviation}|plural(one=hr, other=hrs)",
+    "uk": "{hour} {hourAbbreviation}|plural(one=год.,few=год.,many=год.,other=год.)"
+  },
+  "UpcomingEventsScreen_Elections_Appointer": {
+    "en": "{officeposition} (Appointing Official)",
+    "uk": "{officeposition} (посадовець, що призначає)"
+  },
+  "UpcomingEventsScreen_Elections_Candiate": {
+    "en": "{officeposition} (Candidate)",
+    "uk": "{officeposition} (кандидат)"
+  },
+  "VictoryCondition_General_DefeatText": {
+    "en": "{player} is the first to fulfill a victory condition: {victorycondition}.",
+    "uk": "{player} першим виконав умову перемоги: {victorycondition}."
+  },
+  "GameModeMultiplayer_NumberOfPlayers": {
+    "en": "{server} ({city}) {CurPlayers}/{MaxPlayers} players",
+    "uk": "{server} ({city}) {CurPlayers}/{MaxPlayers} гравців"
+  },
+  "General_TermsSeparatedByGenericSymbol": {
+    "en": "{term1} · {term2}",
+    "uk": "{term1} · {term2}"
+  },
+  "General_ColonSeparatedTerms": {
+    "en": "{term1}: {term2}",
+    "uk": "{term1}: {term2}"
+  },
+  "General_ValueAfterTerm": {
+    "en": "{term} ({value})",
+    "uk": "{term} ({value})"
+  },
+  "TimeLeft": {
+    "en": "{time} left",
+    "uk": "Залишилося: {time}"
+  },
+  "General_ValuePerYear": {
+    "en": "{value}/yr",
+    "uk": "{value}/рік"
+  }
+}
