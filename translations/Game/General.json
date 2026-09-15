@@ -425,7 +425,7 @@
   },
   "PriceModifier_Attractiveness_Description": {
     "en": "Higher {B_PARAM_ATT_C}customer appeal{##} draws more buyers, making items more expensive.",
-    "uk": "Вища {B_PARAM_ATT_C}привабливість для клієнтів{##} приваблює більше покупців і підвищує ціни на товари."
+    "uk": "Вища {B_PARAM_ATT_C}привабливість для покупців{##} приманює більше люду і підвищує ціни на товари."
   },
   "Parameter_IntegrityMax_Description_extra2": {
     "en": "Higher-level buildings usually have higher Maximum Integrity.",
@@ -1105,7 +1105,7 @@
   },
   "PriceModifier_StorefrontRevenue_Description": {
     "en": "The service is so good that customers willingly pay a little extra when buying directly from you. This bonus is calculated as a percentage of the {B_PARAM_STOREV_C}selling price{##}.",
-    "uk": "Обслуговування настільки гарне, що клієнти охоче платять трохи більше, купуючи безпосередньо у Вас. Ця надбавка обчислюється як відсоток від {B_PARAM_STOREV_C}ціни продажу{##}."
+    "uk": "Обслуговування настільки гарне, що покупці охоче платять трохи більше, купуючи безпосередньо у Вас. Ця надбавка обчислюється як відсоток від {B_PARAM_STOREV_C}ціни продажу{##}."
   },
   "MaintenancePhase_Taxes_Description": {
     "en": "The sum of all levies and dues decreed in the lawbook.",

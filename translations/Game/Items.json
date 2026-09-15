@@ -197,7 +197,7 @@
   },
   "IntermediateProduct_Fittings_DisplayName": {
     "en": "Fittings",
-    "uk": "Фурнітура"
+    "uk": "Окуття"
   },
   "IntermediateProduct_Handle_Description": {
     "en": "The part you only notice when it breaks.",
@@ -245,7 +245,7 @@
   },
   "IntermediateProduct_Polish_DisplayName": {
     "en": "Polish",
-    "uk": "Поліроль"
+    "uk": "Полірувальна паста"
   },
   "IntermediateProduct_PolishedStone_Description": {
     "en": "A stone honed to a flawless sheen.",
@@ -777,7 +777,7 @@
   },
   "InventoryItem_SourcerersDocumentII_DisplayName": {
     "en": "Sorcerer's Document II",
-    "uk": "Чаклунський документ II"
+    "uk": "Чаклунська грамота II"
   },
   "InventoryItem_SourcerersDocumentI_Description": {
     "en": "Your enemy's worst nightmare — evidence. Every spy in the city suddenly remembers seeing your rival at a crime scene they never visited.",
@@ -785,7 +785,7 @@
   },
   "InventoryItem_SourcerersDocumentI_DisplayName": {
     "en": "Sorcerer's Document I",
-    "uk": "Чаклунський документ I"
+    "uk": "Чаклунська грамота I"
   },
   "InventoryItem_SpinningTop_Description": {
     "en": "A child's toy, a craftsman's first lesson in precision.",
@@ -1509,15 +1509,15 @@
   },
   "Type_FinishedProduct_DisplayName": {
     "en": "Finished product",
-    "uk": "Готова продукція"
+    "uk": "Готовий виріб"
   },
   "Type_FinishedProduct_DisplayName_plural": {
     "en": "Finished Products",
-    "uk": "Готова продукція"
+    "uk": "Готові вироби"
   },
   "Type_FinishedProduct_InventoryItem_Description": {
     "en": "Inventory Items are finished products that can be placed in your personal inventory and consumed, providing gameplay effects.",
-    "uk": "Предмети інвентарю — це готова продукція, яку можна розмістити в особистому інвентарі й використати, отримавши ігрові ефекти."
+    "uk": "Предмети інвентарю — це готові вироби, яку можна розмістити в особистому інвентарі й використати, отримавши ігрові ефекти."
   },
   "Type_FinishedProduct_InventoryItem_DisplayName": {
     "en": "Inventory Item",
@@ -1561,7 +1561,7 @@
   },
   "Type_Imports_DisplayName": {
     "en": "Imports",
-    "uk": "Імпорт"
+    "uk": "Привізне"
   },
   "Type_Ingredient_DisplayName": {
     "en": "Ingredient",
@@ -1573,7 +1573,7 @@
   },
   "Type_Ingredient_IntermediateProduct_Description": {
     "en": "Crafted products used as ingredients for further {A_ACT_CRA_C}crafting{##}. ",
-    "uk": "Виготовлена продукція, що використовується як інгредієнти для подальшого {A_ACT_CRA_C}виготовлення{##}."
+    "uk": "Вироби, що використовуються як інгредієнти для подальшого {A_ACT_CRA_C}виготовлення{##}."
   },
   "Type_Ingredient_IntermediateProduct_Description_extra1": {
     "en": "Intermediate products don't have any effects and can't be placed in your personal inventory.",

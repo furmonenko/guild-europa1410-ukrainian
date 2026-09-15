@@ -12,7 +12,7 @@
     ]
   },
   "A_ACTPRO_C": {
-    "uk": "активна професія",
+    "uk": "основна професія",
     "en": [
       "active professions",
       "pick it as your line of work",
@@ -35,7 +35,7 @@
     ]
   },
   "A_ACT_FINEVIFROWOR_C": {
-    "uk": "підслуховувати відвідувачів",
+    "uk": "підслуховувати покупців",
     "en": [
       "eavesdrop on customers",
       "eavesdropping on customers",
@@ -408,7 +408,7 @@
     ]
   },
   "A_RESOFF_C": {
-    "uk": "дострокова відставка",
+    "uk": "відставка з посади",
     "en": [
       "early retirement"
     ]
@@ -1784,7 +1784,7 @@
     ]
   },
   "P_ACTPRO_C": {
-    "uk": "активна професія",
+    "uk": "основна професія",
     "en": [
       "active profession",
       "Active Profession"
