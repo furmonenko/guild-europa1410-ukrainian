@@ -1,0 +1,546 @@
+{
+  "AttackCart_Attacker_Defeat_Major_Message": {
+    "en": "A disastrous outcome.\nNo goods taken, and two robbers now sit in chains.",
+    "uk": "Катастрофічний наслідок.\nЖодного краму не захоплено, а двоє розбійників тепер у кайданах."
+  },
+  "AttackCart_Attacker_Defeat_Minor_Message": {
+    "en": "The robbers achieved nothing.\nWorse, one of them was taken.",
+    "uk": "Розбійники нічого не досягли.\nГірше того — одного з них схопили."
+  },
+  "AttackCart_Attacker_Defeat_Total_Message": {
+    "en": "A humiliating disaster.\nThree robbers captured, no goods secured, and the cart's owner rises in popularity — on the back of your failure.",
+    "uk": "Ганебна поразка.\nТрьох розбійників схоплено, крам не захоплено, а власник воза здобуває популярність — на тлі Вашого провалу."
+  },
+  "AttackCart_Attacker_Draw_Message": {
+    "en": "Neither side prevails.",
+    "uk": "Жодна зі сторін не перемогла."
+  },
+  "AttackCart_Attacker_Victory_Major_Message": {
+    "en": "It was a hard fight, but the robbers prevailed.\nHalf the goods were looted from the cart.",
+    "uk": "Бій був важким, але розбійники здолали супротивника.\nПоловину краму з воза розграбовано."
+  },
+  "AttackCart_Attacker_Victory_Minor_Message": {
+    "en": "The escorts put up a fight, but were ultimately overwhelmed.\nThe robbers escaped with a small portion of the goods.",
+    "uk": "Супровід чинив опір, але зрештою його здолали.\nРозбійники втекли з невеликою частиною краму."
+  },
+  "AttackCart_Attacker_Victory_Total_Message": {
+    "en": "They call themselves escorts?\nThe robbers met no real resistance and looted the cart entirely.",
+    "uk": "І це вони називають супроводом?\nРозбійники не зустріли справжнього опору і розграбували віз дощенту."
+  },
+  "AttackCart_Defender_Defeat_Major_Message": {
+    "en": "It was a hard fight, but the robbers prevailed.\nHalf the goods were looted from the cart.",
+    "uk": "Бій був важким, але розбійники здолали супротивника.\nПоловину краму з воза розграбовано."
+  },
+  "AttackCart_Defender_Defeat_Minor_Message": {
+    "en": "The escorts put up a fight, but were ultimately overwhelmed.\nThe robbers escaped with a small portion of the goods.",
+    "uk": "Супровід чинив опір, але зрештою його здолали.\nРозбійники втекли з невеликою частиною краму."
+  },
+  "AttackCart_Defender_Defeat_Total_Message": {
+    "en": "They call themselves escorts?\nThe robbers met no real resistance and looted the cart entirely.",
+    "uk": "І це вони називають супроводом?\nРозбійники не зустріли справжнього опору і розграбували віз дощенту."
+  },
+  "AttackCart_Defender_Draw_Message": {
+    "en": "Neither side prevails.",
+    "uk": "Жодна зі сторін не перемогла."
+  },
+  "AttackCart_Defender_Victory_Major_Message": {
+    "en": "The escorts held the line.\nNo goods were stolen, and your standing in town improves slightly.",
+    "uk": "Супровід утримав позиції.\nЖодного краму не викрадено, а Ваша репутація в місті трохи зросла."
+  },
+  "AttackCart_Defender_Victory_Minor_Message": {
+    "en": "The escorts held the line.\nNo goods were stolen, and your standing in town improves slightly.",
+    "uk": "Супровід утримав позиції.\nЖодного краму не викрадено, а Ваша репутація в місті трохи зросла."
+  },
+  "AttackCart_Defender_Victory_Total_Message": {
+    "en": "The robbers were driven off without success.\nNot a single crate was lost, and your popularity rises noticeably across town.",
+    "uk": "Розбійників відбито без жодного успіху з їхнього боку.\nЖодної скрині не втрачено, а Ваша популярність у місті помітно зросла."
+  },
+  "AttackCart_Description": {
+    "en": "Robbers {A_ATKCAR_C}strike{##} a cart — but hired {A_HIRESC_C}escorts{##} stand in their way.",
+    "uk": "Розбійники {A_ATKCAR_C}нападають{##} на віз — але найнятий {A_HIRESC_C}супровід{##} стає їм на заваді."
+  },
+  "AttackCart_DisplayName": {
+    "en": "Cart Attack",
+    "uk": "Напад на віз"
+  },
+  "Attacker_DisplayName": {
+    "en": "Attacker",
+    "uk": "Нападник"
+  },
+  "Attacker_DisplayName_plural": {
+    "en": "Cart Attackers",
+    "uk": "Нападники на вози"
+  },
+  "Challenger_DisplayName": {
+    "en": "Challenger",
+    "uk": "Ініціатор"
+  },
+  "CombatEncounter_Description": {
+    "en": "Even if you avoid {CO_COM_C}combat{##}, it may still find you. Best to stay prepared.\n{I_TYP_COMEQU_C}Combat equipment{##} endures only a limited number of combat encounters.",
+    "uk": "Навіть якщо Ви уникаєте {CO_COM_C}бою{##}, він може знайти Вас сам. Найкраще бути готовим.\n{I_TYP_COMEQU_C}Бойове спорядження{##} витримує лише обмежену кількість боїв."
+  },
+  "CombatEncounter_DisplayName": {
+    "en": "Combat Encounter",
+    "uk": "Бойова сутичка"
+  },
+  "CombatEquipment_Effect_CombatBonus_Description": {
+    "en": "Affects the chance to hit a target during {CO_COM_C}combat{##}.",
+    "uk": "Впливає на шанс влучити в ціль під час {CO_COM_C}бою{##}."
+  },
+  "CombatEquipment_Effect_CombatBonus_DisplayName": {
+    "en": "Accuracy",
+    "uk": "Влучність"
+  },
+  "CombatEquipment_Effect_CombatBonus_DisplayName_alt": {
+    "en": "Weapon Accuracy",
+    "uk": "Влучність зброї"
+  },
+  "CombatEquipment_Effect_DamageEnergy_Description": {
+    "en": "{CHAR_ENE_C}Energy{##} taken from the target on hit during {CO_COM_C}combat{##}.",
+    "uk": "{CHAR_ENE_C}Енергія{##}, яку втрачає ціль при влучанні під час {CO_COM_C}бою{##}."
+  },
+  "CombatEquipment_Effect_DamageEnergy_DisplayName": {
+    "en": "Damage",
+    "uk": "Шкода"
+  },
+  "CombatEquipment_Effect_ProtectionEnergy_Description": {
+    "en": "Reduces {CHAR_ENE_C}energy{##} damage taken when hit in {CO_COM_C}combat{##}.",
+    "uk": "Зменшує втрату {CHAR_ENE_C}енергії{##} при отриманні удару в {CO_COM_C}бою{##}."
+  },
+  "CombatEquipment_Effect_ProtectionEnergy_DisplayName": {
+    "en": "Protection",
+    "uk": "Захист"
+  },
+  "CombatEquipment_Effect_Special_PoisonDagger": {
+    "en": "Continues to deal damage after a hit.",
+    "uk": "Продовжує завдавати шкоди після влучання."
+  },
+  "CombatEquipment_Effect_Special_ShadowDagger": {
+    "en": "{S_STE_C}Roguery{##} increases accuracy",
+    "uk": "{S_STE_C}Шахрайство{##} підвищує влучність"
+  },
+  "CombatResult_EndRule_NoUnitsLeft": {
+    "en": "One side can no longer continue the fight.",
+    "uk": "Одна зі сторін більше не може продовжувати бій."
+  },
+  "CombatResult_EndRule_Score": {
+    "en": "One side has reached the maximum score.",
+    "uk": "Одна зі сторін досягла максимального рахунку."
+  },
+  "CombatResult_EndRule_TimeOut": {
+    "en": "The time has run out.{CO_TIMOUT_C}*{##}",
+    "uk": "Час вичерпано.{CO_TIMOUT_C}*{##}"
+  },
+  "CombatResult_EndRule_TimeOut_explanation": {
+    "en": "When the time has run out, the side with the higher score wins. If tied, the initiator loses in a duel, and the attacker loses in a cart attack.",
+    "uk": "Коли час вичерпано, перемагає сторона з вищим рахунком. У разі нічиєї в дуелі програє ініціатор, а в нападі на віз — нападник."
+  },
+  "Combat_Description": {
+    "en": "Equip your {I_TYP_COMEQU_C}weapons and armor{##} — a {B_IMP_IMPCOM_C}weapon rack{##} at home may prove useful.",
+    "uk": "Спорядіть {I_TYP_COMEQU_C}зброю та броню{##} — {B_IMP_IMPCOM_C}стійка для зброї{##} вдома може стати в пригоді."
+  },
+  "Combat_Description_extra1": {
+    "en": "Combat unfolds in {CO_ROU_C}rounds{##} and {CO_PHA_C}phases{##}. During rounds, orders adjust {CO_ORD_C}stances{##} to gain advantage on the {CO_SCOBAR_C}Victory Meter{##}.",
+    "uk": "Бій відбувається у {CO_ROU_C}раундах{##} і {CO_PHA_C}фазах{##}. Під час раундів накази змінюють {CO_ORD_C}стійки{##}, щоб здобути перевагу на {CO_SCOBAR_C}шкалі перемоги{##}."
+  },
+  "Combat_Description_extra2": {
+    "en": "Attacks drain {CHAR_ENE_C}energy{##}, not {CHAR_HP_C}health{##}.\nWhen energy runs out, combatants risk being {ST_CHR_KNODOW_C}knocked down{##}.",
+    "uk": "Атаки забирають {CHAR_ENE_C}енергію{##}, а не {CHAR_HP_C}здоров’я{##}.\nКоли енергія закінчується, бійці ризикують бути {ST_CHR_KNODOW_C}збитими з ніг{##}."
+  },
+  "Combat_Description_extra3": {
+    "en": "Types of combat:",
+    "uk": "Види боїв:"
+  },
+  "Combat_DisplayName": {
+    "en": "Combat",
+    "uk": "Бій"
+  },
+  "Combatants_Count": {
+    "en": "{NumCombatants} {CO_COM_C}{NumCombatants}|plural(one=combatant,other=combatants){##}",
+    "uk": "{NumCombatants} {CO_COM_C}{NumCombatants}|plural(one=учасник бою,few=учасники бою,many=учасників бою,other=учасника бою){##}"
+  },
+  "Defender_DisplayName": {
+    "en": "Defender",
+    "uk": "Захисник"
+  },
+  "Defender_DisplayName_plural": {
+    "en": "Defenders",
+    "uk": "Захисники"
+  },
+  "Duel_Challenger_Defeat_Major_Message": {
+    "en": "You failed the duel. What a shame.\nThe city won't let you forget it anytime soon.",
+    "uk": "Ви програли дуель. Який сором.\nМісто ще довго не дасть Вам про це забути."
+  },
+  "Duel_Challenger_Defeat_Minor_Message": {
+    "en": "You lost the duel — narrowly.\nThe city thinks a little less of you.",
+    "uk": "Ви програли дуель — ледь-ледь.\nМісто думає про Вас трохи гірше."
+  },
+  "Duel_Challenger_Defeat_Total_Message": {
+    "en": "You failed the duel. Spectacularly.\nIt's time to consider a new name — and perhaps a new city.",
+    "uk": "Ви програли дуель. Гучно.\nЧас подумати про нове ім’я — а можливо, і про нове місто."
+  },
+  "Duel_Challenger_Draw_Message": {
+    "en": "Neither side prevails.",
+    "uk": "Жодна зі сторін не перемогла."
+  },
+  "Duel_Challenger_Victory_Major_Message": {
+    "en": "You won the duel — well fought and well earned. \nYour popularity grows.",
+    "uk": "Ви виграли дуель — чесно й заслужено.\nВаша популярність зростає."
+  },
+  "Duel_Challenger_Victory_Minor_Message": {
+    "en": "You prevailed — but only just.\nStill, a win is a win, and the city takes notice.",
+    "uk": "Ви перемогли — та ледь-ледь.\nАле перемога є перемога, і місто це помічає."
+  },
+  "Duel_Challenger_Victory_Total_Message": {
+    "en": "You won the duel. Decisively.\nIf your opponent remains in town, it's only out of stubbornness.",
+    "uk": "Ви виграли дуель. Переконливо.\nЯкщо Ваш суперник і лишається в місті, то хіба через упертість."
+  },
+  "Duel_Description": {
+    "en": "Two {CHAR_CITVSWOR_C}citizens{##} {CO_COM_C}fight{##} for their honor.",
+    "uk": "Двоє {CHAR_CITVSWOR_C}міщан{##} {CO_COM_C}б’ються{##} за свою честь."
+  },
+  "Duel_Description_extra1": {
+    "en": "Duels are always fought in {CO_PHA_C}close combat{##}, making {CO_COMEQU_WEAMEL_C}weapon{##} choice decisive.",
+    "uk": "Дуелі завжди відбуваються у {CO_PHA_C}ближньому бою{##}, тож вибір {CO_COMEQU_WEAMEL_C}зброї{##} є вирішальним."
+  },
+  "Duel_DisplayName": {
+    "en": "Duel",
+    "uk": "Дуель"
+  },
+  "Duel_Respondent_Defeat_Major_Message": {
+    "en": "You failed the duel. What a shame.\nThe city won't let you forget it anytime soon.",
+    "uk": "Ви програли дуель. Який сором.\nМісто ще довго не дасть Вам про це забути."
+  },
+  "Duel_Respondent_Defeat_Minor_Message": {
+    "en": "You lost the duel — narrowly.\nThe city thinks a little less of you.",
+    "uk": "Ви програли дуель — ледь-ледь.\nМісто думає про Вас трохи гірше."
+  },
+  "Duel_Respondent_Defeat_Total_Message": {
+    "en": "You failed the duel. Spectacularly.\nIt's time to consider a new name — and perhaps a new city.",
+    "uk": "Ви програли дуель. Гучно.\nЧас подумати про нове ім’я — а можливо, і про нове місто."
+  },
+  "Duel_Respondent_Draw_Message": {
+    "en": "Neither side prevails.",
+    "uk": "Жодна зі сторін не перемогла."
+  },
+  "Duel_Respondent_Victory_Major_Message": {
+    "en": "You won the duel — well fought and well earned. \nYour popularity grows.",
+    "uk": "Ви виграли дуель — чесно й заслужено.\nВаша популярність зростає."
+  },
+  "Duel_Respondent_Victory_Minor_Message": {
+    "en": "You prevailed — but only just.\nStill, a win is a win, and the city takes notice.",
+    "uk": "Ви перемогли — та ледь-ледь.\nАле перемога є перемога, і місто це помічає."
+  },
+  "Duel_Respondent_Victory_Total_Message": {
+    "en": "You won the duel. Decisively.\nIf your opponent remains in town, it's only out of stubbornness.",
+    "uk": "Ви виграли дуель. Переконливо.\nЯкщо Ваш суперник і лишається в місті, то хіба через упертість."
+  },
+  "Effect_ChanceOfBeingHit": {
+    "en": "Chance of being hit",
+    "uk": "Шанс отримати удар"
+  },
+  "Effect_ChanceToHit": {
+    "en": "Chance to hit",
+    "uk": "Шанс влучити"
+  },
+  "Effect_DamageDealt": {
+    "en": "{CO_COMEQU_DAM_C}Damage{##} dealt",
+    "uk": "Завдана {CO_COMEQU_DAM_C}шкода{##}"
+  },
+  "Effect_DamageReceived": {
+    "en": "{CO_COMEQU_DAM_C}Damage{##} received",
+    "uk": "Отримана {CO_COMEQU_DAM_C}шкода{##}"
+  },
+  "Effect_DamageReceivedPercentage": {
+    "en": "{CO_COMEQU_DAM_C}Damage{##} received{CO_SCOWAR_C}*{##}",
+    "uk": "Отримана {CO_COMEQU_DAM_C}шкода{##}{CO_SCOWAR_C}*{##}"
+  },
+  "Effect_DamageReceivedPercentage_Warning": {
+    "en": "Despite this reduction, full damage is used when calculating the {CO_SCO_C}score{##}.",
+    "uk": "Попри це зменшення, при обчисленні {CO_SCO_C}рахунку{##} враховується повна шкода."
+  },
+  "EnergyPool_Description": {
+    "en": "The total {CHAR_ENE_C}energy{##} of all combatants on this side.",
+    "uk": "Сукупна {CHAR_ENE_C}енергія{##} всіх бійців цієї сторони."
+  },
+  "EnergyPool_DisplayName": {
+    "en": "Energy Pool",
+    "uk": "Запас енергії"
+  },
+  "MarginOfVictory_Description": {
+    "en": "Indicates how decisive the result is based on the final position of the {CO_SCOBAR_C}Victory Meter{##}. Determines the applied effects.",
+    "uk": "Показує, наскільки вирішальним є результат, залежно від кінцевого положення на {CO_SCOBAR_C}шкалі перемоги{##}. Визначає застосовані ефекти."
+  },
+  "MarginOfVictory_DisplayName": {
+    "en": "Margin of Victory",
+    "uk": "Перевага в перемозі"
+  },
+  "MarginOfVictory_Draw_Description": {
+    "en": "The combat ends in a draw.",
+    "uk": "Бій завершується нічиєю."
+  },
+  "MarginOfVictory_Draw_DisplayName": {
+    "en": "Draw",
+    "uk": "Нічия"
+  },
+  "MarginOfVictory_MajorDefeat_Description": {
+    "en": "You suffer a major defeat.",
+    "uk": "Ви зазнаєте значної поразки."
+  },
+  "MarginOfVictory_MajorDefeat_DisplayName": {
+    "en": "Major Defeat",
+    "uk": "Значна поразка"
+  },
+  "MarginOfVictory_MajorVictory_Description": {
+    "en": "You achieve a major victory.",
+    "uk": "Ви здобуваєте значну перемогу."
+  },
+  "MarginOfVictory_MajorVictory_DisplayName": {
+    "en": "Major Victory",
+    "uk": "Значна перемога"
+  },
+  "MarginOfVictory_MinorDefeat_Description": {
+    "en": "You suffer a minor defeat.",
+    "uk": "Ви зазнаєте незначної поразки."
+  },
+  "MarginOfVictory_MinorDefeat_DisplayName": {
+    "en": "Minor Defeat",
+    "uk": "Незначна поразка"
+  },
+  "MarginOfVictory_MinorVictory_Description": {
+    "en": "You achieve a minor victory.",
+    "uk": "Ви здобуваєте незначну перемогу."
+  },
+  "MarginOfVictory_MinorVictory_DisplayName": {
+    "en": "Minor Victory",
+    "uk": "Незначна перемога"
+  },
+  "MarginOfVictory_TotalDefeat_Description": {
+    "en": "You suffer a total defeat.",
+    "uk": "Ви зазнаєте цілковитої поразки."
+  },
+  "MarginOfVictory_TotalDefeat_DisplayName": {
+    "en": "Total Defeat",
+    "uk": "Цілковита поразка"
+  },
+  "MarginOfVictory_TotalVictory_Description": {
+    "en": "You achieve a total victory.",
+    "uk": "Ви здобуваєте цілковиту перемогу."
+  },
+  "MarginOfVictory_TotalVictory_DisplayName": {
+    "en": "Total Victory",
+    "uk": "Цілковита перемога"
+  },
+  "NoneEquipped_Armor_Label": {
+    "en": "Unarmored",
+    "uk": "Без броні"
+  },
+  "NoneEquipped_Weapon_Label": {
+    "en": "Unarmed",
+    "uk": "Без зброї"
+  },
+  "Order_Aggressive_Description": {
+    "en": "You have a higher chance to hit and push for a faster victory at all costs.",
+    "uk": "У Вас вищий шанс влучити, і Ви прагнете якнайшвидшої перемоги за будь-яку ціну."
+  },
+  "Order_Aggressive_DisplayName": {
+    "en": "Aggressive",
+    "uk": "Агресивна"
+  },
+  "Order_Avoid_Description": {
+    "en": "Combatants prioritize survival, sacrificing their chance to hit the enemy.",
+    "uk": "Бійці ставлять виживання на перше місце, жертвуючи шансом влучити у ворога."
+  },
+  "Order_Avoid_DisplayName": {
+    "en": "Evasive",
+    "uk": "Ухильна"
+  },
+  "Order_Default_Description": {
+    "en": "A neutral combat stance.",
+    "uk": "Нейтральна бойова стійка."
+  },
+  "Order_Default_DisplayName": {
+    "en": "Default",
+    "uk": "За замовчуванням"
+  },
+  "Order_Description": {
+    "en": "Stances allows you to influence the combat process.\nIt remains active until changed and takes effect at the start of the next {CO_ROU_C}combat round{##}.",
+    "uk": "Стійка дозволяє впливати на перебіг бою.\nВона лишається активною, доки її не змінять, і набуває чинності на початку наступного {CO_ROU_C}раунду бою{##}."
+  },
+  "Order_DisplayName": {
+    "en": "Stance",
+    "uk": "Стійка"
+  },
+  "Order_DisplayName_alt": {
+    "en": "Combat Stance",
+    "uk": "Бойова стійка"
+  },
+  "Order_DisplayName_plural": {
+    "en": "Stances",
+    "uk": "Стійки"
+  },
+  "Order_DisplayName_plural_alt": {
+    "en": "Combat Stances",
+    "uk": "Бойові стійки"
+  },
+  "Order_HoldTheLine_Description": {
+    "en": "Combatants take less damage when hit but also have a lower chance to hit the opponent.",
+    "uk": "Бійці отримують менше шкоди при ударі, але й мають нижчий шанс влучити у супротивника."
+  },
+  "Order_HoldTheLine_DisplayName": {
+    "en": "Defensive",
+    "uk": "Оборонна"
+  },
+  "Order_Overwhelm_Description": {
+    "en": "Combatants have a higher chance to hit and push for a faster victory at all costs.",
+    "uk": "Бійці мають вищий шанс влучити й прагнуть якнайшвидшої перемоги за будь-яку ціну."
+  },
+  "Order_Overwhelm_DisplayName": {
+    "en": "Offensive",
+    "uk": "Наступальна"
+  },
+  "Order_Passive_Description": {
+    "en": "You preserve energy, sacrificing your chance to hit the enemy.",
+    "uk": "Ви зберігаєте енергію, жертвуючи шансом влучити у ворога."
+  },
+  "Order_Passive_DisplayName": {
+    "en": "Passive",
+    "uk": "Пасивна"
+  },
+  "Order_PickOrder_Prompt": {
+    "en": "Choose a stance",
+    "uk": "Виберіть стійку"
+  },
+  "Order_Push_Description": {
+    "en": "Combatants deal more damage but are also more likely to be hit by the opponent.",
+    "uk": "Бійці завдають більше шкоди, але й самі частіше отримують удари від супротивника."
+  },
+  "Order_Push_DisplayName": {
+    "en": "Aggressive",
+    "uk": "Агресивна"
+  },
+  "Phase_Description": {
+    "en": "{CO_ROU_C}Combat rounds{##} proceed in three phases — Ranged, Special, and Melee — each allowing only the corresponding weapons.",
+    "uk": "{CO_ROU_C}Раунди бою{##} проходять у трьох фазах — далекобійній, особливій і ближній — кожна дозволяє використовувати лише відповідну зброю."
+  },
+  "Phase_DisplayName": {
+    "en": "Combat Phase",
+    "uk": "Фаза бою"
+  },
+  "Phase_Melee_Description": {
+    "en": "Combatants equipped with {CO_COMEQU_WEAMEL_C}melee weapons{##}.",
+    "uk": "Бійці, споряджені {CO_COMEQU_WEAMEL_C}зброєю ближнього бою{##}."
+  },
+  "Phase_Melee_DisplayName": {
+    "en": "Melee",
+    "uk": "Ближній бій"
+  },
+  "Phase_Melee_DisplayName_alt": {
+    "en": "Melee Phase",
+    "uk": "Фаза ближнього бою"
+  },
+  "Phase_Ranged_Description": {
+    "en": "Combatants equipped with {CO_COMEQU_WEARAN_C}ranged weapons{##}.",
+    "uk": "Бійці, споряджені {CO_COMEQU_WEARAN_C}далекобійною зброєю{##}."
+  },
+  "Phase_Ranged_DisplayName": {
+    "en": "Ranged",
+    "uk": "Далекий бій"
+  },
+  "Phase_Ranged_DisplayName_alt": {
+    "en": "Ranged Phase",
+    "uk": "Фаза далекого бою"
+  },
+  "Phase_Special_Description": {
+    "en": "Combatants equipped with {CO_COMEQU_WEASPE_C}special weapons{##}.",
+    "uk": "Бійці, споряджені {CO_COMEQU_WEASPE_C}особливою зброєю{##}."
+  },
+  "Phase_Special_DisplayName": {
+    "en": "Special",
+    "uk": "Особливий"
+  },
+  "Phase_Special_DisplayName_alt": {
+    "en": "Special Phase",
+    "uk": "Особлива фаза"
+  },
+  "Result_Defeat_DisplayName": {
+    "en": "Defeat",
+    "uk": "Поразка"
+  },
+  "Result_DisplayName": {
+    "en": "Combat Results",
+    "uk": "Результати бою"
+  },
+  "Result_Draw_DisplayName": {
+    "en": "Draw",
+    "uk": "Нічия"
+  },
+  "Result_Victory_DisplayName": {
+    "en": "Victory",
+    "uk": "Перемога"
+  },
+  "Role_CartAttackers_DisplayName": {
+    "en": "Cart Attackers",
+    "uk": "Нападники на вози"
+  },
+  "Role_CartEscort_DisplayName": {
+    "en": "Cart Escort",
+    "uk": "Супровід воза"
+  },
+  "Round_Description": {
+    "en": "Combat unfolds over multiple rounds, each with three {CO_PHA_C}combat phases{##}.",
+    "uk": "Бій триває декілька раундів, кожен з яких складається з трьох {CO_PHA_C}фаз бою{##}."
+  },
+  "Round_Description_extra1": {
+    "en": "Each round ends with a calculated {CO_SCO_C}score{##} that adjusts the {CO_SCOBAR_C}Victory Meter{##}.",
+    "uk": "Кожен раунд завершується обчисленим {CO_SCO_C}рахунком{##}, який зсуває {CO_SCOBAR_C}шкалу перемоги{##}."
+  },
+  "Round_DisplayName": {
+    "en": "Combat Round",
+    "uk": "Раунд бою"
+  },
+  "ScoreBar_Description": {
+    "en": "Represents the current {CO_SCO_C}score{##} balance, colored by the leading side.",
+    "uk": "Показує поточний баланс {CO_SCO_C}рахунку{##}, забарвлений кольором сторони, яка лідирує."
+  },
+  "ScoreBar_Description_extra1": {
+    "en": "There are three ways to win a combat:",
+    "uk": "Існує три способи перемогти в бою:"
+  },
+  "ScoreBar_Description_extra2": {
+    "en": "You reach the maximum {CO_SCO_C}score{##}.",
+    "uk": "Ви досягаєте максимального {CO_SCO_C}рахунку{##}."
+  },
+  "ScoreBar_Description_extra3": {
+    "en": "The enemy is {ST_CHR_KNODOW_C}knocked down{##}.",
+    "uk": "Ворога {ST_CHR_KNODOW_C}збито з ніг{##}."
+  },
+  "ScoreBar_Description_extra4": {
+    "en": "Time runs out and you have the higher {CO_SCO_C}score{##}.",
+    "uk": "Час вичерпується, і у Вас вищий {CO_SCO_C}рахунок{##}."
+  },
+  "ScoreBar_Description_extra5": {
+    "en": "If time runs out and the {CO_SCO_C}scores{##} are equal, the person who initiated the {CO_TYPE_DUE_C}duel{##} loses. In a {CO_TYPE_ATTCAR_C}cart attack{##}, the attacker loses.",
+    "uk": "Якщо час вичерпується, а {CO_SCO_C}рахунки{##} рівні, програє той, хто ініціював {CO_TYPE_DUE_C}дуель{##}. У {CO_TYPE_ATTCAR_C}нападі на віз{##} програє нападник."
+  },
+  "ScoreBar_DisplayName": {
+    "en": "Victory Meter",
+    "uk": "Шкала перемоги"
+  },
+  "Score_Description": {
+    "en": "Each {CO_ROU_C}round{##}, the {CO_SCO_C}score{##} is calculated from the percentage of {CHAR_ENE_C}energy{##} lost due to {CO_COMEQU_DAM_C}damage{##} on both sides.\nThe side with the smaller proportional loss gains the difference as score, shifting the {CO_SCOBAR_C}Victory Meter{##} in their favor.",
+    "uk": "У кожному {CO_ROU_C}раунді{##} {CO_SCO_C}рахунок{##} обчислюється за відсотком {CHAR_ENE_C}енергії{##}, втраченої через {CO_COMEQU_DAM_C}шкоду{##} з обох сторін.\nСторона з меншою пропорційною втратою отримує різницю як рахунок, зсуваючи {CO_SCOBAR_C}шкалу перемоги{##} на свою користь."
+  },
+  "Score_DisplayName": {
+    "en": "Combat Score",
+    "uk": "Бойовий рахунок"
+  },
+  "Timeline_Description": {
+    "en": "The timeline represents the maximum duration of combat. It is divided into a sequence of {CO_ROU_C}rounds{##} and their {CO_PHA_C}phases{##}. When it reaches the end, the side with the higher {CO_SCO_C}score{##} wins.",
+    "uk": "Часова шкала показує максимальну тривалість бою. Вона поділена на послідовність {CO_ROU_C}раундів{##} та їхніх {CO_PHA_C}фаз{##}. Коли вона добігає кінця, перемагає сторона з вищим {CO_SCO_C}рахунком{##}."
+  },
+  "Timeline_DisplayName": {
+    "en": "Timeline",
+    "uk": "Часова шкала"
+  }
+}

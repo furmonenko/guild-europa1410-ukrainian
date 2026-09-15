@@ -1,0 +1,562 @@
+{
+  "AP_Instant": {
+    "en": "{value} AP received instantly",
+    "uk": "{value} ОД отримано миттєво"
+  },
+  "AP_PerTurn": {
+    "en": "{CHAR_AP} at the start of the turn",
+    "uk": "{CHAR_AP} на початку ходу"
+  },
+  "Action_CannotPerform": {
+    "en": "Can't perform {action}",
+    "uk": "Неможливо виконати {action}"
+  },
+  "Action_Immunity": {
+    "en": "Imunnity to {action}",
+    "uk": "Імунітет до {action}"
+  },
+  "Attractiveness_perProductivity": {
+    "en": "{B_PARAM_ATT_C}Customer Appeal{##} per {CHAR_PRO_C}Productivity{##}",
+    "uk": "{B_PARAM_ATT_C}Привабливість для покупців{##} на одиницю {CHAR_PRO_C}продуктивності{##}"
+  },
+  "BanditContract_AttackCart": {
+    "en": "Unlocks {A_ATKCAR_C}Attack Cart{##}",
+    "uk": "Відкриває {A_ATKCAR_C}Напад на віз{##}"
+  },
+  "CanConstructBeeHives": {
+    "en": "Needed to construct {B_PER_BEEHIV_C}Bee Hives{##}",
+    "uk": "Потрібно для будівництва {B_PER_BEEHIV_C}вуликів{##}"
+  },
+  "CanConstructExtraRoom_Count": {
+    "en": "Can construct {NumRoom} {NumRoom}|plural(one=extra room,other=extra rooms)",
+    "uk": "Можна побудувати {NumRoom} {NumRoom}|plural(one=додаткову кімнату,few=додаткові кімнати,many=додаткових кімнат,other=додаткової кімнати)"
+  },
+  "CanConstructShrine": {
+    "en": "Needed to construct a {B_PER_SHR_C}Shrine{##}",
+    "uk": "Потрібно для будівництва {B_PER_SHR_C}святині{##}"
+  },
+  "Cart_Breakdown_Chance_High": {
+    "en": "High risk of Cart breakdown",
+    "uk": "Високий ризик поломки воза"
+  },
+  "Courting_Success_Increased": {
+    "en": "Increased success in courting advances",
+    "uk": "Підвищена ймовірність успіху в залицяннях"
+  },
+  "Crime_Erased": {
+    "en": "Erases {NumCrime} {CO_COM_C}{NumCrime}|plural(one=crime,other=crimes){##} from record",
+    "uk": "Стирає {NumCrime} {CO_COM_C}{NumCrime}|plural(one=злочин,few=злочини,many=злочинів,other=злочину){##} із запису"
+  },
+  "Duration_DisplayName": {
+    "en": "Duration",
+    "uk": "Тривалість"
+  },
+  "DynastyExclusiveActions": {
+    "en": "Exclusive Actions",
+    "uk": "Ексклюзивні дії"
+  },
+  "Effect_DisplayName": {
+    "en": "Effect",
+    "uk": "Ефект"
+  },
+  "Effects_Applied": {
+    "en": "Status Effect applied",
+    "uk": "Застосовано статусний ефект"
+  },
+  "Effects_DisplayName_plural": {
+    "en": "Effects",
+    "uk": "Ефекти"
+  },
+  "Effects_Mysterious": {
+    "en": "Mysterious effects",
+    "uk": "Загадкові ефекти"
+  },
+  "Effects_Removed": {
+    "en": "Status Effect removed",
+    "uk": "Статусний ефект знято"
+  },
+  "Effects_Unknown": {
+    "en": "Unknown effects",
+    "uk": "Невідомі ефекти"
+  },
+  "Energy_AtStartOfTurn": {
+    "en": "{CHAR_ENE_C}Energy{##} at the start of the {C_TRN_C}turn{##}",
+    "uk": "{CHAR_ENE_C}Енергія{##} на початку {C_TRN_C}ходу{##}"
+  },
+  "Energy_FullyRestored": {
+    "en": "{CHAR_ENE_C}Energy{##} fully restored instantly",
+    "uk": "{CHAR_ENE_C}Енергію{##} повністю відновлено миттєво"
+  },
+  "Energy_Reduction_Halved": {
+    "en": "{CHAR_ENE_C}Energy{##}reduction halved",
+    "uk": "Втрату {CHAR_ENE_C}енергії{##} зменшено вдвічі"
+  },
+  "Energy_Regen_Doubled": {
+    "en": "Doubles {CHAR_ENEREG_C}energy regeneration{##}",
+    "uk": "Подвоює {CHAR_ENEREG_C}відновлення енергії{##}"
+  },
+  "Energy_Regen_Halved": {
+    "en": "{CHAR_ENEREG_C}Energy regeneration{##} cut in half",
+    "uk": "{CHAR_ENEREG_C}Відновлення енергії{##} зменшено вдвічі"
+  },
+  "Evidence_ChanceToLetOut": {
+    "en": "chance to let out {CR_EVI_C}evidence{##}",
+    "uk": "шанс розкрити {CR_EVI_C}докази{##}"
+  },
+  "Evidence_Fabricated_One": {
+    "en": "Fabricates {CR_EVI_C}evidence{##} of a random crime",
+    "uk": "Фабрикує {CR_EVI_C}докази{##} випадкового злочину"
+  },
+  "Evidence_Fabricated_Two": {
+    "en": "Fabricates {CR_EVI_C}evidence{##} of two random crimes",
+    "uk": "Фабрикує {CR_EVI_C}докази{##} двох випадкових злочинів"
+  },
+  "Evidence_LettingOut_Chance": {
+    "en": "{value} chance of letting out {CR_EVI_C}evidence{##} ",
+    "uk": "{value} шанс розкрити {CR_EVI_C}докази{##} "
+  },
+  "General_RandomCitizens_v0": {
+    "en": "with onlooking citizens",
+    "uk": "з міщанами-свідками"
+  },
+  "General_RandomCitizens_v1": {
+    "en": "with high-class citizens",
+    "uk": "зі знатними свідками"
+  },
+  "GuaranteedEffects_Header": {
+    "en": "Guaranteed Effects",
+    "uk": "Гарантовані ефекти"
+  },
+  "Harvesting_Increase_Moderate": {
+    "en": "Moderate increase in harvesting",
+    "uk": "Помірне збільшення видобутку"
+  },
+  "Health_Decrease_Considerable": {
+    "en": "Severely reduces {CHAR_HP_C}Health{##}",
+    "uk": "Сильно погіршує {CHAR_HP_C}Здоров’я{##}"
+  },
+  "Health_Decrease_Moderate": {
+    "en": "Moderately worsens {CHAR_HP_C}Health{##}",
+    "uk": "Помірно погіршує {CHAR_HP_C}Здоров’я{##}"
+  },
+  "Health_Decrease_Slight": {
+    "en": "Slightly worsens {CHAR_HP_C}Health{##}",
+    "uk": "Трохи погіршує {CHAR_HP_C}Здоров’я{##}"
+  },
+  "Health_Increase_Chance_High": {
+    "en": "High chance to improve {CHAR_HP_C}Health{##}",
+    "uk": "Високий шанс покращити {CHAR_HP_C}Здоров’я{##}"
+  },
+  "Health_Increase_Chance_Low": {
+    "en": "Small chance to improve {CHAR_HP_C}Health{##}",
+    "uk": "Малий шанс покращити {CHAR_HP_C}Здоров’я{##}"
+  },
+  "Health_Increase_Chance_Medium": {
+    "en": "Moderate chance to improve {CHAR_HP_C}Health{##}",
+    "uk": "Помірний шанс покращити {CHAR_HP_C}Здоров’я{##}"
+  },
+  "Health_Increase_Considerable": {
+    "en": "Greatly improves {CHAR_HP_C}Health{##}",
+    "uk": "Значно покращує {CHAR_HP_C}Здоров’я{##}"
+  },
+  "Health_Increase_Moderate": {
+    "en": "Moderately improves {CHAR_HP_C}Health{##}",
+    "uk": "Помірно покращує {CHAR_HP_C}Здоров’я{##}"
+  },
+  "Health_Increase_Slight": {
+    "en": "Slightly improves {CHAR_HP_C}Health{##}",
+    "uk": "Трохи покращує {CHAR_HP_C}Здоров’я{##}"
+  },
+  "Health_Loss_Halved": {
+    "en": "Halves {CHAR_HP_C}health{##} loss",
+    "uk": "Зменшує вдвічі втрату {CHAR_HP_C}здоров’я{##}"
+  },
+  "Illness_Target_Chance_High": {
+    "en": "High chance of contracting an {ST_CHR_SIC_C}illness{##}",
+    "uk": "Високий шанс підхопити {ST_CHR_SIC_C}хворобу{##}"
+  },
+  "Illness_Target_Cures": {
+    "en": "Cures {ST_CHR_SIC_C}illnesses{##}",
+    "uk": "Лікує {ST_CHR_SIC_C}хвороби{##}"
+  },
+  "IntegrityLoss_Stopped": {
+    "en": "Stops {B_HP_DEC_C}Integrity Decay{##}",
+    "uk": "Зупиняє {B_HP_DEC_C}знос{##}"
+  },
+  "MoneyFromCityTreasury": {
+    "en": "{CHAR_MON} from the {O_CITTRE_C}city treasury{##}",
+    "uk": "{CHAR_MON} з {O_CITTRE_C}міської скарбниці{##}"
+  },
+  "MoneyFromStorefrontSales_Effect": {
+    "en": "{CHAR_MON} from {B_STOFRO_C}Storefront{##} Sales",
+    "uk": "{CHAR_MON} від продажів у {B_STOFRO_C}Крамниці{##}"
+  },
+  "MoneyRange": {
+    "en": "{CV_({min})} to {CV_({max})}{CHAR_MON}",
+    "uk": "від {CV_({min})} до {CV_({max})}{CHAR_MON}"
+  },
+  "NewBaby": {
+    "en": "A bundle of joy",
+    "uk": "Радісна подія"
+  },
+  "NoEffects": {
+    "en": "No effects",
+    "uk": "Без ефектів"
+  },
+  "NobilityRights": {
+    "en": "Grants the right to claim a {T_NOB_C}noble{##} title",
+    "uk": "Надає право претендувати на {T_NOB_C}дворянський{##} титул"
+  },
+  "OneOfTheseEffects_Header": {
+    "en": "One of the Following Effects",
+    "uk": "Один із таких ефектів"
+  },
+  "PactWithDead_InstantRevival": {
+    "en": "Instant revival after death",
+    "uk": "Миттєве воскресіння після смерті"
+  },
+  "Parameter_Generic": {
+    "en": "{value} {parameter}",
+    "uk": "{value} {parameter}"
+  },
+  "QuarterCrimeRate_perTurn": {
+    "en": "{QUA_CRI_C}Crime Rate{##} every {C_TRN_C}turn{##}",
+    "uk": "{QUA_CRI_C}Рівень злочинності{##} за кожен {C_TRN_C}хід{##}"
+  },
+  "QuarterDevastation_perTurn": {
+    "en": "{QUA_DEV_C}Ruin & Filth{##} every {C_TRN_C}turn{##}",
+    "uk": "{QUA_DEV_C}Занепад і бруд{##} за кожен {C_TRN_C}хід{##}"
+  },
+  "QuarterHygiene_perTurn": {
+    "en": "{QUA_HYG_C}Sanitation{##} every {C_TRN_C}turn{##}",
+    "uk": "{QUA_HYG_C}Санітарія{##} за кожен {C_TRN_C}хід{##}"
+  },
+  "QuarterReputation_perTurn": {
+    "en": "{QUA_REP_C}Reputation{##} every {C_TRN_C}turn{##}",
+    "uk": "{QUA_REP_C}Репутація{##} за кожен {C_TRN_C}хід{##}"
+  },
+  "QuarterUnrest_perTurn": {
+    "en": "{QUA_UNR_C}Unrest{##} every {C_TRN_C}turn{##}",
+    "uk": "{QUA_UNR_C}Заворушення{##} за кожен {C_TRN_C}хід{##}"
+  },
+  "QuarterZeal_perTurn": {
+    "en": "{QUA_ZEA_C}Zeal{##} every {C_TRN_C}turn{##}",
+    "uk": "{QUA_ZEA_C}Побожність{##} за кожен {C_TRN_C}хід{##}"
+  },
+  "Random_PositiveEffects": {
+    "en": "Random positive effects",
+    "uk": "Випадкові позитивні ефекти"
+  },
+  "Renown_perTurn": {
+    "en": "{CHAR_REN_C}Renown{##} every {C_TRN_C}turn{##}",
+    "uk": "{CHAR_REN_C}Слава{##} за кожен {C_TRN_C}хід{##}"
+  },
+  "Schedule_Event": {
+    "en": "Schedule for later: ",
+    "uk": "Заплановано на пізніше: "
+  },
+  "SkillPoints_All": {
+    "en": "{CV_({Value})} points in all {S_C}skills{##}",
+    "uk": "{CV_({Value})} очок у всі {S_C}навички{##}"
+  },
+  "SkillPoints_All_Halved": {
+    "en": "All {S_C}skills{##} halved",
+    "uk": "Усі {S_C}навички{##} зменшено вдвічі"
+  },
+  "SkillPoints_Child": {
+    "en": "{value} points in the selected child's {skill} skill",
+    "uk": "{value} очок у навичку {skill} обраної дитини"
+  },
+  "SkillPoints_Generic": {
+    "en": "{value} points in {skill} skill ",
+    "uk": "{value} очок у навичку {skill} "
+  },
+  "SkillPoints_Random": {
+    "en": "{CV_({NumSkills})} {NumSkills}|plural(one=random {S_C}skill{##},other=random {S_C}skills{##})",
+    "uk": "{CV_({NumSkills})} {NumSkills}|plural(one=випадкова {S_C}навичка{##},few=випадкові {S_C}навички{##},many=випадкових {S_C}навичок{##},other=випадкової {S_C}навички{##})"
+  },
+  "Standing_AllCharacters": {
+    "en": "{CV_({Value})} {CHAR_STA_C}opinion{##} with every character",
+    "uk": "{CV_({Value})} {CHAR_STA_C}прихильність{##} кожного персонажа"
+  },
+  "Standing_AllCitizens": {
+    "en": "{value} {CHAR_STA_C}opinion{##} with all citizens",
+    "uk": "{value} {CHAR_STA_C}прихильність{##} усіх міщан"
+  },
+  "Standing_AllOfficeHolders": {
+    "en": "{value} {CHAR_STA_C}opinion{##} with all office holders",
+    "uk": "{value} {CHAR_STA_C}прихильність{##} усіх посадовців"
+  },
+  "Standing_AllOfficeHoldersInYourChamber": {
+    "en": "with all office holders in your {O_CHA_C}chamber{##}",
+    "uk": "з усіма посадовцями у Вашій {O_CHA_C}палаті{##}"
+  },
+  "Standing_AllWorkers": {
+    "en": "{value} {CHAR_STA_C}opinion{##} with all workers",
+    "uk": "{value} {CHAR_STA_C}прихильність{##} усіх працівників"
+  },
+  "Standing_BetweenTwo": {
+    "en": "{value} {CHAR_STA_C}opinion{##} between the two selected citizens",
+    "uk": "{value} {CHAR_STA_C}прихильність{##} між двома обраними міщанами"
+  },
+  "Standing_BlackenName": {
+    "en": "Selected character {ARROW} Victim: {DEC} {CHAR_STA}",
+    "uk": "Обраний персонаж {ARROW} Жертва: {DEC} {CHAR_STA}"
+  },
+  "Standing_BuildingWorkers": {
+    "en": "{value} {CHAR_STA_C}opinion{##} with the selected building's workers",
+    "uk": "{value} {CHAR_STA_C}прихильність{##} працівників обраної будівлі"
+  },
+  "Standing_LoseElectionAppointers": {
+    "en": "The selected character loses {value} {CHAR_STA_C}opinion{##} with appointers during an election",
+    "uk": "Обраний персонаж втрачає {value} {CHAR_STA_C}прихильності{##} у виборців під час виборів"
+  },
+  "Standing_LoseFaithOfficials": {
+    "en": "The selected character loses {value} {CHAR_STA_C}opinion{##} with three random officials of the same faith",
+    "uk": "Обраний персонаж втрачає {value} {CHAR_STA_C}прихильності{##} у трьох випадкових посадовців тієї ж віри"
+  },
+  "Standing_NeighboringOwners": {
+    "en": "{value} {CHAR_STA_C}opinion{##} with owners of neighboring buildings",
+    "uk": "{value} {CHAR_STA_C}прихильність{##} власників сусідніх будівель"
+  },
+  "Standing_OneCharacter": {
+    "en": "{value} {CHAR_STA_C}opinion{##} of {character1}",
+    "uk": "{value} {CHAR_STA_C}прихильність{##} персонажа {character1}"
+  },
+  "Standing_OneCharacter_You": {
+    "en": "{value} {CHAR_STA_C}opinion{##} of you",
+    "uk": "{value} {CHAR_STA_C}прихильність{##} до Вас"
+  },
+  "Standing_PerTurn": {
+    "en": "{CHAR_STA_C}opinion{##} per {C_TRN_C}turn{##}",
+    "uk": "{CHAR_STA_C}прихильність{##} за {C_TRN_C}хід{##}"
+  },
+  "Standing_RandomCitizens": {
+    "en": "{CV_({Value})} {CHAR_STA_C}opinion{##} with {NumCitizens} {NumCitizens}|plural(one= random {CHAR_CITVSWOR_C}citizen{##},other=random {CHAR_CITVSWOR_C}citizens{##})",
+    "uk": "{CV_({Value})} {CHAR_STA_C}прихильність{##} {NumCitizens} {NumCitizens}|plural(one=випадкового {CHAR_CITVSWOR_C}міщанина{##},few=випадкових {CHAR_CITVSWOR_C}міщан{##},many=випадкових {CHAR_CITVSWOR_C}міщан{##},other=випадкового {CHAR_CITVSWOR_C}міщанина{##})"
+  },
+  "Standing_SelectedCharacter": {
+    "en": "{value} {CHAR_STA_C}opinion{##} with a selected character",
+    "uk": "{value} {CHAR_STA_C}прихильність{##} обраного персонажа"
+  },
+  "Standing_Socialize": {
+    "en": "Up to {NumCitizens} {NumCitizens}|plural(one= random {CHAR_CITVSWOR_C}citizen{##},other=random {CHAR_CITVSWOR_C}citizens{##}) {ARROW} {YOU}: {VALUE}{CHAR_STA}",
+    "uk": "До {NumCitizens} {NumCitizens}|plural(one=випадкового {CHAR_CITVSWOR_C}міщанина{##},few=випадкових {CHAR_CITVSWOR_C}міщан{##},many=випадкових {CHAR_CITVSWOR_C}міщан{##},other=випадкових {CHAR_CITVSWOR_C}міщан{##}) {ARROW} {YOU}: {VALUE}{CHAR_STA}"
+  },
+  "Standing_ThreeCharacters": {
+    "en": "{value} {CHAR_STA_C}opinion{##} with {character1}, {character2}, and {character3}",
+    "uk": "{value} {CHAR_STA_C}прихильність{##}: {character1}, {character2} та {character3}"
+  },
+  "Standing_ThreeRandomOfficialsOppositeGender": {
+    "en": "{value} {CHAR_STA_C}opinion{##} with three random officials of the opposite gender",
+    "uk": "{value} {CHAR_STA_C}прихильність{##} трьох випадкових посадовців протилежної статі"
+  },
+  "Standing_TwoCharacters": {
+    "en": "{value} {CHAR_STA_C}opinion{##} with {character1} and {character2}",
+    "uk": "{value} {CHAR_STA_C}прихильність{##}: {character1} та {character2}"
+  },
+  "Surrender_Goods": {
+    "en": "goods lost",
+    "uk": "втрачений крам"
+  },
+  "Taget_AllMembersOfYourChamber": {
+    "en": "All members of your chamber",
+    "uk": "Усі члени Вашої палати"
+  },
+  "Taget_AllOfficeHolders": {
+    "en": "All office holders",
+    "uk": "Усі посадовці"
+  },
+  "Target_AllCitizens": {
+    "en": "All citizens",
+    "uk": "Усі міщани"
+  },
+  "Target_AllCitizensAndWorkers_01": {
+    "en": "All townspeople",
+    "uk": "Усі городяни"
+  },
+  "Target_AllCitizensAndWorkers_02": {
+    "en": "Everyone",
+    "uk": "Усі"
+  },
+  "Target_AllDynastyBuildings": {
+    "en": "All buildings of the dynasty",
+    "uk": "Усі будівлі династії"
+  },
+  "Target_AllDynastyMembers": {
+    "en": "All members of the dynasty",
+    "uk": "Усі члени династії"
+  },
+  "Target_AllWorkers": {
+    "en": "All workers",
+    "uk": "Усі працівники"
+  },
+  "Target_AllYourWeapons": {
+    "en": "Weapons",
+    "uk": "Зброя"
+  },
+  "Target_AllYourWorkers": {
+    "en": "All your workers",
+    "uk": "Усі Ваші працівники"
+  },
+  "Target_BetweenTargets": {
+    "en": "Inter-target",
+    "uk": "Між цілями"
+  },
+  "Target_BuildingsWorkers": {
+    "en": "Target building's workers",
+    "uk": "Працівники цільової будівлі"
+  },
+  "Target_CharacterOfSameProfession": {
+    "en": "All citizens of the same {P_C}profession{##}",
+    "uk": "Усі міщани тієї ж {P_C}професії{##}"
+  },
+  "Target_Child": {
+    "en": "Child",
+    "uk": "Дитина"
+  },
+  "Target_OppositeGender": {
+    "en": "Citizen of the opposite gender",
+    "uk": "Міщанин протилежної статі"
+  },
+  "Target_QuarterInhabitants": {
+    "en": "Quarter inhabitants",
+    "uk": "Мешканці кварталу"
+  },
+  "Target_Quarters": {
+    "en": "{C_QUA_C}Quarters{##}",
+    "uk": "{C_QUA_C}Квартали{##}"
+  },
+  "Target_RandomOfficials": {
+    "en": "{NumRandomOfficials} {NumRandomOfficials}|plural(one=random official,other=random officials)",
+    "uk": "{NumRandomOfficials} {NumRandomOfficials}|plural(one=випадковий посадовець,few=випадкові посадовці,many=випадкових посадовців,other=випадкових посадовців)"
+  },
+  "Target_RandomOfficialsOfOppositeSex": {
+    "en": "{NumRandomOfficials} {NumRandomOfficials}|plural(one=random opposite-gender official,other=random opposite-gender officials)",
+    "uk": "{NumRandomOfficials} {NumRandomOfficials}|plural(one=випадковий посадовець протилежної статі,few=випадкові посадовці протилежної статі,many=випадкових посадовців протилежної статі,other=випадкових посадовців протилежної статі)"
+  },
+  "Target_ResidenceInhabitants": {
+    "en": "Residence inhabitants",
+    "uk": "Мешканці житла"
+  },
+  "Target_SameDynasty": {
+    "en": "Family members",
+    "uk": "Члени родини"
+  },
+  "Target_SameGender": {
+    "en": "Citizen of the same gender",
+    "uk": "Міщанин тієї ж статі"
+  },
+  "Target_Self_01": {
+    "en": "Self",
+    "uk": "Себе"
+  },
+  "Target_Self_02": {
+    "en": "You",
+    "uk": "Ви"
+  },
+  "Target_Self_03": {
+    "en": "Target (self)",
+    "uk": "Ціль (себе)"
+  },
+  "Target_Spouse": {
+    "en": "Spouse",
+    "uk": "Чоловік/дружина"
+  },
+  "Target_Target": {
+    "en": "Target",
+    "uk": "Ціль"
+  },
+  "Target_ThievesAndRobbers": {
+    "en": "{P_THI_C}Thieves{##} and {P_ROB_C}Robbers{##}",
+    "uk": "{P_THI_C}Злодії{##} та {P_ROB_C}розбійники{##}"
+  },
+  "Target_UpToCitizen": {
+    "en": "Up to {NumCitizens} {NumCitizens}|plural(one= {CHAR_CITVSWOR_C}citizen{##},other={CHAR_CITVSWOR_C}citizens{##})",
+    "uk": "До {NumCitizens} {NumCitizens}|plural(one={CHAR_CITVSWOR_C}міщанина{##},few={CHAR_CITVSWOR_C}міщан{##},many={CHAR_CITVSWOR_C}міщан{##},other={CHAR_CITVSWOR_C}міщан{##})"
+  },
+  "Target_UpToRandomCitizen": {
+    "en": "Up to {NumCitizens} {NumCitizens}|plural(one= random {CHAR_CITVSWOR_C}citizen{##},other=random {CHAR_CITVSWOR_C}citizens{##})",
+    "uk": "До {NumCitizens} {NumCitizens}|plural(one=випадкового {CHAR_CITVSWOR_C}міщанина{##},few=випадкових {CHAR_CITVSWOR_C}міщан{##},many=випадкових {CHAR_CITVSWOR_C}міщан{##},other=випадкових {CHAR_CITVSWOR_C}міщан{##})"
+  },
+  "Target_Workers": {
+    "en": "with workers",
+    "uk": "з працівниками"
+  },
+  "Trait_ExceptionalBlood": {
+    "en": "Children are born with significantly more {S_C}skill{##} points",
+    "uk": "Діти народжуються зі значно більшою кількістю очок {S_C}навичок{##}"
+  },
+  "Trait_StrongBlood": {
+    "en": "Children are born with additional {S_C}skill{##} points",
+    "uk": "Діти народжуються з додатковими очками {S_C}навичок{##}"
+  },
+  "V2_CartWithTag": {
+    "en": "Cart With Tag",
+    "uk": "Віз із міткою"
+  },
+  "V2_EspionageSlot": {
+    "en": "Espionage",
+    "uk": "Шпигунство"
+  },
+  "V2_EvidenceDynamic": {
+    "en": "Receives Evidence, if available",
+    "uk": "Отримує докази, якщо доступні"
+  },
+  "V2_EvidenceInstances": {
+    "en": "Evidence Instances",
+    "uk": "Одиниці доказів"
+  },
+  "V2_Manager": {
+    "en": "Manager",
+    "uk": "Майстер"
+  },
+  "V2_ManagerWithParticipant": {
+    "en": "Assigns New Master",
+    "uk": "Призначає нового майстра"
+  },
+  "V2_MoneyInterval": {
+    "en": "Money",
+    "uk": "Гроші"
+  },
+  "V2_OfficeWithTag": {
+    "en": "Office Position",
+    "uk": "Посада"
+  },
+  "V2_ProfessionActive": {
+    "en": "Sets Active Profession",
+    "uk": "Встановлює основну професію"
+  },
+  "V2_ProfessionRanks": {
+    "en": "Sets Profession Rank",
+    "uk": "Встановлює ступінь майстерності"
+  },
+  "V2_ProfessionXP": {
+    "en": "Profession XP",
+    "uk": "Досвід у професії"
+  },
+  "V2_ProfessionXPList": {
+    "en": "Profession XP List",
+    "uk": "Список досвіду в професіях"
+  },
+  "V2_StatusEffects": {
+    "en": "Status Effects",
+    "uk": "Статусні ефекти"
+  },
+  "V2_Storage": {
+    "en": "Storage",
+    "uk": "Комора"
+  },
+  "VigilantDriver_ImmuneToCartAttack": {
+    "en": "Immune to {A_ATKCAR_C}cart attacks{##}",
+    "uk": "Несприйнятливий до {A_ATKCAR_C}нападів на віз{##}"
+  },
+  "Worker_Quit_Chance_High": {
+    "en": "High chance of a worker from the selected building quitting",
+    "uk": "Висока ймовірність, що працівник обраної будівлі звільниться"
+  },
+  "XPperturn": {
+    "en": "{CHAR_XP} per turn",
+    "uk": "{CHAR_XP} за хід"
+  }
+}

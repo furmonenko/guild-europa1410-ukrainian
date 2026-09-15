@@ -1,0 +1,822 @@
+{
+  "ActionPoints_Acronym": {
+    "en": "AP",
+    "uk": "ОД"
+  },
+  "ActionPoints_Description": {
+    "en": "Some actions cost Action Points (AP), as you receive {ap_each_turn} each turn for free — spend them wisely.",
+    "uk": "Деякі дії коштують очок дій (ОД) — щохода Ви отримуєте {ap_each_turn} безкоштовно, тож витрачайте їх з розумом."
+  },
+  "ActionPoints_DisplayName_plural": {
+    "en": "Action Points",
+    "uk": "Очки дій"
+  },
+  "Age_DisplayName": {
+    "en": "Age",
+    "uk": "Вік"
+  },
+  "BabyChance_Description": {
+    "en": "Represents your likelihood of producing an {CHAR_HEI_C}heir{##}. It is influenced by both partners' {CHAR_FER_C}fertility{##} and the quality of your {CHAR_STA_C}relationship{##}.",
+    "uk": "Означає ймовірність народження {CHAR_HEI_C}спадкоємця{##}. На це впливають {CHAR_FER_C}плідність{##} обох партнерів і рівень Вашої взаємної {CHAR_STA_C}прихильності{##}."
+  },
+  "BabyChance_DisplayName": {
+    "en": "Chance of Conceiving",
+    "uk": "Шанс зачаття"
+  },
+  "CharacterCustomization_DisplayName": {
+    "en": "Customize Character",
+    "uk": "Налаштування персонажа"
+  },
+  "CharacterCustomization_DisplayName_alt": {
+    "en": "Character Creation",
+    "uk": "Створення персонажа"
+  },
+  "CharacterName_DisplayName": {
+    "en": "Name",
+    "uk": "Ім’я"
+  },
+  "CharacterScreen_DisplayName": {
+    "en": "Character Details",
+    "uk": "Відомості про персонажа"
+  },
+  "Character_DisplayName": {
+    "en": "Character",
+    "uk": "Персонаж"
+  },
+  "Character_DisplayName_plural": {
+    "en": "Characters",
+    "uk": "Персонажі"
+  },
+  "Citizen_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Citizen_DisplayName": {
+    "en": "Citizen",
+    "uk": "Міщанин"
+  },
+  "Citizen_DisplayName_Alt_01": {
+    "en": "Citizen",
+    "uk": "Міщанин"
+  },
+  "Citizen_DisplayName_Alt_02": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Citizen_DisplayName_plural": {
+    "en": "Citizens",
+    "uk": "Міщани"
+  },
+  "CitizensAndWokers_Description": {
+    "en": "In this world, there are two castes you're born into. While Workers trade labor for pay and never ascend, Citizens can build {CHAR_WEA_C}wealth{##}, rise through {T_C}titles{##}, and take part in the town's {O_TYP_CIVOFF_C}political{##} life.",
+    "uk": "У цьому світі є дві касти, до яких належать від народження. Працівники обмінюють працю на платню і ніколи не піднімаються вище, тоді як міщани можуть накопичувати {CHAR_WEA_C}статки{##}, здобувати вищі {T_C}титули{##} й обіймати міські {O_TYP_CIVOFF_C}посади{##}."
+  },
+  "CitizensAndWokers_DisplayName": {
+    "en": "Workers vs. Citizens",
+    "uk": "Працівники проти міщан"
+  },
+  "CourtingCandidatesList_Header": {
+    "en": "{charactername} has the following suitors:\n{candidates}",
+    "uk": "У {charactername} є такі залицяльники:\n{candidates}"
+  },
+  "CourtingProgress_Description": {
+    "en": "Courting leads to marriage — and marriage to {CHAR_HEI_C}heirs{##} and the continuation of your {CHAR_DYN_C}dynasty{##}.",
+    "uk": "Залицяння веде до шлюбу — а шлюб до {CHAR_HEI_C}спадкоємців{##} і продовження Вашої {CHAR_DYN_C}династії{##}."
+  },
+  "CourtingProgress_Description_extra1": {
+    "en": "The bar tracks your progress toward winning your partner's hand. Be the first to fill it. Love can be a competitive sport.",
+    "uk": "Шкала показує, наскільки Ви наблизилися до руки й серця обранця. Заповніть її першими — кохання може бути змагальним видом спорту."
+  },
+  "CourtingProgress_Description_extra2": {
+    "en": "{A_SENGIF_C}Send gifts{##} or {A_SWETAL_C}sweet-talk{##} to hasten the progress.",
+    "uk": "{A_SENGIF_C}Надсилайте подарунки{##} або {A_SWETAL_C}лестіть{##}, щоб прискорити справу."
+  },
+  "CourtingProgress_DisplayName": {
+    "en": "Courtship Progress",
+    "uk": "Перебіг залицяння"
+  },
+  "CourtingProgress_Full_Description": {
+    "en": "A wedding has been arranged. The ceremony will take place on the turn following the acceptance of the proposal.",
+    "uk": "Весілля вже призначено. Церемонія відбудеться на ході, наступному після прийняття пропозиції."
+  },
+  "CourtingProgress_Full_DisplayName": {
+    "en": "Upcoming Wedding",
+    "uk": "Майбутнє весілля"
+  },
+  "CourtingProgress_Full_Label": {
+    "en": "Betrothed",
+    "uk": "Заручені"
+  },
+  "CourtingProgress_InProgress_Label": {
+    "en": "In Courtship",
+    "uk": "У залицянні"
+  },
+  "Courting_FindCandidate_Diorama_Description": {
+    "en": "Welcome to the Matchmaking Fair. Take a look around and get acquainted with the hopeful faces gathered here. They are all looking for much the same thing as you: L-O-V-E.",
+    "uk": "Ласкаво просимо на ярмарок сватання. Роздивіться довкола та познайомтеся з тими, хто зібрався тут із надією. Усі вони шукають того ж, що і Ви: К-О-Х-А-Н-Н-Я."
+  },
+  "Courting_FindCandidate_Diorama_Description_extra1": {
+    "en": "Click on a character to learn more about them. You can see their name, skills, desirable and undesirable traits, and even their wealth. If only life were always this transparent.",
+    "uk": "Клацніть на персонажа, щоб дізнатися про нього більше. Ви побачите ім’я, навички, бажані й небажані риси і навіть статки. Якби ж усе в житті було таким прозорим."
+  },
+  "Courting_FindCandidate_Diorama_Description_extra2": {
+    "en": "Take your time and choose carefully. Once someone catches your eye, click on the lucky candidate and begin courting. You will then be able to move to a more private corner of the park and get to know each other better.",
+    "uk": "Не поспішайте й обирайте уважно. Щойно хтось приверне Вашу увагу, клацніть на щасливого обранця і почніть залицяння. Тоді Ви зможете перейти до затишнішого куточка парку й краще пізнати одне одного."
+  },
+  "Courting_FindCandidate_Diorama_Name_01": {
+    "en": "Find Your Soulmate Fair",
+    "uk": "Ярмарок пошуку споріднених душ"
+  },
+  "Courting_FindCandidate_Diorama_Name_02": {
+    "en": "The Lonely Hearts Fountain",
+    "uk": "Фонтан самотніх сердець"
+  },
+  "Courting_FindCandidate_Diorama_Name_03": {
+    "en": "The Lovers’ Fountain",
+    "uk": "Фонтан закоханих"
+  },
+  "Courting_FindCandidate_Diorama_Name_04": {
+    "en": "The Marriage Market",
+    "uk": "Шлюбний ринок"
+  },
+  "Courting_FindCandidate_Diorama_Name_05": {
+    "en": "Matchmaking Fair",
+    "uk": "Ярмарок сватання"
+  },
+  "Courting_StartCourtship_Prompt": {
+    "en": "Begin Courtship",
+    "uk": "Почати залицяння"
+  },
+  "Courting_Woo_Candidate_Diorama_Description": {
+    "en": "Now that you have found a more private corner of the park, click on your chosen partner to interact with them. Sweet-talk them, bring them gifts, and give them plenty of reasons to want to marry you sooner.",
+    "uk": "Тепер, коли Ви знайшли затишніший куточок парку, клацніть на обраного партнера, щоб взаємодіяти з ним. Промовляйте солодкі слова, даруйте подарунки й давайте йому чимало приводів захотіти одружитися з Вами якнайшвидше."
+  },
+  "Courting_Woo_Candidate_Diorama_Description_extra1": {
+    "en": "If you need to leave, you can always come back later, as long as your chosen one has not been led down the aisle by you or, God forbid, by someone else.",
+    "uk": "Якщо Вам треба відлучитися, Ви завжди можете повернутися пізніше, поки Ви самі або, борони Боже, хтось інший не повів Вашого обранця до вівтаря."
+  },
+  "Courting_Woo_Candidate_Diorama_Name": {
+    "en": "The Lovers’ Corner",
+    "uk": "Куточок закоханих"
+  },
+  "Crest_Description_lobby": {
+    "en": "What symbol will represent your house? Choose the crest by which your family will be known.",
+    "uk": "Який знак представлятиме Ваш дім? Оберіть герб, за яким впізнаватимуть Вашу родину."
+  },
+  "Crest_DisplayName": {
+    "en": "Crest",
+    "uk": "Герб"
+  },
+  "Crest_DisplayName_alt": {
+    "en": "Dynasty Crest",
+    "uk": "Герб династії"
+  },
+  "DynastyHead_Description": {
+    "en": "The Dynasty Head is most influential and wealthy member of each {CHAR_DYN_C}family{##}.",
+    "uk": "Голова династії — найвпливовіший і найзаможніший член кожної {CHAR_DYN_C}родини{##}."
+  },
+  "DynastyHead_DisplayName": {
+    "en": "Dynasty Head",
+    "uk": "Голова династії"
+  },
+  "DynastyHead_DisplayName_plural": {
+    "en": "Dynasty Heads",
+    "uk": "Голови династій"
+  },
+  "DynastyMembersCount_NoneDead": {
+    "en": "{NumAll} {NumAll}|plural(one=member,other=members)",
+    "uk": "{NumAll} {NumAll}|plural(one=член,few=члени,many=членів,other=члена)"
+  },
+  "DynastyMembersCount_SomeDead": {
+    "en": "{NumAlive}/{NumAll} {NumAll}|plural(one=member,other=members) ({NumDead}{deadicon})",
+    "uk": "{NumAlive}/{NumAll} {NumAll}|plural(one=член,few=члени,many=членів,other=члена) ({NumDead}{deadicon})"
+  },
+  "Dynasty_Description": {
+    "en": "A family line that endures across generations, shaped by the choices, fortunes, and failures of its members. Through {CHAR_HEI_C}heirs{##}, your dynasty outlives any single member.",
+    "uk": "Родовід, що триває крізь покоління, сформований рішеннями, успіхами й невдачами своїх членів. Завдяки {CHAR_HEI_C}спадкоємцям{##} Ваша династія переживає будь-якого окремого свого члена."
+  },
+  "Dynasty_DisplayName": {
+    "en": "Dynasty",
+    "uk": "Династія"
+  },
+  "Dynasty_DisplayName_plural": {
+    "en": "Dynasties",
+    "uk": "Династії"
+  },
+  "Dynasty_Ranking_Description": {
+    "en": "Some bloodlines are better than others.",
+    "uk": "Одні роди кращі за інші."
+  },
+  "Dynasty_Ranking_Description_extra1": {
+    "en": "{CHAR_DYN_C}Dynasties{##} are ranked by:",
+    "uk": "{CHAR_DYN_C}Династії{##} впорядковано за:"
+  },
+  "Dynasty_Ranking_DisplayName": {
+    "en": "Dynasty Prestige Ranking",
+    "uk": "Рейтинг слави династій"
+  },
+  "Dynasty_Ranking_DisplayName_alt": {
+    "en": "Dynasty Prestige",
+    "uk": "Слава династії"
+  },
+  "Dynasty_Ranking_DisplayName_alt01": {
+    "en": "Prestige",
+    "uk": "Слава"
+  },
+  "Dynasty_Ranking_DisplayName_alt02": {
+    "en": "Dynasty Ranking",
+    "uk": "Рейтинг династій"
+  },
+  "Dynasty_Ranking_Num": {
+    "en": "{CHAR_DYNRAN_C}Ranked{##} #{number} among all Dynasties",
+    "uk": "#{number} у {CHAR_DYNRAN_C}рейтингу{##} серед усіх династій"
+  },
+  "Dynasty_Ranking_Top1": {
+    "en": "{CHAR_DYNRAN_C}The Most Prestigious Dynasty{##}",
+    "uk": "{CHAR_DYNRAN_C}Найславетніша династія{##}"
+  },
+  "Dynasty_Ranking_Top3": {
+    "en": "Among the {CHAR_DYNRAN_C}Top 3 Most Prestigious Dynasties{##}",
+    "uk": "Серед {CHAR_DYNRAN_C}трійки найславетніших династій{##}"
+  },
+  "Dynasty_Size_DisplayName": {
+    "en": "Dynasty Size",
+    "uk": "Розмір династії"
+  },
+  "Dynasty_Size_DisplayName_alt": {
+    "en": "Number of Members",
+    "uk": "Кількість членів"
+  },
+  "Dynasty_ViewFamilyTree_Prompt": {
+    "en": "View {dynastyname} Family Tree",
+    "uk": "Переглянути родовід {dynastyname}"
+  },
+  "Dynasty_YourDynasty_label": {
+    "en": "Your Dynasty",
+    "uk": "Ваша династія"
+  },
+  "EnergyMaximum_Description": {
+    "en": "Even the most tireless body has its limits.",
+    "uk": "Навіть найвитриваліше тіло має свої межі."
+  },
+  "EnergyMaximum_Description_extra1": {
+    "en": "You can {CHAR_ENEREG_C}restore{##} your energy, but only up to a certain level. ",
+    "uk": "Ви можете {CHAR_ENEREG_C}відновлювати{##} свою енергію, але лише до певного рівня. "
+  },
+  "EnergyMaximum_Description_extra2": {
+    "en": "Travelers from the east hold that {B_IMP_HEA_C}warmth{##} is the root of all life's vigor.",
+    "uk": "Мандрівники зі сходу вважають, що {B_IMP_HEA_C}тепло{##} — джерело всієї життєвої сили."
+  },
+  "EnergyMaximum_DisplayName": {
+    "en": "Maximum Energy",
+    "uk": "Максимальна енергія"
+  },
+  "EnergyRegenerationAtTheStartOfTheTurn_DisplayName": {
+    "en": "{CHAR_ENEREG_C}Energy Regeneration{##} per turn",
+    "uk": "{CHAR_ENEREG_C}Відновлення енергії{##} за хід"
+  },
+  "EnergyRegenerationPerHour_DisplayName": {
+    "en": "{CHAR_ENEREG_C}Energy Regeneration{##} per hour",
+    "uk": "{CHAR_ENEREG_C}Відновлення енергії{##} за годину"
+  },
+  "EnergyRegeneration_Description": {
+    "en": "Your {CHAR_ENE_C}energy{##} regenerates every hour, and a good night's sleep restores a good portion of it, so each {C_TRN_C}turn{##} begins refreshed.",
+    "uk": "Ваша {CHAR_ENE_C}енергія{##} відновлюється щогодини, а добрий сон повертає значну її частку, тож кожен {C_TRN_C}хід{##} починається зі свіжими силами."
+  },
+  "EnergyRegeneration_Description_extra1": {
+    "en": "Those living in a {C_QUA_C}quarter{##} blessed with a {B_PUB_FOU_C}fountain{##} recover even faster.",
+    "uk": "Ті, хто живе в {C_QUA_C}кварталі{##}, благословенному {B_PUB_FOU_C}фонтаном{##}, відновлюються ще швидше."
+  },
+  "EnergyRegeneration_DisplayName": {
+    "en": "Energy Regeneration",
+    "uk": "Відновлення енергії"
+  },
+  "Energy_Description": {
+    "en": "Energy represents your physical capacity to perform actions and tasks. It {CHAR_ENEREG_C}regenerates{##} over time and impacts both {CHAR_PRO_C}productivity{##} and {CO_COM_C}combat{##} effectiveness.",
+    "uk": "Енергія відображає Вашу фізичну здатність виконувати дії й завдання. Вона {CHAR_ENEREG_C}відновлюється{##} з часом і впливає як на {CHAR_PRO_C}продуктивність{##}, так і на ефективність у {CO_COM_C}бою{##}."
+  },
+  "Energy_Description_extra1": {
+    "en": "If energy drops to zero, you are {ST_CHR_KNODOW_C}knocked down{##}.",
+    "uk": "Якщо енергія падає до нуля, Вас {ST_CHR_KNODOW_C}збивають з ніг{##}."
+  },
+  "Energy_Description_extra2": {
+    "en": "Recharge with a refreshing {I_ENDPOT_C}endurance drink{##} or consider investing in {B_IMP_BETBED_C}better beds{##}.",
+    "uk": "Відновіть сили освіжним {I_ENDPOT_C}напоєм витривалості{##} або подумайте про вкладення у {B_IMP_BETBED_C}кращі ліжка{##}."
+  },
+  "Energy_DisplayName": {
+    "en": "Energy",
+    "uk": "Енергія"
+  },
+  "Family_Children_DisplayName": {
+    "en": "Children",
+    "uk": "Діти"
+  },
+  "Family_DisplayName": {
+    "en": "Family",
+    "uk": "Родина"
+  },
+  "Family_NumberOfAliveChildren_Header": {
+    "en": "Alive children:",
+    "uk": "Живі діти:"
+  },
+  "Family_Spouse_DisplayName": {
+    "en": "Spouse",
+    "uk": "Чоловік/дружина"
+  },
+  "Fertility_Description": {
+    "en": "Influences your {CHAR_CHABABY_C}chance of producing heirs{##}. Waste no time — youth and {CHAR_HP_C}health{##} do not last forever.",
+    "uk": "Впливає на Ваш {CHAR_CHABABY_C}шанс народження спадкоємця{##}. Не зволікайте — молодість і {CHAR_HP_C}здоров’я{##} не тривають вічно."
+  },
+  "Fertility_Description_extra1": {
+    "en": "Younger mothers are more fertile, while fertility declines with age — more sharply for women than for men. Fathers are less affected, though age still takes its toll.",
+    "uk": "Молодші матері плідніші, а з віком плідність знижується — різкіше в жінок, ніж у чоловіків. На батьків це впливає менше, хоч вік дається знати й на них."
+  },
+  "Fertility_DisplayName": {
+    "en": "Fertility",
+    "uk": "Плідність"
+  },
+  "Gender_DisplayName": {
+    "en": "Gender",
+    "uk": "Стать"
+  },
+  "Gender_Female_DisplayName": {
+    "en": "Female",
+    "uk": "Жіноча"
+  },
+  "Gender_Male_DisplayName": {
+    "en": "Male",
+    "uk": "Чоловіча"
+  },
+  "Gender_SelectGender_Prompt": {
+    "en": "Select a gender",
+    "uk": "Виберіть стать"
+  },
+  "HUD_Button_Characters_Description": {
+    "en": "Shows list of characters.",
+    "uk": "Показує список персонажів."
+  },
+  "HUD_Button_Characters_DisplayName": {
+    "en": "Townsfolk",
+    "uk": "Городяни"
+  },
+  "Health_AverageHealth_DisplayName": {
+    "en": "Average Health",
+    "uk": "Задовільне здоров’я"
+  },
+  "Health_CriticalHealth_DisplayName": {
+    "en": "Critical Health",
+    "uk": "Критичний стан"
+  },
+  "Health_Description": {
+    "en": "The healthier you are, the longer you live — and the better your {CHAR_FER_C}fertility{##}.",
+    "uk": "Що здоровіші Ви, то довше живете — і то краща Ваша {CHAR_FER_C}плідність{##}."
+  },
+  "Health_Description_extra1": {
+    "en": "It ranges from:",
+    "uk": "Діапазон:"
+  },
+  "Health_Description_extra2": {
+    "en": "Years wear the body down. {A_PHYCHE_C}Visit the physician{##} or drink the right potions to improve your health.",
+    "uk": "Роки виснажують тіло. {A_PHYCHE_C}Відвідайте лікаря{##} або пийте потрібні настоянки, щоб поліпшити здоров’я."
+  },
+  "Health_DisplayName": {
+    "en": "Health",
+    "uk": "Здоров’я"
+  },
+  "Health_GoodHealth_DisplayName": {
+    "en": "Good Health",
+    "uk": "Добре здоров’я"
+  },
+  "Health_PerfectlyFit_DisplayName": {
+    "en": "Perfectly Fit",
+    "uk": "Цілком здоровий"
+  },
+  "Health_PoorHealth_DisplayName": {
+    "en": "Poor Health",
+    "uk": "Слабке здоров’я"
+  },
+  "Heir_AllPossibleHeirsList_Header": {
+    "en": "Any family member may inherit the dynasty, provided they are at least {heir_min_age} {heir_min_age}|plural(one=year,other=years) old.",
+    "uk": "Спадкоємцем може стати будь-який член родини, якщо йому виповнилося щонайменше {heir_min_age} {heir_min_age}|plural(one=рік,few=роки,many=років,other=року)."
+  },
+  "Heir_Description": {
+    "en": "The successor to your {T_C}titles{##}, property, and {CHAR_WEA_C}wealth{##}. Your heir carries the legacy forward and keeps your {CHAR_DYN_C}dynasty{##} alive. Must be {heir_min_age} {heir_min_age}|plural(one=year,other=years) or older.",
+    "uk": "Наступник Ваших {T_C}титулів{##}, майна та {CHAR_WEA_C}статків{##}. Ваш спадкоємець продовжує справу і зберігає {CHAR_DYN_C}династію{##} живою. Має бути віком {heir_min_age} {heir_min_age}|plural(one=рік,few=роки,many=років,other=року) або старшим."
+  },
+  "Heir_Description_extra1": {
+    "en": "Any family member may inherit the dynasty, provided they are at least {heir_min_age} {heir_min_age}|plural(one=year,other=years) old.",
+    "uk": "Спадкоємцем може стати будь-який член родини, якщо йому виповнилося щонайменше {heir_min_age} {heir_min_age}|plural(one=рік,few=роки,many=років,other=року)."
+  },
+  "Heir_DisplayName": {
+    "en": "Heir",
+    "uk": "Спадкоємець"
+  },
+  "Heir_DisplayName_Plural": {
+    "en": "Heirs",
+    "uk": "Спадкоємці"
+  },
+  "Heir_Label": {
+    "en": "Heir",
+    "uk": "Спадкоємець"
+  },
+  "Inventory_DisplayName": {
+    "en": "Personal Inventory",
+    "uk": "Особистий інвентар"
+  },
+  "Inventory_Warning": {
+    "en": "Your Personal Inventory accepts {I_TYP_INVITE_C}Inventory Items{##} only. Once inside, items cannot be moved — only used, given away, or discarded.",
+    "uk": "Ваш особистий інвентар приймає лише {I_TYP_INVITE_C}предмети інвентарю{##}. Щойно предмети потраплять туди, їх не можна перемістити — лише використати, віддати або викинути."
+  },
+  "Inventory_Warning_shorter": {
+    "en": "Once inside, items cannot be moved — only used, given away, or discarded.",
+    "uk": "Щойно предмети потраплять туди, їх не можна перемістити — лише використати, віддати або викинути."
+  },
+  "LocateCharacter_Prompt": {
+    "en": "Focus camera on",
+    "uk": "Навести камеру на"
+  },
+  "MaritalStatus_Courting_Description": {
+    "en": "{A_SWETAL_C}Sweet words{##} and {A_SENGIF_C}fine gifts{##} win hearts. Hearts win marriages. Marriages win {CHAR_HEI_C}heirs{##}.",
+    "uk": "{A_SWETAL_C}Солодкі слова{##} і {A_SENGIF_C}гарні подарунки{##} підкорюють серця. Серця ведуть до шлюбу. Шлюб дарує {CHAR_HEI_C}спадкоємців{##}."
+  },
+  "MaritalStatus_Courting_DisplayName": {
+    "en": "Courting",
+    "uk": "Залицяння"
+  },
+  "MaritalStatus_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "MaritalStatus_DisplayName": {
+    "en": "Marital Status",
+    "uk": "Сімейний стан"
+  },
+  "MaritalStatus_Divorced_Description": {
+    "en": "Back on the market and free to seek another match.",
+    "uk": "Знову вільні й можна шукати нову пару."
+  },
+  "MaritalStatus_Divorced_DisplayName": {
+    "en": "Divorced",
+    "uk": "Розлучені"
+  },
+  "MaritalStatus_Engaged_Description": {
+    "en": "They said yes. The marriage ceremony will follow soon.",
+    "uk": "Вони сказали «так». Незабаром відбудеться весілля."
+  },
+  "MaritalStatus_Engaged_DisplayName": {
+    "en": "Engaged",
+    "uk": "Заручені"
+  },
+  "MaritalStatus_Married_Description": {
+    "en": "Marriage has its pleasures. {A_PRITIM_C}Share a private moment{##} to increase the chances of producing {CHAR_HEI_C}heirs{##} and securing the {CHAR_DYN_C}dynasty{##}'s future.",
+    "uk": "Шлюб має свої радощі. {A_PRITIM_C}Проведіть час наодинці{##}, щоб підвищити шанси на появу {CHAR_HEI_C}спадкоємців{##} і забезпечити майбутнє {CHAR_DYN_C}династії{##}."
+  },
+  "MaritalStatus_Married_DisplayName": {
+    "en": "Married",
+    "uk": "У шлюбі"
+  },
+  "MaritalStatus_Single_Description": {
+    "en": "{CHAR_HEI_C}Heirs{##}do not make themselves. Find someone to court and secure the {CHAR_DYN_C}dynasty{##}.",
+    "uk": "{CHAR_HEI_C}Спадкоємці{##} самі себе не народять. Знайдіть когось для залицяння й забезпечте майбутнє {CHAR_DYN_C}династії{##}."
+  },
+  "MaritalStatus_Single_DisplayName": {
+    "en": "Single",
+    "uk": "Неодружений(а)"
+  },
+  "MaritalStatus_Widowed_Description": {
+    "en": "A spouse lost to fate.",
+    "uk": "Чоловіка чи дружину забрала доля."
+  },
+  "MaritalStatus_Widowed_DisplayName": {
+    "en": "Widowed",
+    "uk": "Овдовілий(а)"
+  },
+  "MemberOfMyDynasty_DisplayName": {
+    "en": "Member Of My Dynasty",
+    "uk": "Член моєї династії"
+  },
+  "MemberOfMyDynasty_DisplayName_plural": {
+    "en": "Members Of My Dynasty",
+    "uk": "Члени моєї династії"
+  },
+  "Money_Description": {
+    "en": "Your money in local currency.",
+    "uk": "Ваші гроші в місцевій валюті."
+  },
+  "Money_DisplayName": {
+    "en": "Money",
+    "uk": "Гроші"
+  },
+  "Name_DisplayName": {
+    "en": "Name",
+    "uk": "Ім’я"
+  },
+  "Nationality_German": {
+    "en": "German",
+    "uk": "Німецька"
+  },
+  "OpenCharacterContextMenu": {
+    "en": "Open Character Context Menu",
+    "uk": "Відкрити контекстне меню персонажа"
+  },
+  "OpenCharacterScreen_Instructions": {
+    "en": "Left-click to view character details",
+    "uk": "ЛКМ — переглянути дані персонажа"
+  },
+  "OpenCharacterScreen_Instructions_alt": {
+    "en": "Left-click to view details",
+    "uk": "ЛКМ — переглянути дані"
+  },
+  "OpenCharacterScreen_prompt": {
+    "en": "View Details",
+    "uk": "Переглянути дані"
+  },
+  "Portrait_DisplayName": {
+    "en": "Portrait",
+    "uk": "Портрет"
+  },
+  "Relationship_YourBetrothed_Label": {
+    "en": "Your betrothed",
+    "uk": "Ваш(а) заручений(а)"
+  },
+  "Relationship_YourChild_Label": {
+    "en": "Your child",
+    "uk": "Ваша дитина"
+  },
+  "Relationship_YourCourtedCharacter_Label": {
+    "en": "Your love interest",
+    "uk": "Ваша симпатія"
+  },
+  "Relationship_YourDeceasedSpouse_Label": {
+    "en": "Your late spouse",
+    "uk": "Ваш покійний чоловік/дружина"
+  },
+  "Relationship_YourEnemy_Label": {
+    "en": "Your enemy",
+    "uk": "Ваш ворог"
+  },
+  "Relationship_YourExSpouse_Label": {
+    "en": "Your former spouse",
+    "uk": "Ваш колишній чоловік/дружина"
+  },
+  "Relationship_YourFriend_Label": {
+    "en": "Your friend",
+    "uk": "Ваш друг"
+  },
+  "Relationship_YourGrandchild_Label": {
+    "en": "Your grandchild",
+    "uk": "Ваш онук/онука"
+  },
+  "Relationship_YourGrandparent_Label": {
+    "en": "Your grandparent",
+    "uk": "Ваш дід/баба"
+  },
+  "Relationship_YourHeir_Label": {
+    "en": "Your heir",
+    "uk": "Ваш спадкоємець"
+  },
+  "Relationship_YourParent_Label": {
+    "en": "Your parent",
+    "uk": "Ваш батько/мати"
+  },
+  "Relationship_YourRelative_Label": {
+    "en": "Your relative",
+    "uk": "Ваш родич"
+  },
+  "Relationship_YourRival_Label": {
+    "en": "Your rival",
+    "uk": "Ваш суперник"
+  },
+  "Relationship_YourSibling_Label": {
+    "en": "Your sibling",
+    "uk": "Ваш брат/сестра"
+  },
+  "Relationship_YourSpouse_Label": {
+    "en": "Your spouse",
+    "uk": "Ваш чоловік/дружина"
+  },
+  "Relationship_YourWorker_Label": {
+    "en": "Your worker",
+    "uk": "Ваш працівник"
+  },
+  "Religion_Catharic": {
+    "en": "Catharic",
+    "uk": "Катарська"
+  },
+  "Religion_Catholic": {
+    "en": "Catholic",
+    "uk": "Католицька"
+  },
+  "Religion_Protestant": {
+    "en": "Protestant",
+    "uk": "Протестантська"
+  },
+  "RenownDynasty_Description": {
+    "en": "A dynasty's renown is the combined {CHAR_REN_C}renown{##} of all its members.",
+    "uk": "{CHAR_REN_C}Слава{##} династії — це сукупна слава всіх її членів."
+  },
+  "RenownDynasty_DisplayName": {
+    "en": "Dynasty Renown",
+    "uk": "Слава династії"
+  },
+  "Renown_Description": {
+    "en": "Renown measures how much you are respected in the city. It reflects upon the {CHAR_RENDYN_C}dynasty{##} and its members, and is inherited across generations.",
+    "uk": "Слава показує, наскільки Вас шанують у місті. Вона позначається на {CHAR_RENDYN_C}династії{##} та її членах і передається з покоління в покоління."
+  },
+  "Renown_Description_extra1": {
+    "en": "High renown can make you more persuasive and command greater respect, but it may also draw unwanted attention — from rivals, criminals, and those seeking to take advantage of your success.",
+    "uk": "Висока слава робить Вас переконливішим і викликає більшу повагу, але водночас може привертати небажану увагу — суперників, злочинців і тих, хто прагне скористатися Вашим успіхом."
+  },
+  "Renown_DisplayName": {
+    "en": "Renown",
+    "uk": "Слава"
+  },
+  "Requirement_ActiveCourtship_Description": {
+    "en": "Courtship is where love starts. Guide it well and it leads to marriage, an {CHAR_HEI_C}heir{##}, and a secure {CHAR_DYN_C}dynasty{##}. ",
+    "uk": "Залицяння — це початок кохання. Скеровуйте його вміло, і воно приведе до шлюбу, {CHAR_HEI_C}спадкоємця{##} та міцної {CHAR_DYN_C}династії{##}."
+  },
+  "Requirement_ActiveCourtship_Description_extra1": {
+    "en": "The more you nurture it, the faster it blossoms. Try {A_SWETAL_C}sweet-talking{##} or {A_SENGIF_C}sending gifts{##}.",
+    "uk": "Що більше Ви плекаєте почуття, то швидше вони розквітають. Спробуйте {A_SWETAL_C}лестити{##} або {A_SENGIF_C}надсилати подарунки{##}."
+  },
+  "Requirement_ActiveCourtship_DisplayName": {
+    "en": "Courtship",
+    "uk": "Залицяння"
+  },
+  "Requirement_HaveChildren": {
+    "en": "Have children",
+    "uk": "Має дітей"
+  },
+  "Score_Description": {
+    "en": "The Score measures someone's success based on their actions, achievements, and goals.",
+    "uk": "Рахунок вимірює успіх когось на основі його дій, досягнень і цілей."
+  },
+  "Score_DisplayName": {
+    "en": "Score",
+    "uk": "Рахунок"
+  },
+  "Skill_Combat_Description": {
+    "en": "Handle physical confrontations more effectively, increasing your chance to hit the opponent in combat.",
+    "uk": "Дозволяє ефективніше справлятися з фізичними сутичками, підвищуючи шанс влучити по супротивнику в бою."
+  },
+  "Skill_Combat_Description_extra1": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Skill_Combat_DisplayName": {
+    "en": "Martial",
+    "uk": "Бойові навички"
+  },
+  "Skill_Description": {
+    "en": "Skills are the measure of a man — in trade, in craft, and in service to one's lord. \nThey sharpen your tongue for a good {PM_CITSKILL_NEG_C}deal{##}, help you choose the right workers for each {A_ACT_C}task{##}, persuade others, and even give you a knack for {CR_CRI_C}crime{##}.",
+    "uk": "Навички — це мірило людини: у торгівлі, у ремеслі й на службі своєму панові.\nВони гострять язик для вигідної {PM_CITSKILL_NEG_C}угоди{##}, допомагають обрати потрібних працівників для кожного {A_ACT_C}завдання{##}, переконувати інших і навіть дають хист до {CR_CRI_C}злочину{##}."
+  },
+  "Skill_Description_extra1": {
+    "en": "These include:",
+    "uk": "До них належать:"
+  },
+  "Skill_Description_extra2": {
+    "en": "Read a {I_SKIBOOI_C}skill book{##} or invest in home improvements to {A_IMPSKI_C}hone your skills{##} without leaving the house.",
+    "uk": "Прочитайте {I_SKIBOOI_C}підручник{##} або вкладіться в облаштування оселі, щоб {A_IMPSKI_C}відточити навички{##}, не виходячи з дому."
+  },
+  "Skill_DisplayName": {
+    "en": "Skill",
+    "uk": "Навичка"
+  },
+  "Skill_DisplayName_plural": {
+    "en": "Skills",
+    "uk": "Навички"
+  },
+  "Skill_Handicraft_Description": {
+    "en": "Your expertise in handicraft enhances your businesses' efficiency, ensuring tasks are completed faster and with more successful outcomes.",
+    "uk": "Ваша вправність у ремеслі підвищує ефективність Ваших справ, забезпечуючи швидше виконання завдань і кращі результати."
+  },
+  "Skill_Handicraft_Description_extra1": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Skill_Handicraft_DisplayName": {
+    "en": "Handicraft",
+    "uk": "Ремесло"
+  },
+  "Skill_Negotiation_Description": {
+    "en": "Negotiate better prices, securing discounts when buying and increasing success when selling above market price.",
+    "uk": "Дозволяє домовлятися про кращі ціни: отримувати знижки під час купівлі й успішніше продавати вище ринкової ціни."
+  },
+  "Skill_Negotiation_Description_extra1": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Skill_Negotiation_DisplayName": {
+    "en": "Negotiation",
+    "uk": "Торг"
+  },
+  "Skill_Rhetoric_Description": {
+    "en": "Use the power of words to persuade others and turn them in your favor, influencing trials, elections, or any situation that requires convincing.",
+    "uk": "Дозволяє силою слова переконувати інших і схиляти їх на свій бік, впливаючи на суди, вибори чи будь-яку ситуацію, де потрібне переконання."
+  },
+  "Skill_Rhetoric_Description_extra1": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Skill_Rhetoric_DisplayName": {
+    "en": "Rhetoric",
+    "uk": "Красномовство"
+  },
+  "Skill_Stealth_Description": {
+    "en": "Use the art of deception to outsmart, outmaneuver, and sabotage your opponents, giving you the edge in {CR_CRI_C}crimes{##} while ensuring others do not take advantage of you.",
+    "uk": "Дозволяє мистецтвом обману перехитрити, обійти й саботувати супротивників, даючи перевагу в {CR_CRI_C}злочинах{##} і захищаючи Вас від чужих хитрощів."
+  },
+  "Skill_Stealth_Description_extra1": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Skill_Stealth_DisplayName": {
+    "en": "Roguery",
+    "uk": "Шахрайство"
+  },
+  "Standing_Description1": {
+    "en": "Relationships are currency in this world. Opinion reflects someone's view of another and is not necessarily reciprocated.",
+    "uk": "Стосунки — це валюта цього світу. Ставлення відображає погляд однієї людини на іншу і не обов’язково є взаємним."
+  },
+  "Standing_Description2": {
+    "en": "The number you see on a character's portrait shows how that character views you. When comparing opinions between multiple characters, you can click on the number to switch views and see how others feel about the character you've selected.",
+    "uk": "Число на портреті персонажа показує, як цей персонаж ставиться до Вас. Порівнюючи ставлення кількох персонажів, можна клацнути на число, щоб перемкнути перегляд і побачити, як інші ставляться до обраного персонажа."
+  },
+  "Standing_DisplayName": {
+    "en": "Opinion",
+    "uk": "Ставлення"
+  },
+  "Standing_HowCharacterAThinksOfCharacterB": {
+    "en": "{CharacterA}'s {CHAR_STA_C}opinion{##} of {CharacterB}",
+    "uk": "{CHAR_STA_C}Ставлення{##} {CharacterA} до {CharacterB}"
+  },
+  "Standing_HowCharacterThinksOfYou": {
+    "en": "{Character}'s {CHAR_STA_C}opinion{##} of you",
+    "uk": "{CHAR_STA_C}Ставлення{##} {Character} до Вас"
+  },
+  "Standing_HowYouThinkOfCharacter": {
+    "en": "Your {CHAR_STA_C}opinion{##} of {Character}",
+    "uk": "Ваше {CHAR_STA_C}ставлення{##} до {Character}"
+  },
+  "StartingCharacter": {
+    "en": "Starting Character",
+    "uk": "Початковий персонаж"
+  },
+  "Surname_Description": {
+    "en": "What name will your family bear for generations to come?",
+    "uk": "Яке ім’я носитиме Ваша родина протягом поколінь?"
+  },
+  "Surname_DisplayName": {
+    "en": "Surname",
+    "uk": "Прізвище"
+  },
+  "Surname_DisplayName_alt_01": {
+    "en": "Name",
+    "uk": "Ім’я"
+  },
+  "Surname_DisplayName_alt_02": {
+    "en": "Dynasty Name",
+    "uk": "Назва династії"
+  },
+  "Surname_Warning": {
+    "en": "All your heirs, as well as your spouse, will receive the same surname.",
+    "uk": "Усі Ваші спадкоємці, а також Ваш чоловік чи дружина отримають те саме прізвище."
+  },
+  "WealthDynasty_Description": {
+    "en": "A dynasty counts wealth not by owner, but by bloodline. Dynasty Wealth is the accumulated {CHAR_WEA_C}wealth{##} of all its members.",
+    "uk": "Династія рахує статки не за власником, а за родом. Статки династії — це сукупні {CHAR_WEA_C}статки{##} усіх її членів."
+  },
+  "WealthDynasty_DisplayName": {
+    "en": "Dynasty Wealth",
+    "uk": "Статки династії"
+  },
+  "Wealth_Amount": {
+    "en": "{value} of {CHAR_WEA_C}wealth{##}",
+    "uk": "{value} {CHAR_WEA_C}статків{##}"
+  },
+  "Wealth_CharacterScreen_instructions": {
+    "en": "Your Wealth is shown in your Character Details.",
+    "uk": "Ваші статки показано в даних персонажа."
+  },
+  "Wealth_Description": {
+    "en": "Wealth is the total value of your assets, including cash, buildings, and carts.",
+    "uk": "Статки — це сукупна вартість Вашого майна, включно з готівкою, будівлями та возами."
+  },
+  "Wealth_DisplayName": {
+    "en": "Wealth",
+    "uk": "Статки"
+  },
+  "YouAndYourDynasty_Description": {
+    "en": "Who are you, and what surname will carry your legacy through the generations?",
+    "uk": "Хто Ви і яке прізвище нестиме Вашу спадщину крізь покоління?"
+  },
+  "YouAndYourDynasty_DisplayName": {
+    "en": "You and Your Dynasty",
+    "uk": "Ви та Ваша династія"
+  },
+  "YourStory": {
+    "en": "Your Story",
+    "uk": "Ваша історія"
+  }
+}

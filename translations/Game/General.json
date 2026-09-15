@@ -53,7 +53,7 @@
   },
   "ComingSoon_Warning_Description_Law": {
     "en": "All laws can be changed once you obtain the office position that grants the necessary authority. Some laws, however, are still awaiting the supporting systems that bring them to life, while others may not yet influence the world to their full intended extent.",
-    "uk": "Усі закони можна змінити, щойно ви здобудете посаду з потрібними повноваженнями. Утім, деякі закони ще чекають на системи, які втілять їх у життя, тоді як інші поки впливають на світ не такою мірою, як задумано."
+    "uk": "Усі закони можна змінити, щойно Ви здобудете посаду з потрібними повноваженнями. Утім, деякі закони ще чекають на системи, які втілять їх у життя, тоді як інші поки впливають на світ не такою мірою, як задумано."
   },
   "Guildopedia_AllPages": {
     "en": "All pages",
@@ -245,7 +245,7 @@
   },
   "VictoryCondition_Title_CongratulationText": {
     "en": "Congratulations! You proved that hard work and determination can rise above the station you were born into. The title is yours, and you earned every bit of it.",
-    "uk": "Вітаємо! Ви довели, що наполеглива праця й рішучість здатні піднести над становищем, у якому ви народилися. Титул тепер Ваш, і Ви заслужили на нього повністю."
+    "uk": "Вітаємо! Ви довели, що наполеглива праця й рішучість здатні піднести над становищем, у якому Ви народилися. Титул тепер Ваш, і Ви заслужили на нього повністю."
   },
   "MaintenancePhase_BusinessesRevenue_ConstructBuilding_DisplayName": {
     "en": "Constructions",
@@ -417,11 +417,11 @@
   },
   "GameLobby_Message": {
     "en": "Hey, thanks for jumping in!\nWe genuinely appreciate you giving our game a try.\n\nThis is an <text fontface=\"bold\">early build</>, so some things may be missing or break. We're eager to hear your thoughts — so don't forget to fill out the <text fontface=\"bold\">feedback survey</>. It helps us build a better version!\n \nIf anything feels confusing, check the guide for a smoother experience.\nJoin our <text fontface=\"bold\">private Discord</> server to discuss with other playtesters and us devs!",
-    "uk": "Вітаємо, дякуємо, що приєдналися!\nМи щиро цінуємо те, що ви вирішили спробувати нашу гру.\n\nЦе <text fontface=\"bold\">рання збірка</>, тож дещо може бути відсутнім або працювати не так, як слід. Нам дуже цікаво почути вашу думку, тож не забудьте заповнити <text fontface=\"bold\">опитування</>. Це допоможе нам створити кращу версію гри!\n \nЯкщо щось видається незрозумілим, зазирніть до гайда — так буде зручніше грати.\nПриєднуйтеся до нашого <text fontface=\"bold\">приватного Discord</>-сервера, щоб поспілкуватися з іншими тестувальниками та розробниками!"
+    "uk": "Вітаємо, дякуємо, що приєдналися!\nМи щиро цінуємо те, що Ви вирішили спробувати нашу гру.\n\nЦе <text fontface=\"bold\">рання збірка</>, тож дещо може бути відсутнім або працювати не так, як слід. Нам дуже цікаво почути Вашу думку, тож не забудьте заповнити <text fontface=\"bold\">опитування</>. Це допоможе нам створити кращу версію гри!\n \nЯкщо щось видається незрозумілим, зазирніть до гайда — так буде зручніше грати.\nПриєднуйтеся до нашого <text fontface=\"bold\">приватного Discord</>-сервера, щоб поспілкуватися з іншими тестувальниками та розробниками!"
   },
   "Demo_GameLobby_Message": {
     "en": "Hey, thanks for jumping in!\nWe genuinely appreciate you trying out our game.\n\nThis is a demo version, offering a glimpse of what The Guild 1 Remake: Europa 1410 has to offer. We hope you enjoy building your business and shaping your story.\n\nDon't forget to wishlist the game on Steam so you don't miss the full release.",
-    "uk": "Вітаємо, дякуємо, що приєдналися!\nМи щиро цінуємо те, що ви вирішили спробувати нашу гру.\n\nЦе демоверсія, яка дає змогу побачити, що пропонує The Guild 1 Remake: Europa 1410. Сподіваємося, вам сподобається розвивати свою справу та творити власну історію.\n\nНе забудьте додати гру до списку бажань у Steam, щоб не пропустити повний реліз."
+    "uk": "Вітаємо, дякуємо, що приєдналися!\nМи щиро цінуємо те, що Ви вирішили спробувати нашу гру.\n\nЦе демоверсія, яка дає змогу побачити, що пропонує The Guild 1 Remake: Europa 1410. Сподіваємося, Вам сподобається розвивати свою справу та творити власну історію.\n\nНе забудьте додати гру до списку бажань у Steam, щоб не пропустити повний реліз."
   },
   "PriceModifier_Attractiveness_Description": {
     "en": "Higher {B_PARAM_ATT_C}customer appeal{##} draws more buyers, making items more expensive.",
@@ -481,7 +481,7 @@
   },
   "Demo_Multiplayer_Description": {
     "en": "In multiplayer, you'll be able to scheme and cooperate with other players.",
-    "uk": "У мультиплеєрі ви зможете плести інтриги та співпрацювати з іншими гравцями."
+    "uk": "У мультиплеєрі Ви зможете плести інтриги та співпрацювати з іншими гравцями."
   },
   "InProgress": {
     "en": "In progress…",

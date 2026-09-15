@@ -1,0 +1,2490 @@
+{
+  "Action_Description": {
+    "en": "Actions are activities you perform personally.",
+    "uk": "Дії — це заняття, які Ви виконуєте особисто."
+  },
+  "Action_DisplayName": {
+    "en": "Action",
+    "uk": "Дія"
+  },
+  "Action_DisplayName_plural": {
+    "en": "Actions",
+    "uk": "Дії"
+  },
+  "ActivateProfession_Description": {
+    "en": "Select your {P_ACTPRO_C}Active Profession{##}.",
+    "uk": "Виберіть Вашу {P_ACTPRO_C}основну професію{##}."
+  },
+  "ActivateProfession_Description_extra1": {
+    "en": "To practice additional trades, obtain their licenses from the respective {B_GUILD_C}guild{##}.",
+    "uk": "Щоб опанувати додаткові ремесла, отримайте на них грамоти у відповідній {B_GUILD_C}гільдії{##}."
+  },
+  "ActivateProfession_DisplayName": {
+    "en": "Pick a Line of Work",
+    "uk": "Обрати справу"
+  },
+  "ActivityOutdoor_Description": {
+    "en": "Outdoor tasks function like regular {A_ACT_C}tasks{##}, but workers must leave the premises, complete their work on site, and return.",
+    "uk": "Виїзні завдання діють як звичайні {A_ACT_C}завдання{##}, але працівники мусять залишити приміщення, виконати роботу на місці й повернутися."
+  },
+  "ActivityOutdoor_Description_extra1": {
+    "en": "While away, they are exposed to the conditions of the {C_QUA_C}quarter{##} — higher {QUA_CRI_C}crime rates{##} increase the {ACC_CHAACC_C}chance of accidents{##}.",
+    "uk": "Поки їх немає, вони наражаються на умови {C_QUA_C}кварталу{##} — вищий {QUA_CRI_C}рівень злочинності{##} підвищує {ACC_CHAACC_C}шанс нещасного випадку{##}."
+  },
+  "ActivityOutdoor_DisplayName": {
+    "en": "Outdoor Task",
+    "uk": "Виїзне завдання"
+  },
+  "ActivityOutdoor_DisplayName_alt": {
+    "en": "Outdoor",
+    "uk": "Виїзне"
+  },
+  "ActivityOutdoor_DisplayName_plural": {
+    "en": "Outdoor Tasks",
+    "uk": "Виїзні завдання"
+  },
+  "Activity_Description": {
+    "en": "Tasks are jobs carried out by {CHAR_CITVSWOR_C}workers{##}. Assign workers based on the {S_C}skills{##} required to ensure higher {CHAR_PRO_C}productivity{##} and fewer {ACC_C}accidents{##}.",
+    "uk": "Завдання — це робота, яку виконують {CHAR_CITVSWOR_C}працівники{##}. Призначайте працівників відповідно до потрібних {S_C}навичок{##}, щоб забезпечити вищу {CHAR_PRO_C}продуктивність{##} і менше {ACC_C}нещасних випадків{##}."
+  },
+  "Activity_Description_extra1": {
+    "en": "Improving your own skills also helps, as a {CHAR_PRO_SKIEMP_C}skilled employer{##} gives better direction.",
+    "uk": "Покращення власних навичок теж допомагає: {CHAR_PRO_SKIEMP_C}вправний наймач{##} дає кращі вказівки."
+  },
+  "Activity_DisplayName": {
+    "en": "Task",
+    "uk": "Завдання"
+  },
+  "Activity_DisplayName_plural": {
+    "en": "Tasks",
+    "uk": "Завдання"
+  },
+  "AddBees_Description": {
+    "en": "Add bees to an empty hive and give your new colony a place to call home. Once settled, they can get to work doing what bees do best.",
+    "uk": "Заселіть порожній вулик бджолами й дайте новій колонії дім. Влаштувавшись, вони візьмуться до справи, у якій бджоли найкращі."
+  },
+  "AddBees_DisplayName": {
+    "en": "Add Bees",
+    "uk": "Заселити бджіл"
+  },
+  "ApplyForNextTitle_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ApplyForNextTitle_DisplayName": {
+    "en": "Claim Your Next Title",
+    "uk": "Здобути наступний титул"
+  },
+  "ApplyForNextTitle_Requirements_Header": {
+    "en": "Title Costs and Requirements",
+    "uk": "Вартість і вимоги титулу"
+  },
+  "ApplyForOffice_Button_Apply": {
+    "en": "Apply for position",
+    "uk": "Подати заявку на посаду"
+  },
+  "ApplyForOffice_Button_RetractApplication": {
+    "en": "Retract application",
+    "uk": "Відкликати заявку"
+  },
+  "ApplyForOffice_Description": {
+    "en": "Apply and await the {O_ELE_C}election{##}. A touch of {S_RHE_C}rhetoric{##} and the appointers' good {CHAR_STA_C}opinion{##} of you tend to sway matters — sometimes more than merit.",
+    "uk": "Подайте заявку й дочекайтеся {O_ELE_C}виборів{##}. Дещиця {S_RHE_C}красномовства{##} і {CHAR_STA_C}прихильність{##} виборців до Вас часто вирішують справу — іноді більше, ніж заслуги."
+  },
+  "ApplyForOffice_DisplayName": {
+    "en": "Apply for Office",
+    "uk": "Подати заявку на посаду"
+  },
+  "Ascension_A_01_Description": {
+    "en": "Test your {S_COM_C}martial{##} skill in the service of a noble. You must complete two quests before you are granted {I_NOBRIG_C}Nobility Rights{##}.",
+    "uk": "Випробуйте свої {S_COM_C}бойові навички{##} на службі у шляхтича. Треба виконати два завдання, перш ніж Вам нададуть {I_NOBRIG_C}дворянські права{##}."
+  },
+  "Ascension_A_01_DisplayName": {
+    "en": "Serve as Squire (1/2)",
+    "uk": "Служба зброєносцем (1/2)"
+  },
+  "Ascension_A_02_Description": {
+    "en": "If you are successful in this task, you gain the {I_NOBRIG_C}right{##} to call yourself a {T_NOB_C}noble{##} in all but name. Formal recognition still requires an official application.",
+    "uk": "Якщо це завдання вдасться, Ви здобудете {I_NOBRIG_C}право{##} зватися {T_NOB_C}дворянином{##} майже без застережень. Для офіційного визнання все ж потрібна формальна заявка."
+  },
+  "Ascension_A_02_DisplayName": {
+    "en": "Serve as Squire (2/2)",
+    "uk": "Служба зброєносцем (2/2)"
+  },
+  "Ascension_B_01_Description": {
+    "en": "Test your {S_RHE_C}rhetoric{##} skill in the service of a noble. You'll have to complete three quests before you may request {I_NOBRIG_C}Nobility Rights{##}.",
+    "uk": "Випробуйте свою навичку {S_RHE_C}красномовства{##} на службі у шляхтича. Треба виконати три завдання, перш ніж Ви зможете подати заявку на {I_NOBRIG_C}дворянські права{##}."
+  },
+  "Ascension_B_01_DisplayName": {
+    "en": "Serve as Cupbearer (1/3)",
+    "uk": "Служба чашником (1/3)"
+  },
+  "Ascension_B_02_Description": {
+    "en": "Court service requires time to build trust, prove discretion, and demonstrate you're worthy of elevation. There are two more tasks to go before the sweet {I_NOBRIG_C}Nobility Rights{##}.",
+    "uk": "Служба при дворі потребує часу, щоб здобути довіру, довести розсудливість і показати, що Ви гідні піднесення. Лишилося ще два завдання до жаданих {I_NOBRIG_C}дворянських прав{##}."
+  },
+  "Ascension_B_02_DisplayName": {
+    "en": "Serve as Cupbearer (2/3)",
+    "uk": "Служба чашником (2/3)"
+  },
+  "Ascension_B_03_Description": {
+    "en": "You may finally request {I_NOBRIG_C}Nobility Rights{##}, then you can formally apply for a {T_NOB_C}noble title{##}, provided you have all that {CHAR_WEA_C}wealth{##}.",
+    "uk": "Нарешті Ви можете просити {I_NOBRIG_C}дворянські права{##}, а тоді офіційно подати заявку на {T_NOB_C}дворянський титул{##} — якщо у Вас достатньо {CHAR_WEA_C}статків{##}."
+  },
+  "Ascension_B_03_DisplayName": {
+    "en": "Serve as Cupbearer (3/3)",
+    "uk": "Служба чашником (3/3)"
+  },
+  "Ascension_C_01_Description": {
+    "en": "Buy your way in — no service, no sweat. {I_NOBRIG_C}Nobility Rights{##} are granted outright.",
+    "uk": "Купіть собі шлях нагору — без служби, без клопоту. {I_NOBRIG_C}Дворянські права{##} надаються без зволікань."
+  },
+  "Ascension_C_01_DisplayName": {
+    "en": "Purchase Nobility Rights",
+    "uk": "Купити дворянські права"
+  },
+  "AttackBuilding_Description": {
+    "en": "{S_COM_C}Martial{##}",
+    "uk": "{S_COM_C}Бойові навички{##}"
+  },
+  "AttackBuilding_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "AttackCart_Description": {
+    "en": "Hire thugs to attack a cart. Easy profit if it's {A_HIRESC_C}unguarded{##} — otherwise, expect a {CO_COM_C}fight{##}.",
+    "uk": "Найміть головорізів для нападу на віз. Легкий зиск, якщо він {A_HIRESC_C}без супроводу{##}, — інакше чекайте {CO_COM_C}бою{##}."
+  },
+  "AttackCart_DisplayName": {
+    "en": "Attack Cart",
+    "uk": "Напасти на віз"
+  },
+  "AttackCart_SelectAttackers": {
+    "en": "Select attackers",
+    "uk": "Виберіть нападників"
+  },
+  "AttackCart_SelectAttackers_Option_01": {
+    "en": "Low-Level Thugs",
+    "uk": "Прості головорізи"
+  },
+  "AttackCart_SelectAttackers_Option_02": {
+    "en": "Trained Thugs",
+    "uk": "Досвідчені головорізи"
+  },
+  "AttackCart_SelectAttackers_Option_03": {
+    "en": "Elite Professionals",
+    "uk": "Майстри своєї справи"
+  },
+  "AvailableActionsScreen_Description": {
+    "en": "Explore the city — you'll find plenty of other actions waiting for you.",
+    "uk": "Дослідіть місто — там на Вас чекає ще чимало інших дій."
+  },
+  "AvailableActionsScreen_DisplayName": {
+    "en": "My Personal Actions",
+    "uk": "Мої особисті дії"
+  },
+  "BanditContract01_Description": {
+    "en": "Approach the Robber Baron and ask whether they have a few spare blades to lend. Offer a modest purse and some passable weapons, and you will receive a {I_ROBCON_01_C}contract{##}.",
+    "uk": "Зверніться до розбійного барона і спитайте, чи не позичить він кілька зайвих клинків. Запропонуйте скромний гаманець і пристойну зброю — і отримаєте {I_ROBCON_01_C}контракт{##}."
+  },
+  "BanditContract01_Description_extra1": {
+    "en": "They are rough, loud, and not particularly bright — but more than enough to {A_ATKCAR_C}attack{##} an unguarded cart, and perhaps bold enough to test their luck against {A_HIRESC_C}light protection{##}.",
+    "uk": "Вони грубі, галасливі й не надто кмітливі — але цілком годяться, щоб {A_ATKCAR_C}напасти{##} на віз без супроводу, а може, наважаться й спробувати щастя проти {A_HIRESC_C}легкої охорони{##}."
+  },
+  "BanditContract01_DisplayName": {
+    "en": "Hire Low-Level Thugs",
+    "uk": "Найняти простих головорізів"
+  },
+  "BanditContract02_Description": {
+    "en": "Present yourself before the Robber Baron and request a dependable crew from their ranks. With respectable coin and reliable steel set forth, you will be granted a {I_ROBCON_02_C}contract{##} binding seasoned outlaws to your cause.",
+    "uk": "З'явіться перед розбійним бароном і попросіть надійний загін з його лав. Виклавши пристойну суму й надійну сталь, Ви отримаєте {I_ROBCON_02_C}контракт{##}, що прив'яже до Вашої справи бувалих розбійників."
+  },
+  "BanditContract02_Description_extra1": {
+    "en": "They know their trade and move with purpose, well suited to {A_ATKCAR_C}attack{##} most carts and handle {A_HIRESC_C}moderate resistance{##} without hesitation.",
+    "uk": "Вони знають свою справу і діють цілеспрямовано, здатні {A_ATKCAR_C}напасти{##} на більшість возів і без вагань подолати {A_HIRESC_C}помірний опір{##}."
+  },
+  "BanditContract02_DisplayName": {
+    "en": "Hire Trained Thugs",
+    "uk": "Найняти досвідчених головорізів"
+  },
+  "BanditContract03_Description": {
+    "en": "Stand before the Robber Baron with generous tribute and finely crafted weapons, and ask for their finest men. If they are satisfied, a {I_ROBCON_03_C}contract{##} will be placed in your hands — commanding their most disciplined and capable operatives.",
+    "uk": "Постаньте перед розбійним бароном із щедрою даниною і вправно викуваною зброєю, та попросіть його найкращих людей. Якщо він буде задоволений, Вам вручать {I_ROBCON_03_C}контракт{##}, що дає владу над найдисциплінованішими й найздібнішими його поплічниками."
+  },
+  "BanditContract03_Description_extra1": {
+    "en": "These are no common brigands. They excel at {A_ATKCAR_C}confronting{##} well-guarded carts and overcoming {A_HIRESC_C}serious resistance{##}.",
+    "uk": "Це не звичайні розбійники. Вони мастаки {A_ATKCAR_C}нападати{##} на добре охоронювані вози й долати {A_HIRESC_C}серйозний опір{##}."
+  },
+  "BanditContract03_DisplayName": {
+    "en": "Hire Elite Professionals",
+    "uk": "Найняти майстрів своєї справи"
+  },
+  "BeeAttack_Description": {
+    "en": "When diplomacy fails, there is always plan bee. Unleash a trained Killer Bee on someone who has earned your displeasure. Whoever you send it after is in for something painful and deeply unpleasant.",
+    "uk": "Коли дипломатія безсила, завжди лишається жалкий задум. Напустіть натреновану бджолу-вбивцю на того, хто заслужив Ваше невдоволення. Кого б Ви ні обрали ціллю — на нього чекає щось болісне й глибоко неприємне."
+  },
+  "BeeAttack_DisplayName": {
+    "en": "Unleash the Killer Bees",
+    "uk": "Напустити бджіл-убивць"
+  },
+  "Begging_Description": {
+    "en": "Some give out of pity, others from guilt — both spend the same. {S_RHE_C}rhetoric{##} knows which heartstrings to pull.",
+    "uk": "Одні дають із жалю, інші з почуття провини — а гроші однакові. {S_RHE_C}Красномовство{##} знає, за які струни смикнути."
+  },
+  "Begging_DisplayName": {
+    "en": "Beg",
+    "uk": "Жебракувати"
+  },
+  "BlackenSomeonesName_Description": {
+    "en": "Pass on {CR_EVI_C}evidence{##} to damage another's {CHAR_STA_C}opinion{##} of the sinner. {S_RHE_C}Rhetoric{##} matters — yours to persuade, theirs to withstand.",
+    "uk": "Передайте {CR_EVI_C}докази{##}, щоб підірвати чиюсь {CHAR_STA_C}прихильність{##} до грішника. {S_RHE_C}Красномовство{##} важливе — Ваше, щоб переконати, і їхнє, щоб встояти."
+  },
+  "BlackenSomeonesName_DisplayName": {
+    "en": "Blacken Someone's Name",
+    "uk": "Зганьбити чиєсь ім'я"
+  },
+  "Blackmail_Money_Description": {
+    "en": "Use {CR_EVI_C}evidence{##} to demand payment in exchange for silence. {CR_EVISTR_C}Greater proof{##} demands greater payment.",
+    "uk": "Використайте {CR_EVI_C}докази{##}, щоб вимагати плату в обмін на мовчання. {CR_EVISTR_C}Вагоміші докази{##} вимагають більшої плати."
+  },
+  "Blackmail_Money_DisplayName": {
+    "en": "Blackmail for Coin",
+    "uk": "Шантажувати за гроші"
+  },
+  "Blackmail_OfficeResignation_Description": {
+    "en": "Strong {CR_EVI_C}evidence{##} has a way of pushing {O_TYP_CIVOFF_C}officials{##} into {A_RESOFF_C}early retirement{##}.",
+    "uk": "Вагомі {CR_EVI_C}докази{##} мають властивість підштовхувати {O_TYP_CIVOFF_C}посадовців{##} до {A_RESOFF_C}дострокової відставки{##}."
+  },
+  "Blackmail_OfficeResignation_DisplayName": {
+    "en": "Blackmail to Force Resignation",
+    "uk": "Шантажувати заради відставки"
+  },
+  "Blackmail_Standing_Description": {
+    "en": "{CR_EVI_C}Leverage{##} ensures their agreement in all matters — for now. They stand with you, bound by circumstance rather than belief.",
+    "uk": "{CR_EVI_C}Докази{##} забезпечують їхню згоду в усіх справах — наразі. Вони на Вашому боці, зв'язані обставинами, а не переконаннями."
+  },
+  "Blackmail_Standing_DisplayName": {
+    "en": "Blackmail for Allegiance",
+    "uk": "Шантажувати заради вірності"
+  },
+  "BloodFeud_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "BloodFeud_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Bribe_Description": {
+    "en": "Slip them silver and hope they forget their principles. Some cost more than others, unless {S_STE_C}roguery{##} is part of your charm.",
+    "uk": "Підсуньте їм срібло і сподівайтеся, що вони забудуть про принципи. Дехто коштує дорожче за інших, хіба що {S_STE_C}шахрайство{##} — частина Вашого чару."
+  },
+  "Bribe_DisplayName": {
+    "en": "Bribe",
+    "uk": "Підкупити"
+  },
+  "Bribe_SelectBribeAmount": {
+    "en": "Bribe Amount",
+    "uk": "Сума хабара"
+  },
+  "BuildingUpgrade_Description": {
+    "en": "Upgrade this building to unlock new actions, improvements, and additional opportunities.",
+    "uk": "Поліпшіть цю будівлю, щоб відкрити нові дії, покращення й додаткові можливості."
+  },
+  "BuildingUpgrade_DisplayName": {
+    "en": "Upgrade",
+    "uk": "Поліпшення"
+  },
+  "Burglary_Description": {
+    "en": "{S_STE_C}Roguery{##}",
+    "uk": "{S_STE_C}Шахрайство{##}"
+  },
+  "Burglary_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "BuyEvidence_Description": {
+    "en": "Information changes hands easily over ale. Pay up, and someone's secret becomes your leverage.",
+    "uk": "Відомості легко переходять з рук у руки за кухлем елю. Заплатіть — і чийсь секрет стане Вашим важелем тиску."
+  },
+  "BuyEvidence_DisplayName": {
+    "en": "Buy Evidence",
+    "uk": "Купити докази"
+  },
+  "BuyIndulgence_Description": {
+    "en": "Pay the church to lighten the weight of your {CR_CRI_C}sins{##}. Coin cleans the conscience faster than prayer.",
+    "uk": "Заплатіть церкві, щоб полегшити тягар Ваших {CR_CRI_C}гріхів{##}. Монета очищає сумління швидше за молитву."
+  },
+  "BuyIndulgence_DisplayName": {
+    "en": "Buy Indulgence",
+    "uk": "Купити відпущення гріхів"
+  },
+  "ChangeFaith_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ChangeFaith_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ChangeLaw_CurrentValue_Level_Label": {
+    "en": "Current state",
+    "uk": "Поточний стан"
+  },
+  "ChangeLaw_CurrentValue_Number_Label": {
+    "en": "Current",
+    "uk": "Поточне"
+  },
+  "ChangeLaw_Description": {
+    "en": "Any law changes only take effect the following turn.",
+    "uk": "Зміни закону набувають чинності лише з наступного ходу."
+  },
+  "ChangeLaw_DisplayName": {
+    "en": "Change Law",
+    "uk": "Змінити закон"
+  },
+  "ChangeLaw_NewValue_Level_Label": {
+    "en": "Effective next turn",
+    "uk": "Діятиме з наступного ходу"
+  },
+  "ChangeLaw_NewValue_Number_Label": {
+    "en": "Next turn",
+    "uk": "Наступний хід"
+  },
+  "ChangeLaw_NewValue_alt": {
+    "en": "Starting next {C_TRN_C}turn{##}, {lawname} will be {newvalue}.",
+    "uk": "З наступного {C_TRN_C}ходу{##} для «{lawname}» діятиме: {newvalue}."
+  },
+  "ChangeLaw_SelectValue_Level_Prompt": {
+    "en": "Select state:",
+    "uk": "Виберіть стан:"
+  },
+  "ChangeLaw_SelectValue_Number_Prompt": {
+    "en": "Select state:",
+    "uk": "Виберіть стан:"
+  },
+  "CharacterAtPillory_Description": {
+    "en": "Do your part in reinforcing civic order by throwing things at the pilloried.",
+    "uk": "Зробіть свій внесок у зміцнення громадського порядку, кидаючи щось у людей біля ганебного стовпа."
+  },
+  "CharacterAtPillory_DisplayName": {
+    "en": "Shame the Pilloried",
+    "uk": "Зганьбити біля ганебного стовпа"
+  },
+  "ClarifyHoney_Description": {
+    "en": "Warm the honey and pass it through a cloth, leaving wax, grit, and lesser things behind until only the purest sweetness remains.",
+    "uk": "Підігрійте мед і пропустіть його крізь тканину, лишивши віск, крихти й зайве, аж доки не залишиться сама чиста солодкість."
+  },
+  "ClarifyHoney_DisplayName": {
+    "en": "Clarify Honey",
+    "uk": "Очистити мед"
+  },
+  "CleanService_Description": {
+    "en": "Choose a quarter in need of attention and get your hands dirty. Clear away filth, patch up what has fallen into ruin, and leave the streets in better shape than you found them.",
+    "uk": "Виберіть квартал, що потребує уваги, і візьміться до справи. Приберіть бруд, полагодьте занепале й лишіть вулиці в кращому стані, ніж застали."
+  },
+  "CleanService_DisplayName": {
+    "en": "Restore the Streets",
+    "uk": "Відновити вулиці"
+  },
+  "CleanUp_Description": {
+    "en": "Brush off the dust, tighten a hinge — a little care now spares costly repairs later.",
+    "uk": "Змахніть пил, підтягніть завісу — трохи турботи зараз береже від дорогих ремонтів згодом."
+  },
+  "CleanUp_DisplayName": {
+    "en": "Small Repairs",
+    "uk": "Дрібний ремонт"
+  },
+  "CollectBeeswax_Description": {
+    "en": "Gather the wax from your combs. Honey is not the only thing worth harvesting.",
+    "uk": "Зберіть віск із Ваших стільників. Не лише мед вартий збору."
+  },
+  "CollectBeeswax_DisplayName": {
+    "en": "Collect Beeswax",
+    "uk": "Зібрати бджолиний віск"
+  },
+  "CollectContaminatedHoney_Description": {
+    "en": "The harvest is spoiled, but the honey may still have its uses. Harvest it anyway!",
+    "uk": "Урожай зіпсовано, та мед усе ще може знадобитися. Зберіть його попри все!"
+  },
+  "CollectContaminatedHoney_DisplayName": {
+    "en": "Harvest Honey",
+    "uk": "Зібрати мед"
+  },
+  "CollectMaxHoney_Description": {
+    "en": "The hive has had a fine season, and the comb is brimming with honey. Reap the reward!",
+    "uk": "Вулику видався добрий сезон, і стільники аж переповнені медом. Пожніть винагороду!"
+  },
+  "CollectMaxHoney_DisplayName": {
+    "en": "Harvest Honey",
+    "uk": "Зібрати мед"
+  },
+  "CollectMinHoney_Description": {
+    "en": "The colony had a poor season, leaving only a modest amount of honey to gather. Harvest what you can, and mind the stings!",
+    "uk": "Сезон для колонії видався невдалим, тож меду лишилося небагато. Зберіть, що можете, і стережіться жал!"
+  },
+  "CollectMinHoney_DisplayName": {
+    "en": "Harvest Honey",
+    "uk": "Зібрати мед"
+  },
+  "ContaminateBeehive_Description": {
+    "en": "Taint the hive and leave its colony sick and struggling. Bee warned: the colony may fight back.",
+    "uk": "Отруйте вулик, лишивши колонію хворою і виснаженою. Стережіться: бджоли можуть дати відсіч."
+  },
+  "ContaminateBeehive_DisplayName": {
+    "en": "Contaminate the Beehive",
+    "uk": "Отруїти вулик"
+  },
+  "Courting_Description": {
+    "en": "Choose someone to court and secure your {CHAR_DYN_C}legacy{##}. Marrying down is cheap, but marrying up takes effort.",
+    "uk": "Виберіть, за ким залицятися, і убезпечте майбутнє Вашої {CHAR_DYN_C}династії{##}. Одружитися нижче — дешево, одружитися вище — вимагає зусиль."
+  },
+  "Courting_Description_extra1": {
+    "en": "A partner with a {TR_STRBLO_C}strong{##} or {TR_EXCBLO_C}exceptional bloodline{##} is more likely to produce {S_C}skilled{##} {CHAR_HEI_C}heirs{##}, while a {CHAR_HP_C}healthier{##} one will prove more {CHAR_FER_C}fertile{##}.",
+    "uk": "Партнер із {TR_STRBLO_C}міцною{##} чи {TR_EXCBLO_C}винятковою кров'ю{##} радше подарує {S_C}вправних{##} {CHAR_HEI_C}спадкоємців{##}, а {CHAR_HP_C}здоровіший{##} виявиться більш {CHAR_FER_C}плідним{##}."
+  },
+  "Courting_Description_extra2": {
+    "en": "Wooing someone who {CHAR_STA_C}thinks little of you{##} is harder — but not impossible. And remember: courting is a race. The best candidates rarely have only one suitor.",
+    "uk": "Залицятися до того, хто {CHAR_STA_C}не надто прихильний{##} до Вас, важче — та не неможливо. І пам'ятайте: залицяння — це перегони. У найкращих кандидатів рідко буває лише один залицяльник."
+  },
+  "Courting_DisplayName": {
+    "en": "Court",
+    "uk": "Залицятися"
+  },
+  "Courting_SendGift_Description": {
+    "en": "Thoughtful choices win hearts faster than empty flattery. ",
+    "uk": "Продумані дарунки завойовують серця швидше за пусті лестощі."
+  },
+  "Courting_SendGift_Description_extra1": {
+    "en": "Higher {T_C}titles{##} expect finer gifts — and the greater the difference between you, the harder they are to impress.",
+    "uk": "Вищі {T_C}титули{##} чекають на вишуканіші дарунки — і що більша різниця між Вами, то важче їх вразити."
+  },
+  "Courting_SendGift_DisplayName": {
+    "en": "Send Gift to Love Interest ",
+    "uk": "Надіслати подарунок симпатії"
+  },
+  "Courting_StopCourting_Description": {
+    "en": "Whether the match has proven disappointing, too expensive, or simply outpaced by a better prospect, you may withdraw at any time.",
+    "uk": "Чи то партія розчарувала, чи виявилася надто дорогою, чи її просто затьмарила краща нагода — Ви можете відступити будь-коли."
+  },
+  "Courting_StopCourting_DisplayName": {
+    "en": "Call Off Courtship",
+    "uk": "Припинити залицяння"
+  },
+  "Courting_SweetTalking_Description": {
+    "en": "If {S_RHE_C}rhetoric{##} is your forte, words can do what coin cannot.",
+    "uk": "Якщо {S_RHE_C}красномовство{##} — Ваша сильна риса, слова здатні на те, на що не здатна монета."
+  },
+  "Courting_SweetTalking_DisplayName": {
+    "en": "Sweet-Talk Your Love Interest",
+    "uk": "Полестити своїй симпатії"
+  },
+  "Crafting_Description": {
+    "en": "Create items by combining materials from your {B_STOROO_C}storeroom{##}. \nWorkers with higher {S_HAN_C}handicraft{##} skill perform these tasks more efficiently.",
+    "uk": "Створюйте предмети, поєднуючи матеріали з Вашої {B_STOROO_C}комори{##}.\nПрацівники з вищою навичкою {S_HAN_C}ремесла{##} виконують ці завдання ефективніше."
+  },
+  "Crafting_DisplayName": {
+    "en": "Crafting",
+    "uk": "Виготовлення"
+  },
+  "CreateHelper_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CreateHelper_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Credit_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Credit_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Curse_Description": {
+    "en": "To lay a curse on someone, you must offer an item in sacrifice.",
+    "uk": "Щоб накласти прокляття на когось, Ви маєте принести предмет у жертву."
+  },
+  "Curse_DisplayName": {
+    "en": "Curse",
+    "uk": "Прокляти"
+  },
+  "DemandRansom_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "DemandRansom_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "DestroyBees_Description": {
+    "en": "Sneak into a rival hive and smoke out the colony before anyone can stop you. Bee warned: a hive under attack tends to defend itself.",
+    "uk": "Прокрадіться до чужого вулика й викуріть колонію, поки Вас ніхто не зупинив. Стережіться: вулик під нападом схильний захищатися."
+  },
+  "DestroyBees_DisplayName": {
+    "en": "Destroy the Bees",
+    "uk": "Знищити бджіл"
+  },
+  "Dinner_Description": {
+    "en": "Invite them to dine — impressing the common is cheap, impressing the {T_C}wealthy{##} is not. Either way {CHAR_STA_C}favors{##} are best served after supper.",
+    "uk": "Запросіть їх на вечерю — вразити простолюд дешево, а {T_C}титулованих{##} — ні. Хай там як, {CHAR_STA_C}прихильність{##} найкраще здобувати після вечері."
+  },
+  "Dinner_DisplayName": {
+    "en": "Invite to Dinner",
+    "uk": "Запросити на вечерю"
+  },
+  "Dinner_Level_01": {
+    "en": "Cheap",
+    "uk": "Скромна"
+  },
+  "Dinner_Level_02": {
+    "en": "Poor",
+    "uk": "Проста"
+  },
+  "Dinner_Level_03": {
+    "en": "Mediocre",
+    "uk": "Посередня"
+  },
+  "Dinner_Level_04": {
+    "en": "Good",
+    "uk": "Добра"
+  },
+  "Dinner_Level_05": {
+    "en": "Expensive",
+    "uk": "Розкішна"
+  },
+  "Dinner_SelectDinnerMode_Prompt": {
+    "en": "Select dinner mode",
+    "uk": "Виберіть рівень вечері"
+  },
+  "DiscardItem_Description": {
+    "en": "Discard this item permanently?",
+    "uk": "Викинути цей предмет назавжди?"
+  },
+  "DiscardItem_DisplayName": {
+    "en": "Discard {ItemName}",
+    "uk": "Викинути {ItemName}"
+  },
+  "DiscardItem_DisplayName_alt": {
+    "en": "Discard",
+    "uk": "Викинути"
+  },
+  "DiscardItem_DisplayName_alt_amount": {
+    "en": "Discard ({amout})",
+    "uk": "Викинути ({amout})"
+  },
+  "DisposeOfGrave_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "DisposeOfGrave_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "DonateToChurch_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "DonateToChurch_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Duel_Challenge_Description": {
+    "en": "Has a fellow or lass slighted you, with an unkind remark or a cross look? Let steel speak for your honor. \n\nIn {CO_COM_C}combat{##}, your {S_COM_C}martial{##} skill and choice of {I_TYP_COMEQU_C}equipment{##} decide the outcome.",
+    "uk": "Хтось образив Вас недобрим словом чи зневажливим поглядом? Нехай сталь промовить за Вашу честь.\n\nУ {CO_COM_C}бою{##} результат вирішують Ваші {S_COM_C}бойові навички{##} та обране {I_TYP_COMEQU_C}бойове спорядження{##}."
+  },
+  "Duel_Challenge_DisplayName": {
+    "en": "Challenge to Duel",
+    "uk": "Викликати на дуель"
+  },
+  "Duel_Challenge_DuelOpponent": {
+    "en": "Challenged Opponent",
+    "uk": "Викликаний суперник"
+  },
+  "EquipArmor_AvailableItems": {
+    "en": "Select a piece of armor from your Personal Inventory",
+    "uk": "Виберіть предмет броні з Вашого особистого інвентарю"
+  },
+  "EquipArmor_Description": {
+    "en": "Give a worker a piece of armor from your inventory to protect themselves in dangerous situations.",
+    "uk": "Дайте працівнику броню з інвентарю, щоб захистити його в небезпечних ситуаціях."
+  },
+  "EquipArmor_DisplayName": {
+    "en": "Equip Armor",
+    "uk": "Одягнути броню"
+  },
+  "EquipSelf_DisplayName": {
+    "en": "Equip {ItemName}",
+    "uk": "Одягнути {ItemName}"
+  },
+  "EquipSelf_DisplayName_alt": {
+    "en": "Equip Self",
+    "uk": "Одягнутися самому"
+  },
+  "EquipWarning_Message": {
+    "en": "Any currently equipped weapon or armor will be discarded and replaced by this one.",
+    "uk": "Будь-яку наразі вдягнену зброю чи броню буде викинуто й замінено цією."
+  },
+  "EquipWeapon_AvailableItems": {
+    "en": "Select a weapon from your Personal Inventory",
+    "uk": "Виберіть зброю з Вашого особистого інвентарю"
+  },
+  "EquipWeapon_Description": {
+    "en": "Give a worker a weapon from your inventory to better defend themselves when faced with danger.",
+    "uk": "Дайте працівнику зброю з інвентарю, щоб він міг краще захищатися перед небезпекою."
+  },
+  "EquipWeapon_DisplayName": {
+    "en": "Equip Weapon",
+    "uk": "Озброїти"
+  },
+  "EquipWorker_DisplayName": {
+    "en": "Equip Worker with {ItemName}",
+    "uk": "Озброїти працівника предметом {ItemName}"
+  },
+  "EquipWorker_DisplayName_alt": {
+    "en": "Equip Worker",
+    "uk": "Озброїти працівника"
+  },
+  "EscortTheSovereign_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "EscortTheSovereign_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "EspionageCancel_Description": {
+    "en": "Are you sure you want to stop spying?",
+    "uk": "Ви справді хочете припинити шпигувати?"
+  },
+  "EspionageCancel_DisplayName": {
+    "en": "Stop Spying",
+    "uk": "Припинити шпигувати"
+  },
+  "Espionage_Description": {
+    "en": "Send spies to dig up {CR_EVI_C}evidence{##}, or use your own {S_STE_C}roguery{##} to expose what others would keep buried — every secret makes fine leverage.",
+    "uk": "Надішліть шпигунів здобувати {CR_EVI_C}докази{##} або скористайтеся власним {S_STE_C}шахрайством{##}, щоб викрити те, що інші воліли б приховати — кожна таємниця стане в пригоді."
+  },
+  "Espionage_DisplayName": {
+    "en": "Spy",
+    "uk": "Шпигувати"
+  },
+  "Espionage_Hired_High_Description": {
+    "en": "Send in a professional. If there is {CR_EVI_C}evidence{##} to be found, they will find it, and probably learn far more than you paid them to.",
+    "uk": "Пошліть справжнього майстра. Якщо є {CR_EVI_C}докази{##}, він їх знайде — і, ймовірно, дізнається набагато більше, ніж Ви йому платили."
+  },
+  "Espionage_Hired_High_DisplayName": {
+    "en": "Elite Espionage",
+    "uk": "Елітне шпигунство"
+  },
+  "Espionage_Hired_Low_Description": {
+    "en": "Hire a dubious pair of eyes to sniff out some {CR_EVI_C}evidence{##}. Cheap, but not exactly reassuring.",
+    "uk": "Найміть сумнівну пару очей, щоб винюхати трохи {CR_EVI_C}доказів{##}. Дешево, але не надто надійно."
+  },
+  "Espionage_Hired_Low_DisplayName": {
+    "en": "Low-Cost Espionage",
+    "uk": "Дешеве шпигунство"
+  },
+  "Espionage_Hired_Medium_Description": {
+    "en": "Hire a seasoned spy to dig up {CR_EVI_C}evidence{##} without drawing too much attention.",
+    "uk": "Найміть досвідченого шпигуна, щоб здобути {CR_EVI_C}докази{##}, не привертаючи зайвої уваги."
+  },
+  "Espionage_Hired_Medium_DisplayName": {
+    "en": "Decent Espionage",
+    "uk": "Пристойне шпигунство"
+  },
+  "Espionage_Limit_Warning": {
+    "en": "You can spy on a maximum of 5 characters.",
+    "uk": "Ви можете стежити не більш ніж за 5 персонажами."
+  },
+  "Espionage_Method_HighEffort_DisplayName": {
+    "en": "High: Thorough investigation",
+    "uk": "Висока: ретельне розслідування"
+  },
+  "Espionage_Method_HighEffort_Label": {
+    "en": "High",
+    "uk": "Високий"
+  },
+  "Espionage_Method_LowEffort_DisplayName": {
+    "en": "Low: Superficial investigation",
+    "uk": "Низька: поверхове розслідування"
+  },
+  "Espionage_Method_LowEffort_Label": {
+    "en": "Low",
+    "uk": "Низький"
+  },
+  "Espionage_Method_MediumEffort_DisplayName": {
+    "en": "Medium: Standard investigation",
+    "uk": "Середня: звичайне розслідування"
+  },
+  "Espionage_Method_MediumEffort_Label": {
+    "en": "Medium",
+    "uk": "Середній"
+  },
+  "Espionage_Method_Personal_DisplayName": {
+    "en": "Personal: Do it yourself",
+    "uk": "Особисто: зробіть це самі"
+  },
+  "Espionage_Method_Personal_Label": {
+    "en": "Personal",
+    "uk": "Особисте"
+  },
+  "Espionage_NoEspionageInProgress": {
+    "en": "You have no ongoing espionage operations at the moment.",
+    "uk": "Наразі у Вас немає жодних шпигунських операцій, що тривають."
+  },
+  "Espionage_Personal_Description": {
+    "en": "Get your own hands dirty and gather {CR_EVI_C}evidence{##} yourself.",
+    "uk": "Забрудніть руки самі й здобудьте {CR_EVI_C}докази{##} власноруч."
+  },
+  "Espionage_Personal_DisplayName": {
+    "en": "Personal Espionage",
+    "uk": "Особисте шпигунство"
+  },
+  "Espionage_Prompt": {
+    "en": "Start spying",
+    "uk": "Почати шпигувати"
+  },
+  "ExterminateBees_Description": {
+    "en": "Remove the bees from the hive permanently. Whatever your reasons, the colony will not be coming back.",
+    "uk": "Остаточно видалити бджіл з вулика. Хоч би якими були Ваші причини, рій уже не повернеться."
+  },
+  "ExterminateBees_DisplayName": {
+    "en": "Exterminate the Bees",
+    "uk": "Знищити бджіл"
+  },
+  "ExtortProtectionMoney_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ExtortProtectionMoney_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ExtractInformation_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ExtractInformation_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "FalsifyCurrency_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "FalsifyCurrency_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "FeedBees_Description": {
+    "en": "Wake the sleepy colony with a good meal and help them buzz back into action.",
+    "uk": "Розбудіть сонний рій добрим кормом і допоможіть йому знову загудіти до роботи."
+  },
+  "FeedBees_DisplayName": {
+    "en": "Feed the Bees",
+    "uk": "Погодувати бджіл"
+  },
+  "FindEvidenceFromWorld_Description": {
+    "en": "Instruct your workers to discreetly listen in on patrons' conversations. You never know what they might overhear. Careful attention may uncover useful {CR_EVI_C}evidence{##}.",
+    "uk": "Накажіть Вашим працівникам непомітно підслуховувати розмови покупців. Ніколи не знаєш, що можна почути. Уважне вухо може виявити корисні {CR_EVI_C}докази{##}."
+  },
+  "FindEvidenceFromWorld_DisplayName": {
+    "en": "Eavesdrop on Customers",
+    "uk": "Підслуховувати покупців"
+  },
+  "FrameForCrime_Description": {
+    "en": "Send your more {S_STE_C}roguish{##} thieves to plant evidence on another, shifting the blame for a {CR_CRI_C}crime{##} you have committed onto them.",
+    "uk": "Пошліть найбільш {S_STE_C}вправних у шахрайстві{##} злодіїв підкинути комусь докази, перекладаючи на нього провину за {CR_CRI_C}злочин{##}, скоєний Вами."
+  },
+  "FrameForCrime_DisplayName": {
+    "en": "Plant Evidence",
+    "uk": "Підкинути докази"
+  },
+  "GainMasterGrade_Description": {
+    "en": "When you gain enough {CHAR_XP_C}experience{##}, you can advance your Mastery Grade in your {P_C}profession{##} and unlock important benefits — such as being able to level up your {B_TYP_OCCBUI_C}business{##}.",
+    "uk": "Здобувши достатньо {CHAR_XP_C}досвіду{##}, Ви можете підвищити ступінь майстерності у своїй {P_C}професії{##} й відкрити важливі переваги — наприклад, змогу підвищувати рівень своєї {B_TYP_OCCBUI_C}фахової будівлі{##}."
+  },
+  "GainMasterGrade_DisplayName": {
+    "en": "Gain Mastery Grade",
+    "uk": "Підвищити ступінь майстерності"
+  },
+  "GatherIngredients_Description": {
+    "en": "Search the land for useful ingredients. Skilled hands — those with strong {S_HAN_C}handicraft{##} skill — bring back the best finds.",
+    "uk": "Обшукайте околиці в пошуках корисних інгредієнтів. Вправні руки — ті, що мають високу навичку {S_HAN_C}ремесла{##}, — приносять найкращу здобич."
+  },
+  "GatherIngredients_DisplayName": {
+    "en": "Look for Ingredients",
+    "uk": "Пошукати інгредієнти"
+  },
+  "GenerateHatred_Description": {
+    "en": "Lean in and ignite a little discord between two people, dragging their {CHAR_STA_C}opinion{##} of one another downward.",
+    "uk": "Підживіть незгоду між двома людьми, знижуючи їхню взаємну {CHAR_STA_C}прихильність{##}."
+  },
+  "GenerateHatred_DisplayName": {
+    "en": "Generate Hatred",
+    "uk": "Посіяти ненависть"
+  },
+  "GiveItem_Description": {
+    "en": "Gift another citizen with:",
+    "uk": "Подарувати іншому мешканцю:"
+  },
+  "GiveItem_DisplayName": {
+    "en": "Give {ItemName}",
+    "uk": "Подарувати {ItemName}"
+  },
+  "GiveItem_DisplayName_alt": {
+    "en": "Give",
+    "uk": "Подарувати"
+  },
+  "GiveProfession_Alchemist_Description": {
+    "en": "Choose a member of your family to secure an {P_ALC_C}Alchemist{##}'s License. They will then be able to serve as the {B_OCC_MGR_C}Master{##} of your {B_OCC_ALC_C}Alchemist's Lab{##}, while you turn your attention to other pursuits.",
+    "uk": "Виберіть члена родини, щоб здобути ліцензію {P_ALC_C}алхіміка{##}. Він зможе стати {B_OCC_MGR_C}майстром{##} Вашої {B_OCC_ALC_C}лабораторії алхіміка{##}, поки Ви займетеся іншими справами."
+  },
+  "GiveProfession_Alchemist_DisplayName": {
+    "en": "License a Family Member as Alchemist",
+    "uk": "Ліцензувати члена родини як алхіміка"
+  },
+  "GiveProfession_GraveyardWarden_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "GiveProfession_GraveyardWarden_DisplayName": {
+    "en": "Appoint a Family Member as Graveyard Warden",
+    "uk": "Призначити члена родини доглядачем цвинтаря"
+  },
+  "GiveProfession_Guard_Description": {
+    "en": "Choose a member of your family to swear service as a {P_GUA_C}Guard{##}, allowing them to take up the {B_OCC_MGR_C}duties{##} of the {B_OCC_GUA_C}barracks{##} while you focus your efforts elsewhere.",
+    "uk": "Виберіть члена родини, який присягне на службу {P_GUA_C}вартовим{##} і зможе взяти на себе {B_OCC_MGR_C}обов’язки{##} у {B_OCC_GUA_C}казармі{##}, поки Ви зосередитеся на іншому."
+  },
+  "GiveProfession_Guard_DisplayName": {
+    "en": "Enlist a Family Member as Guard",
+    "uk": "Записати члена родини у вартові"
+  },
+  "GiveProfession_Innkeeper_Description": {
+    "en": "Choose a member of your family to secure an {P_INN_C}Innkeeper{##}'s License. They will then be able to serve as the {B_OCC_MGR_C}Master{##} of your {B_OCC_INN_C}inn{##}, keeping the ale flowing while you attend to other matters.",
+    "uk": "Виберіть члена родини, щоб здобути ліцензію {P_INN_C}шинкаря{##}. Він зможе стати {B_OCC_MGR_C}майстром{##} Вашого {B_OCC_INN_C}заїзду{##} і дбатиме, щоб ель лився рікою, поки Ви займетеся іншими справами."
+  },
+  "GiveProfession_Innkeeper_DisplayName": {
+    "en": "License a Family Member as Innkeeper",
+    "uk": "Ліцензувати члена родини як шинкаря"
+  },
+  "GiveProfession_Joiner_Description": {
+    "en": "Choose a member of your family to secure a {P_JOI_C}Joiner{##}'s License. They will then be able to serve as the {B_OCC_MGR_C}Master{##} of your {B_OCC_JOI_C}joiner's workshop{##}, while you turn your attention to other pursuits.",
+    "uk": "Виберіть члена родини, щоб здобути ліцензію {P_JOI_C}столяра{##}. Він зможе стати {B_OCC_MGR_C}майстром{##} Вашої {B_OCC_JOI_C}столярні{##}, поки Ви займетеся іншими справами."
+  },
+  "GiveProfession_Joiner_DisplayName": {
+    "en": "License a Family Member as Joiner",
+    "uk": "Ліцензувати члена родини як столяра"
+  },
+  "GiveProfession_MoneyLender_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "GiveProfession_MoneyLender_DisplayName": {
+    "en": "License a Family Member as Moneylender",
+    "uk": "Ліцензувати члена родини як лихваря"
+  },
+  "GiveProfession_Perfumer_Description": {
+    "en": "Choose a member of your family to secure a {P_PER_C}Perfumer{##}'s License. They will then be able to serve as the {B_OCC_MGR_C}Master{##} of your {B_OCC_PER_C}perfumery{##}, while you turn your attention to other pursuits.",
+    "uk": "Виберіть члена родини, щоб здобути ліцензію {P_PER_C}парфумера{##}. Він зможе стати {B_OCC_MGR_C}майстром{##} Вашої {B_OCC_PER_C}парфумерії{##}, поки Ви займетеся іншими справами."
+  },
+  "GiveProfession_Perfumer_DisplayName": {
+    "en": "License a Family Member as Perfumer",
+    "uk": "Ліцензувати члена родини як парфумера"
+  },
+  "GiveProfession_Preacher_Description": {
+    "en": "Choose a member of your family to take the oath of a {P_PRE_C}Preacher{##}, allowing them to carry out their holy duties as the {B_OCC_MGR_C}head{##} of your {B_OCC_PRE_C}church{##}, while you devote yourself to other affairs.",
+    "uk": "Виберіть члена родини, який складе присягу {P_PRE_C}проповідника{##} і зможе виконувати святі обов’язки як {B_OCC_MGR_C}настоятель{##} Вашої {B_OCC_PRE_C}церкви{##}, поки Ви присвятите себе іншим справам."
+  },
+  "GiveProfession_Preacher_DisplayName": {
+    "en": "Ordain a Family Member as Preacher",
+    "uk": "Висвятити члена родини на проповідника"
+  },
+  "GiveProfession_Robber_Description": {
+    "en": "Choose a member of your family accepted among the {P_ROB_C}Robbers{##}. Once they have proven themselves, they will be able to {B_OCC_MGR_C}take charge{##} of your {B_OCC_ROB_C}criminal enterprise{##} while you focus your attention elsewhere.",
+    "uk": "Виберіть члена родини, прийнятого серед {P_ROB_C}розбійників{##}. Довівши себе, він зможе {B_OCC_MGR_C}очолити{##} Вашу {B_OCC_ROB_C}злочинну справу{##}, поки Ви зосередитеся на іншому."
+  },
+  "GiveProfession_Robber_DisplayName": {
+    "en": "Initiate a Family Member as Robber",
+    "uk": "Прийняти члена родини у розбійники"
+  },
+  "GiveProfession_Smith_Description": {
+    "en": "Choose a member of your family to secure a {P_SMI_C}Smith{##}'s License. They will then be able to serve as the {B_OCC_MGR_C}Master{##} of your {B_OCC_SMI_C}smithy{##}, while you turn your attention to other pursuits.",
+    "uk": "Виберіть члена родини, щоб здобути ліцензію {P_SMI_C}коваля{##}. Він зможе стати {B_OCC_MGR_C}майстром{##} Вашої {B_OCC_SMI_C}кузні{##}, поки Ви займетеся іншими справами."
+  },
+  "GiveProfession_Smith_DisplayName": {
+    "en": "License a Family Member as Smith",
+    "uk": "Ліцензувати члена родини як коваля"
+  },
+  "GiveProfession_StoneMason_Description": {
+    "en": "Choose a member of your family to secure a {P_MAS_C}Stone Mason{##}'s License. They will then be able to serve as the {B_OCC_MGR_C}Master{##} of your {B_OCC_MAS_C}masonry business{##}, while you turn your attention to other pursuits.",
+    "uk": "Виберіть члена родини, щоб здобути ліцензію {P_MAS_C}каменяра{##}. Він зможе стати {B_OCC_MGR_C}майстром{##} Вашої {B_OCC_MAS_C}каменярні{##}, поки Ви займетеся іншими справами."
+  },
+  "GiveProfession_StoneMason_DisplayName": {
+    "en": "License a Family Member as Stone Mason",
+    "uk": "Ліцензувати члена родини як каменяра"
+  },
+  "GiveProfession_Tailor_Description": {
+    "en": "Choose a member of your family to secure a {P_TAI_C}Tailor{##}'s License. They will then be able to serve as the {B_OCC_MGR_C}Master{##} of your {B_OCC_TAI_C}tailor's workshop{##}, while you turn your attention to other pursuits.",
+    "uk": "Виберіть члена родини, щоб здобути ліцензію {P_TAI_C}кравця{##}. Він зможе стати {B_OCC_MGR_C}майстром{##} Вашої {B_OCC_TAI_C}кравецької майстерні{##}, поки Ви займетеся іншими справами."
+  },
+  "GiveProfession_Tailor_DisplayName": {
+    "en": "License a Family Member as Tailor",
+    "uk": "Ліцензувати члена родини як кравця"
+  },
+  "GiveProfession_Thief_Description": {
+    "en": "Choose a member of your family accepted among the thieves. They will then be able to take {B_OCC_MGR_C}charge{##} of your {B_OCC_THI_C}Hideout{##}, while you keep your hands free for other pursuits.",
+    "uk": "Виберіть члена родини, прийнятого серед злодіїв. Він зможе взяти на себе {B_OCC_MGR_C}керівництво{##} Вашою {B_OCC_THI_C}схованкою{##}, поки Ваші руки будуть зайняті іншим."
+  },
+  "GiveProfession_Thief_DisplayName": {
+    "en": "Initiate a Family Member as Thief",
+    "uk": "Прийняти члена родини у злодії"
+  },
+  "GiveProfession_Trader_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "GiveProfession_Trader_DisplayName": {
+    "en": "License a Family Member as Trader",
+    "uk": "Ліцензувати члена родини як торговця"
+  },
+  "GiveProfession_TravellingEntertainer_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "GiveProfession_TravellingEntertainer_DisplayName": {
+    "en": "Establish a Troupe for a Family Member",
+    "uk": "Заснувати трупу для члена родини"
+  },
+  "GuardPatrol_Description": {
+    "en": "Send guards to patrol a {C_QUA_C}quarter{##}. A visible presence tends to lower {QUA_CRI_C}crime rate{##} and calm rising {QUA_UNR_C}unrest{##}.",
+    "uk": "Надішліть вартових патрулювати {C_QUA_C}квартал{##}. Помітна присутність зазвичай знижує {QUA_CRI_C}рівень злочинності{##} і вгамовує дедалі більші {QUA_UNR_C}заворушення{##}."
+  },
+  "GuardPatrol_DisplayName": {
+    "en": "Guard Patrol",
+    "uk": "Патруль вартових"
+  },
+  "HaveAChat_Description": {
+    "en": "Sit with someone in the workshop for a chat. A little wine, a little gossip, and suddenly you know things you didn't know you needed.\nA more {B_PARAM_ATT_C}attractive{##} shop and better {CHAR_STA_C}opinion{##} of you make them far more willing to join you.",
+    "uk": "Посидьте з кимось у майстерні за розмовою. Трохи вина, трохи пліток — і раптом Ви знаєте те, про що навіть не здогадувалися.\nЧим {B_PARAM_ATT_C}привабливіша{##} крамниця і що більша їхня {CHAR_STA_C}прихильність{##} до Вас, тим охочіше вони приєднаються."
+  },
+  "HaveAChat_DisplayName": {
+    "en": "Have a Chat",
+    "uk": "Побалакати"
+  },
+  "HaveSomeoneFrightened_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HaveSomeoneFrightened_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HealBees_Description": {
+    "en": "Treat the sick colony with a little Royal Jelly. They should be back on their wings in no time.",
+    "uk": "Полікуйте хворий рій трохи маточиним молочком. Незабаром вони знову стануть на крило."
+  },
+  "HealBees_DisplayName": {
+    "en": "Heal the Bees",
+    "uk": "Вилікувати бджіл"
+  },
+  "HireEscort_Description": {
+    "en": "Hire mercenaries to {CO_COM_C}defend{##} your cart against {A_ATKCAR_C}lurking robbers{##} during its journey.",
+    "uk": "Найміть охоронців, щоб {CO_COM_C}захистити{##} Ваш віз від {A_ATKCAR_C}зачаєних розбійників{##} під час подорожі."
+  },
+  "HireEscort_DisplayName": {
+    "en": "Hire Escort",
+    "uk": "Найняти супровід"
+  },
+  "HireManager_Alchemist_Family_DisplayName": {
+    "en": "Assign a Dynasty Member as Alchemist Master",
+    "uk": "Призначити члена династії майстром-алхіміком"
+  },
+  "HireManager_Description": {
+    "en": "Put your business in the hands of a capable master. You can even choose a family member, provided they hold the proper {P_C}license{##}. They'll handle the day-to-day details you don't want to think about, while the business — and its profits — remain yours.",
+    "uk": "Довірте справу вправному майстру. Ви навіть можете обрати члена родини, якщо він має відповідну {P_C}ліцензію{##}. Він займеться щоденними клопотами, про які Вам не хочеться думати, поки справа — і прибуток з неї — лишаються Вашими."
+  },
+  "HireManager_Description_extra1": {
+    "en": "The Master receives a percentage of the business's profits.",
+    "uk": "Майстер отримує частку прибутку зі справи."
+  },
+  "HireManager_DisplayName": {
+    "en": "Hire a Master",
+    "uk": "Найняти майстра"
+  },
+  "HireManager_Family_Description": {
+    "en": "You are always the best person to manage your own businesses. But as your wealth and influence grow, so do the demands on your time. When you can no longer tend to every enterprise yourself, put them in hands you trust.",
+    "uk": "Ви завжди найкраще керуєте власними справами. Але зі зростанням статків і впливу зростають і вимоги до Вашого часу. Коли Ви вже не можете доглядати за кожним промислом особисто, довірте їх тим, кому вірите."
+  },
+  "HireManager_Family_Description_extra1": {
+    "en": "It's a fine way to prepare the next generation for the day you're... no longer available for consultation.",
+    "uk": "Це чудовий спосіб підготувати наступне покоління до дня, коли Ви... вже не зможете дати пораду."
+  },
+  "HireManager_Family_Description_extra2": {
+    "en": "They'll learn the trade, handle the day-to-day business, and keep things running automatically while you put your feet up and collect the profits. Everyone wins.",
+    "uk": "Вони опанують ремесло, займатимуться щоденними справами й підтримуватимуть усе на ходу, поки Ви відпочиватимете й отримуватимете прибуток. Виграють усі."
+  },
+  "HireManager_Family_Description_extra3": {
+    "en": "But mind who you put in charge.",
+    "uk": "Але зважайте, кому довіряєте керівництво."
+  },
+  "HireManager_Family_Description_extra4": {
+    "en": "Before you can appoint them as {B_OCC_MGR_C}master{##}, they must first join the {B_GUILD_C}guild{##}, and you should make sure to train them accordingly. Workers are more {CHAR_PRO_C}productive{##} at {A_ACT_CRA_C}crafting{##} when their master is also skilled in {S_HAN_C}handicraft{##}, while other {A_ACT_C}tasks{##} may benefit from different {S_C}skills{##}.",
+    "uk": "Перш ніж Ви призначите його {B_OCC_MGR_C}майстром{##}, він має вступити до {B_GUILD_C}гільдії{##}, і Вам слід відповідно його навчити. Працівники більш {CHAR_PRO_C}продуктивні{##} у {A_ACT_CRA_C}виготовленні{##}, коли їхній майстер також вправний у {S_HAN_C}ремеслі{##}, тоді як для інших {A_ACT_C}завдань{##} можуть знадобитися інші {S_C}навички{##}."
+  },
+  "HireManager_Family_DisplayName": {
+    "en": "Assign a Master",
+    "uk": "Призначити майстра"
+  },
+  "HireManager_Family_DisplayName_alt": {
+    "en": "Assign a Dynasty Member as Master",
+    "uk": "Призначити члена династії майстром"
+  },
+  "HireManager_Guard_Family_DisplayName": {
+    "en": "Assign a Dynasty Member as Guard Master",
+    "uk": "Призначити члена династії майстром-вартовим"
+  },
+  "HireManager_Innkeeper_Family_DisplayName": {
+    "en": "Assign a Dynasty Member as Innkeeper Master",
+    "uk": "Призначити члена династії майстром-шинкарем"
+  },
+  "HireManager_Joiner_Family_DisplayName": {
+    "en": "Assign a Dynasty Member as Joiner Master",
+    "uk": "Призначити члена династії майстром-столяром"
+  },
+  "HireManager_Mason_Family_DisplayName": {
+    "en": "Assign a Dynasty Member as Mason Master",
+    "uk": "Призначити члена династії майстром-каменярем"
+  },
+  "HireManager_Perfumer_Family_DisplayName": {
+    "en": "Assign a Dynasty Member as Perfumer Master",
+    "uk": "Призначити члена династії майстром-парфумером"
+  },
+  "HireManager_Preacher_Family_DisplayName": {
+    "en": "Assign a Dynasty Member as Preacher Master",
+    "uk": "Призначити члена династії майстром-проповідником"
+  },
+  "HireManager_Robber_Family_DisplayName": {
+    "en": "Assign a Dynasty Member as Robber Master",
+    "uk": "Призначити члена династії майстром-розбійником"
+  },
+  "HireManager_Smith_Family_DisplayName": {
+    "en": "Assign a Dynasty Member as Smith Master",
+    "uk": "Призначити члена династії майстром-ковалем"
+  },
+  "HireManager_Tailor_Family_DisplayName": {
+    "en": "Assign a Dynasty Member as Tailor Master",
+    "uk": "Призначити члена династії майстром-кравцем"
+  },
+  "HireManager_Thief_Family_DisplayName": {
+    "en": "Assign a Dynasty Member as Thief Master",
+    "uk": "Призначити члена династії майстром-злодієм"
+  },
+  "HoldABanquet_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HoldABanquet_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ImproveBuilding_Description": {
+    "en": "Strengthen a building with new buttresses and fresh mortar — work suited to strong {S_HAN_C}handicraft{##} skills.",
+    "uk": "Зміцніть будівлю новими опорами та свіжим розчином — робота, що потребує міцної навички {S_HAN_C}ремесла{##}."
+  },
+  "ImproveBuilding_DisplayName": {
+    "en": "Improve Structure",
+    "uk": "Поліпшити будівлю"
+  },
+  "ImproveCarts_Description": {
+    "en": "Reinforce a cart with fresh beams and tightened bindings — best done by skilled {S_HAN_C}handicraft{##} hands.",
+    "uk": "Зміцніть віз новими балками й підтягнутими кріпленнями — найкраще з цим впораються вправні руки з навичкою {S_HAN_C}ремесла{##}."
+  },
+  "ImproveCarts_DisplayName": {
+    "en": "Improve Carts",
+    "uk": "Поліпшити віз"
+  },
+  "ImproveHelper_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ImproveHelper_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ImproveRoadHub_Description": {
+    "en": "Have stone masons level the road and lay new paving stones — work best done with solid {S_HAN_C}handicraft{##}.",
+    "uk": "Накажіть каменярам вирівняти дорогу й покласти нову бруківку — робота, що вимагає доброго {S_HAN_C}ремесла{##}."
+  },
+  "ImproveRoadHub_DisplayName": {
+    "en": "Improve Quarter",
+    "uk": "Поліпшити квартал"
+  },
+  "ImproveSkillAction_Prompt": {
+    "en": "Improve Skills",
+    "uk": "Поліпшити навички"
+  },
+  "ImproveSkill_Combat_Button": {
+    "en": "Improve Martial",
+    "uk": "Поліпшити бойові навички"
+  },
+  "ImproveSkill_Description": {
+    "en": "Select a skill to improve by one point.",
+    "uk": "Виберіть навичку, яку поліпшити на один пункт."
+  },
+  "ImproveSkill_DisplayName": {
+    "en": "Improve Skill",
+    "uk": "Поліпшити навичку"
+  },
+  "ImproveSkill_Handicraft_Button": {
+    "en": "Improve Handicraft",
+    "uk": "Поліпшити ремесло"
+  },
+  "ImproveSkill_Negotiation_Button": {
+    "en": "Improve Negotiation",
+    "uk": "Поліпшити торг"
+  },
+  "ImproveSkill_Rhetoric_Button": {
+    "en": "Improve Rhetoric",
+    "uk": "Поліпшити красномовство"
+  },
+  "ImproveSkill_Stealth_Button": {
+    "en": "Improve Roguery",
+    "uk": "Поліпшити шахрайство"
+  },
+  "InspectBusiness_Description": {
+    "en": "Send your most {S_STE_C}street-smart{##} guard to inspect someone's business. You may uncover {CR_EVI_C}evidence{##} of the owner's misdeeds.",
+    "uk": "Відправте свого найбільш {S_STE_C}кмітливого{##} вартового перевірити чиюсь справу. Ви можете виявити {CR_EVI_C}докази{##} провин власника."
+  },
+  "InspectBusiness_DisplayName": {
+    "en": "Inspect Business",
+    "uk": "Перевірити справу"
+  },
+  "InspireFear_Description": {
+    "en": "You don't raise your voice. You don't make threats. You just let them feel it — your status, your power, your reach. A silent reminder: ‘I'm above you. Act accordingly.'",
+    "uk": "Ви не підвищуєте голосу. Не погрожуєте. Ви просто даєте відчути — свій статус, свою владу, свій вплив. Мовчазне нагадування: «Я вище за тебе. Дій відповідно»."
+  },
+  "InspireFear_DisplayName": {
+    "en": "Inspire Fear",
+    "uk": "Навіяти страх"
+  },
+  "Insult_Description": {
+    "en": "Tell them their wit is smaller than their signet ring. The reply may come in the form of a duel.",
+    "uk": "Скажіть їм, що їхній розум менший за їхній перстень-печатку. Відповіддю може стати виклик на дуель."
+  },
+  "Insult_DisplayName": {
+    "en": "Insult",
+    "uk": "Образа"
+  },
+  "Kidnap_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Kidnap_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Lampoon_Description": {
+    "en": "Words can wound deeper than blades. Craft a biting satire to shame your target in public. The sharper your {S_RHE_C}rhetoric{##}, the sharper the sting.",
+    "uk": "Слова ранять глибше за клинки. Складіть в’їдливий пасквіль, щоб зганьбити ціль привселюдно. Що гостріше Ваше {S_RHE_C}красномовство{##}, то болючіше вжалить."
+  },
+  "Lampoon_DisplayName": {
+    "en": "Write Lampoon",
+    "uk": "Написати пасквіль"
+  },
+  "LeadershipTraining_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "LeadershipTraining_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Description": {
+    "en": "If you seek a little inspiration, start with a simple tune.\nYou might get ONE of these results:",
+    "uk": "Якщо шукаєте натхнення, почніть із простенької мелодії.\nВи можете отримати ОДИН із цих результатів:"
+  },
+  "ListenToBard_DisplayName": {
+    "en": "Watch the Bard Perform",
+    "uk": "Послухати виступ барда"
+  },
+  "ListenToBard_Result_Combat": {
+    "en": "Every tavern song ends with someone getting hit — you take notes.",
+    "uk": "Кожна шинкова пісня закінчується тим, що хтось отримує стусана — Ви робите нотатки."
+  },
+  "ListenToBard_Result_Handicraft": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Negotiation": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Nothing": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Rhetoric": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Alchemist": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_GraveyardWarden": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Guard": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Innkeeper": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Joiner": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Mason": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_MoneyLender": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Perfumer": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Preacher": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Robber": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Smith": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Tailor": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Thief": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Trader": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_TravellingEntertainer": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Standing_Workers": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ListenToBard_Result_Stealth": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "LivePerformance_Description": {
+    "en": "Jokes, songs, whatever they're good at — put the worker on stage. You'll want to {A_ACT_TRALIVPER_C}rehearse{##} them first, as good {S_RHE_C}rhetoric{##} is bound to {B_PARAM_ATT_C}draw a bigger crowd{##}.",
+    "uk": "Жарти, пісні — байдуже, у чому вони добрі, — виведіть працівника на сцену. Варто спершу {A_ACT_TRALIVPER_C}репетирувати{##}, адже гарне {S_RHE_C}красномовство{##} неодмінно {B_PARAM_ATT_C}приверне більше відвідувачів{##}."
+  },
+  "LivePerformance_DisplayName": {
+    "en": "Put on a Show",
+    "uk": "Влаштувати виступ"
+  },
+  "LongDistanceTrade_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "LongDistanceTrade_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "LowerDevastation_Description": {
+    "en": "Authorize reconstruction to address damage and restore basic order.",
+    "uk": "Дозвольте відбудову, щоб усунути шкоду та відновити базовий лад."
+  },
+  "LowerDevastation_DisplayName": {
+    "en": "Restore Infrastructure",
+    "uk": "Відновити інфраструктуру"
+  },
+  "LowerUnrest_Description": {
+    "en": "Intervene to contain unrest and restore public calm.",
+    "uk": "Втрутіться, щоб стримати заворушення й повернути громадський спокій."
+  },
+  "LowerUnrest_DisplayName": {
+    "en": "Quell Unrest",
+    "uk": "Придушити заворушення"
+  },
+  "MakeAConfession_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "MakeAConfession_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "MakePeace_Description": {
+    "en": "Step in and force a little peace between two stubborn souls, raising their {CHAR_STA_C}opinion{##} of each other.",
+    "uk": "Втрутіться й силоміць примиріть двох упертюхів, підвищивши їхню {CHAR_STA_C}прихильність{##} одне до одного."
+  },
+  "MakePeace_DisplayName": {
+    "en": "Make Peace",
+    "uk": "Помирити"
+  },
+  "MakeSomeoneAge_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "MakeSomeoneAge_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "MoneyExchange_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "MoneyExchange_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "MoneyLaundering_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "MoneyLaundering_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "NegotiateMarketAccess_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "NegotiateMarketAccess_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "NoActionsAvailable_Building_Label": {
+    "en": "No actions are currently available for the selected building.",
+    "uk": "Наразі для обраної будівлі немає доступних дій."
+  },
+  "OfferLoan_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "OfferLoan_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "OfficePatronage_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "OfficePatronage_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "OrderAKidnap_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "OrderAKidnap_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "OverseeProduction_Description": {
+    "en": "Your presence alone stirs effort. {CHAR_PRO_C}Productivity{##} rises when the boss is watching.",
+    "uk": "Сама Ваша присутність підганяє до старання. {CHAR_PRO_C}Продуктивність{##} зростає, коли хазяїн наглядає."
+  },
+  "OverseeProduction_DisplayName": {
+    "en": "Oversee Work",
+    "uk": "Наглядати за роботою"
+  },
+  "PactWithTheDead_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PactWithTheDead_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PastoralVisit_Description": {
+    "en": "A servant visits the home of a troubled soul, offering absolution for one of their {CR_CRI_C}sins{##}. The better their {S_RHE_C}rhetoric{##} and the less {CR_SEV_C}severe{##} the crime, the higher the chance of grace — and if forgiven, heaven answers in return with {CHAR_AP}.",
+    "uk": "Служитель відвідує дім змученої душі, пропонуючи відпущення одного з її {CR_CRI_C}гріхів{##}. Що краще його {S_RHE_C}красномовство{##} і що менш {CR_SEV_C}тяжкий{##} злочин, то вищий шанс на милість — а якщо гріх відпущено, небеса відповідають {CHAR_AP}."
+  },
+  "PastoralVisit_DisplayName": {
+    "en": "Give Absolution",
+    "uk": "Відпустити гріхи"
+  },
+  "Patrol_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Patrol_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PayOneTimeBonus_Description": {
+    "en": "Give the workers a little extra. Let them think they've found something worth staying for.",
+    "uk": "Дайте працівникам трохи більше. Хай думають, що знайшли місце, заради якого варто лишитися."
+  },
+  "PayOneTimeBonus_DisplayName": {
+    "en": "Pay One Time Bonus",
+    "uk": "Виплатити одноразову винагороду"
+  },
+  "PestControl_Description": {
+    "en": "Fumes for insects, powders for rats, and something “special” for the stubborn ones.\nBest handled by workers skilled in {S_HAN_C}handicraft{##}.",
+    "uk": "Дим для комах, порошки для щурів і щось «особливе» для найупертіших.\nНайкраще довірити працівникам, вправним у {S_HAN_C}ремеслі{##}."
+  },
+  "PestControl_DisplayName": {
+    "en": "Pest Control",
+    "uk": "Боротьба зі шкідниками"
+  },
+  "PhysicianCheck_Description": {
+    "en": "Have yourself examined by a physician. Stand still. Try not to ask questions.",
+    "uk": "Пройдіть огляд у лікаря. Стійте спокійно. Намагайтеся не ставити запитань."
+  },
+  "PhysicianCheck_Description_extra1": {
+    "en": "If you are truly {ST_CHR_SIC_C}ill{##} or {ST_INJ_C}injured{##}, we recommend {A_HEA_C}Seek a Cure{##} instead.",
+    "uk": "Якщо Ви справді {ST_CHR_SIC_C}хворі{##} чи {ST_INJ_C}поранені{##}, радимо натомість {A_HEA_C}Знайти ліки{##}."
+  },
+  "PhysicianCheck_DisplayName": {
+    "en": "Routine Examination",
+    "uk": "Звичайний огляд"
+  },
+  "PickpocketCitizen_Description": {
+    "en": "Something has caught your eye — and it is not yours. Set your thieves upon it: the more {S_STE_C}silver-tongued{##} they are, the greater their odds — so long as the current owner stays none the wiser and proves {S_STE_C}easy to fool{##}.",
+    "uk": "Дещо привернуло Вашу увагу — і це не Ваше. Наведіть на це своїх злодіїв: що більш {S_STE_C}майстерні{##} вони в облуді, то вищі шанси — якщо тільки нинішній власник нічого не запідозрить і виявиться {S_STE_C}легковірним{##}."
+  },
+  "PickpocketCitizen_DisplayName": {
+    "en": "Scam & Steal",
+    "uk": "Обшахрувати й обікрасти"
+  },
+  "PickpocketQuarter_Description": {
+    "en": "Send your thieves to pickpocket a {C_QUA_C}quarter{##}. The more {S_STE_C}roguish{##} they are and the more populated the area, the greater the haul.",
+    "uk": "Відправте своїх злодіїв обчистити кишені мешканців {C_QUA_C}кварталу{##}. Що більш {S_STE_C}вправні{##} вони й що людніший район, то більша здобич."
+  },
+  "PickpocketQuarter_DisplayName": {
+    "en": "Pickpocket",
+    "uk": "Кишенькова крадіжка"
+  },
+  "Pickpocketing_Description": {
+    "en": "Send thieves to a {C_QUA_C}quarter{##} to lighten purses. The more {S_STE_C}roguish{##} the crew, the richer the haul.",
+    "uk": "Відправте злодіїв до {C_QUA_C}кварталу{##} полегшити чужі гаманці. Що майстерніша ватага в {S_STE_C}шахрайстві{##}, то багатша здобич."
+  },
+  "Pickpocketing_DisplayName": {
+    "en": "Pickpocket",
+    "uk": "Кишенькова крадіжка"
+  },
+  "PlaceRaven_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PlaceRaven_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PlayRobinHood_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PlayRobinHood_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PrayForOthers_Description": {
+    "en": "Offer a prayer for someone, asking fortune to lean their way.",
+    "uk": "Проказати молитву за когось, аби доля була до нього прихильнішою."
+  },
+  "PrayForOthers_DisplayName": {
+    "en": "Pray for Others",
+    "uk": "Молитися за інших"
+  },
+  "PrayInShrine02_Description": {
+    "en": "A moment is taken to ask for safe hands in a business of your choosing, sparing your workers from {ACC_C}accidents{##}.",
+    "uk": "Приділіть хвилину, щоб попросити безпечних рук для обраної справи й уберегти своїх працівників від {ACC_C}нещасних випадків{##}."
+  },
+  "PrayInShrine02_DisplayName": {
+    "en": "Pray for the Workers",
+    "uk": "Молитися за працівників"
+  },
+  "PrayInShrine_Descriprition": {
+    "en": "Say a gentle prayer for your children, wishing them {SE_BLE_C}blessings{##} and strong {CHAR_HP_C}health{##}.",
+    "uk": "Проказати тиху молитву за своїх дітей, побажавши їм {SE_BLE_C}благословення{##} й міцного {CHAR_HP_C}здоров’я{##}."
+  },
+  "PrayInShrine_DisplayName": {
+    "en": "Pray for the Children",
+    "uk": "Молитися за дітей"
+  },
+  "PrayInShrine_DisplayName_alt": {
+    "en": "Pray in Shrine",
+    "uk": "Молитися в святині"
+  },
+  "Pray_Description": {
+    "en": "Spend time in prayer. The church may not answer, but something always does. ",
+    "uk": "Проведіть час у молитві. Церква може й не відповісти, але щось завжди відповідає."
+  },
+  "Pray_DisplayName": {
+    "en": "Pray",
+    "uk": "Помолитися"
+  },
+  "PreachingListenTo_Description": {
+    "en": "Listen to the preaching — or stand up and object to the preacher's words.",
+    "uk": "Слухайте проповідь — або підведіться й заперечте словам проповідника."
+  },
+  "PreachingListenTo_DisplayName": {
+    "en": "Attend Sermon",
+    "uk": "Відвідати проповідь"
+  },
+  "PreachingListenTo_Option_Listen": {
+    "en": "Listen to the preaching",
+    "uk": "Слухати проповідь"
+  },
+  "PreachingListenTo_Option_Object": {
+    "en": "Object",
+    "uk": "Заперечити"
+  },
+  "PrepareBardPerformance_Description": {
+    "en": "Tune the room, set the mood, and let the bard work their magic. A good performance draws customers, lifts your workers' spirits, and carries your name a little farther across town.",
+    "uk": "Налаштуйте залу, створіть настрій — і хай бард творить своє диво. Гарний виступ приваблює покупців, підіймає дух Ваших працівників і трохи далі несе Ваше ім’я містом."
+  },
+  "PrepareBardPerformance_DisplayName": {
+    "en": "Prepare a Bard Performance",
+    "uk": "Підготувати виступ барда"
+  },
+  "PreparePlay_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PreparePlay_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PrepareSermon_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PrepareSermon_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PrepareTradeFair_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PrepareTradeFair_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PressCharges_Description": {
+    "en": "Use {CR_EVI_C}evidence{##} to press charges. A {CR_TRI_C}trial{##} against the accused will begin next {C_TRN_C}turn{##}.",
+    "uk": "Скористайтеся {CR_EVI_C}доказами{##}, щоб висунути звинувачення. {CR_TRI_C}Суд{##} над звинуваченим почнеться наступного {C_TRN_C}ходу{##}."
+  },
+  "PressCharges_DisplayName": {
+    "en": "Press Charges",
+    "uk": "Висунути звинувачення"
+  },
+  "PriceNegotiation_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PriceNegotiation_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PrivateTime_Description": {
+    "en": "Some duties require privacy. A quiet moment together may strengthen your {CHAR_STA_C}bond{##}, and possibly bless your household with an {CHAR_HEI_C}heir{##}.",
+    "uk": "Деякі обов’язки вимагають усамітнення. Тиха хвилина удвох може зміцнити Вашу взаємну {CHAR_STA_C}прихильність{##} і, можливо, благословити родину {CHAR_HEI_C}спадкоємцем{##}."
+  },
+  "PrivateTime_DisplayName": {
+    "en": "Share a Private Moment",
+    "uk": "Провести час наодинці"
+  },
+  "PromoteWorker_Button": {
+    "en": "Promote",
+    "uk": "Підвищити"
+  },
+  "PromoteWorker_Description": {
+    "en": "Recognize hard-earned experience with a promotion. They become more {CHAR_PRO_C}productive{##}, less prone to {B_PARAM_ACCPRO_ACC}accidents{##} — and worth the higher wage.",
+    "uk": "Визнайте заслужений досвід підвищенням. Працівник стає {CHAR_PRO_C}продуктивнішим{##}, менш схильним до {B_PARAM_ACCPRO_ACC}нещасних випадків{##} — і вартий вищої платні."
+  },
+  "PromoteWorker_DisplayName": {
+    "en": "Promote Worker",
+    "uk": "Підвищити працівника"
+  },
+  "ProtectCityCouncil_Description": {
+    "en": "Send your {S_COM_C}toughest{##} guards to protect the Town Hall. The council rewards the service — more generously when the quarter's {QUA_REP_C}reputation{##} is worth protecting.",
+    "uk": "Відправте своїх {S_COM_C}найміцніших{##} вартових охороняти ратушу. Рада винагороджує таку службу — щедріше, якщо {QUA_REP_C}репутація{##} кварталу варта захисту."
+  },
+  "ProtectCityCouncil_DisplayName": {
+    "en": "Guard the Town Hall",
+    "uk": "Охороняти ратушу"
+  },
+  "PublicService_Description": {
+    "en": "A short civic duty — nothing grand. The better your {S_RHE_C}rhetoric{##}, the better the pay. And who knows — you might even make {CHAR_STA_C}friends{##} — or enemies — among the {O_CHA_TOWSER_C}Town Servants{##}.",
+    "uk": "Короткий громадський обов’язок — нічого грандіозного. Що краще Ваше {S_RHE_C}красномовство{##}, то більша платня. І хто знає — можливо, Ви навіть здобудете {CHAR_STA_C}друзів{##} — чи ворогів — серед {O_CHA_TOWSER_C}міських служителів{##}."
+  },
+  "PublicService_DisplayName": {
+    "en": "Sign Up for Public Service",
+    "uk": "Записатися на громадську службу"
+  },
+  "RemoveFromOffice_Description": {
+    "en": "Choose someone below you in your {O_CHA_C}chamber{##} and remove them from {O_TYP_CIVOFF_C}office{##}.",
+    "uk": "Виберіть когось нижчого за Вас у своїй {O_CHA_C}палаті{##} й зніміть його з {O_TYP_CIVOFF_C}посади{##}."
+  },
+  "RemoveFromOffice_Description_extra1": {
+    "en": "The removal takes effect next {C_TRN_C}turn{##}.",
+    "uk": "Звільнення набуде чинності наступного {C_TRN_C}ходу{##}."
+  },
+  "RemoveFromOffice_DisplayName": {
+    "en": "Dismiss from Office",
+    "uk": "Звільнити з посади"
+  },
+  "RentGrave_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "RentGrave_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Repair_Confirmation_Prompt": {
+    "en": "Confirm repair for {value}?",
+    "uk": "Підтвердити ремонт за {value}?"
+  },
+  "Repair_Confirmation_Prompt_alt": {
+    "en": "Shall the repairs begin?",
+    "uk": "Розпочати ремонт?"
+  },
+  "Repair_DisplayName": {
+    "en": "Repair",
+    "uk": "Ремонт"
+  },
+  "RepayLoan_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "RepayLoan_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Rescue_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Rescue_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ResignDynasty_Description": {
+    "en": "If you think your {CHAR_HEI_C}heir{##} is ready to assume the dynasty, you may bid this cruel world farewell and let them take up the mantle.",
+    "uk": "Якщо вважаєте, що Ваш {CHAR_HEI_C}спадкоємець{##} готовий очолити династію, Ви можете попрощатися з цим жорстоким світом і передати йому мантію."
+  },
+  "ResignDynasty_Description_extra1": {
+    "en": "Gameplay continues with your {CHAR_HEI_C}heir{##} as the active character. No heir means game over.",
+    "uk": "Гра продовжиться з вашим {CHAR_HEI_C}спадкоємцем{##} як активним персонажем. Відсутність спадкоємця означає кінець гри."
+  },
+  "ResignDynasty_DisplayName": {
+    "en": "Pass the Mantle",
+    "uk": "Передати мантію"
+  },
+  "ResignFromOffice_Description": {
+    "en": "If your time has come, you may choose to resign from your {O_TYP_CIVOFF_C}office{##}.",
+    "uk": "Якщо Ваш час настав, Ви можете піти у відставку з {O_TYP_CIVOFF_C}посади{##}."
+  },
+  "ResignFromOffice_Description_extra": {
+    "en": "Are you sure you want to resign?",
+    "uk": "Ви впевнені, що хочете скласти повноваження?"
+  },
+  "ResignFromOffice_DisplayName": {
+    "en": "Resign from Office",
+    "uk": "Скласти повноваження"
+  },
+  "ResignFromOffice_PromptButton": {
+    "en": "Resign",
+    "uk": "Скласти повноваження"
+  },
+  "RestoreHealth_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "RestoreHealth_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "RobberWaylayCarts_Description": {
+    "en": "Send your robbers to lie in wait and waylay a passing cart. Poorly {A_HIRESC_C}protected{##} transports are easy prey — others may put up a {CO_COM_C}fight{##}.",
+    "uk": "Відправте своїх розбійників у засідку на віз, що проїжджає. Погано {A_HIRESC_C}захищені{##} перевезення — легка здобич, інші можуть чинити {CO_COM_C}опір{##}."
+  },
+  "RobberWaylayCarts_DisplayName": {
+    "en": "Waylay Cart",
+    "uk": "Засідка на віз"
+  },
+  "Robbery_Description": {
+    "en": "Find a high-{B_PARAM_VAL_C}value{##} building with little {B_PARAM_BURPRO_C}security{##}, and send your most {S_STE_C}roguish{##} rogues to take what they can carry.",
+    "uk": "Знайдіть будівлю високої {B_PARAM_VAL_C}вартості{##} зі слабким {B_PARAM_BURPRO_C}захистом від зломів{##} і відправте найбільш {S_STE_C}вправних{##} шахраїв узяти все, що вдасться забрати."
+  },
+  "Robbery_Description_Robber": {
+    "en": "Find a high-{B_PARAM_VAL_C}value{##} building with little {B_PARAM_BURPRO_C}security{##}, and send your most {S_STE_C}roguish{##} robbers to take what they can carry.",
+    "uk": "Знайдіть будівлю високої {B_PARAM_VAL_C}вартості{##} зі слабким {B_PARAM_BURPRO_C}захистом від зломів{##} і відправте найбільш {S_STE_C}вправних{##} розбійників узяти все, що вдасться забрати."
+  },
+  "Robbery_Description_Thief": {
+    "en": "Find a high-{B_PARAM_VAL_C}value{##} building with little {B_PARAM_BURPRO_C}security{##}, and send your most {S_STE_C}roguish{##} thieves to take what they can carry.",
+    "uk": "Знайдіть будівлю високої {B_PARAM_VAL_C}вартості{##} зі слабким {B_PARAM_BURPRO_C}захистом від зломів{##} і відправте найбільш {S_STE_C}вправних{##} злодіїв узяти все, що вдасться забрати."
+  },
+  "Robbery_DisplayName": {
+    "en": "Break In",
+    "uk": "Вдертися"
+  },
+  "Robbery_DisplayName_Robber": {
+    "en": "Break In",
+    "uk": "Вдертися"
+  },
+  "Robbery_DisplayName_Thief": {
+    "en": "Break In",
+    "uk": "Вдертися"
+  },
+  "Sabotage_Description": {
+    "en": "Pay the right hands to cause a little chaos — fire, damage, disruption. {S_STE_C}roguery{##} helps you find someone who won't botch the job… or name names.",
+    "uk": "Заплатіть потрібним рукам, щоб влаштувати трохи хаосу — пожежу, шкоду, безлад. {S_STE_C}Шахрайство{##} допомагає знайти того, хто не завалить справу… і не викаже імен."
+  },
+  "Sabotage_DisplayName": {
+    "en": "Sabotage",
+    "uk": "Саботаж"
+  },
+  "ScentEnhancement_Description": {
+    "en": "Perfumers sweeten the air, the mood, and the profits. Few resist a place this {B_PARAM_ATT_C}inviting{##}. \nPick a worker with strong {S_HAN_C}handicraft{##} skills for the job.",
+    "uk": "Парфумери підсолоджують повітря, настрій і прибутки. Мало хто встоїть перед таким {B_PARAM_ATT_C}привабливим{##} місцем.\nОберіть для цього працівника з високою вправністю в {S_HAN_C}ремеслі{##}."
+  },
+  "ScentEnhancement_DisplayName": {
+    "en": "Scent Enhancement",
+    "uk": "Ароматизація"
+  },
+  "ScoutBuilding_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ScoutBuilding_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Seance_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Seance_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SeeCreditWorthnessOfOtherCitizens_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SeeCreditWorthnessOfOtherCitizens_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SeekCure_Description": {
+    "en": "If you are {ST_CHR_SIC_C}sick{##} or {ST_INJ_C}injured{##}, the physician offers the most effective treatment.\nLeeches might be involved.",
+    "uk": "Якщо Ви {ST_CHR_SIC_C}хворі{##} чи {ST_INJ_C}поранені{##}, лікар пропонує найефективніше лікування.\nМожливо, не обійдеться без п’явок."
+  },
+  "SeekCure_DisplayName": {
+    "en": "Seek a Cure",
+    "uk": "Знайти ліки"
+  },
+  "SelectHeir_Button": {
+    "en": "Confirm Successor",
+    "uk": "Підтвердити наступника"
+  },
+  "SelectHeir_Description": {
+    "en": "Choose who will inherit your titles, property, and wealth when your current character dies. An {CHAR_HEI_C}heir{##} keeps the game going and your {CHAR_DYN_C}dynasty{##} alive.",
+    "uk": "Виберіть, хто успадкує Ваші титули, майно й статки після смерті нинішнього персонажа. {CHAR_HEI_C}Спадкоємець{##} дозволяє грі тривати, а Вашій {CHAR_DYN_C}династії{##} — жити."
+  },
+  "SelectHeir_DisplayName": {
+    "en": "Declare Your Heir",
+    "uk": "Оголосити спадкоємця"
+  },
+  "SellEvidence_Description": {
+    "en": "Someone will pay for the truth. You might as well be the one collecting.\nThe higher the culprit's {T_C}title{##} and the {CR_EVISTR_C}stronger{##} the evidence, the heavier the purse.",
+    "uk": "Хтось заплатить за правду. Чому б не заробити на цьому самому?\nЧим вищий {T_C}титул{##} винуватця і чим {CR_EVISTR_C}переконливіші{##} докази, тим важчий гаманець."
+  },
+  "SellEvidence_DisplayName": {
+    "en": "Sell Evidence",
+    "uk": "Продати докази"
+  },
+  "SendHelp_Description": {
+    "en": "Send coin with a letter of support. \nIt may serve as thanks, reconciliation, or simple kindness — a gesture offered freely, without expectation.",
+    "uk": "Надішліть монети разом із листом підтримки.\nЦе може бути подяка, примирення чи просто доброта — жест, зроблений без розрахунку на віддяку."
+  },
+  "SendHelp_DisplayName": {
+    "en": "Extend a Hand",
+    "uk": "Простягнути руку допомоги"
+  },
+  "SendOffFogOfHorror_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SendOffFogOfHorror_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SendOutSpies_Description": {
+    "en": "Dispatch spies to gather whatever secrets the town is careless enough to spill.",
+    "uk": "Відправте шпигунів збирати всі таємниці, які місто необережно розкриває."
+  },
+  "SendOutSpies_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SetFree_Description": {
+    "en": "Clear the charges and order the {ST_CHR_IMP_C}prisoner{##}'s release. The freed soul will be {CHAR_STA_C}grateful{##} — others may not be.",
+    "uk": "Зніміть звинувачення й накажіть звільнити {ST_CHR_IMP_C}в’язня{##}. Звільнена душа буде {CHAR_STA_C}вдячна{##} — інші, можливо, ні."
+  },
+  "SetFree_DisplayName": {
+    "en": "Order Release",
+    "uk": "Наказати звільнити"
+  },
+  "SetInterest_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SetInterest_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SetKidnapTreatment_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SetKidnapTreatment_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SetMoneyExchangeFees_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SetMoneyExchangeFees_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SewClothes_Description": {
+    "en": "Send your workers to someone's home to take their measurements and craft a personalized style. \n\nWith skilled {S_HAN_C}handicraft{##}, that touch of refinement can lift their {CHAR_STA_C}reputation{##} in the eyes of the town.",
+    "uk": "Відправте своїх працівників до чиєгось дому зняти мірки й пошити персональне вбрання.\n\nЗ вправним {S_HAN_C}ремеслом{##} такий вишуканий штрих може підняти {CHAR_STA_C}прихильність{##} міста до цієї людини."
+  },
+  "SewClothes_DisplayName": {
+    "en": "Refine Their Attire",
+    "uk": "Оновити вбрання"
+  },
+  "ShootCannonBallDung_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "ShootCannonBallDung_DisplayName": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "ShootCannonBallFire_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "ShootCannonBallFire_DisplayName": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "ShootCannonBall_Description": {
+    "en": "Choose your ammunition, take aim at any building in the city, and let the cannon speak. A well-placed shot can wreak havoc on its target, with different ammunition bringing its own unpleasant surprises. Miss or hit, however, firing a cannon at your fellow citizens is difficult to overlook—and even harder to explain to the authorities.",
+    "uk": "Оберіть боєприпас, прицільтеся в будь-яку будівлю в місті, і хай гармата промовить. Влучний постріл здатен завдати цілі великої шкоди, а різні боєприпаси приносять свої неприємні сюрпризи. Та влучите Ви чи промахнетеся — стрілянину з гармати по своїх же містянах важко не помітити, а пояснити владі — ще важче."
+  },
+  "ShootCannonBall_DisplayName": {
+    "en": "Shoot the Cannon",
+    "uk": "Вистрелити з гармати"
+  },
+  "ShowDeference_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ShowDeference_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ShowSkills_Combat_Option": {
+    "en": "Perform a combat scene",
+    "uk": "Розіграти бойову сцену"
+  },
+  "ShowSkills_Combat_Option_extra1": {
+    "en": "Tests {S_COM_C}martial{##}",
+    "uk": "Перевіряє {S_COM_C}бойові навички{##}"
+  },
+  "ShowSkills_Description": {
+    "en": "Put on a performance to earn tips and public applause. Especially popular among common folk and workers.",
+    "uk": "Влаштуйте виступ, щоб заробити чайові й оплески публіки. Особливо популярно серед простого люду й працівників."
+  },
+  "ShowSkills_DisplayName": {
+    "en": "Show Your Skills",
+    "uk": "Показати свою майстерність"
+  },
+  "ShowSkills_Handicraft_Option": {
+    "en": "Play an instrument",
+    "uk": "Зіграти на інструменті"
+  },
+  "ShowSkills_Handicraft_Option_extra1": {
+    "en": "Tests {S_HAN_C}handicraft{##}",
+    "uk": "Перевіряє {S_HAN_C}ремесло{##}"
+  },
+  "ShowSkills_Rhetoric_Option": {
+    "en": "Recite a poem",
+    "uk": "Прочитати вірш"
+  },
+  "ShowSkills_Rhetoric_Option_extra1": {
+    "en": "Tests {S_RHE_C}rhetoric{##}",
+    "uk": "Перевіряє {S_RHE_C}красномовство{##}"
+  },
+  "SignUpForGuardService_Description": {
+    "en": "A dangerous guard duty, brief but {CHAR_ENE_C}demanding{##}.\nPay scales with {S_COM_C}martial{##} skill, and reducing {QUA_CRI_C}crime{##} may earn you {CHAR_STA_C}favor{##} among the {O_CHA_TOWBAI_C}Town Bailiffs{##}.",
+    "uk": "Небезпечна варта, коротка, але {CHAR_ENE_C}виснажлива{##}.\nПлатня залежить від {S_COM_C}бойових навичок{##}, а зниження {QUA_CRI_C}злочинності{##} може здобути вам {CHAR_STA_C}прихильність{##} серед {O_CHA_TOWBAI_C}міських бейліфів{##}."
+  },
+  "SignUpForGuardService_DisplayName": {
+    "en": "Sign Up for Guard Service",
+    "uk": "Записатися до варти"
+  },
+  "SitAtRegularsTable_Description": {
+    "en": "A seat among the regulars buys more than company — it buys the kind of information only ale can loosen. Stay long enough and someone will spill more than their drink.",
+    "uk": "Місце за столом завсідників купує більше, ніж компанію, — воно купує ті відомості, які розв’язує лише пиво. Затримайтеся достатньо довго, і хтось видасть більше, ніж прольє з кухля."
+  },
+  "SitAtRegularsTable_DisplayName": {
+    "en": "Join the Regulars' Table",
+    "uk": "Приєднатися до столу завсідників"
+  },
+  "SlapHelper_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SlapHelper_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "SmearReputation_Description": {
+    "en": "Love is a fragile thing. It would be a shame if something… happened to it. Sow doubt between two lovers and {S_RHE_C}convince{##} them they deserve better.",
+    "uk": "Кохання — річ крихка. Було б шкода, якби з ним щось… сталося. Посійте сумнів між двома закоханими й {S_RHE_C}переконайте{##} їх, що на краще заслуговують."
+  },
+  "SmearReputation_DisplayName": {
+    "en": "Sabotage Courtship",
+    "uk": "Саботувати залицяння"
+  },
+  "SnitchV2_Description": {
+    "en": "Dirty clothes, strange noises, secret lovers — people-watch and share your “valuable findings” with the {O_CHA_INF_C}informants{##}. No proof is required.\n\nStrong {S_NEG_C}negotiation{##} helps you get a better price for your gossip and may even turn up real {CR_EVI_C}evidence{##} of a crime.\n\nNot everyone appreciates being talked about, but {CHAR_STA_C}allies{##} in this chamber are useful.",
+    "uk": "Брудний одяг, дивні звуки, таємні коханці — стежте за людьми й діліться своїми «цінними спостереженнями» з {O_CHA_INF_C}інформаторами{##}. Доказів не потрібно.\n\nМіцний {S_NEG_C}торг{##} допомагає отримати кращу ціну за плітки й навіть може розкрити справжні {CR_EVI_C}докази{##} злочину.\n\nНе всім подобається, коли про них говорять, але {CHAR_STA_C}союзники{##} в цій палаті корисні."
+  },
+  "Snitch_Description": {
+    "en": "Dirty clothes, strange noises, secret lovers — people-watch and share your “valuable findings” with the {O_CHA_INF_C}informants{##}. No proof is required.\n\nStrong {S_STE_C}roguery{##} increases the pay and may even uncover real {CR_EVI_C}evidence{##} of a crime.\n\nNot everyone appreciates being talked about, but {CHAR_STA_C}allies{##} in this chamber are useful.",
+    "uk": "Брудний одяг, дивні звуки, таємні коханці — стежте за людьми й діліться своїми «цінними спостереженнями» з {O_CHA_INF_C}інформаторами{##}. Доказів не потрібно.\n\nСильне {S_STE_C}шахрайство{##} підвищує оплату й навіть може розкрити справжні {CR_EVI_C}докази{##} злочину.\n\nНе всім подобається, коли про них говорять, але {CHAR_STA_C}союзники{##} в цій палаті корисні."
+  },
+  "Snitch_DisplayName": {
+    "en": "Report Rumors",
+    "uk": "Донести про чутки"
+  },
+  "Socialize_Description": {
+    "en": "Buy a drink, share a laugh, make a friend — or a future favor.",
+    "uk": "Купіть випивку, поділіться сміхом, заведіть друга — чи майбутню послугу."
+  },
+  "Socialize_DisplayName": {
+    "en": "Socialize at the Inn",
+    "uk": "Поспілкуватися в шинку"
+  },
+  "SpouseHelp_Description": {
+    "en": "Ask your spouse to lend a hand in the business. Prosperity grows in the ledgers, if not always in the {ST_CHR_FERDEC_C}bedroom{##}.",
+    "uk": "Попросіть свого чоловіка/дружину допомогти у справі. Достаток зростає в облікових книгах, хоча не завжди в {ST_CHR_FERDEC_C}спальні{##}."
+  },
+  "SpouseHelp_DisplayName": {
+    "en": "Ask Spouse to Help",
+    "uk": "Попросити чоловіка/дружину про допомогу"
+  },
+  "StealHoney_Description": {
+    "en": "Steal the honey before its keeper can enjoy it, but mind the bees. They know a stranger when they see one.",
+    "uk": "Вкрадіть мед, поки власник не встиг ним насолодитися, але стережіться бджіл. Вони одразу впізнають чужинця."
+  },
+  "StealHoney_DisplayName": {
+    "en": "Steal Honey",
+    "uk": "Вкрасти мед"
+  },
+  "StealItemStorefrontOrMarketplace_Description": {
+    "en": "Send your most {S_STE_C}roguish{##} thieves to a shop or marketplace to steal an item. The only thing in their way is the building's {B_PARAM_BURPRO_C}security{##} — provided the owner wasn't foolish enough to neglect it.",
+    "uk": "Відправте своїх найбільш {S_STE_C}вправних{##} злодіїв до крамниці чи ринку, щоб украсти предмет. Єдина перешкода — {B_PARAM_BURPRO_C}захист від зломів{##} будівлі, якщо тільки власник не був настільки необачним, щоб знехтувати ним."
+  },
+  "StealItemStorefrontOrMarketplace_DisplayName": {
+    "en": "Shoplifting",
+    "uk": "Крадіжка з крамниці"
+  },
+  "StreetSermon_Description": {
+    "en": "Send a priest to carry your faith through the streets. The more convincing their {S_RHE_C}rhetoric{##}, the richer the offerings returned.",
+    "uk": "Відправте священника нести Вашу віру вулицями. Що переконливіше {S_RHE_C}красномовство{##}, то щедріші приношення повернуться."
+  },
+  "StreetSermon_DisplayName": {
+    "en": "Street Sermon",
+    "uk": "Вулична проповідь"
+  },
+  "StrengthenIronBars_Description": {
+    "en": "Send workers to strengthen a building's weak points with sturdier bars and hinges — work best done by those with strong {S_HAN_C}handicraft{##} skills.",
+    "uk": "Відправте працівників зміцнити слабкі місця будівлі міцнішими засувами й завісами — найкраще з цим впораються ті, хто вправний у {S_HAN_C}ремеслі{##}."
+  },
+  "StrengthenIronBars_DisplayName": {
+    "en": "Reinforce Security",
+    "uk": "Посилити охорону"
+  },
+  "SuppressCrime_Description": {
+    "en": "Coordinate patrols and raids. Crime does not survive sustained pressure.",
+    "uk": "Скоординуйте патрулі та облави. Злочинність не витримує постійного тиску."
+  },
+  "SuppressCrime_DisplayName": {
+    "en": "Suppress Crime",
+    "uk": "Придушити злочинність"
+  },
+  "TakeCareOfGraves_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "TakeCareOfGraves_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "TakeLoan_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "TakeLoan_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "TaxCollection_Description": {
+    "en": "Gather the town's dues. Some pay willingly. Others require encouragement.",
+    "uk": "Зберіть міські збори. Дехто платить охоче. Іншим потрібно нагадати."
+  },
+  "TaxCollection_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "TeachExpertise_Description": {
+    "en": "Provide hands-on training to a worker. {CHAR_XP_C}Experience{##} gained brings them closer to {A_TEAEXP_C}promotion{##}.",
+    "uk": "Проведіть практичне навчання з працівником. Здобутий {CHAR_XP_C}досвід{##} наближає його до {A_TEAEXP_C}підвищення{##}."
+  },
+  "TeachExpertise_DisplayName": {
+    "en": "Mentor",
+    "uk": "Наставляти"
+  },
+  "TeachExpertise_DisplayName_alt": {
+    "en": "Mentor Worker",
+    "uk": "Наставляти працівника"
+  },
+  "Threatening_Description": {
+    "en": "Use what you know — and let them know you know it. With {CR_EVI_C}evidence{##} in hand and {S_RHE_C}rhetoric{##} to uphold it, the warning doesn't need repeating.",
+    "uk": "Скористайтеся тим, що знаєте — і дайте зрозуміти, що знаєте. Маючи {CR_EVI_C}докази{##} на руках і {S_RHE_C}красномовство{##}, щоб їх підкріпити, застереження не доведеться повторювати."
+  },
+  "Threatening_DisplayName": {
+    "en": "Make a Threat",
+    "uk": "Погрозити"
+  },
+  "Torture_Description": {
+    "en": "Within locked walls, suffering can be administered to those already stripped of {ST_CHR_IMP_C}freedom{##}.",
+    "uk": "За замкненими стінами страждання можна завдати тим, хто вже позбавлений {ST_CHR_IMP_C}свободи{##}."
+  },
+  "Torture_DisplayName": {
+    "en": "Torture a Prisoner",
+    "uk": "Катувати в’язня"
+  },
+  "TradeForeignCurrency_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "TradeForeignCurrency_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "TrainChild_Description": {
+    "en": "Spend time together — skills are learned quickly at that age.",
+    "uk": "Проведіть час разом — у цьому віці навички засвоюються швидко."
+  },
+  "TrainChild_Description_extra1": {
+    "en": "A parent's hand guides best — grandchildren have their own parents for that.",
+    "uk": "Рука батьків веде найкраще — в онуків для цього є власні батьки."
+  },
+  "TrainChild_DisplayName": {
+    "en": "Train Your Child",
+    "uk": "Навчати дитину"
+  },
+  "TrainCombat_Description_Guard": {
+    "en": "Assign guards to train in {S_COM_C}martial{##} skill. More discipline, stronger strikes, better chances in battle.",
+    "uk": "Призначте вартових тренувати {S_COM_C}бойові навички{##}. Більше дисципліни, сильніші удари, кращі шанси в бою."
+  },
+  "TrainCombat_Description_Robber": {
+    "en": "Assign robbers to train in {S_COM_C}martial{##} skill. Harder hits, tougher stance, and a clear advantage in battle.",
+    "uk": "Призначте розбійників тренувати {S_COM_C}бойові навички{##}. Сильніші удари, стійкіша поза й явна перевага в бою."
+  },
+  "TrainCombat_Description_Thief": {
+    "en": "Assign thieves to train in {S_COM_C}martial{##} skill. Harder hits, tougher stance, and a clear advantage in battle.",
+    "uk": "Призначте злодіїв тренувати {S_COM_C}бойові навички{##}. Сильніші удари, стійкіша поза й явна перевага в бою."
+  },
+  "TrainCombat_DisplayName": {
+    "en": "Train Martial",
+    "uk": "Тренувати бойові навички"
+  },
+  "TrainKillerBee_Description": {
+    "en": "Turn your agitated bees into tiny, winged assassins.",
+    "uk": "Перетворіть своїх збурених бджіл на крихітних крилатих убивць."
+  },
+  "TrainKillerBee_DisplayName": {
+    "en": "Train a Killer Bee",
+    "uk": "Виростити бджолу-вбивцю"
+  },
+  "TrainLivePerformance_Description": {
+    "en": "Send a worker to rehearse so they're ready to {A_ACT_LIVPER_C}take the stage{##} tonight. They can perform without it — but a {ST_CHR_TRALIVPER_C}stage-ready{##} act draws a bigger crowd.",
+    "uk": "Відправте працівника репетирувати, щоб він був готовий сьогодні {A_ACT_LIVPER_C}вийти на сцену{##}. Виступити можна й без цього — але {ST_CHR_TRALIVPER_C}готовий до виступу{##} номер приваблює більший натовп."
+  },
+  "TrainLivePerformance_DisplayName": {
+    "en": "Rehearse",
+    "uk": "Репетирувати"
+  },
+  "TrainProfession_Description": {
+    "en": "Gain {CHAR_XP_C}experience{##} in your {P_C}profession{##} through focused training.",
+    "uk": "Здобувайте {CHAR_XP_C}досвід{##} у своїй {P_C}професії{##} через цілеспрямоване навчання."
+  },
+  "TrainProfession_DisplayName": {
+    "en": "Train in Profession",
+    "uk": "Навчатися професії"
+  },
+  "TrainSkill_Combat_Description": {
+    "en": "Train hard and improve your {S_COM_C}martial{##}.",
+    "uk": "Тренуйтеся наполегливо й покращуйте свої {S_COM_C}бойові навички{##}."
+  },
+  "TrainSkill_Combat_DisplayName": {
+    "en": "Improve Your Martial",
+    "uk": "Покращити бойові навички"
+  },
+  "TrainSkill_Combat_Family_Description": {
+    "en": "Choose a family member and put a weapon in their hands. Better they improve their {S_COM_C}martial{##} before they have need of it.",
+    "uk": "Виберіть члена родини й вкладіть зброю йому до рук. Краще, щоб він покращив свої {S_COM_C}бойові навички{##} до того, як вони знадобляться."
+  },
+  "TrainSkill_Combat_Family_DisplayName": {
+    "en": "Train Family in Martial",
+    "uk": "Тренувати бойові навички родини"
+  },
+  "TrainSkill_Combat_Prompt": {
+    "en": "Train Martial",
+    "uk": "Тренувати бойові навички"
+  },
+  "TrainSkill_Description": {
+    "en": "Select a skill to train by one point.",
+    "uk": "Виберіть навичку, щоб підвищити її на один пункт."
+  },
+  "TrainSkill_Handicraft_Description": {
+    "en": "Put in the practice and improve your {S_HAN_C}handicraft{##}.",
+    "uk": "Практикуйтеся й покращуйте своє {S_HAN_C}ремесло{##}."
+  },
+  "TrainSkill_Handicraft_DisplayName": {
+    "en": "Improve Your Handicraft",
+    "uk": "Покращити ремесло"
+  },
+  "TrainSkill_Handicraft_Family_Description": {
+    "en": "Choose a family member and lend them the tools to practise their {S_HAN_C}handicraft{##}. You will not be around to fix everything forever.",
+    "uk": "Виберіть члена родини і позичте йому інструменти для практики в {S_HAN_C}ремеслі{##}. Ви не зможете вічно все виправляти самі."
+  },
+  "TrainSkill_Handicraft_Family_DisplayName": {
+    "en": "Train Family in Handicraft",
+    "uk": "Тренувати ремесло родини"
+  },
+  "TrainSkill_Handicraft_Prompt": {
+    "en": "Train Handicraft",
+    "uk": "Тренувати ремесло"
+  },
+  "TrainSkill_Negotiation_Description": {
+    "en": "Learn how to strike a better bargain and improve your {S_NEG_C}negotiation{##}.",
+    "uk": "Навчіться укладати кращі угоди й покращуйте свій {S_NEG_C}торг{##}."
+  },
+  "TrainSkill_Negotiation_DisplayName": {
+    "en": "Improve Your Negotiation",
+    "uk": "Покращити торг"
+  },
+  "TrainSkill_Negotiation_Family_Description": {
+    "en": "Choose a family member and teach them to hold their own at the bargaining table, improving their {S_NEG_C}negotiation{##}.",
+    "uk": "Виберіть члена родини і навчіть його триматися впевнено за торговим столом, покращуючи його {S_NEG_C}торг{##}."
+  },
+  "TrainSkill_Negotiation_Family_DisplayName": {
+    "en": "Train Family in Negotiation",
+    "uk": "Тренувати торг родини"
+  },
+  "TrainSkill_Negotiation_Prompt": {
+    "en": "Train Negotiation",
+    "uk": "Тренувати торг"
+  },
+  "TrainSkill_Rhetoric_Description": {
+    "en": "Learn to make your words count and improve your {S_RHE_C}rhetoric{##}.",
+    "uk": "Навчіться, щоб Ваші слова мали вагу, і покращуйте своє {S_RHE_C}красномовство{##}."
+  },
+  "TrainSkill_Rhetoric_DisplayName": {
+    "en": "Improve Your Rhetoric",
+    "uk": "Покращити красномовство"
+  },
+  "TrainSkill_Rhetoric_Family_Description": {
+    "en": "Choose a family member and help them find their voice, improving their {S_RHE_C}rhetoric{##}. Someone will have to speak for the family when you cannot.",
+    "uk": "Виберіть члена родини і допоможіть йому знайти власний голос, покращуючи його {S_RHE_C}красномовство{##}. Комусь доведеться говорити за родину, коли Ви не зможете."
+  },
+  "TrainSkill_Rhetoric_Family_DisplayName": {
+    "en": "Train Family in Rhetoric",
+    "uk": "Тренувати красномовство родини"
+  },
+  "TrainSkill_Rhetoric_Prompt": {
+    "en": "Train Rhetoric",
+    "uk": "Тренувати красномовство"
+  },
+  "TrainSkill_Stealth_Description": {
+    "en": "Get better at doing what should not be noticed and improve your {S_STE_C}roguery{##}.",
+    "uk": "Навчіться робити те, що не мало б впадати в очі, й покращуйте своє {S_STE_C}шахрайство{##}."
+  },
+  "TrainSkill_Stealth_DisplayName": {
+    "en": "Improve Your Roguery",
+    "uk": "Покращити шахрайство"
+  },
+  "TrainSkill_Stealth_Family_Description": {
+    "en": "Choose a family member and show them how to practise their {S_STE_C}roguery{##} without getting caught practising it.",
+    "uk": "Виберіть члена родини й покажіть йому, як практикувати {S_STE_C}шахрайство{##}, не попадаючись на гарячому."
+  },
+  "TrainSkill_Stealth_Family_DisplayName": {
+    "en": "Train Family in Roguery",
+    "uk": "Тренувати шахрайство родини"
+  },
+  "TrainSkill_Stealth_Prompt": {
+    "en": "Train Roguery",
+    "uk": "Тренувати шахрайство"
+  },
+  "TrainStealth_Description_Guard": {
+    "en": "Assign guards to train in {S_STE_C}roguery{##}. Understanding dirty tricks makes them harder to fall for.",
+    "uk": "Призначте вартових тренувати {S_STE_C}шахрайство{##}. Розуміння брудних трюків робить їх стійкішими до обману."
+  },
+  "TrainStealth_Description_Robber": {
+    "en": "Assign robbers to train in {S_STE_C}roguery{##}. Better deception, quicker reactions — and fewer surprises during a clash.",
+    "uk": "Призначте розбійників тренувати {S_STE_C}шахрайство{##}. Вправніший обман, швидша реакція — і менше несподіванок під час сутички."
+  },
+  "TrainStealth_Description_Thief": {
+    "en": "Assign thieves to train in {S_STE_C}roguery{##}. Better deception, quicker reactions — and fewer surprises during a clash.",
+    "uk": "Призначте злодіїв тренувати {S_STE_C}шахрайство{##}. Вправніший обман, швидша реакція — і менше несподіванок під час сутички."
+  },
+  "TrainStealth_DisplayName": {
+    "en": "Train Roguery",
+    "uk": "Тренувати шахрайство"
+  },
+  "TrainWorker_Description": {
+    "en": "Invest in a worker's training, hoping they will repay the effort.",
+    "uk": "Вкладіться в навчання працівника, сподіваючись, що зусилля окупляться."
+  },
+  "TrainWorker_DisplayName": {
+    "en": "Train Skill",
+    "uk": "Тренувати навичку"
+  },
+  "TrainWorker_DisplayName_alt": {
+    "en": "Train Worker Skill",
+    "uk": "Тренувати навичку працівника"
+  },
+  "TransferToAnotherGrave_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "TransferToAnotherGrave_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Trashing_Description": {
+    "en": "Hire thugs to beat up a chosen rival. It's less about random thuggery and more about strategic intimidation — if you're skilled in {S_COM_C}martial{##}, you understand the language of force, even when you outsource it.",
+    "uk": "Найміть головорізів, щоб побити обраного суперника. Тут менше про випадкове насильство й більше про стратегічне залякування — якщо Ви вправні в {S_COM_C}бойових навичках{##}, Ви розумієте мову сили, навіть коли доручаєте її іншим."
+  },
+  "Trashing_DisplayName": {
+    "en": "Beat Up",
+    "uk": "Побиття"
+  },
+  "TryCatchingBeeQueen_Description": {
+    "en": "Try to catch a {I_BEEQUE_C}Queen Bee{##}. With her, you can build a {B_PER_BEEHIV_C}hive{##} — and let hundreds of tiny workers make money for you.",
+    "uk": "Спробуйте зловити {I_BEEQUE_C}бджолину матку{##}. З нею Ви зможете збудувати {B_PER_BEEHIV_C}вулик{##} — і дозволити сотням крихітних працівниць заробляти для Вас гроші."
+  },
+  "TryCatchingBeeQueen_Description_extra1": {
+    "en": "Queen bees are scarce. As {B_PER_BEEHIV_C}hives{##} spread through the city, unclaimed queens grow harder to find.",
+    "uk": "Бджолині матки — рідкість. У міру того, як {B_PER_BEEHIV_C}вулики{##} поширюються містом, незайнятих маток дедалі важче знайти."
+  },
+  "TryCatchingBeeQueen_Description_extra2": {
+    "en": "Securing one is a matter of {S_C}skill{##} — bees do not give in without a {S_COM_C}fight{##}.",
+    "uk": "Здобути її — питання {S_C}навичок{##} — бджоли не здаються без {S_COM_C}бою{##}."
+  },
+  "TryCatchingBeeQueen_DisplayName": {
+    "en": "Hunt for the Queen Bee",
+    "uk": "Полювання на бджолину матку"
+  },
+  "UnlockProfession_Alchemist_Description": {
+    "en": "Obtain an {P_ALC_C}Alchemist{##}'s License and pursue experiments where curiosity is rewarded and explosions are occasionally educational.",
+    "uk": "Отримайте грамоту {P_ALC_C}алхіміка{##} й займіться дослідами, де цікавість винагороджується, а вибухи час від часу повчальні."
+  },
+  "UnlockProfession_Alchemist_DisplayName": {
+    "en": "Obtain an Alchemist's License",
+    "uk": "Отримати грамоту алхіміка"
+  },
+  "UnlockProfession_GraveyardWarden_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "UnlockProfession_GraveyardWarden_DisplayName": {
+    "en": "Assume Stewardship of the Dead",
+    "uk": "Прийняти опіку над мертвими"
+  },
+  "UnlockProfession_Guard_Description": {
+    "en": "Swear service as a {P_GUA_C}Guard{##} and uphold order.",
+    "uk": "Присягніть на службу {P_GUA_C}вартовим{##} і підтримуйте порядок."
+  },
+  "UnlockProfession_Guard_DisplayName": {
+    "en": "Swear Service as a Guard",
+    "uk": "Присягнути на службу вартовим"
+  },
+  "UnlockProfession_Innkeeper_Description": {
+    "en": "Secure an {P_INN_C}Innkeeper{##}'s License and preside over a house where ale is poured and secrets travel freely.",
+    "uk": "Здобудьте грамоту {P_INN_C}шинкаря{##} і очоліть заклад, де ллється пиво і вільно гуляють таємниці."
+  },
+  "UnlockProfession_Innkeeper_DisplayName": {
+    "en": "Obtain an Innkeeper's License",
+    "uk": "Отримати грамоту шинкаря"
+  },
+  "UnlockProfession_Joiner_Description": {
+    "en": "Secure a {P_JOI_C}Joiner{##}'s License and practice a craft where proper joints hold firm — without depending on someone else's iron.",
+    "uk": "Здобудьте грамоту {P_JOI_C}столяра{##} і опануйте ремесло, де добрі з’єднання тримаються міцно — і жодне чуже залізо не потрібне."
+  },
+  "UnlockProfession_Joiner_DisplayName": {
+    "en": "Obtain a Joiner's License",
+    "uk": "Отримати грамоту столяра"
+  },
+  "UnlockProfession_MoneyLender_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "UnlockProfession_MoneyLender_DisplayName": {
+    "en": "Obtain a Moneylender's License",
+    "uk": "Отримати грамоту лихваря"
+  },
+  "UnlockProfession_Perfumer_Description": {
+    "en": "Secure a {P_PER_C}Perfumer{##}'s License and trade in fragrances refined enough to improve even the city's less fortunate aromas.",
+    "uk": "Здобудьте грамоту {P_PER_C}парфумера{##} і торгуйте пахощами, достатньо витонченими, щоб покращити навіть менш вдалі аромати міста."
+  },
+  "UnlockProfession_Perfumer_DisplayName": {
+    "en": "Obtain a Perfumer's License",
+    "uk": "Отримати грамоту парфумера"
+  },
+  "UnlockProfession_Preacher_Description": {
+    "en": "Swear the oath and gain the right to practice as a {P_PRE_C}Preacher{##} — within the holy bounds of doctrine.",
+    "uk": "Складіть присягу й здобудьте право проповідувати як {P_PRE_C}проповідник{##} — у святих межах доктрини."
+  },
+  "UnlockProfession_Preacher_DisplayName": {
+    "en": "Take the Preacher's Oath",
+    "uk": "Скласти присягу проповідника"
+  },
+  "UnlockProfession_Robber_Description": {
+    "en": "The road favors the ruthless. To command a band of {P_ROB_C}robbers{##}, prove you are one of them.",
+    "uk": "Дорога прихильна до безжальних. Щоб очолити ватагу {P_ROB_C}розбійників{##}, доведіть, що Ви — один із них."
+  },
+  "UnlockProfession_Robber_DisplayName": {
+    "en": "Prove Yourself to the Robbers",
+    "uk": "Заслужити довіру розбійників"
+  },
+  "UnlockProfession_Smith_Description": {
+    "en": "Obtain a {P_SMI_C}Smith{##}'s License and work at the forge, where iron yields only to heat, strength, and patience.",
+    "uk": "Отримайте грамоту {P_SMI_C}коваля{##} і працюйте біля горна, де залізо піддається лише вогню, силі й терпінню."
+  },
+  "UnlockProfession_Smith_DisplayName": {
+    "en": "Obtain a Smith's License",
+    "uk": "Отримати грамоту коваля"
+  },
+  "UnlockProfession_StoneMason_Description": {
+    "en": "Obtain a {P_MAS_C}Stone Mason{##}'s License and commit to working in straight lines — some of us find them comforting.",
+    "uk": "Отримайте грамоту {P_MAS_C}каменяра{##} і присвятіть себе роботі з рівними лініями — декого вони заспокоюють."
+  },
+  "UnlockProfession_StoneMason_DisplayName": {
+    "en": "Obtain a Stone Mason's License",
+    "uk": "Отримати грамоту каменяра"
+  },
+  "UnlockProfession_Tailor_Description": {
+    "en": "Obtain a {P_TAI_C}Tailor{##}'s License and shape garments to fit both body and ambition.",
+    "uk": "Отримайте грамоту {P_TAI_C}кравця{##} і надавайте вбранню форму, що пасує і тілу, і амбіціям."
+  },
+  "UnlockProfession_Tailor_DisplayName": {
+    "en": "Obtain a Tailor's License",
+    "uk": "Отримати грамоту кравця"
+  },
+  "UnlockProfession_Thief_Description": {
+    "en": "To run a {B_OCC_THI_C}Hideout{##}, you must gain acceptance in a circle where trust is thin, pockets are lighter, and attention is best avoided.",
+    "uk": "Щоб керувати {B_OCC_THI_C}схованкою{##}, Ви маєте здобути визнання в колі, де довіра рідкісна, гаманці легші, а увага — небажана."
+  },
+  "UnlockProfession_Thief_DisplayName": {
+    "en": "Earn Your Place Among Thieves",
+    "uk": "Заслужити місце серед злодіїв"
+  },
+  "UnlockProfession_Trader_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "UnlockProfession_Trader_DisplayName": {
+    "en": "Obtain a Trader's License",
+    "uk": "Отримати грамоту торговця"
+  },
+  "UnlockProfession_TravellingEntertainer_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "UnlockProfession_TravellingEntertainer_DisplayName": {
+    "en": "Establish a Traveling Troupe",
+    "uk": "Заснувати мандрівну трупу"
+  },
+  "UseItem_DisplayName": {
+    "en": "Use {ItemName}",
+    "uk": "Використати {ItemName}"
+  },
+  "UseItem_DisplayName_alt": {
+    "en": "Use",
+    "uk": "Використати"
+  },
+  "UseItem_FromCharacterContextMenu_Description": {
+    "en": "Choose an item to use.",
+    "uk": "Виберіть предмет для використання."
+  },
+  "WaylayTransports_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "WaylayTransports_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "WorkAtInn_Description": {
+    "en": "Assign a worker with strong {S_NEG_C}negotiation{##} to the bar. They sell goods from your {B_STOFRO_C}storefront{##} at higher prices. You may want to invest in a {B_IMP_INN_BAR_C}larger bar{##}.",
+    "uk": "Призначте до шинкваса працівника з добрим умінням {S_NEG_C}торгу{##}. Він продаватиме товари з Вашої {B_STOFRO_C}крамниці{##} за вищими цінами. Можливо, варто вкластися в {B_IMP_INN_BAR_C}більший шинквас{##}."
+  },
+  "WorkAtInn_DisplayName": {
+    "en": "Work at the Bar",
+    "uk": "Робота за шинквасом"
+  },
+  "WreckedCaravan_Description": {
+    "en": "Search the wrecked caravan — broken scraps still earn a little coin. Keep salvaging it until there's nothing left to take.",
+    "uk": "Обшукайте розбитий караван — навіть уламки приносять трохи монет. Продовжуйте розбирати його, доки не залишиться нічого вартого."
+  },
+  "WreckedCaravan_DisplayName": {
+    "en": "Search the Wrecked Caravan",
+    "uk": "Обшукати розбитий караван"
+  }
+}

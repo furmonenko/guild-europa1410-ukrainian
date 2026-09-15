@@ -1,0 +1,1306 @@
+{
+  "Action_ActivateProfession_Instigator_Message": {
+    "en": "A different line of work begins today.",
+    "uk": "З цього дня Ви обираєте інший фах."
+  },
+  "Action_AddBees_Message": {
+    "en": "The bees have settled in nicely. Judging by the buzzing, they approve.",
+    "uk": "Бджоли добре прижилися. Судячи з дзижчання, вони цим задоволені."
+  },
+  "Action_AscensionA_01_Instigator_Fail_Message": {
+    "en": "During the hunt you spot movement in the brush and shout “Boar!”\nSpears rise, riders scatter. A rabbit hops out. The laughter lasts longer than the hunt.",
+    "uk": "Під час полювання Ви помічаєте рух у чагарнику й гукаєте: «Кабан!»\nСписи здіймаються, вершники розсипаються. Вискакує заєць. Сміх триває довше, ніж саме полювання."
+  },
+  "Action_AscensionA_01_Instigator_Success_Message": {
+    "en": "Sir Ulrich falls injured before the next tilt. The challenger still waits in the lists. You mount and ride out to face him, showing your courage.",
+    "uk": "Пан Ульріх падає пораненим перед наступним турнірним поєдинком. Суперник, що кинув виклик, усе ще чекає на ристалищі. Ви сідаєте в сідло й виїжджаєте йому назустріч, показуючи свою хоробрість."
+  },
+  "Action_AscensionA_02_Instigator_Fail_Message": {
+    "en": "Sir Ulrich rides into the competition when his armor suddenly comes loose, plates clattering before the crowd. The mistake is yours.",
+    "uk": "Пан Ульріх виїжджає на змагання, коли раптом його броня розхитується, і пластини бряжчать перед натовпом. Помилка — Ваша."
+  },
+  "Action_AscensionA_02_Instigator_Success_Message": {
+    "en": "Raiders enter the camp at night. You stop the first attacker before he reaches the tents. The knights wake and the fight begins. If not for you, they would be dead! They recognize your worth.",
+    "uk": "Уночі до табору вдираються розбійники. Ви зупиняєте першого нападника, перш ніж він дістається наметів. Лицарі прокидаються, і починається бій. Якби не Ви, вони б загинули! Вони визнають Вашу цінність."
+  },
+  "Action_AscensionB_01_Instigator_Fail_Message": {
+    "en": "You repeat a rumor you heard at the table. The hall grows quiet. By morning, the court knows you cannot keep a secret.",
+    "uk": "Ви повторюєте чутку, почуту за столом. У залі западає тиша. Уранці весь двір знає, що Ви не вмієте тримати язика за зубами."
+  },
+  "Action_AscensionB_01_Instigator_Success_Message": {
+    "en": "A secret is spoken just loudly enough for you to hear. Others later try to coax it from you. You keep it. Perhaps you belong among them after all.",
+    "uk": "Таємницю шепочуть саме настільки голосно, щоб Ви почули. Пізніше інші намагаються виманити її у Вас. Ви мовчите. Можливо, Ви таки належите до цього кола."
+  },
+  "Action_AscensionB_02_Instigator_Fail_Message": {
+    "en": "Countess Báthory raises a toast in honor of her recently departed husband. You speak at the wrong moment. All eyes turn to you.",
+    "uk": "Графиня Баторі виголошує тост на честь свого нещодавно померлого чоловіка. Ви заговорюєте не вчасно. Усі погляди звертаються на Вас."
+  },
+  "Action_AscensionB_02_Instigator_Success_Message": {
+    "en": "Two knights dispute who deserves credit for a victory. You ask which one would have won alone. Neither answers. The hall decides the glory belongs to both.",
+    "uk": "Двоє лицарів сперечаються, кому належить честь перемоги. Ви питаєте, хто з них переміг би сам. Жоден не відповідає. Зала вирішує: слава належить обом."
+  },
+  "Action_AscensionB_03_Instigator_Fail_Message": {
+    "en": "During Colonel Sandersdorf's visit, your hand slips and wine stains his pristine clothes. A costly mistake.",
+    "uk": "Під час візиту полковника Сандерсдорфа Ваша рука тремтить, і вино плямує його бездоганний одяг. Дорога помилка."
+  },
+  "Action_AscensionB_03_Instigator_Success_Message": {
+    "en": "Just before the toast, you catch the scent of poison in the cup. These nobles owe you their lives. You earn their recognition.",
+    "uk": "Перед самим тостом Ви вловлюєте запах отрути в келиху. Ці дворяни завдячують Вам життям. Ви заслуговуєте на їхнє визнання."
+  },
+  "Action_AscensionC_01_Instigator_Success_Message": {
+    "en": "No one can deny that a noble's greatest virtue is wealth.",
+    "uk": "Ніхто не може заперечити, що найбільша чеснота дворянина — статки."
+  },
+  "Action_AttackCart_Instigator_Message": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Action_BanditContract_01_Instigator_Message": {
+    "en": "Some of these fellows would lose a battle against the rats from Tom's bakery — but you get what you pay for.",
+    "uk": "Дехто з цих молодців програв би бій навіть щурам із пекарні Тома — але що заплатив, те й отримав."
+  },
+  "Action_BanditContract_02_Instigator_Message": {
+    "en": "As the decent person you are, it is only natural not to want to be associated with those men. Judging by the look of them, they are bound to cause trouble.",
+    "uk": "Як порядна людина, Ви цілком природно не бажаєте, щоб Вас пов’язували з цими чоловіками. Судячи з їхнього вигляду, вони неодмінно накличуть біду."
+  },
+  "Action_BanditContract_03_Instigator_Message": {
+    "en": "If every robber were like those, the town would not last long.",
+    "uk": "Якби кожен розбійник був таким, місто б довго не протрималося."
+  },
+  "Action_Bard_Instigator_Message": {
+    "en": "What an inspiring tale!",
+    "uk": "Яка натхненна оповідь!"
+  },
+  "Action_BeeAttack_Instigator_Success_Message": {
+    "en": "She's a killer bee,\nBuzzing with hostility,\nFound her mark successfully,\nGuaranteed to bring you down.",
+    "uk": "Вона — бджола-вбивця,\nДзижчить вороже й люто,\nЦіль знайшла успішно,\nВас неодмінно звалить з ніг."
+  },
+  "Action_BlackenName_Instigator_Message": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Action_BlackenName_Target1_Message": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Action_BlackenName_Target2_Message": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Action_Bribe_Instigator_Fail_Message": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Action_Bribe_Instigator_Success_Message": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Action_Bribe_Target_Message": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Action_CatchingBee_Instigator_Fail_Message": {
+    "en": "Ouch. Nothing but stings and angry buzzing.",
+    "uk": "Ай. Самі лише укуси та сердите дзижчання."
+  },
+  "Action_CatchingBee_Instigator_Success_Message": {
+    "en": "There she is! You place her in a basket, and the swarm follows. Time to start your own hive!",
+    "uk": "Ось вона! Ви саджаєте її в кошик, і рій прямує слідом. Час завести власний вулик!"
+  },
+  "Action_ChooseHeir_Instigator_Message": {
+    "en": "You declare an heir. May they honor the family name or die trying!",
+    "uk": "Ви оголошуєте спадкоємця. Хай вшановує родинне ім’я — або загине, намагаючись це зробити!"
+  },
+  "Action_CleanService_Instigator_Message": {
+    "en": "The quarter looks better for your trouble. A few less ruins, a little less filth, and considerably more dignity.",
+    "uk": "Квартал виглядає краще завдяки Вашим клопотам. Трохи менше руїн, трохи менше бруду й значно більше гідності."
+  },
+  "Action_CleanUp_Instigator_Message": {
+    "en": "There now. Even the spiders must move out.",
+    "uk": "Ось так. Навіть павукам доведеться переселитися."
+  },
+  "Action_Courting_StartCourting_Message_Description": {
+    "en": "The courtship has begun. Hearts are not won without effort: {A_SWETAL_C}sweet-talk{##} your chosen one and {A_SENGIF_C}send gifts{##} to prove your devotion, as well as your pecuniary means. But mind the competition: some suitors will try to outdo and even undermine your efforts.",
+    "uk": "Ваше залицяння розпочалося. Серця не здобувають без зусиль: {A_SWETAL_C}лестіть{##} обраниці чи обранцю та {A_SENGIF_C}надсилайте подарунки{##}, аби довести свою відданість, а заразом і статки. Та стережіться суперників: дехто з залицяльників спробує Вас перевершити, а хтось навіть підірве Ваші зусилля."
+  },
+  "Action_Courting_StartCourting_Message_Name": {
+    "en": "The Heart's Impatience",
+    "uk": "Нетерпіння серця"
+  },
+  "Action_Courting_StopCourting_Message": {
+    "en": "Your courtship has ended — hopefully on amicable terms.",
+    "uk": "Ваше залицяння завершилося — сподіваємося, у злагоді."
+  },
+  "Action_Curse_Instigator_Message": {
+    "en": "You must truly hate this person. The curse is cast.",
+    "uk": "Ви й справді ненавидите цю особу. Прокляття накладено."
+  },
+  "Action_Curse_Target_Message": {
+    "en": "A needle pricks your spine. Sorcery! Someone must have cursed you!",
+    "uk": "Голку встромлюють Вам у хребет. Чаклунство! Мабуть, хтось Вас прокляв!"
+  },
+  "Action_DestroyBees_Instigator_Stung_Header": {
+    "en": "A Costly Victory",
+    "uk": "Дорога перемога"
+  },
+  "Action_DestroyBees_Instigator_Stung_Message": {
+    "en": "The hive is gone. The bees fought back to the end — a kind of courage you could never claim.",
+    "uk": "Вулика більше немає. Бджоли билися до кінця — така мужність, на яку Ви навряд чи здатні."
+  },
+  "Action_DestroyBees_Instigator_Success_Header": {
+    "en": "A Petty Victory",
+    "uk": "Дріб’язкова перемога"
+  },
+  "Action_DestroyBees_Instigator_Success_Message": {
+    "en": "You took your grievance out on thousands of harmless bees. Proud of yourself?",
+    "uk": "Ви зігнали свою злість на тисячах беззахисних бджіл. Пишаєтеся собою?"
+  },
+  "Action_DestroyBees_Target_Header": {
+    "en": "Someone destroyed your hive",
+    "uk": "Хтось знищив Ваш вулик"
+  },
+  "Action_DestroyBees_Target_Message": {
+    "en": "You find the hive {buildingname} ruined and the colony dying. One last bee crawls toward you, wings trembling, before going still in your hand.",
+    "uk": "Ви знаходите вулик {buildingname} зруйнованим, а колонію — вмираючою. Остання бджола повзе до Вас, тремтячи крильцями, і завмирає у Вашій долоні."
+  },
+  "Action_Duel_Challenge_Instigator_Message": {
+    "en": "Your challenge has been sent. Steel yourself — the duel awaits if they accept.",
+    "uk": "Ваш виклик надіслано. Готуйтеся — якщо суперник прийме, на Вас чекає дуель."
+  },
+  "Action_ExterminateBees_Message": {
+    "en": "The smoke clears, and the familiar buzzing is gone. The hive stands empty now.",
+    "uk": "Дим розсіюється, і звичне дзижчання зникає. Тепер вулик стоїть порожній."
+  },
+  "Action_FeedBees_Message": {
+    "en": "The bees are fed, the buzzing is lively again, and the colony seems much happier for it.",
+    "uk": "Бджіл нагодовано, дзижчання знову жваве, і колонія помітно щасливіша."
+  },
+  "Action_GiveProfession_Instigator_Message": {
+    "en": "Watching family follow in your footsteps has a certain satisfaction to it. With their place in the guild secured, they can now serve as {B_OCC_MGR_C}master{##} of one of your businesses.",
+    "uk": "Дивитися, як родина йде Вашими слідами, — особливе задоволення. Тепер, забезпечивши своє місце в гільдії, вона може стати {B_OCC_MGR_C}майстром{##} однієї з Ваших справ."
+  },
+  "Action_GuardService_Instigator_IfEnemies_Message": {
+    "en": "But some of the guards were less pleased, worried you might be there to take their post.",
+    "uk": "Проте дехто з вартових був менш задоволений, побоюючись, що Ви прийшли зайняти їхню посаду."
+  },
+  "Action_GuardService_Instigator_IfFriends_Message": {
+    "en": "And you even made a few friends over a story about the time you supposedly faced three armed men at once. The details changed slightly with every telling, but no one seemed to notice.",
+    "uk": "Ви навіть завели кількох друзів завдяки байці про те, як нібито одного разу зіткнулися одразу з трьома озброєними бандитами. Подробиці трохи змінювалися з кожним переказом, та ніхто, здається, цього не помічав."
+  },
+  "Action_GuardService_Instigator_IfInjured_Message": {
+    "en": "Unfortunately, the work was every bit as dangerous as it looked.",
+    "uk": "На жаль, робота виявилася такою ж небезпечною, якою й здавалася."
+  },
+  "Action_GuardService_Instigator_Message": {
+    "en": "Some light fingers stay in their pockets thanks to you.",
+    "uk": "Завдяки Вам дехто з кишенькових злодіїв тримав руки при собі."
+  },
+  "Action_GuardService_Target_IfEnemies_Message": {
+    "en": "This one seems a proper jester. Best not be seen keeping company with their kind.",
+    "uk": "Цей, здається, справжній блазень. Краще не показуватися на людях у товаристві таких."
+  },
+  "Action_GuardService_Target_IfFriends_Message": {
+    "en": "They do not seem like a bad sort. At least everyone laughed.",
+    "uk": "Здається, людина непогана. Принаймні сміялися всі."
+  },
+  "Action_GuardService_Target_Message": {
+    "en": "A guard volunteer claims they once saw a goose the size of a mountain. Either a liar or a remarkable storyteller.",
+    "uk": "Один охочий вартовий стверджує, що бачив колись гуску завбільшки з гору. Або брехун, або чудовий оповідач."
+  },
+  "Action_HireEscort_Instigator_Message": {
+    "en": "Your cart is guarded. Those who attack will have to fight for it.",
+    "uk": "Ваш віз під охороною. Тим, хто нападе, доведеться битися за нього."
+  },
+  "Action_LampoonAlpha_Instigator_Message": {
+    "en": "Everyone is talking about it.\nThe citizens have made up their minds — either feeling sympathy for its subject or laughing at their expense.",
+    "uk": "Про це говорять усі.\nМіщани вже склали свою думку — одні співчувають героєві, інші сміються з нього."
+  },
+  "Action_LampoonAlpha_Target_Message": {
+    "en": "Laughter circles the Town Hall today but it slips away whenever you approach. A lampoon says you laugh at your own jokes before anyone can. How embarrassing!",
+    "uk": "Сьогодні коло ратуші лунає сміх, та він стихає, щойно Ви наближаєтеся. Пасквіль стверджує, що Ви смієтеся з власних жартів раніше за всіх інших. Як соромно!"
+  },
+  "Action_OverseeProduction_Instigator_Message": {
+    "en": "With you pacing the workshop, distractions quickly disappear and production improves. Still, too much time spent shoulder to shoulder can give working folk ideas about their importance.",
+    "uk": "Поки Ви ходите майстернею, відволікання швидко зникають, а виробництво зростає. Втім, занадто багато часу пліч-о-пліч із робітниками може навіяти їм зайві думки про власну важливість."
+  },
+  "Action_PhysicianCheck_Fail_Message": {
+    "en": "The physician is not entirely sure what you have, but they are very interested in it.",
+    "uk": "Лікар не зовсім впевнений, що з Вами не так, але це його дуже цікавить."
+  },
+  "Action_PhysicianCheck_Success_Message": {
+    "en": "The physician finds something in a place one tends to forget to check. A remedy is applied. Eye contact is not maintained.",
+    "uk": "Лікар знаходить дещо там, де зазвичай забувають перевірити. Мазь накладають. Зорового контакту уникають."
+  },
+  "Action_Pray_Message": {
+    "en": "Praise be to the heavens! The Lord hears your prayer.",
+    "uk": "Хвала небесам! Господь чує Вашу молитву."
+  },
+  "Action_PublicService_Instigator_Message": {
+    "en": "Someone among the town servants takes a special interest in you.",
+    "uk": "Дехто з міських служителів виявляє до Вас особливий інтерес."
+  },
+  "Action_PublicService_Target_Message": {
+    "en": "Today you encounter someone serving the town. They leave quite an impression.",
+    "uk": "Сьогодні Ви зустрічаєте когось, хто служить місту. Зустріч лишає незабутнє враження."
+  },
+  "Action_SeekCure_Message": {
+    "en": "The physician gives you a bubbling concoction — “detox,” she says. It tastes awful, but it works.",
+    "uk": "Лікарка подає Вам булькотливе вариво — каже, «для очищення». На смак жахливо, та воно діє."
+  },
+  "Action_SellEvidence_Message": {
+    "en": "Coin in your purse. What follows is no longer your concern.",
+    "uk": "Монети в гаманці. Те, що станеться далі, Вас більше не обходить."
+  },
+  "Action_SendHelp_Instigator_Messsage": {
+    "en": "Your letter of support and accompanying funds have been delivered.",
+    "uk": "Ваш лист підтримки разом із грошима доставлено."
+  },
+  "Action_ShootCannonBallDung_Instigator_Fail_Header": {
+    "en": "A Waste of Dung",
+    "uk": "Марно витрачений гній"
+  },
+  "Action_ShootCannonBallDung_Instigator_Fail_Message": {
+    "en": "A spectacular launch, followed by absolutely no one getting covered in dung.",
+    "uk": "Видовищний постріл — і жодна душа не забруднена гноєм."
+  },
+  "Action_ShootCannonBallDung_Instigator_Success_Header": {
+    "en": "A Foul Hit!",
+    "uk": "Огидне влучання!"
+  },
+  "Action_ShootCannonBallDung_Instigator_Success_Message": {
+    "en": "The dung landed with disgusting accuracy. The following places will be difficult to approach for a while:",
+    "uk": "Гній влучив із бридкою точністю. Наступні місця якийсь час краще оминати:"
+  },
+  "Action_ShootCannonBallFire_Instigator_Fail_Header": {
+    "en": "A Fiery Miss",
+    "uk": "Вогняний промах"
+  },
+  "Action_ShootCannonBallFire_Instigator_Fail_Message": {
+    "en": "A flash, a roar, and nothing to burn.",
+    "uk": "Спалах, гуркіт — і нічого не горить."
+  },
+  "Action_ShootCannonBallFire_Instigator_Success_Header": {
+    "en": "Up in Flames!",
+    "uk": "У вогні!"
+  },
+  "Action_ShootCannonBallFire_Instigator_Success_Message": {
+    "en": "Fire caught fast. The following places are alight:",
+    "uk": "Полум’я швидко перекинулося. Наступні місця охоплені вогнем:"
+  },
+  "Action_ShootCannonBall_Instigator_Fail_Header": {
+    "en": "Missed!",
+    "uk": "Промах!"
+  },
+  "Action_ShootCannonBall_Instigator_Fail_Message": {
+    "en": "The cannon roared, the shot flew… and somehow, nothing was hit.",
+    "uk": "Гармата гримнула, ядро полетіло… і якимось чином ні в що не влучило."
+  },
+  "Action_ShootCannonBall_Instigator_Success_Header": {
+    "en": "Direct Hit!",
+    "uk": "Пряме влучання!"
+  },
+  "Action_ShootCannonBall_Instigator_Success_Message": {
+    "en": "The shot found its mark. The following places were damaged:",
+    "uk": "Постріл знайшов ціль. Наступні будівлі зазнали шкоди:"
+  },
+  "Action_SmearReputation_Instigator_Message": {
+    "en": "Carefully done. Their courtship shows its first cracks.",
+    "uk": "Зроблено вправно. У їхньому залицянні з’явилися перші тріщини."
+  },
+  "Action_SmearReputation_Target_Message": {
+    "en": "Doubt has been {A_SMEREP_C}planted{##} in your love interest's mind. Trust, once shaken, is slow to return.",
+    "uk": "У свідомості Вашої симпатії {A_SMEREP_C}посіяно{##} сумнів. Довіра, раз похитнувшись, повертається повільно."
+  },
+  "Action_Snitch_Instigator_Message": {
+    "en": "The informants are grateful for your work — but a commoner may have spotted you snooping around.",
+    "uk": "Інформатори вдячні Вам за роботу — але простолюдин міг помітити, як Ви нишпорите."
+  },
+  "Action_Snitch_Target_Message": {
+    "en": "Someone {A_SNI_C}reports{##} what happens in town to the informants. A necessary evil, or a traitor to the people?",
+    "uk": "Хтось {A_SNI_C}доповідає{##} інформаторам про те, що діється в місті. Необхідне зло чи зрадник народу?"
+  },
+  "Action_Socialize_Message": {
+    "en": "A day at the inn, well spent. Tomorrow, a visit to the church should settle things.",
+    "uk": "Гарно проведений день у шинку. Завтра варто відвідати церкву, щоб усе владнати."
+  },
+  "Action_TrainProfession_Instigator_Message": {
+    "en": "You devoted time to training your profession, but gained little from it. Some lessons can't replace real practice.",
+    "uk": "Ви присвятили час навчанню свого фаху, та здобули з того небагато. Деякі уроки не замінять справжньої практики."
+  },
+  "Action_UnlockProfession_Alchemist_Message": {
+    "en": "We, the Alchemists' Guild, grant you license. See that your experiments yield more than smoke.",
+    "uk": "Ми, Гільдія алхіміків, надаємо Вам дозвіл. Слідкуйте, щоб Ваші досліди приносили щось більше за дим."
+  },
+  "Action_UnlockProfession_GraveyardWarden_Message": {
+    "en": "We entrust you with the dead. Keep order — silence is no excuse for neglect.",
+    "uk": "Ми довіряємо Вам мертвих. Тримайте лад — тиша не виправдовує недбальства."
+  },
+  "Action_UnlockProfession_Guard_Message": {
+    "en": "We, the Guards' Guild, accept your oath. Stand watch — and do not fail it.",
+    "uk": "Ми, Гільдія вартових, приймаємо Вашу присягу. Несіть варту — і не зрадьте її."
+  },
+  "Action_UnlockProfession_Innkeeper_Message": {
+    "en": "We, the Innkeepers' Guild, grant you license. Keep the ale flowing — and the rumors with it.",
+    "uk": "Ми, Гільдія шинкарів, надаємо Вам дозвіл. Хай ель ллється рікою — а разом із ним і чутки."
+  },
+  "Action_UnlockProfession_Instruction": {
+    "en": "To officially change profession, you must {A_ACTPRO_C}pick it as your line of work{##}.",
+    "uk": "Щоб офіційно змінити фах, Ви маєте {A_ACTPRO_C}обрати його своїм заняттям{##}."
+  },
+  "Action_UnlockProfession_Joiner_Message": {
+    "en": "We, the Joiners' Guild, grant you license. Build well — what you make will be relied upon.",
+    "uk": "Ми, Гільдія столярів, надаємо Вам дозвіл. Будуйте на совість — на Ваше творіння покладатимуться."
+  },
+  "Action_UnlockProfession_MoneyLender_Message": {
+    "en": "We, the Moneylenders' Guild, grant you license. See that every coin returns — with interest.",
+    "uk": "Ми, Гільдія лихварів, надаємо Вам дозвіл. Слідкуйте, щоб кожна монета поверталася — з відсотком."
+  },
+  "Action_UnlockProfession_Perfumer_Message": {
+    "en": "We, the Perfumers' Guild, grant you license. Leave an impression worth remembering.",
+    "uk": "Ми, Гільдія парфумерів, надаємо Вам дозвіл. Лишайте по собі враження, яке варто пам’ятати."
+  },
+  "Action_UnlockProfession_Preacher_Message": {
+    "en": "Your oath is heard. Speak — and ensure they listen.",
+    "uk": "Вашу присягу почуто. Промовляйте — і подбайте, щоб Вас слухали."
+  },
+  "Action_UnlockProfession_Robber_Message": {
+    "en": "You've proven yourself. Take the road — and what travels upon it.",
+    "uk": "Ви показали, чого варті. Дорога — Ваша, разом із усім, що нею мандрує."
+  },
+  "Action_UnlockProfession_Smith_Message": {
+    "en": "We, the Smiths' Guild, grant you license. Let iron answer to your hand.",
+    "uk": "Ми, Гільдія ковалів, надаємо Вам дозвіл. Хай залізо кориться Вашій руці."
+  },
+  "Action_UnlockProfession_StoneMason_Message": {
+    "en": "We, the Stone Masons' Guild, grant you license. Build something that endures.",
+    "uk": "Ми, Гільдія каменярів, надаємо Вам дозвіл. Збудуйте щось, що витримає час."
+  },
+  "Action_UnlockProfession_Tailor_Message": {
+    "en": "We, the Tailors' Guild, grant you license. Shape what others will wear — and be judged by.",
+    "uk": "Ми, Гільдія кравців, надаємо Вам дозвіл. Створюйте те, що носитимуть інші — і за чим їх судитимуть."
+  },
+  "Action_UnlockProfession_Thief_Message": {
+    "en": "You're in. Stay unseen — and take what matters.",
+    "uk": "Ви серед своїх. Лишайтеся непоміченим — і беріть те, що важливо."
+  },
+  "Action_UnlockProfession_Trader_Message": {
+    "en": "We, the Merchants' Guild, grant you license. Trade well — and profit better.",
+    "uk": "Ми, Гільдія купців, надаємо Вам дозвіл. Торгуйте вправно — і заробляйте ще краще."
+  },
+  "Action_UnlockProfession_TravellingEntertainer_Message": {
+    "en": "Your troupe is recognized. Hold their gaze — and earn their coin.",
+    "uk": "Вашу трупу визнано. Утримуйте увагу глядачів — і заробляйте їхні монети."
+  },
+  "Activity_FindEvidenceFromWorld_Intigator_Fail_Message": {
+    "en": "Your worker listened closely to the tavern talk. No crime to report — just a poor fellow being mocked for snoring loud enough to wake the whole street.",
+    "uk": "Ваш працівник уважно прислухався до розмов у шинку. Про злочин доповісти нічого — лише бідолаху висміяли за хропіння, здатне розбудити всю вулицю."
+  },
+  "Activity_FindEvidenceFromWorld_Intigator_Success_Message": {
+    "en": "Loose tongues and strong drink did their work. Evidence of a crime has surfaced.",
+    "uk": "Розв’язані язики й міцний напій зробили свою справу. Докази злочину виявлено."
+  },
+  "Activity_PickpocketCitizen_Intigator_Fail_Message": {
+    "en": "They were either more roguish than your rogues… or simply had nothing worth taking.",
+    "uk": "Або вони виявилися хитрішими за Ваших шахраїв… або в них просто не було чого красти."
+  },
+  "Activity_PickpocketCitizen_Intigator_Success_Message": {
+    "en": "Your thieves return with heavier pockets.",
+    "uk": "Ваші злодії повертаються з важчими кишенями."
+  },
+  "Activity_PickpocketCitizen_Target_Fail_Message": {
+    "en": "You spot a pair of long fingers reaching for your purse — but you dodge just in time. Everything's still there.",
+    "uk": "Ви помічаєте пару спритних пальців, що тягнуться до Вашого гаманця — та встигаєте ухилитися. Усе на місці."
+  },
+  "Activity_PickpocketCitizen_Target_Success_Message": {
+    "en": "Your pockets feel lighter. Damn pickpockets!",
+    "uk": "Ваші кишені стали легшими. Прокляті кишенькові злодії!"
+  },
+  "Activity_Robbery_Robber_Instigator_Message": {
+    "en": "Your rogues took what they could — if anything — and sold it for your profit. They're on their way back, leaving the quarter more dangerous than before.",
+    "uk": "Ваші шахраї забрали все, що змогли — якщо взагалі щось було — і продали це Вам на прибуток. Вони прямують назад, лишаючи квартал небезпечнішим, ніж раніше."
+  },
+  "Activity_Robbery_Robber_Target_Message": {
+    "en": "Some rogues tried to break in and steal from you.",
+    "uk": "Якісь шахраї спробували вдертися до Вас і обікрасти."
+  },
+  "Activity_Robbery_Thief_Instigator_Message": {
+    "en": "Your rogues took what they could — if anything — and sold it for your profit. They're on their way back, leaving the quarter more dangerous than before.",
+    "uk": "Ваші шахраї забрали все, що змогли — якщо взагалі щось було — і продали це Вам на прибуток. Вони прямують назад, лишаючи квартал небезпечнішим, ніж раніше."
+  },
+  "Activity_Robbery_Thief_Target_Message": {
+    "en": "Some rogues tried to break in and steal from you.",
+    "uk": "Якісь шахраї спробували вдертися до Вас і обікрасти."
+  },
+  "Activity_TrainMartial_Message": {
+    "en": "Your workers have finished training.",
+    "uk": "Ваші працівники завершили тренування."
+  },
+  "Activity_TrainStealth_Message": {
+    "en": "Your workers have finished training.",
+    "uk": "Ваші працівники завершили тренування."
+  },
+  "Activity_Train_Message": {
+    "en": "Your worker has finished training.",
+    "uk": "Ваш працівник завершив тренування."
+  },
+  "Birth_Child_Header": {
+    "en": "Your child has been born",
+    "uk": "Ваша дитина народилася"
+  },
+  "Birth_Child_Message": {
+    "en": "By heaven's grace, a child is born into your family.",
+    "uk": "З ласки небес у Вашій родині народжується дитина."
+  },
+  "Birth_Opponent_Child_Header": {
+    "en": "Your opponent's family is growing",
+    "uk": "Родина Вашого суперника зростає"
+  },
+  "Birth_Opponent_Child_Message": {
+    "en": "{charactername} has had a child.",
+    "uk": "У {charactername} народилася дитина."
+  },
+  "Building_Construction_Complete_Header": {
+    "en": "Your building is complete",
+    "uk": "Вашу будівлю зведено"
+  },
+  "Building_Construction_Complete_Message": {
+    "en": "Construction of {buildingtype} is finished, and the new building now stands ready for use.",
+    "uk": "Будівництво {buildingtype} завершено, і нова будівля готова до використання."
+  },
+  "Building_Improvement_Complete_Header": {
+    "en": "An improvement was added to one of your buildings",
+    "uk": "До однієї з Ваших будівель додано покращення"
+  },
+  "Building_Improvement_Complete_Message": {
+    "en": "{improvementtype} was added to {buildingtype}.",
+    "uk": "{improvementtype} додано до {buildingtype}."
+  },
+  "Building_Opponent_Constructed_Header": {
+    "en": "Your opponent constructed a new building",
+    "uk": "Ваш суперник збудував нову будівлю"
+  },
+  "Building_Opponent_Constructed_Message": {
+    "en": "{charactername} has completed construction of a {buildingtype}.",
+    "uk": "{charactername} завершив(-ла) будівництво {buildingtype}."
+  },
+  "Building_Opponent_Purchased_Header": {
+    "en": "Your opponent purchased a new building",
+    "uk": "Ваш суперник придбав нову будівлю"
+  },
+  "Building_Opponent_Purchased_Message": {
+    "en": "{charactername} has purchased {buildingtype}.",
+    "uk": "{charactername} придбав(-ла) {buildingtype}."
+  },
+  "Building_Opponent_Upgrade_Header": {
+    "en": "Your opponent upgraded one of their buildings",
+    "uk": "Ваш суперник поліпшив одну зі своїх будівель"
+  },
+  "Building_Opponent_Upgrade_Message": {
+    "en": "{charactername} has upgraded {buildingtype} to level {lvl} .",
+    "uk": "{charactername} поліпшив(-ла) {buildingtype} до рівня {lvl}."
+  },
+  "Building_OutOfMaterials_Header": {
+    "en": "You ran out of crafting materials",
+    "uk": "У Вас закінчилися матеріали для виготовлення"
+  },
+  "Building_OutOfMaterials_Message": {
+    "en": "{BuildingType} has run out of materials needed to produce {ItemType}.",
+    "uk": "У {BuildingType} закінчилися матеріали, потрібні для виготовлення {ItemType}."
+  },
+  "Building_Repair_Complete_Header": {
+    "en": "Your building is restored",
+    "uk": "Вашу будівлю відновлено"
+  },
+  "Building_Repair_Complete_Message": {
+    "en": "{buildingtype} has been fully repaired and is now back in prime condition.",
+    "uk": "{buildingtype} повністю відремонтовано й приведено до бездоганного стану."
+  },
+  "Building_Repair_Needed_Header": {
+    "en": "Your building needs repair",
+    "uk": "Ваша будівля потребує ремонту"
+  },
+  "Building_Repair_Needed_Message": {
+    "en": "{buildingtype} needs repairs to maintain its function and appeal. A little care now prevents the consequences of neglect later.",
+    "uk": "{buildingtype} потребує ремонту, щоб зберегти свою функціональність і привабливість. Трохи турботи зараз — і Ви уникнете наслідків занепаду згодом."
+  },
+  "Building_Room_Complete_Header": {
+    "en": "The construction of a new room is complete",
+    "uk": "Будівництво нової кімнати завершено"
+  },
+  "Building_Room_Complete_Message": {
+    "en": "The construction of the {roomtype} in {buildingtype} is complete.",
+    "uk": "Будівництво {roomtype} у {buildingtype} завершено."
+  },
+  "Building_StorageFull_Header": {
+    "en": "Your storage has reached its limit",
+    "uk": "Ваша комора заповнена вщент"
+  },
+  "Building_StorageFull_Message": {
+    "en": "The storage in {buildingtype} is full. Free up some space to continue crafting {itemtype}.",
+    "uk": "Комора в {buildingtype} переповнена. Звільніть місце, щоб продовжити виготовляти {itemtype}."
+  },
+  "Building_Upgrade_Complete_Header": {
+    "en": "The upgrade to your building is complete",
+    "uk": "Поліпшення Вашої будівлі завершено"
+  },
+  "Building_Upgrade_Complete_Message": {
+    "en": "{buildingtype} has been upgraded to Level {lvl}. The upgrade brings new potential and expanded features.",
+    "uk": "{buildingtype} поліпшено до рівня {lvl}. Поліпшення відкриває нові можливості та розширені функції."
+  },
+  "Cart_Destination_Reached_Header": {
+    "en": "Your cart has arrived at its destination",
+    "uk": "Ваш віз прибув на місце"
+  },
+  "Cart_Destination_Reached_Message": {
+    "en": "Your cart has arrived at {location_name}.",
+    "uk": "Ваш віз прибув до {location_name}."
+  },
+  "Cart_Escort_Expired_Header": {
+    "en": "Your cart escort has expired",
+    "uk": "Термін супроводу Вашого воза закінчився"
+  },
+  "Cart_Escort_Expired_Message": {
+    "en": "The escort for {cartname} has completed their duty. Hire new escorts if needed.",
+    "uk": "Супровід для {cartname} виконав свій обов’язок. За потреби найміть новий супровід."
+  },
+  "Cart_Repair_Complete_Header": {
+    "en": "Your cart is restored and ready",
+    "uk": "Ваш віз відремонтовано, він готовий рушати"
+  },
+  "Cart_Repair_Complete_Message": {
+    "en": "{cartname} has been repaired and is ready to hit the road again.",
+    "uk": "{cartname} відремонтовано, і віз знову готовий вирушити в дорогу."
+  },
+  "Cart_Repair_Needed_Header": {
+    "en": "Your cart needs repairs",
+    "uk": "Ваш віз потребує ремонту"
+  },
+  "Cart_Repair_Needed_Message": {
+    "en": "{cartname} isn't performing at its best. A quick repair will get it back on track.",
+    "uk": "{cartname} не в найкращому стані. Швидкий ремонт поверне його на дорогу."
+  },
+  "Cart_Stopped_Header": {
+    "en": "Your cart has stopped",
+    "uk": "Ваш віз зупинився"
+  },
+  "Cart_Stopped_Message": {
+    "en": "{cartname} is no longer moving. Investigate the situation.",
+    "uk": "{cartname} більше не рухається. З’ясуйте, що сталося."
+  },
+  "Category_All_DisplayName": {
+    "en": "All Notifications",
+    "uk": "Усі сповіщення"
+  },
+  "Category_All_DisplayName_alt": {
+    "en": "All",
+    "uk": "Усі"
+  },
+  "Category_Building_DisplayName": {
+    "en": "Building Notifications",
+    "uk": "Сповіщення про будівлі"
+  },
+  "Category_Building_DisplayName_alt": {
+    "en": "Buildings",
+    "uk": "Будівлі"
+  },
+  "Category_Cart_DisplayName": {
+    "en": "Cart Notifications",
+    "uk": "Сповіщення про вози"
+  },
+  "Category_Cart_DisplayName_alt": {
+    "en": "Carts",
+    "uk": "Вози"
+  },
+  "Category_Default_DisplayName": {
+    "en": "General Notifications",
+    "uk": "Загальні сповіщення"
+  },
+  "Category_Default_DisplayName_alt": {
+    "en": "General",
+    "uk": "Загальне"
+  },
+  "Category_Opponent_DisplayName": {
+    "en": "Rival Notifications",
+    "uk": "Сповіщення про суперників"
+  },
+  "Category_Opponent_DisplayName_alt": {
+    "en": "Rivals",
+    "uk": "Суперники"
+  },
+  "Category_Politics_DisplayName": {
+    "en": "Political Notifications",
+    "uk": "Політичні сповіщення"
+  },
+  "Category_Politics_DisplayName_alt": {
+    "en": "Politics",
+    "uk": "Політика"
+  },
+  "Courtship_Fail_Death_Header": {
+    "en": "Your love was taken… by the Reaper",
+    "uk": "Вашу любов забрала… Смерть"
+  },
+  "Courtship_Fail_Death_Message": {
+    "en": "Sadly, {charactername} has passed away, ending your romance without ceremony.",
+    "uk": "На жаль, {charactername} пішов(-ла) з життя, і Ваш роман обірвався без церемоній."
+  },
+  "Courtship_Fail_Taken_Header": {
+    "en": "Your courtship chose another",
+    "uk": "Серце, яке Ви завойовували, обрало іншого"
+  },
+  "Courtship_Fail_Taken_Message": {
+    "en": "{charactername} left you for {rivalname}.",
+    "uk": "{charactername} покинув(-ла) Вас заради {rivalname}."
+  },
+  "Courtship_Success_Header": {
+    "en": "A union has been secured",
+    "uk": "Союз укладено"
+  },
+  "Courtship_Success_Message": {
+    "en": "{charactername} says yes! Congratulations!\nPrepare your vows. The wedding takes place next year.",
+    "uk": "{charactername} каже «так»! Вітаємо!\nГотуйте обітниці. Весілля відбудеться наступного року."
+  },
+  "Death_Opponent_DynastyEnds_Header": {
+    "en": "Your opponent's line has ended",
+    "uk": "Рід Вашого суперника обірвався"
+  },
+  "Death_Opponent_DynastyEnds_Message": {
+    "en": "{charactername} has died, and their dynasty perished with them.",
+    "uk": "{charactername} помер(-ла), і разом з ним(нею) згасла й його(її) династія."
+  },
+  "Death_Opponent_Heir_Header": {
+    "en": "Your opponent has passed away",
+    "uk": "Ваш суперник пішов з життя"
+  },
+  "Death_Opponent_Heir_Message": {
+    "en": "{charactername} has died. The dynasty now continues under the heir, {charactername2}.",
+    "uk": "{charactername} помер(-ла). Тепер династію очолює спадкоємець — {charactername2}."
+  },
+  "Death_Player_Heir_Header": {
+    "en": "You died, but your heir takes your place",
+    "uk": "Ви померли, але Ваш спадкоємець посідає Ваше місце"
+  },
+  "Death_Player_Heir_Message": {
+    "en": "You passed away, yet your dynasty stands. You now continue your legacy as {charactername}.",
+    "uk": "Ви пішли з життя, та Ваша династія тримається. Тепер Ви продовжуєте справу як {charactername}."
+  },
+  "Duel_Cancelled_DeathOfOpponent_Header": {
+    "en": "Saved by the Reaper",
+    "uk": "Врятовані Смертю"
+  },
+  "Duel_DeathOfOpponentBeforeDuel_Message": {
+    "en": "The duel has been canceled due to the untimely death of one of the participants. A tragic loss... and a remarkable relief.",
+    "uk": "Дуель скасовано через несподівану смерть одного з учасників. Трагічна втрата… і неабияке полегшення."
+  },
+  "Espionage_Ended_Fail_Header": {
+    "en": "The espionage is over",
+    "uk": "Шпигунство завершено"
+  },
+  "Espionage_Ended_Fail_Message": {
+    "en": "{charactername} is squeaky clean — no {CR_EVI_C}evidence{##} found. Either they're innocent… or very {S_STE_C}careful{##}.",
+    "uk": "{charactername} чистий, як янгол — жодних {CR_EVI_C}доказів{##} не знайдено. Або невинний… або дуже {S_STE_C}обережний{##}."
+  },
+  "Espionage_Ended_Success_Header": {
+    "en": "The espionage is over",
+    "uk": "Шпигунство завершено"
+  },
+  "Espionage_Ended_Success_Message": {
+    "en": "You managed to uncover {NumEvidences} {NumEvidences}|plural(one=piece of {CR_EVI_C}evidence{##},other=pieces of {CR_EVI_C}evidence{##}) in total. Enough to drag {charactername} before the {CR_TRI_C}court{##}.",
+    "uk": "Загалом Вам вдалося знайти {NumEvidences} {NumEvidences}|plural(one={CR_EVI_C}доказ{##},few={CR_EVI_C}докази{##},many={CR_EVI_C}доказів{##},other={CR_EVI_C}доказу{##}) — достатньо, щоб притягнути {charactername} до {CR_TRI_C}суду{##}."
+  },
+  "Espionage_Evidence_New_Header": {
+    "en": "New evidence uncovered",
+    "uk": "Виявлено новий доказ"
+  },
+  "Espionage_Evidence_New_Message": {
+    "en": "You have discovered evidence of misdeeds committed by {charactername}.",
+    "uk": "Ви виявили доказ злочинів, скоєних {charactername}."
+  },
+  "Espionage_Exposed_Opponent_Header": {
+    "en": "A spy has been revealed",
+    "uk": "Шпигуна викрито"
+  },
+  "Espionage_Exposed_Opponent_Message": {
+    "en": "You caught {charactername} spying on you — hopefully they learned nothing of value.",
+    "uk": "Ви впіймали {charactername} на шпигунстві за Вами — сподіваємось, він(вона) не дізнався(-лася) нічого важливого."
+  },
+  "Espionage_Exposed_Self_Header": {
+    "en": "Your spying has been exposed",
+    "uk": "Ваше шпигунство викрито"
+  },
+  "Espionage_Exposed_Self_Message": {
+    "en": "You were caught spying on {charactername} and forced to retreat.",
+    "uk": "Вас застукали за шпигунством за {charactername}, і Ви змушені відступити."
+  },
+  "Evidence_ErasedByTrial_Header": {
+    "en": "What everyone knows, no one fears",
+    "uk": "Що відомо всім, того не боїться ніхто"
+  },
+  "Evidence_ErasedByTrial_Message": {
+    "en": "{charactername} will face {CR_TRI_C}trial{##} for their crimes. As the case is now before the court, you can no longer use this {CR_EVI_C}evidence{##} against them.",
+    "uk": "{charactername} чекає {CR_TRI_C}суд{##} за скоєні злочини. Оскільки справу вже передано до суду, Ви більше не можете використати ці {CR_EVI_C}докази{##} проти нього(неї)."
+  },
+  "Evidence_Expired_Header": {
+    "en": "Another crime goes unpunished",
+    "uk": "Ще один злочин лишиться непокараним"
+  },
+  "Evidence_Expired_Message": {
+    "en": "{CR_STALIM_C}Time{##} has pardoned {charactername} before you could act. The {CR_EVI_C}evidence{##} is gone — and so is your leverage.",
+    "uk": "{CR_STALIM_C}Час{##} помилував {charactername} раніше, ніж Ви встигли діяти. {CR_EVI_C}Доказ{##} втрачено — а разом з ним і Ваш козир."
+  },
+  "Evidence_Expiring_Header": {
+    "en": "Justice is running out of time",
+    "uk": "Час для правосуддя стрімко минає"
+  },
+  "Evidence_Expiring_Message": {
+    "en": "Evidence against {CharacterName} will soon expire. Use it in court or as leverage before time buries the matter.",
+    "uk": "Доказ проти {CharacterName} скоро втратить силу. Скористайтеся ним у суді або як важелем впливу, поки справу не поховав час."
+  },
+  "Evidence_PlayerCrimeExpired_Header": {
+    "en": "No longer worth the rope",
+    "uk": "Уже не варте зашморгу"
+  },
+  "Evidence_PlayerCrimeExpired_Message": {
+    "en": "One of your crimes has been forgiven by {CR_STALIM_C}time{##}. It can no longer bring you to {CR_TRI_C}trial{##} or serve as leverage against you.",
+    "uk": "Один із Ваших злочинів пробачений {CR_STALIM_C}часом{##}. Він більше не може призвести до {CR_TRI_C}суду{##} чи бути важелем впливу проти Вас."
+  },
+  "ExtendAHand_Actor_Header": {
+    "en": "Hand extended",
+    "uk": "Руку подано"
+  },
+  "ExtendAHand_Actor_Message": {
+    "en": "Your gesture of support was received.",
+    "uk": "Ваш жест підтримки прийнято."
+  },
+  "Generic_YouAreTargetOf_Anonymous_Header": {
+    "en": "{Action}",
+    "uk": "{Action}"
+  },
+  "Generic_YouAreTargetOf_Anonymous_Message": {
+    "en": "Someone targets you.",
+    "uk": "Хтось обирає Вас ціллю."
+  },
+  "Generic_YouAreTargetOf_Header": {
+    "en": "{Action}",
+    "uk": "{Action}"
+  },
+  "Generic_YouAreTargetOf_Message": {
+    "en": "{CharacterName} targets you.",
+    "uk": "{CharacterName} обирає Вас ціллю."
+  },
+  "Law_Change_Header": {
+    "en": "A law has changed",
+    "uk": "Закон змінено"
+  },
+  "Law_Change_Message": {
+    "en": "{charactername}, holding the office of {officeposition}, has changed a law. Starting next turn, {lawtype} will be {newstate} (currently {oldstate}).",
+    "uk": "{charactername}, обіймаючи посаду {officeposition}, змінив(-ла) закон. Починаючи з наступного ходу, {lawtype} буде {newstate} (наразі {oldstate})."
+  },
+  "Manager_BackAtSpendingMoney_Header": {
+    "en": "With enough coin on hand, your master is spending once more",
+    "uk": "Маючи достатньо монет, Ваш майстер знову береться до справ"
+  },
+  "Manager_BackAtSpendingMoney_Message": {
+    "en": "As you had reached at least {minimummoney} {CHAR_MON}, {managername} has resumed all non-essential spending in {buildingname}. Management will now proceed as usual.",
+    "uk": "Оскільки у Вас знову є принаймні {minimummoney} {CHAR_MON}, {managername} відновив(-ла) усі несуттєві витрати в {buildingname}. Управління тепер триватиме як зазвичай."
+  },
+  "Manager_NotSpendingMoney_Header": {
+    "en": "Low on coin, your master has halted further spending",
+    "uk": "Через нестачу монет Ваш майстер призупинив зайві витрати"
+  },
+  "Manager_NotSpendingMoney_Message": {
+    "en": "To avoid bankruptcy, {managername} has suspended all non-essential spending while managing {buildingname}. Salaries will still be paid, but no new workers will be hired, repairs made, or crafting materials purchased until you hold at least {minimummoney} {CHAR_MON}.",
+    "uk": "Щоб уникнути банкрутства, {managername} призупинив(-ла) усі несуттєві витрати під час управління {buildingname}. Платня й далі виплачується, але нових працівників не наймуть, ремонту не проведуть і сировину не купуватимуть, поки у Вас не буде принаймні {minimummoney} {CHAR_MON}."
+  },
+  "Marriage_Opponent_Success_Header": {
+    "en": "Your opponent just got married",
+    "uk": "Ваш суперник щойно одружився"
+  },
+  "Marriage_Opponent_Success_Message": {
+    "en": "{charactername} has married {charactername2}.",
+    "uk": "{charactername} узяв(-ла) шлюб із {charactername2}."
+  },
+  "Marriage_Success_Header": {
+    "en": "Your marriage is taking place",
+    "uk": "Ваше весілля відбувається"
+  },
+  "Marriage_Success_Message": {
+    "en": "Congratulations! You are being wed to {charactername}.",
+    "uk": "Вітаємо! Вас одружують із {charactername}."
+  },
+  "Negotiation_PurchaseSavings_Header": {
+    "en": "You saved on the bargain",
+    "uk": "Ви заощадили на вигідній угоді"
+  },
+  "Negotiation_PurchaseSavings_Message": {
+    "en": "Through {S_NEG_C}negotiation{##}, you saved {savings_amount} on this purchase.",
+    "uk": "Завдяки {S_NEG_C}торгу{##} Ви заощадили {savings_amount} на цій покупці."
+  },
+  "Negotiation_SaleProfit_Header": {
+    "en": "You struck a profitable deal",
+    "uk": "Ви уклали вигідну угоду"
+  },
+  "Negotiation_SaleProfit_Message": {
+    "en": "By {S_NEG_C}negotiation{##}, you squeezed {bonus_amount} more out of the deal.",
+    "uk": "Завдяки {S_NEG_C}торгу{##} Ви вичавили з угоди ще {bonus_amount}."
+  },
+  "NothingHappened_Header": {
+    "en": "Nothing happened",
+    "uk": "Нічого не сталося"
+  },
+  "NothingHappened_Message": {
+    "en": "Nothing came of this.",
+    "uk": "З цього нічого не вийшло."
+  },
+  "NotificationLog_DisplayName": {
+    "en": "Notice Board",
+    "uk": "Дошка оголошень"
+  },
+  "Notification_DisplayName": {
+    "en": "Notification",
+    "uk": "Сповіщення"
+  },
+  "Notification_DisplayName_plural": {
+    "en": "Notifications",
+    "uk": "Сповіщення"
+  },
+  "Office_Election_DeathOfCandidate_BeforeElection_Header": {
+    "en": "Quitter",
+    "uk": "Здався без бою"
+  },
+  "Office_Election_DeathOfCandidate_BeforeElection_Message": {
+    "en": "{charactername} has passed away and is no longer seeking the position of {officeposition}.",
+    "uk": "{charactername} пішов(-ла) з життя і більше не претендує на посаду {officeposition}."
+  },
+  "Office_Election_DeathOfCandidate_DuringElection_Header": {
+    "en": "A Seat in Heaven",
+    "uk": "Місце в небесах"
+  },
+  "Office_Election_DeathOfCandidate_DuringElection_Message": {
+    "en": "{charactername} was overcome with emotion and passed away during the election for {officeposition}. Ambition has claimed another victim. They can no longer receive votes.",
+    "uk": "{charactername} не витримав(-ла) хвилювання й пішов(-ла) з життя під час виборів на посаду {officeposition}. Амбіції забрали ще одну жертву. Голосувати за цю особу більше неможливо."
+  },
+  "Office_Election_Eligibility_Header": {
+    "en": "There's an office position open to you",
+    "uk": "Вам відкрилася вакантна посада"
+  },
+  "Office_Election_Eligibility_Message": {
+    "en": "You qualify to run for an open office position. Submit your application before the candidate limit is reached. The election will take place next turn at {hournumber} AM.",
+    "uk": "Ви відповідаєте вимогам, щоб претендувати на вакантну посаду. Подайте заявку, поки не заповнено список кандидатів. Вибори відбудуться наступного ходу о {hournumber} ранку."
+  },
+  "Office_Election_Fail_Header": {
+    "en": "You lost the election",
+    "uk": "Ви програли вибори"
+  },
+  "Office_Election_Fail_Message": {
+    "en": "Unfortunately, the election didn't go in your favor. Best of luck in the future!",
+    "uk": "На жаль, вибори склалися не на Вашу користь. Успіху наступного разу!"
+  },
+  "Office_Election_Start_Header": {
+    "en": "The elections are about to begin",
+    "uk": "Вибори невдовзі почнуться"
+  },
+  "Office_Election_Start_Message": {
+    "en": "The elections to select the new office holders are about to commence.",
+    "uk": "Незабаром почнуться вибори нових посадовців."
+  },
+  "Office_Election_Success_Header": {
+    "en": "You won the election",
+    "uk": "Ви виграли вибори"
+  },
+  "Office_Election_Success_Message": {
+    "en": "Congratulations! You have been elected to the position of {officeposition}. Your new responsibilities and privileges begin immediately.",
+    "uk": "Вітаємо! Вас обрано на посаду {officeposition}. Нові обов’язки й привілеї набувають чинності негайно."
+  },
+  "Office_Opponent_Success_Header": {
+    "en": "Your opponent is now holding office",
+    "uk": "Ваш суперник тепер обіймає посаду"
+  },
+  "Office_Opponent_Success_Message": {
+    "en": "{charactername} has been appointed to the office of {office}.",
+    "uk": "{charactername} призначено на посаду {office}."
+  },
+  "Profession_Rank_Advance_Success_Header": {
+    "en": "Certificate of Mastery Grade",
+    "uk": "Грамота про ступінь майстерності"
+  },
+  "Profession_Rank_Advance_Success_Message": {
+    "en": "Congratulations! Your mastery has been proven through diligence and experience.",
+    "uk": "Вітаємо! Ваша майстерність доведена завзяттям і досвідом."
+  },
+  "Profession_Rank_Advance_Success_Message_extra1": {
+    "en": "With great honor, the Guild hereby bestows upon you the title of \"{professionrank}\".",
+    "uk": "З великою честю гільдія надає Вам титул «{professionrank}»."
+  },
+  "Profession_Rank_Advance_Success_Message_extra2": {
+    "en": "Go forth and uphold the Guild's principles through your newly acquired privileges.",
+    "uk": "Ідіть і підтримуйте принципи гільдії, користуючись новонабутими привілеями."
+  },
+  "Profession_Rank_EnoughXP_Header": {
+    "en": "You're eligible for a higher Mastery Grade",
+    "uk": "Вам доступний вищий ступінь майстерності"
+  },
+  "Profession_Rank_EnoughXP_Message": {
+    "en": "You've earned enough XP to advance in your profession. Go to your {B_GUILD_C}Guild{##} to unlock the next Mastery Grade.",
+    "uk": "Ви здобули достатньо досвіду, щоб зрости у своєму ремеслі. Відвідайте свою {B_GUILD_C}гільдію{##}, щоб отримати наступний ступінь майстерності."
+  },
+  "QuarterPeriodicEffect_Burglary_Header": {
+    "en": "High crime makes for easy targets",
+    "uk": "Де процвітає злочинність, там легка здобич"
+  },
+  "QuarterPeriodicEffect_Burglary_Message": {
+    "en": "Your building has been relieved of a few possessions. See what's missing, count the {B_HP_C}damage{##}, and consider investing in {B_PARAM_BURPRO_C}security{##} — or {QUA_CRI_C}safer streets{##}.",
+    "uk": "Вашу будівлю позбавили кількох речей. Перевірте, що зникло, оцініть {B_HP_C}шкоду{##} і подумайте про інвестиції в {B_PARAM_BURPRO_C}захист від зломів{##} — або в {QUA_CRI_C}безпечніші вулиці{##}."
+  },
+  "QuarterPeriodicEffect_Illness_Header": {
+    "en": "Sickness spreads in the streets",
+    "uk": "Хвороба поширюється вулицями"
+  },
+  "QuarterPeriodicEffect_Illness_Message": {
+    "en": "The quarter is burdened by {QUA_DEV_C}ruin and filth{##}. Improving {B_PARAM_HYG_C}sanitation{##} can ease the worst of it — but some risks remain.",
+    "uk": "Квартал обтяжений {QUA_DEV_C}занепадом і брудом{##}. Поліпшення {B_PARAM_HYG_C}санітарії{##} може дещо полегшити ситуацію — та деякі ризики залишаються."
+  },
+  "Rights_Nobility_AlternativeAction_Success_Message": {
+    "en": "It's good to have connections. Your friendship with {office} {charactername} earned you a Nobility Charter — no blood, no sweat, just the right handshakes.",
+    "uk": "Добре мати зв’язки. Ваша дружба з {office} {charactername} принесла Вам грамоту про дворянство — без крові, без поту, лише потрібні знайомства."
+  },
+  "Rights_Nobility_CupbearerService_Success_Message": {
+    "en": "You've spent more time pouring drinks and pretending to care than anyone should. But at least you've got a Nobility Charter to show for it.",
+    "uk": "Ви провели більше часу, наливаючи вино й удаючи турботу, ніж будь-кому годилося б. Але зате тепер у Вас грамота про дворянство."
+  },
+  "Rights_Nobility_DiplomaticService_Success_Message": {
+    "en": "You've kissed more feet and lied through your teeth to stay afloat in those murky waters. But now you've got a Nobility Charter.",
+    "uk": "Ви цілували більше ніг і брехали безсоромно, щоб втриматися на плаву в тих каламутних водах. Але тепер у Вас грамота про дворянство."
+  },
+  "Rights_Nobility_SquireService_Success_Message": {
+    "en": "You've nearly met your end more times than you can count, but hey, you survived. Now, you get a Nobility Charter to prove it.",
+    "uk": "Ви безліч разів були на волосині від смерті, та все ж вижили. Тепер отримуєте грамоту про дворянство на доказ цього."
+  },
+  "Rights_Nobility_Success_Header": {
+    "en": "You've earned a Nobility Charter",
+    "uk": "Ви здобули грамоту про дворянство"
+  },
+  "Rights_Nobility_TransactionalService_Success_Message": {
+    "en": "Why suffer through all that tedious service when you've got coin to buy your way in? No hard work, just hard cash.",
+    "uk": "Навіщо страждати від нудної служби, коли можна заплатити монетою? Без важкої праці, лише важкі гроші."
+  },
+  "StorefrontSale_Header": {
+    "en": "Another sale made",
+    "uk": "Ще один продаж укладено"
+  },
+  "StorefrontSale_Message": {
+    "en": "Goods worth {value}{CHAR_MON} were sold at {buildingtype}.",
+    "uk": "У {buildingtype} продано товарів на {value}{CHAR_MON}."
+  },
+  "Title_Application_Eligibility_Header": {
+    "en": "You are now eligible to apply for a higher Title",
+    "uk": "Ви маєте право просити вищий титул"
+  },
+  "Title_Application_Eligibility_Message": {
+    "en": "You have met the requirements to apply for the title of {title}. Visit the {B_PUB_TOWHAL_E}Town Hall{##} to submit your application.",
+    "uk": "Ви відповідаєте вимогам, щоб просити титул «{title}». Відвідайте {B_PUB_TOWHAL_E}ратушу{##}, щоб подати заявку."
+  },
+  "Title_Application_Sent_Header": {
+    "en": "Your application has been submitted",
+    "uk": "Вашу заявку подано"
+  },
+  "Title_Application_Sent_Message": {
+    "en": "Your request for the title of {title} has been sent. The council will review your application, and the result will be announced at the start of the next turn.",
+    "uk": "Ваш запит на титул «{title}» надіслано. Рада розгляне заявку, а результат буде оголошено на початку наступного ходу."
+  },
+  "Title_Application_Success_Header": {
+    "en": "You've been granted a higher Title",
+    "uk": "Вам надано вищий титул"
+  },
+  "Title_Application_Success_Message": {
+    "en": "Congratulations! Your application has been approved. You now hold the title of {title}.",
+    "uk": "Вітаємо! Вашу заявку схвалено. Тепер Ви носите титул «{title}»."
+  },
+  "Title_Opponent_Success_Header": {
+    "en": "Your opponent has been granted a new Title",
+    "uk": "Вашому суперникові надано новий титул"
+  },
+  "Title_Opponent_Success_Message": {
+    "en": "{charactername} was granted the title of {title}.",
+    "uk": "{charactername} отримав(-ла) титул «{title}»."
+  },
+  "Trial_Appointment_Accused_Header": {
+    "en": "You'll face trial",
+    "uk": "На Вас чекає суд"
+  },
+  "Trial_Appointment_Accused_Message": {
+    "en": "You will stand accused of {crime} by {accusername} in a trial . \n\nTo sway the {CR_TRI_JUR_C}jury{##}, sharpen your {S_RHE_C}rhetoric{##} and consider improving their {CHAR_STA_C}opinion{##} of you with special items such as {I_SILCHA_C}Silver Chain{##}.",
+    "uk": "Вас звинувачує {accusername} у злочині: {crime}, і справу буде розглянуто на суді.\n\nЩоб схилити {CR_TRI_JUR_C}присяжних{##} на свій бік, вдосконалюйте {S_RHE_C}красномовство{##} і подумайте, як здобути їхню {CHAR_STA_C}прихильність{##} за допомогою особливих предметів, як-от {I_SILCHA_C}срібний ланцюг{##}."
+  },
+  "Trial_Appointment_Accuser_Header": {
+    "en": "Your case will be heard in court",
+    "uk": "Вашу справу розглянуть у суді"
+  },
+  "Trial_Appointment_Accuser_Message": {
+    "en": "Your accusation against {accusedname} will be heard at trial. \n\nPrepare well — stronger {S_RHE_C}rhetoric{##} may help you convince the {CR_TRI_JUR_C}jury{##}.",
+    "uk": "Ваше звинувачення проти {accusedname} буде розглянуто на суді.\n\nДобре підготуйтеся — сильніше {S_RHE_C}красномовство{##} може допомогти переконати {CR_TRI_JUR_C}присяжних{##}."
+  },
+  "Trial_Appointment_Jury_Header": {
+    "en": "You are summoned as a jury member",
+    "uk": "Вас викликано присяжним"
+  },
+  "Trial_Appointment_Jury_Message": {
+    "en": "You have been called to serve as a jury member in a trial. \n\nYour judgment will decide the fate of the accused {accusedname}.",
+    "uk": "Вас викликано служити присяжним на суді.\n\nВаш вирок вирішить долю звинуваченого {accusedname}."
+  },
+  "Trial_Cancelled_DeathOfAccusedBeforeTrial_Header": {
+    "en": "Accidental Death Sentence",
+    "uk": "Випадковий смертний вирок"
+  },
+  "Trial_Cancelled_DeathOfAccusedBeforeTrial_Message": {
+    "en": "{accusedname}, who stood accused of {crime}, has died before the trial could take place. The trial has been cancelled.",
+    "uk": "{accusedname}, звинувачений у злочині «{crime}», помер до початку суду. Суд скасовано."
+  },
+  "Trial_Cancelled_DeathOfAccusedDuringTrial_Header": {
+    "en": "Divine Judgment",
+    "uk": "Боже провидіння"
+  },
+  "Trial_Cancelled_DeathOfAccusedDuringTrial_Message": {
+    "en": "{accusedname}, who stood accused of {crime}, died in full view of the court moments before judgment was pronounced. The sentence will remain unfinished — for now, only God may judge them.",
+    "uk": "{accusedname}, звинувачений у злочині «{crime}», помер на очах у суду за мить до оголошення вироку. Кара лишиться невиконаною — тепер судити його може лише Бог."
+  },
+  "Trial_Cancelled_DeathOfJury_Header": {
+    "en": "No Jury, No Justice",
+    "uk": "Без присяжних немає правосуддя"
+  },
+  "Trial_Cancelled_DeathOfJury_Message": {
+    "en": "{jurorname}, the last remaining juror in the trial of {accusedname}, accused of {crime}, has passed away. With no one left to hear the case, the trial has been cancelled.",
+    "uk": "{jurorname}, останній присяжний у справі {accusedname}, звинуваченого у злочині «{crime}», помер. Оскільки розглядати справу більше нікому, суд скасовано."
+  },
+  "Trial_Result_Guilty_Accused_Header": {
+    "en": "You have been found guilty",
+    "uk": "Вас визнано винним"
+  },
+  "Trial_Result_Guilty_Accused_Message": {
+    "en": "The jury has reached a verdict. You have been found guilty of {crime}. The sentence is as follows:",
+    "uk": "Присяжні винесли вердикт. Вас визнано винним у злочині «{crime}». Вирок такий:"
+  },
+  "Trial_Result_Guilty_Accuser_Header": {
+    "en": "Your accusation was upheld",
+    "uk": "Ваше звинувачення підтримано"
+  },
+  "Trial_Result_Guilty_Accuser_Message": {
+    "en": "The jury has ruled in your favor. {accusedname} has been found guilty of {crime}.",
+    "uk": "Присяжні винесли вирок на Вашу користь. {accusedname} визнано винним у злочині «{crime}»."
+  },
+  "Trial_Result_Guilty_Jury_Header": {
+    "en": "Your judgment is delivered",
+    "uk": "Ваш вирок оголошено"
+  },
+  "Trial_Result_Guilty_Jury_Message": {
+    "en": "The trial has ended. {accusedname} has been found guilty of {crime} by your decision as a juror.",
+    "uk": "Суд завершився. Своїм рішенням як присяжного Ви визнали {accusedname} винним у злочині «{crime}»."
+  },
+  "Trial_Result_Guilty_Others_Header": {
+    "en": "A guilty verdict has been declared",
+    "uk": "Оголошено обвинувальний вирок"
+  },
+  "Trial_Result_Guilty_Others_Message": {
+    "en": "{accusedname} has been found guilty of {crime} at trial. The following sentence will be carried out:",
+    "uk": "На суді {accusedname} визнано винним у злочині «{crime}». Буде виконано таку кару:"
+  },
+  "Trial_Result_NotGuilty_Accused_Header": {
+    "en": "You have been acquitted",
+    "uk": "Вас виправдано"
+  },
+  "Trial_Result_NotGuilty_Accused_Message": {
+    "en": "The jury has reached a verdict. You have been found not guilty of {crime}. You are free to go.",
+    "uk": "Присяжні винесли вердикт. Вас визнано невинним у злочині «{crime}». Ви вільні."
+  },
+  "Trial_Result_NotGuilty_Accuser_Header": {
+    "en": "Your accusation was dismissed",
+    "uk": "Ваше звинувачення відхилено"
+  },
+  "Trial_Result_NotGuilty_Accuser_Message": {
+    "en": "The jury has ruled against you. {accusedname} has been found not guilty of {crime}. You must now pay the following processing fee:",
+    "uk": "Присяжні винесли вирок не на Вашу користь. {accusedname} визнано невинним у злочині «{crime}». Тепер Ви маєте сплатити такий судовий збір:"
+  },
+  "Trial_Result_NotGuilty_Jury_Header": {
+    "en": "Your judgment is delivered",
+    "uk": "Ваш вирок оголошено"
+  },
+  "Trial_Result_NotGuilty_Jury_Message": {
+    "en": "The trial has ended. {accusedname} has been found not guilty of {crime} by your decision as a juror.",
+    "uk": "Суд завершився. Своїм рішенням як присяжного Ви визнали {accusedname} невинним у злочині «{crime}»."
+  },
+  "Trial_Result_NotGuilty_Others_Header": {
+    "en": "A not guilty verdict has been declared",
+    "uk": "Оголошено виправдувальний вирок"
+  },
+  "Trial_Result_NotGuilty_Others_Message": {
+    "en": "{accusedname} has been acquitted of {crime} at trial. The accusation has been dismissed.",
+    "uk": "На суді {accusedname} виправдано у злочині «{crime}». Звинувачення відхилено."
+  },
+  "UseItem_Target1_LetterFromRome_Message": {
+    "en": "A letter from Rome, bearing church seals and false accusations, is received by the clergy of your faith. As a result, several fellow believers — once confident in your devotion — are now deeply disappointed. ",
+    "uk": "Лист із Рима з церковними печатками та неправдивими звинуваченнями отримують священники Вашої віри. Через це кілька одновірців, які раніше вірили у Вашу побожність, тепер глибоко розчаровані."
+  },
+  "UseItem_Target1_TiradeOfHatred_Message": {
+    "en": "{Target2Name} claims to have received a letter from you and is furious about its contents. You have no idea what they are talking about.",
+    "uk": "{Target2Name} стверджує, що отримав(-ла) від Вас листа, і обурений(-а) його змістом. Ви й гадки не маєте, про що йдеться."
+  },
+  "UseItem_Target2_LetterFromRome_Message": {
+    "en": "The church receives a letter from Rome — sealed, official, and filled with grave accusations against {Target1Name} — someone you once trusted, but now you can't help but doubt. ",
+    "uk": "Церква отримує лист із Рима — запечатаний, офіційний і сповнений тяжких звинувачень проти {Target1Name} — того, кому Ви колись довіряли, а тепер не можете позбутися сумнівів."
+  },
+  "UseItem_Target2_TiradeOfHatred_Message": {
+    "en": "You receive a damning letter. It is signed — {Target1Name}. When confronted, {Target1Name} denies it. ",
+    "uk": "Ви отримуєте викривальний лист. Підпис — {Target1Name}. Коли Ви звинувачуєте його напряму, {Target1Name} все заперечує."
+  },
+  "UseItem_Target_BloomOfDiscord_Message": {
+    "en": "A seed of discord blossoms between you and {otherCharacter}. ",
+    "uk": "Між Вами та {otherCharacter} проростає зерно розбрату."
+  },
+  "UseItem_Target_HerbalLiquor_Message": {
+    "en": "{ActorName} notices you're unwell and brings you a herbal liquor. \nYou feel much better.",
+    "uk": "{ActorName} помічає, що Вам зле, і приносить трав’яний напій. \nВи почуваєтеся набагато краще."
+  },
+  "UseItem_Target_PendulumToInduceHypnosis_Message": {
+    "en": "You thought it was just a bad dream — {ActorName} convincing you to sell your stock for so little. But you just realized it actually happened. \n",
+    "uk": "Вам здавалося, що то був лише поганий сон — {ActorName} умовляв Вас продати товар за безцінь. Але щойно Ви зрозуміли: це справді сталося.\n"
+  },
+  "UseItem_Target_PowderOfDarkDecline_Message": {
+    "en": "Someone brushes against you at the Marketplace. You don't notice at the time.",
+    "uk": "Хтось зачіпає Вас на ринку. Ви цього тоді не помічаєте."
+  },
+  "UseItem_Target_Skullfire_Message": {
+    "en": "As you finish your drink, you notice something strange at the bottom of the cup. A moment later, your skull feels like it's on fire. ",
+    "uk": "Допивши свій напій, Ви помічаєте щось дивне на дні кухля. За мить у Вашій голові наче спалахує вогонь."
+  },
+  "UseItem_Target_SleepingBeautySpindle_Message": {
+    "en": "You fell asleep during the vote. There was snoring. Possibly drool. Let's just say it won't help your chances in this election.",
+    "uk": "Ви заснули під час голосування. Було хропіння. Можливо, слина. Скажімо так — це навряд чи допоможе Вам на цих виборах."
+  },
+  "UseItem_Target_SourcerersDocumentII_Message": {
+    "en": "There is evidence linking you to crimes you didn't commit. Breaking the {law1} and {law2} laws, they say. Good luck proving it never happened.",
+    "uk": "Є докази, що пов’язують Вас зі злочинами, яких Ви не скоювали. Порушення законів «{law1}» і «{law2}», кажуть вони. Успіхів у доведенні протилежного."
+  },
+  "UseItem_Target_SourcerersDocumentI_Message": {
+    "en": "There is evidence linking you to a crime you didn't commit. Violating {law}, they say. Good luck proving it never happened.",
+    "uk": "Є докази, що пов’язують Вас зі злочином, якого Ви не скоювали. Порушення закону «{law}», кажуть вони. Успіхів у доведенні протилежного."
+  },
+  "UseItem_Target_StandingGain_BoneBracelet_Message": {
+    "en": "{ActorName} gives you a bone bracelet. It's a simple gift, but it feels meaningful. ",
+    "uk": "{ActorName} дарує Вам кістяний браслет. Простий подарунок, але він видається щирим."
+  },
+  "UseItem_Target_StandingGain_MuskScent_Message": {
+    "en": "{ActorName} wears a musk scent. You catch a hint of it.",
+    "uk": "{ActorName} носить мускусний аромат. Ви вловлюєте його ледь помітний відтінок."
+  },
+  "UseItem_Target_StandingGain_Poem_Message": {
+    "en": "{ActorName} sends you a poem. You appreciate the gesture. ",
+    "uk": "{ActorName} надсилає Вам вірш. Ви цінуєте цей жест."
+  },
+  "UseItem_Target_StandingGain_Temporary_Message": {
+    "en": "{ActorName} uses {ItemName}. You are impressed! ",
+    "uk": "{ActorName} застосовує {ItemName}. Ви вражені!"
+  },
+  "UseItem_Target_StinkBomb_Failure_Message": {
+    "en": "Someone uses a Stink Bomb on your business {BuildingName}. \nLuckily, no worker thinks the smell is bad enough to quit.",
+    "uk": "Хтось застосовує смердючу бомбу проти Вашої справи {BuildingName}. \nНа щастя, жоден працівник не вважає сморід достатньо нестерпним, щоб звільнитися."
+  },
+  "UseItem_Target_StinkBomb_Success_Message": {
+    "en": "Someone uses a Stink Bomb on your business {BuildingName}. \n{amount} workers quit due to the repugnant smell.",
+    "uk": "Хтось застосовує смердючу бомбу проти Вашої справи {BuildingName}. \n{amount} працівників звільняються через огидний сморід."
+  },
+  "UseItem_Target_StrongBeer_Message": {
+    "en": "You trip over your own feet. Good job accepting that drink from... wait, who was that again? ",
+    "uk": "Ви спотикаєтеся на рівному місці. Молодець, що прийняли той напій від… стривайте, хто це був? "
+  },
+  "UseItem_Target_ToadSlime_Failure_Message": {
+    "en": "You feel something sticky on your doorknob. Someone uses a Toad Slime on your residence {BuildingName}. \nLuckily, it has no effect on you.",
+    "uk": "Ви відчуваєте щось липке на дверній ручці. Хтось наносить жаб’ячий слиз на Ваше житло {BuildingName}. \nНа щастя, на Вас це не діє."
+  },
+  "UseItem_Target_ToadSlime_Success_Message": {
+    "en": "You feel something sticky on your doorknob. Someone uses a Toad Slime on your residence {BuildingName}. \nYou contract {IllnessName}.",
+    "uk": "Ви відчуваєте щось липке на дверній ручці. Хтось наносить жаб’ячий слиз на Ваше житло {BuildingName}. \nВи заражаєтеся хворобою {IllnessName}."
+  },
+  "UseItem_Target_VoodooDoll_Message": {
+    "en": "A pain comes from nowhere. Like a needle driven straight into your spine.",
+    "uk": "Біль виникає нізвідки. Наче голку встромили просто у хребет."
+  },
+  "VictoryCondition_Success_Header": {
+    "en": "Victory Accomplished",
+    "uk": "Перемогу здобуто"
+  },
+  "VictoryCondition_Success_Message": {
+    "en": "Congratulations! The victory condition \"{victorycondition}\" has been achieved. You may now choose to continue shaping your legacy or retire with honor. The choice is yours.",
+    "uk": "Вітаємо! Умову перемоги «{victorycondition}» досягнуто. Тепер Ви можете або продовжити творити свою спадщину, або з честю відійти від справ. Вибір за Вами."
+  },
+  "Worker_Accident_Header": {
+    "en": "One of your workers had an accident",
+    "uk": "З одним із Ваших працівників стався нещасний випадок"
+  },
+  "Worker_Accident_Message": {
+    "en": "{workername} had an {B_PARAM_ACCPRO_ACC}accident{##} while working at {buildingtype}.",
+    "uk": "{workername} зазнав(-ла) {B_PARAM_ACCPRO_ACC}нещасного випадку{##} під час роботи в будівлі «{buildingtype}»."
+  },
+  "Worker_CanBePromoted_Header": {
+    "en": "Every master was once an apprentice",
+    "uk": "Кожен майстер колись був учнем"
+  },
+  "Worker_CanBePromoted_Message": {
+    "en": "{workername} is ready for a {A_PROWOR_C}promotion{##}. Higher productivity and fewer accidents may more than justify the increased salary.",
+    "uk": "{workername} готовий(-а) до {A_PROWOR_C}підвищення{##}. Вища продуктивність і менше нещасних випадків можуть з лишком виправдати вищу платню."
+  },
+  "Worker_Death_Header": {
+    "en": "A worker has died",
+    "uk": "Працівник помер"
+  },
+  "Worker_Death_Message": {
+    "en": "Sadly, {workername} has passed away. Their absence will be felt at {buildingtype}.",
+    "uk": "На жаль, {workername} пішов(-ла) з життя. Його (її) відсутність відчується в будівлі «{buildingtype}»."
+  },
+  "Worker_EnergyKnockedDown_Header": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Worker_EnergyKnockedDown_Message": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Worker_EnergyLow_Header": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Worker_EnergyLow_Message": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Worker_EnergyRestored_Header": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Worker_EnergyRestored_Message": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Worker_Injured_Header": {
+    "en": "One of your workers was injured",
+    "uk": "Один із Ваших працівників постраждав"
+  },
+  "Worker_Injured_Message": {
+    "en": "{workername} has been injured while working at {buildingtype}.",
+    "uk": "{workername} постраждав(-ла) під час роботи в будівлі «{buildingtype}»."
+  },
+  "Worker_QuitAboutTo_LowStanding_Header": {
+    "en": "Even the most patient mule eventually kicks",
+    "uk": "Навіть найтерплячіший мул колись починає брикатися"
+  },
+  "Worker_QuitAboutTo_LowStanding_Message": {
+    "en": "The leash of loyalty grows slack around your workers. Consider {WOR_TRE_C}treating{##} them better — or {A_PAYONETIMBON_C}paying{##} them better — before they seek service elsewhere.",
+    "uk": "Повідець відданості Ваших працівників слабшає. Варто {WOR_TRE_C}ставитися{##} до них краще — або {A_PAYONETIMBON_C}платити{##} їм більше — поки вони не подалися шукати службу деінде."
+  },
+  "Worker_Quit_Header": {
+    "en": "A worker has quit",
+    "uk": "Працівник звільнився"
+  },
+  "Worker_Quit_Message": {
+    "en": "{workername} has had enough and quit working at {buildingtype}. Harsh hands and hard days can drive even the loyal to leave.",
+    "uk": "{workername} не витримав(-ла) і залишив(-ла) роботу в будівлі «{buildingtype}». Важка праця та суворе ставлення можуть змусити піти навіть найвідданіших."
+  }
+}

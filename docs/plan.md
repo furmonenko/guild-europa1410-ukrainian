@@ -52,8 +52,8 @@ git commit
 |---|---|---|---|
 | 1 (зроблено) | Items | Sonnet + рецензія Opus | 17 тис. |
 | 2 (зроблено, $2.1) | Buildings, Building Rooms, Building Improvements, Professions, Workers, Titles, Traits, Seasons, Carts | Sonnet | 36 тис. |
-| 3 | Character, Cities, Combat, Effects, Status Effects, Politics | Sonnet | 61 тис. |
-| 4 | Actions, Notifications | Sonnet | 56 тис. |
+| 3а (зроблено, $1.5) | Character, Cities, Combat, Effects | Sonnet | 31 тис. |
+| 3б+4 (зроблено, $3.4) | Status Effects, Politics, Actions, Notifications | Sonnet | 87 тис. |
 | 5 | Events | Opus | 57 тис. |
 | 6 | HistoricalEvents, Challenges, Backstories | Opus | 36 тис. |
 | 7 | Game_VO/Dialogue | Opus | 23 тис. |

@@ -1,0 +1,1498 @@
+{
+  "CivicOffice_ChurchAuthority_Bishop_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_ChurchAuthority_Bishop_DisplayName": {
+    "en": "Bishop",
+    "uk": "Єпископ"
+  },
+  "CivicOffice_ChurchAuthority_Deacon_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_ChurchAuthority_Deacon_DisplayName": {
+    "en": "Deacon",
+    "uk": "Диякон"
+  },
+  "CivicOffice_ChurchAuthority_Description": {
+    "en": "Where faith meets power. Church officials shape morality, oversee tithes, and make sure laws keep one eye on heaven.",
+    "uk": "Там, де віра стрічається з владою. Церковні достойники формують мораль, наглядають за десятиною й стежать, щоб закони не забували про небеса."
+  },
+  "CivicOffice_ChurchAuthority_DisplayName": {
+    "en": "Church Authority",
+    "uk": "Церковна влада"
+  },
+  "CivicOffice_ChurchAuthority_DungeonMaster_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_ChurchAuthority_DungeonMaster_DisplayName": {
+    "en": "Dungeon Master",
+    "uk": "Тюремник"
+  },
+  "CivicOffice_ChurchAuthority_Inquisitor_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_ChurchAuthority_Inquisitor_DisplayName": {
+    "en": "Inquisitor",
+    "uk": "Інквізитор"
+  },
+  "CivicOffice_ChurchAuthority_Prefect_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_ChurchAuthority_Prefect_DisplayName": {
+    "en": "Prefect",
+    "uk": "Префект"
+  },
+  "CivicOffice_ChurchAuthority_TaxCollector_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_ChurchAuthority_TaxCollector_DisplayName": {
+    "en": "Tax Collector",
+    "uk": "Збирач податків"
+  },
+  "CivicOffice_Description": {
+    "en": "Political positions within the town's civic structure, open to any {CHAR_CITVSWOR_C}citizen{##} who meet the requirements and secure a fair victory in an {O_ELE_C}election{##}.",
+    "uk": "Політичні посади у міському врядуванні, відкриті для будь-якого {CHAR_CITVSWOR_C}міщанина{##}, хто відповідає вимогам і чесно перемагає на {O_ELE_C}виборах{##}."
+  },
+  "CivicOffice_DisplayName": {
+    "en": "Civic Office",
+    "uk": "Посада"
+  },
+  "CivicOffice_DisplayName_alt": {
+    "en": "Office",
+    "uk": "Посада"
+  },
+  "CivicOffice_HighRankingOfficials_Description": {
+    "en": "Consist of the {O_CHA_STAAUT_C}State Authority{##}, occupying ranks {icon_07} to {icon_09}.\nThey stand at the highest level of the town's political structure.",
+    "uk": "Складається з {O_CHA_STAAUT_C}державної влади{##}, що обіймає ранги {icon_07}–{icon_09}.\nВони стоять на найвищому щаблі політичного устрою міста."
+  },
+  "CivicOffice_HighRankingOfficials_DisplayName": {
+    "en": "High-Ranking Officials",
+    "uk": "Високопосадовці"
+  },
+  "CivicOffice_Informants_CouncilInformer_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_Informants_CouncilInformer_DisplayName": {
+    "en": "Council Informer",
+    "uk": "Радницький донощик"
+  },
+  "CivicOffice_Informants_Description": {
+    "en": "The city's whisper network. They gather secrets, expose rivals, and twist evidence into whatever story the council needs to hear. If something shady happens, they're the first to know.",
+    "uk": "Мережа міських пліток. Вони збирають таємниці, викривають суперників і перекручують докази в ту історію, яку хоче почути рада. Якщо десь коїться щось сумнівне, вони дізнаються першими."
+  },
+  "CivicOffice_Informants_DisplayName": {
+    "en": "Informants",
+    "uk": "Донощики"
+  },
+  "CivicOffice_Informants_Informer_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_Informants_Informer_DisplayName": {
+    "en": "Informer",
+    "uk": "Донощик"
+  },
+  "CivicOffice_Informants_Spy_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_Informants_Spy_DisplayName": {
+    "en": "Spy",
+    "uk": "Шпигун"
+  },
+  "CivicOffice_LowRankingOfficials_Description": {
+    "en": "Handle the lowest tiers of political authority, occupying ranks {icon_01} to {icon_03}.\nThey are {O_CHA_TOWSER_C}Town Servants{##}, {O_CHA_TOWBAI_C}Town Bailiffs{##}, and {O_CHA_INF_C}Informants{##}.",
+    "uk": "Обіймають найнижчі щаблі політичної влади, ранги {icon_01}–{icon_03}.\nЦе {O_CHA_TOWSER_C}міські служителі{##}, {O_CHA_TOWBAI_C}міські бейліфи{##} та {O_CHA_INF_C}донощики{##}."
+  },
+  "CivicOffice_LowRankingOfficials_DisplayName": {
+    "en": "Low-Ranking Officials",
+    "uk": "Низькі чини"
+  },
+  "CivicOffice_MiddleRankingOfficials_Description": {
+    "en": "Operate within the central layers of political authority, occupying ranks {icon_04} to {icon_06}.\nThey are the {O_CHA_TOWCOU_C}Town Council{##} and {O_CHA_CHUAUT_C}Church Authority{##}.",
+    "uk": "Діють у середніх щаблях політичної влади, ранги {icon_04}–{icon_06}.\nЦе {O_CHA_TOWCOU_C}міська рада{##} та {O_CHA_CHUAUT_C}церковна влада{##}."
+  },
+  "CivicOffice_MiddleRankingOfficials_DisplayName": {
+    "en": "Middle-Ranking Officials",
+    "uk": "Середні чини"
+  },
+  "CivicOffice_OfficesWithinChamber": {
+    "en": "The offices within this chamber are:",
+    "uk": "Посади в цій палаті:"
+  },
+  "CivicOffice_StateAuthority_Archbishop_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_StateAuthority_Archbishop_DisplayName": {
+    "en": "Archbishop",
+    "uk": "Архієпископ"
+  },
+  "CivicOffice_StateAuthority_Colonel_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_StateAuthority_Colonel_DisplayName": {
+    "en": "Colonel",
+    "uk": "Полковник"
+  },
+  "CivicOffice_StateAuthority_CourtCouncilor_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_StateAuthority_CourtCouncilor_DisplayName": {
+    "en": "Court Councilor",
+    "uk": "Придворний радник"
+  },
+  "CivicOffice_StateAuthority_Description": {
+    "en": "The bridge between city and realm. Senior councilors, commanders, and high clergy settle matters that stretch beyond town walls — levies, duties, and the wider balance of power.",
+    "uk": "Міст між містом і державою. Старші радники, воєначальники та вище духовенство вирішують справи, що виходять за міські мури — побори, повинності та ширший розподіл влади."
+  },
+  "CivicOffice_StateAuthority_DisplayName": {
+    "en": "State Authority",
+    "uk": "Державна влада"
+  },
+  "CivicOffice_StateAuthority_GrandInquisitor_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_StateAuthority_GrandInquisitor_DisplayName": {
+    "en": "Grand Inquisitor",
+    "uk": "Великий інквізитор"
+  },
+  "CivicOffice_StateAuthority_PrivyCouncilor_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_StateAuthority_PrivyCouncilor_DisplayName": {
+    "en": "Privy Councilor",
+    "uk": "Таємний радник"
+  },
+  "CivicOffice_StateAuthority_Sovereign_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_StateAuthority_Sovereign_DisplayName": {
+    "en": "Sovereign",
+    "uk": "Володар"
+  },
+  "CivicOffice_StateAuthority_Steward_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_StateAuthority_Steward_DisplayName": {
+    "en": "Steward",
+    "uk": "Намісник"
+  },
+  "CivicOffice_TownBailiffs_Description": {
+    "en": "The town's arm of law enforcement. Stationed at gates and walls, they enforce dues, guard against threats, and turn districts into safer ground under their watch.",
+    "uk": "Озброєна рука міського правосуддя. Розташовані біля брам і мурів, вони стягують мито, стережуть від загроз і роблять квартали під своїм наглядом безпечнішими."
+  },
+  "CivicOffice_TownBailiffs_DisplayName": {
+    "en": "Town Bailiffs",
+    "uk": "Міські бейліфи"
+  },
+  "CivicOffice_TownBailiffs_FencingMaster_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownBailiffs_FencingMaster_DisplayName": {
+    "en": "Fencing Master",
+    "uk": "Майстер фехтування"
+  },
+  "CivicOffice_TownBailiffs_Guardsman_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownBailiffs_Guardsman_DisplayName": {
+    "en": "Guardsman",
+    "uk": "Стражник"
+  },
+  "CivicOffice_TownBailiffs_NightWatchman_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownBailiffs_NightWatchman_DisplayName": {
+    "en": "Night Watchman",
+    "uk": "Нічний вартовий"
+  },
+  "CivicOffice_TownCouncil_BuildingMaster_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownCouncil_BuildingMaster_DisplayName": {
+    "en": "Building Master",
+    "uk": "Будівничий майстер"
+  },
+  "CivicOffice_TownCouncil_CustomsMaster_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownCouncil_CustomsMaster_DisplayName": {
+    "en": "Customs Master",
+    "uk": "Митний майстер"
+  },
+  "CivicOffice_TownCouncil_Description": {
+    "en": "The beating heart of town governance. Members debate laws, argue over money, and decide which improvements get built — or don't.",
+    "uk": "Серце міського врядування. Члени сперечаються про закони, торгуються за гроші й вирішують, що буде збудовано, а що ні."
+  },
+  "CivicOffice_TownCouncil_DisplayName": {
+    "en": "Town Council",
+    "uk": "Міська рада"
+  },
+  "CivicOffice_TownCouncil_Judge_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownCouncil_Judge_DisplayName": {
+    "en": "Judge",
+    "uk": "Суддя"
+  },
+  "CivicOffice_TownCouncil_LeaseMaster_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownCouncil_LeaseMaster_DisplayName": {
+    "en": "Lease Master",
+    "uk": "Орендний майстер"
+  },
+  "CivicOffice_TownCouncil_Mayor_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownCouncil_Mayor_DisplayName": {
+    "en": "Mayor",
+    "uk": "Бургомістр"
+  },
+  "CivicOffice_TownCouncil_Treasurer_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownCouncil_Treasurer_DisplayName": {
+    "en": "Treasurer",
+    "uk": "Скарбник"
+  },
+  "CivicOffice_TownServants_CouncilAssistant_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownServants_CouncilAssistant_DisplayName": {
+    "en": "Council Assistant",
+    "uk": "Радницький помічник"
+  },
+  "CivicOffice_TownServants_Description": {
+    "en": "The first rung of city politics. Servants push papers, carry messages, and learn the ropes of administration. Everyone starts here — nobody stays here.",
+    "uk": "Перший щабель міської політики. Служителі перекладають папери, носять послання й вчаться премудростей врядування. Тут усі починають — і ніхто тут не затримується."
+  },
+  "CivicOffice_TownServants_DisplayName": {
+    "en": "Town Servants",
+    "uk": "Міські служителі"
+  },
+  "CivicOffice_TownServants_TownClerk_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownServants_TownClerk_DisplayName": {
+    "en": "Town Clerk",
+    "uk": "Міський писар"
+  },
+  "CivicOffice_TownServants_TownServant_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CivicOffice_TownServants_TownServant_DisplayName": {
+    "en": "Town Servant",
+    "uk": "Міський служитель"
+  },
+  "Crime_Description": {
+    "en": "{L_LAW_C}Unlawful{##} acts that can leave {CR_EVI_C}evidence{##}. Crimes differ in how easily they're {CR_NOI_C}concealed{##} and how {CR_SEV_C}severe{##} they are.",
+    "uk": "{L_LAW_C}Протизаконні{##} дії, що можуть лишити {CR_EVI_C}докази{##}. Злочини різняться тим, наскільки легко їх {CR_NOI_C}приховати{##} і наскільки вони {CR_SEV_C}тяжкі{##}."
+  },
+  "Crime_DisplayName": {
+    "en": "Crime",
+    "uk": "Злочин"
+  },
+  "Crime_Evidence_Description": {
+    "en": "Every {CR_CRI_C}crime{##} leaves a trace. Whether you witnessed it, suffered from it, {A_SPY_C}spied{##} on it, bought the information, or merely heard a whisper — evidence finds its way through the town.",
+    "uk": "Кожен {CR_CRI_C}злочин{##} лишає слід. Чи бачили Ви його на власні очі, чи постраждали від нього, чи {A_SPY_C}вистежили{##} його, чи купили відомості, чи просто почули чутку — докази знаходять свій шлях містом."
+  },
+  "Crime_Evidence_DisplayName": {
+    "en": "Evidence",
+    "uk": "Докази"
+  },
+  "Crime_Evidence_NoEvidenceAvailable": {
+    "en": "No Evidence Available",
+    "uk": "Доказів немає"
+  },
+  "Crime_Evidence_Tip_DeletingEvidence": {
+    "en": "Someone might be holding {CR_EVI_C}evidence{##} of your crimes. Confess at the Church or Buy an Indulgence to clear your name. Once you've faced Trial, regardless of the verdict, that {CR_EVI_C}evidence{##} can no longer be used against you. And {CR_STALIM_C}time{##}, as always, erases all sins.",
+    "uk": "Хтось може тримати {CR_EVI_C}докази{##} Ваших злочинів. Покайтеся в церкві або купіть індульгенцію, щоб очистити своє ім’я. Після суду, незалежно від вироку, ці {CR_EVI_C}докази{##} вже не можуть бути використані проти Вас. А {CR_STALIM_C}час{##}, як завжди, стирає всі гріхи."
+  },
+  "Crime_Evidence_Tip_GatheringEvidence": {
+    "en": "You can place a {B_IMP_SPY_C}spyglass{##} in your home to {A_SPYPER_C}spy{##} on others. If you believe such work is better left to professionals, visit the {B_OCC_THI_C}Hideout{##} and hire one.",
+    "uk": "Ви можете поставити вдома {B_IMP_SPY_C}підзорну трубу{##}, щоб {A_SPYPER_C}стежити{##} за іншими. Якщо вважаєте, що таку справу краще довірити фахівцям, завітайте до {B_OCC_THI_C}схованки{##} й найміть когось."
+  },
+  "Crime_Evidence_Tip_GatheringEvidence_short": {
+    "en": "Use a {B_IMP_SPY_C}spyglass{##} in your home to {A_SPYPER_C}spy{##} on others, or hire a professional at the {B_OCC_THI_C}Hideout{##}.",
+    "uk": "Скористайтеся {B_IMP_SPY_C}підзорною трубою{##} вдома, щоб {A_SPYPER_C}стежити{##} за іншими, або найміть фахівця у {B_OCC_THI_C}схованці{##}."
+  },
+  "Crime_Evidence_Tip_PressingCharges": {
+    "en": "When you hold {CR_EVI_C}evidence{##} of a crime, a righteous citizen would take it to the {B_PUB_TOWHAL_E}Town Hall{##} and {A_PRECHA_C}press charges{##}. Others may find more interesting uses for it.",
+    "uk": "Маючи {CR_EVI_C}докази{##} злочину, праведний громадянин поніс би їх до {B_PUB_TOWHAL_E}ратуші{##} й {A_PRECHA_C}висунув звинувачення{##}. Інші ж можуть знайти для них цікавіше застосування."
+  },
+  "Crime_Evidence_Tip_PressingCharges_short": {
+    "en": "With {CR_EVI_C}evidence{##} of a crime, you can {A_PRECHA_C}press charges{##} at the {B_PUB_TOWHAL_E}Town Hall{##}.",
+    "uk": "Маючи {CR_EVI_C}докази{##} злочину, Ви можете {A_PRECHA_C}висунути звинувачення{##} в {B_PUB_TOWHAL_E}ратуші{##}."
+  },
+  "Crime_Noisiness_Description": {
+    "en": "The harder a crime is to hide, the more {CR_EVI_C}evidence{##} it leaves — and the sooner trouble follows.",
+    "uk": "Що важче приховати злочин, то більше {CR_EVI_C}доказів{##} він лишає — і то швидше настануть неприємності."
+  },
+  "Crime_Noisiness_Description_extra": {
+    "en": "From highest to lowest exposure:",
+    "uk": "Від найпомітніших до найменш помітних:"
+  },
+  "Crime_Noisiness_DisplayName": {
+    "en": "Crime Exposure",
+    "uk": "Помітність злочину"
+  },
+  "Crime_Noisiness_Loud_DisplayName": {
+    "en": "Conspicuous",
+    "uk": "Впадає в очі"
+  },
+  "Crime_Noisiness_Neutral_DisplayName": {
+    "en": "Noticeable",
+    "uk": "Помітний"
+  },
+  "Crime_Noisiness_Secret_DisplayName": {
+    "en": "Secret",
+    "uk": "Прихований"
+  },
+  "Crime_Noisiness_Subtle_DisplayName": {
+    "en": "Subtle",
+    "uk": "Непомітний"
+  },
+  "Crime_Noisiness_Violent_DisplayName": {
+    "en": "Overt",
+    "uk": "Явний"
+  },
+  "Crime_Severity_Description": {
+    "en": "Reflects the gravity of each offense, classifying {CR_CRI_C}crimes{##} into five distinct levels. The higher the level, the harsher the {CR_TRIPUN_C}punishment{##}.",
+    "uk": "Відображає тяжкість кожного злочину, поділяючи {CR_CRI_C}злочини{##} на п’ять окремих рівнів. Що вищий рівень, то суворіше {CR_TRIPUN_C}покарання{##}."
+  },
+  "Crime_Severity_Description_extra": {
+    "en": "From most severe to least severe:",
+    "uk": "Від найтяжчих до найменш тяжких:"
+  },
+  "Crime_Severity_DisplayName": {
+    "en": "Crime Severity",
+    "uk": "Тяжкість злочину"
+  },
+  "Crime_Severity_Extreme_Description": {
+    "en": "If caught, extreme crimes receive a {CR_TRIPUN_EXT_C}capital sentence{##}.",
+    "uk": "Якщо злочинця спіймано, за надзвичайні злочини призначають {CR_TRIPUN_EXT_C}смертний вирок{##}."
+  },
+  "Crime_Severity_Extreme_DisplayName": {
+    "en": "Extreme",
+    "uk": "Надзвичайний"
+  },
+  "Crime_Severity_Major_Description": {
+    "en": "If caught, severe crimes receive a {CR_TRIPUN_MAJ_C}severe sentence{##}.",
+    "uk": "Якщо злочинця спіймано, за тяжкі злочини призначають {CR_TRIPUN_MAJ_C}тяжкий вирок{##}."
+  },
+  "Crime_Severity_Major_DisplayName": {
+    "en": "Severe",
+    "uk": "Тяжкий"
+  },
+  "Crime_Severity_Minor_Description": {
+    "en": "If caught, minor crimes receive a {CR_TRIPUN_MIN_C}minor sentence{##}.",
+    "uk": "Якщо злочинця спіймано, за дрібні злочини призначають {CR_TRIPUN_MIN_C}дрібне покарання{##}."
+  },
+  "Crime_Severity_Minor_DisplayName": {
+    "en": "Minor",
+    "uk": "Дрібний"
+  },
+  "Crime_Severity_Severe_Description": {
+    "en": "If caught, major crimes receive a {CR_TRIPUN_SEV_C}major sentence{##}.",
+    "uk": "Якщо злочинця спіймано, за серйозні злочини призначають {CR_TRIPUN_SEV_C}серйозний вирок{##}."
+  },
+  "Crime_Severity_Severe_DisplayName": {
+    "en": "Major",
+    "uk": "Серйозний"
+  },
+  "Crime_Severity_Trivial_Description": {
+    "en": "If caught, trivial crimes receive a {CR_TRIPUN_TRI_C}trivial sentence{##}.",
+    "uk": "Якщо злочинця спіймано, за незначні злочини призначають {CR_TRIPUN_TRI_C}незначне покарання{##}."
+  },
+  "Crime_Severity_Trivial_DisplayName": {
+    "en": "Trivial",
+    "uk": "Незначний"
+  },
+  "Crime_StatuteOfLimitations_Description": {
+    "en": "Justice has an expiration date. Once a {CR_CRI_C}crime{##} is committed, a countdown begins. When the statute of limitations expires, any related {CR_EVI_C}evidence{##} is lost and can no longer be used.",
+    "uk": "У справедливості теж є свій строк. Щойно скоєно {CR_CRI_C}злочин{##}, починається відлік. Коли давність минає, усі пов’язані {CR_EVI_C}докази{##} втрачаються і більше не придатні до використання."
+  },
+  "Crime_StatuteOfLimitations_DisplayName": {
+    "en": "Statute of Limitations",
+    "uk": "Давність"
+  },
+  "Crime_Warning_Label": {
+    "en": "This action is a crime of {crimeseverity} severity.",
+    "uk": "Ця дія — злочин рівня «{crimeseverity}»."
+  },
+  "Crime_Warning_Label_Extreme": {
+    "en": "This action is an {CR_SEV_EXT_C}extreme{##} crime.",
+    "uk": "Ця дія — {CR_SEV_EXT_C}надзвичайний{##} злочин."
+  },
+  "Crime_Warning_Label_Major": {
+    "en": "This action is a {CR_SEV_MAJ_C}severe{##} crime.",
+    "uk": "Ця дія — {CR_SEV_MAJ_C}тяжкий{##} злочин."
+  },
+  "Crime_Warning_Label_Minor": {
+    "en": "This action is a {CR_SEV_MIN_C}minor{##} crime.",
+    "uk": "Ця дія — {CR_SEV_MIN_C}дрібний{##} злочин."
+  },
+  "Crime_Warning_Label_Noisiness_Loud": {
+    "en": "It is {CR_NOI_C}conspicuous{##} and likely to draw attention.",
+    "uk": "Він {CR_NOI_C}впадає в очі{##} й, найпевніше, приверне увагу."
+  },
+  "Crime_Warning_Label_Noisiness_Neutral": {
+    "en": "It will be {CR_NOI_C}noticeable{##}.",
+    "uk": "Він буде {CR_NOI_C}помітний{##}."
+  },
+  "Crime_Warning_Label_Noisiness_Secret": {
+    "en": "It is carried out in {CR_NOI_C}secret{##}.",
+    "uk": "Він відбувається {CR_NOI_C}приховано{##}."
+  },
+  "Crime_Warning_Label_Noisiness_Subtle": {
+    "en": "It is {CR_NOI_C}subtle{##} and not easily detected.",
+    "uk": "Він {CR_NOI_C}непомітний{##} і його нелегко виявити."
+  },
+  "Crime_Warning_Label_Noisiness_Violent": {
+    "en": "It is {CR_NOI_C}overt{##} and almost impossible to conceal.",
+    "uk": "Він {CR_NOI_C}явний{##} і його майже неможливо приховати."
+  },
+  "Crime_Warning_Label_Severe": {
+    "en": "This action is a {CR_SEV_SEV_C}major{##} crime.",
+    "uk": "Ця дія — {CR_SEV_SEV_C}серйозний{##} злочин."
+  },
+  "Crime_Warning_Label_Trivial": {
+    "en": "This action is a {CR_SEV_TRI_C}trivial{##} crime.",
+    "uk": "Ця дія — {CR_SEV_TRI_C}незначний{##} злочин."
+  },
+  "Election_Rules_NoAppointer_Description": {
+    "en": "When all appointing positions are vacant, the candidate is chosen by random draw.",
+    "uk": "Коли всі посади з правом призначення вакантні, кандидата обирають жеребкуванням."
+  },
+  "Election_Rules_WhenItStarts_Description": {
+    "en": "Voting begins next turn at {hour}. Results will follow immediately after.",
+    "uk": "Голосування почнеться наступного ходу о {hour}. Результати з’являться одразу після нього."
+  },
+  "Election_SeeCandidates_Prompt": {
+    "en": "See candidates and apply",
+    "uk": "Переглянути кандидатів і подати заявку"
+  },
+  "EmpireAuthority_ChancellorOfTheEmpire_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "EmpireAuthority_ChancellorOfTheEmpire_DisplayName": {
+    "en": "Chancellor of the Empire",
+    "uk": "Канцлер Імперії"
+  },
+  "EmpireAuthority_Description": {
+    "en": "The Empire's distant but heavy hand. Imperial law and privileges trickle down from here, and when the seal arrives, the town listens.\n\nIt consists of:\n\n{O_GREEMI}\n{O_MAREMP}\n{O_CHAEMP}\n{O_POP}\n{O_EMP}",
+    "uk": "Далека, але важка рука Імперії. Звідси спускаються імперські закони й привілеї, і коли надходить печатка, місто слухає.\n\nДо неї належать:\n\n{O_GREEMI}\n{O_MAREMP}\n{O_CHAEMP}\n{O_POP}\n{O_EMP}"
+  },
+  "EmpireAuthority_DisplayName": {
+    "en": "Empire Authority",
+    "uk": "Влада Імперії"
+  },
+  "EmpireAuthority_Emperor_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "EmpireAuthority_Emperor_DisplayName": {
+    "en": "Emperor",
+    "uk": "Імператор"
+  },
+  "EmpireAuthority_GreyEminence_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "EmpireAuthority_GreyEminence_DisplayName": {
+    "en": "Grey Eminence",
+    "uk": "Сіра еміненція"
+  },
+  "EmpireAuthority_MarshalOfTheEmpire_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "EmpireAuthority_MarshalOfTheEmpire_DisplayName": {
+    "en": "Marshal of the Empire",
+    "uk": "Маршал Імперії"
+  },
+  "EmpireAuthority_Pope_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "EmpireAuthority_Pope_DisplayName": {
+    "en": "Pope",
+    "uk": "Папа"
+  },
+  "EvidenceBook_ActiveSpying": {
+    "en": "Active Spying",
+    "uk": "Активне стеження"
+  },
+  "EvidenceBook_CrimesYouCommited": {
+    "en": "Your Criminal Acts",
+    "uk": "Ваші злочинні діяння"
+  },
+  "EvidenceBook_CrimesYouCommited_NoCrime": {
+    "en": "No crimes on record.",
+    "uk": "Злочинів не зафіксовано."
+  },
+  "EvidenceBook_CrimesYouCommited_alt": {
+    "en": "Your Criminal Record",
+    "uk": "Ваше досьє"
+  },
+  "EvidenceBook_GatheredEvidence": {
+    "en": "Collected Evidence",
+    "uk": "Зібрані докази"
+  },
+  "EvidenceBook_Header": {
+    "en": "Evidence Book",
+    "uk": "Книга доказів"
+  },
+  "EvidenceBook_SpyingAndEvidence_Subheader": {
+    "en": "Spying & Evidence",
+    "uk": "Шпигунство й докази"
+  },
+  "EvidenceBook_YourCrimes_Subheader": {
+    "en": "Your Crimes",
+    "uk": "Ваші злочини"
+  },
+  "Evidence_OnCharacter": {
+    "en": "You have evidence against them.",
+    "uk": "У Вас є докази проти цієї особи."
+  },
+  "Evidence_OnCharacter_LookingFor": {
+    "en": "You are spying on them.",
+    "uk": "Ви стежите за цією особою."
+  },
+  "Evidence_SelectEvidence": {
+    "en": "Select evidence",
+    "uk": "Виберіть докази"
+  },
+  "Evidence_Strength_Description": {
+    "en": "{CR_EVI_C}Evidence{##} has five degrees of strength.\n\nThe higher the degree, the stronger the proof — and the greater the chance of conviction. \n\nGathering multiple pieces of evidence for the same crime increases the overall strength: two pieces of degree 1 combine into degree 2, and so on, up to a maximum of degree 5.",
+    "uk": "{CR_EVI_C}Докази{##} мають п’ять ступенів переконливості.\n\nЩо вищий ступінь, то переконливіший доказ — і то більший шанс на засудження.\n\nЗбір кількох доказів того самого злочину підвищує загальну переконливість: два докази 1-го ступеня об’єднуються у 2-й, і так далі, аж до максимуму — 5-го ступеня."
+  },
+  "Evidence_Strength_DisplayName": {
+    "en": "Evidence Strength",
+    "uk": "Переконливість доказів"
+  },
+  "HonoraryOffice_ChiefRobber_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HonoraryOffice_ChiefRobber_DisplayName": {
+    "en": "Chief Robber",
+    "uk": "Отаман розбійників"
+  },
+  "HonoraryOffice_Description": {
+    "en": "Always awarded to the most successful member of a guild or community. Unlike Civic Offices, these seats come from nomination rather than votes, and carry prestige without hierarchy.",
+    "uk": "Завжди присуджується найуспішнішому члену гільдії чи громади. На відміну від міських посад, ці місця здобувають не голосуванням, а призначенням, і вони несуть славу без ієрархії."
+  },
+  "HonoraryOffice_DisplayName": {
+    "en": "Honorary Offices",
+    "uk": "Почесні посади"
+  },
+  "HonoraryOffice_MasterOfTheAlchemistsGuild_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HonoraryOffice_MasterOfTheAlchemistsGuild_DisplayName": {
+    "en": "Master of the Alchemists' Guild",
+    "uk": "Майстер гільдії алхіміків"
+  },
+  "HonoraryOffice_MasterOfTheJoinersGuild_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HonoraryOffice_MasterOfTheJoinersGuild_DisplayName": {
+    "en": "Master of the Joiners' Guild",
+    "uk": "Майстер гільдії столярів"
+  },
+  "HonoraryOffice_MasterOfTheMerchantsGuild_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HonoraryOffice_MasterOfTheMerchantsGuild_DisplayName": {
+    "en": "Master of the Merchants' Guild",
+    "uk": "Майстер гільдії купців"
+  },
+  "HonoraryOffice_MasterOfThePerfumersGuild_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HonoraryOffice_MasterOfThePerfumersGuild_DisplayName": {
+    "en": "Master of the Perfumers' Guild",
+    "uk": "Майстер гільдії парфумерів"
+  },
+  "HonoraryOffice_MasterOfTheSmithsGuild_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HonoraryOffice_MasterOfTheSmithsGuild_DisplayName": {
+    "en": "Master of the Smiths' Guild",
+    "uk": "Майстер гільдії ковалів"
+  },
+  "HonoraryOffice_MasterOfTheStoneMasonsGuild_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HonoraryOffice_MasterOfTheStoneMasonsGuild_DisplayName": {
+    "en": "Master of the Stone Masons' Guild",
+    "uk": "Майстер гільдії каменярів"
+  },
+  "HonoraryOffice_MasterOfTheTailorsGuild_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HonoraryOffice_MasterOfTheTailorsGuild_DisplayName": {
+    "en": "Master of the Tailors' Guild",
+    "uk": "Майстер гільдії кравців"
+  },
+  "HonoraryOffice_PrinceOfThieves_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HonoraryOffice_PrinceOfThieves_DisplayName": {
+    "en": "Prince of Thieves",
+    "uk": "Князь злодіїв"
+  },
+  "HonoraryOffice_TownPreacher_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HonoraryOffice_TownPreacher_DisplayName": {
+    "en": "Town Preacher",
+    "uk": "Міський проповідник"
+  },
+  "Law_Beggary_Description": {
+    "en": "Public displays of poverty are considered distasteful. This law regulates begging, determining whether it's permitted or should remain out of sight.",
+    "uk": "Прилюдні прояви убозтва вважаються непристойними. Цей закон регулює жебрацтво, визначаючи, чи воно дозволене, чи має лишатися поза очима."
+  },
+  "Law_Beggary_DisplayName": {
+    "en": "Beggary",
+    "uk": "Жебрацтво"
+  },
+  "Law_Blackmail_Description": {
+    "en": "Determines whether blackmail is a convenient diplomatic tool or just another crime to be punished.",
+    "uk": "Визначає, чи є шантаж зручним засобом дипломатії, чи просто ще одним злочином, який слід карати."
+  },
+  "Law_Blackmail_DisplayName": {
+    "en": "Blackmail",
+    "uk": "Шантаж"
+  },
+  "Law_BooksAndLampoons_Description": {
+    "en": "Books and lampoons can propagate radical ideas (such as fair governance), giving the authorities the right to forbid their use.",
+    "uk": "Книги й пасквілі можуть поширювати крамольні думки (як-от справедливе врядування), тож влада має право їх забороняти."
+  },
+  "Law_BooksAndLampoons_DisplayName": {
+    "en": "Books and Lampoons",
+    "uk": "Книги й пасквілі"
+  },
+  "Law_Bribery_Description": {
+    "en": "A common method for securing the favor of those who could send you to prison, or smooth your way to the highest offices.",
+    "uk": "Звичний спосіб здобути прихильність тих, хто може запроторити Вас до в’язниці або ж прокласти Вам шлях до найвищих посад."
+  },
+  "Law_Bribery_DisplayName": {
+    "en": "Bribery",
+    "uk": "Підкуп"
+  },
+  "Law_BuildingPriceLevel_Description": {
+    "en": "Regulates the construction fees in the city, impacting building costs.",
+    "uk": "Регулює будівельні збори в місті, впливаючи на вартість будівництва."
+  },
+  "Law_BuildingPriceLevel_DisplayName": {
+    "en": "Building Price Level",
+    "uk": "Рівень цін на будівництво"
+  },
+  "Law_ChurchTithe_Description": {
+    "en": "Determines what percentage every believer must pay the Church as a tithe.",
+    "uk": "Визначає, яку частку кожен вірянин мусить сплачувати Церкві як десятину."
+  },
+  "Law_ChurchTithe_DisplayName": {
+    "en": "Church Tithe",
+    "uk": "Церковна десятина"
+  },
+  "Law_ConstitutionalLaws_DisplayName": {
+    "en": "Constitutional Laws",
+    "uk": "Основні закони"
+  },
+  "Law_CriminalLaws_DisplayName": {
+    "en": "Criminal Laws",
+    "uk": "Кримінальні закони"
+  },
+  "Law_CriminalLaws_DisplayName_alt": {
+    "en": "Criminal",
+    "uk": "Кримінальне"
+  },
+  "Law_CurrentState_DisplayName": {
+    "en": "Currently",
+    "uk": "Наразі"
+  },
+  "Law_Description": {
+    "en": "The rules that keep order in the city. Laws are set and shaped by those holding {O_TYP_CIVOFF_C}Civic Offices{##}, defining what is permitted — and what is not.",
+    "uk": "Правила, що підтримують порядок у місті. Закони встановлюють і формують ті, хто обіймає {O_TYP_CIVOFF_C}посади{##}, визначаючи, що дозволено, а що ні."
+  },
+  "Law_DisplayName": {
+    "en": "Law",
+    "uk": "Закон"
+  },
+  "Law_DisplayName_plural": {
+    "en": "Laws",
+    "uk": "Закони"
+  },
+  "Law_Duel_Description": {
+    "en": "Decides whether duellists will be punished for their deed, provided that is still necessary…",
+    "uk": "Вирішує, чи каратимуть дуелянтів за їхній вчинок — якщо це взагалі ще буде потрібно…"
+  },
+  "Law_Duel_DisplayName": {
+    "en": "Duel",
+    "uk": "Дуель"
+  },
+  "Law_FinancialLaws_DisplayName": {
+    "en": "Financial Laws",
+    "uk": "Фінансові закони"
+  },
+  "Law_FinancialLaws_DisplayName_alt": {
+    "en": "Financial",
+    "uk": "Фінансове"
+  },
+  "Law_GuildTax_Description": {
+    "en": "Imposes a tax on guilds, contributing to the town's revenue.",
+    "uk": "Накладає податок на гільдії, поповнюючи прибутки міста."
+  },
+  "Law_GuildTax_DisplayName": {
+    "en": "Guild Tax",
+    "uk": "Гільдійний податок"
+  },
+  "Law_ImportDuty_Description": {
+    "en": "The import duty protects the local commerce from outside competition, with revenue going to the town treasury.",
+    "uk": "Ввізне мито захищає місцевий промисел від зовнішньої конкуренції, а зібрані гроші надходять до міської скарбниці."
+  },
+  "Law_ImportDuty_DisplayName": {
+    "en": "Import Duty",
+    "uk": "Ввізне мито"
+  },
+  "Law_IncomeLevel_Description": {
+    "en": "Sets the salaries of all public officials. A convenient combination of civic duty and personal interest.",
+    "uk": "Встановлює платню всім урядникам. Зручне поєднання громадянського обов'язку й особистої вигоди."
+  },
+  "Law_IncomeLevel_DisplayName": {
+    "en": "Income Level",
+    "uk": "Рівень платні"
+  },
+  "Law_InheritanceTax_Description": {
+    "en": "Oh, double misfortune! First, a loss in the family, then a fortune in taxes — at least the town treasury is richer.",
+    "uk": "О, подвійне лихо! Спершу втрата в родині, потім статки на податки — принаймні міська скарбниця радіє."
+  },
+  "Law_InheritanceTax_DisplayName": {
+    "en": "Inheritance Tax",
+    "uk": "Податок на спадок"
+  },
+  "Law_Insult_Description": {
+    "en": "\"If intelligence were an art, you'd be an empty canvas\". Whether such speech should be punishable is ruled by this law.",
+    "uk": "«Якби розум був мистецтвом, Ви були б порожнім полотном». Чи карати за такі слова — визначає цей закон."
+  },
+  "Law_Insult_DisplayName": {
+    "en": "Insult",
+    "uk": "Образа"
+  },
+  "Law_Kidnapping_Description": {
+    "en": "This law regulates whether it should be customary and permitted to demand a bit of ransom now and then when one happens to be “short of funds”… A curious law.",
+    "uk": "Цей закон визначає, чи має бути звичним і дозволеним вимагати трохи викупу час від часу, коли раптом «бракує грошей»… Дивний закон."
+  },
+  "Law_Kidnapping_DisplayName": {
+    "en": "Kidnapping",
+    "uk": "Викрадення"
+  },
+  "Law_LawEffects": {
+    "en": "In Practice",
+    "uk": "На практиці"
+  },
+  "Law_LeasePriceLevel_Description": {
+    "en": "Sets the starting bid for securing leases on Resource Sites.",
+    "uk": "Встановлює початкову ставку для отримання оренди на ресурсних угіддях."
+  },
+  "Law_LeasePriceLevel_DisplayName": {
+    "en": "Lease Price Level",
+    "uk": "Рівень цін на оренду"
+  },
+  "Law_Legislator_Label": {
+    "en": "Legislator",
+    "uk": "Законодавець"
+  },
+  "Law_MandatoryGuildMembership_Description": {
+    "en": "Determines whether practicing certain professions requires compulsory guild membership.",
+    "uk": "Визначає, чи вимагає заняття певними професіями обов'язкового членства в гільдії."
+  },
+  "Law_MandatoryGuildMembership_DisplayName": {
+    "en": "Mandatory Guild Membership",
+    "uk": "Обов'язкове членство в гільдії"
+  },
+  "Law_Necromancy_Description": {
+    "en": "Regulates the practice of necromancy, including the raising of the dead or communicating with spirits.",
+    "uk": "Регулює практику некромантії, включно з воскресінням мертвих і спілкуванням з духами."
+  },
+  "Law_Necromancy_DisplayName": {
+    "en": "Necromancy",
+    "uk": "Некромантія"
+  },
+  "Law_Option_Allowed": {
+    "en": "Legal",
+    "uk": "Дозволено"
+  },
+  "Law_Option_Forbidden": {
+    "en": "Illegal",
+    "uk": "Заборонено"
+  },
+  "Law_Option_High": {
+    "en": "High",
+    "uk": "Високий"
+  },
+  "Law_Option_Lousy": {
+    "en": "Lousy",
+    "uk": "Мізерний"
+  },
+  "Law_Option_Low": {
+    "en": "Low",
+    "uk": "Низький"
+  },
+  "Law_Option_Medium": {
+    "en": "Medium",
+    "uk": "Середній"
+  },
+  "Law_Option_NoOfficialReligion": {
+    "en": "Whatever",
+    "uk": "Байдуже"
+  },
+  "Law_Option_VeryHigh": {
+    "en": "Very High",
+    "uk": "Дуже високий"
+  },
+  "Law_Pickpocketing_Description": {
+    "en": "Determines if helping yourself to someone else's coin purse deserves punishment.",
+    "uk": "Визначає, чи заслуговує на кару той, хто запускає руку в чужий гаманець."
+  },
+  "Law_Pickpocketing_DisplayName": {
+    "en": "Pickpocketing",
+    "uk": "Кишенькова крадіжка"
+  },
+  "Law_PossibleValues": {
+    "en": "Can be",
+    "uk": "Можливі значення"
+  },
+  "Law_Punishment_Severity_Extreme": {
+    "en": "Breaking this law may result in a {CR_TRIPUN_EXT_C}capital sentence{##}.",
+    "uk": "Порушення цього закону може призвести до {CR_TRIPUN_EXT_C}смертного вироку{##}."
+  },
+  "Law_Punishment_Severity_Major": {
+    "en": "Breaking this law may result in a {CR_TRIPUN_MAJ_C}severe sentence{##}.",
+    "uk": "Порушення цього закону може призвести до {CR_TRIPUN_MAJ_C}тяжкого вироку{##}."
+  },
+  "Law_Punishment_Severity_Minor": {
+    "en": "Breaking this law may result in a {CR_TRIPUN_MIN_C}minor sentence{##}.",
+    "uk": "Порушення цього закону може призвести до {CR_TRIPUN_MIN_C}дрібного покарання{##}."
+  },
+  "Law_Punishment_Severity_Severe": {
+    "en": "Breaking this law may result in a {CR_TRIPUN_SEV_C}major sentence{##}.",
+    "uk": "Порушення цього закону може призвести до {CR_TRIPUN_SEV_C}серйозного вироку{##}."
+  },
+  "Law_Punishment_Severity_Trivial": {
+    "en": "Breaking this law may result in a {CR_TRIPUN_TRI_C}trivial sentence{##}.",
+    "uk": "Порушення цього закону може призвести до {CR_TRIPUN_TRI_C}незначного покарання{##}."
+  },
+  "Law_RentPriceLevel_Description": {
+    "en": "Sets rent prices for workers in town, potentially influencing homelessness.",
+    "uk": "Встановлює ціни на оренду житла для працівників у місті, що може впливати на безхатченність."
+  },
+  "Law_RentPriceLevel_DisplayName": {
+    "en": "Rent Price Level",
+    "uk": "Рівень цін на оренду житла"
+  },
+  "Law_Sabotage_Description": {
+    "en": "Regulates whether it's acceptable to secretly destroy property.",
+    "uk": "Регулює, чи прийнятно потайки нищити чуже майно."
+  },
+  "Law_Sabotage_DisplayName": {
+    "en": "Sabotage",
+    "uk": "Саботаж"
+  },
+  "Law_SalesTax_Description": {
+    "en": "Every merchant must contribute to the greater good by handing over a portion of their sales earnings to those who contribute nothing at all.",
+    "uk": "Кожен купець мусить долучатися до спільного добра, віддаючи частину прибутку з продажу тим, хто не долучається геть нічим."
+  },
+  "Law_SalesTax_DisplayName": {
+    "en": "Sales Tax",
+    "uk": "Податок з продажу"
+  },
+  "Law_SeverityOfTheLaw_Description": {
+    "en": "Some rulers believe in second chances, others in iron-fisted justice. \nThe higher this law is, the harsher the {CR_TRIPUN_C}sentences{##}.",
+    "uk": "Одні правителі вірять у другий шанс, інші — в залізну справедливість.\nЧим вищий цей закон, тим суворіші {CR_TRIPUN_C}вироки{##}."
+  },
+  "Law_SeverityOfTheLaw_DisplayName": {
+    "en": "Harshness of Punishments",
+    "uk": "Суворість покарань"
+  },
+  "Law_Theft_Description": {
+    "en": "Defines whether breaking into properties and stealing from them is punishable by law.",
+    "uk": "Визначає, чи карається законом проникнення в чуже майно та крадіжка з нього."
+  },
+  "Law_Theft_DisplayName": {
+    "en": "Theft",
+    "uk": "Крадіжка"
+  },
+  "Law_Threatening_Description": {
+    "en": "This law traces the fine line between persuasion and harassment.",
+    "uk": "Цей закон проводить тонку межу між переконанням і залякуванням."
+  },
+  "Law_Threatening_DisplayName": {
+    "en": "Threatening",
+    "uk": "Погрози"
+  },
+  "Law_Torture_Description": {
+    "en": "Pain can be an excellent teacher. This law determines whether Torture may be used as a means of interrogation and punishment.",
+    "uk": "Біль може бути чудовим учителем. Цей закон визначає, чи можна застосовувати тортури як засіб допиту й покарання."
+  },
+  "Law_Torture_DisplayName": {
+    "en": "Torture",
+    "uk": "Тортури"
+  },
+  "Law_TownFaith_Description": {
+    "en": "Faith is a virtue, provided it is the correct one. Those found deviating from the accepted doctrine may find their faith tested under less-than-ideal conditions.",
+    "uk": "Віра — це чеснота, якщо вона правильна. Ті, хто відхиляється від визнаної доктрини, можуть перевірити свою віру в не надто сприятливих умовах."
+  },
+  "Law_TownFaith_DisplayName": {
+    "en": "Town Faith",
+    "uk": "Міська віра"
+  },
+  "Law_Trashing_Description": {
+    "en": "Determines whether hiring thugs in secrecy to beat someone up is legal.",
+    "uk": "Визначає, чи законно потайки наймати горлорізів, щоб побити когось."
+  },
+  "Law_Trashing_DisplayName": {
+    "en": "Beat Up",
+    "uk": "Побиття"
+  },
+  "Law_Triggers": {
+    "en": "Applies to",
+    "uk": "Стосується"
+  },
+  "Law_UseOfCannonTower_Description": {
+    "en": "This law determines whether or not people may fire off their cannon over the town with impunity.",
+    "uk": "Цей закон визначає, чи можуть люди безкарно стріляти з гармати над містом."
+  },
+  "Law_UseOfCannonTower_DisplayName": {
+    "en": "Use of Cannon Towers",
+    "uk": "Використання гарматних веж"
+  },
+  "Law_UseOfPerfume_Description": {
+    "en": "Perfumes, often associated with vanity and moral decay, may be banned for personal use.",
+    "uk": "Парфуми, часто пов'язані з марнославством і моральним занепадом, можуть бути заборонені для особистого вжитку."
+  },
+  "Law_UseOfPerfume_DisplayName": {
+    "en": "Use of Perfumes",
+    "uk": "Вживання парфумів"
+  },
+  "Law_UseOfPotion_Description": {
+    "en": "Is it science or sorcery? This law decides which one.",
+    "uk": "Наука це чи чаклунство? Цей закон вирішує саме це."
+  },
+  "Law_UseOfPotion_DisplayName": {
+    "en": "Use of Potions",
+    "uk": "Вживання настоянок"
+  },
+  "Law_UsuriousInterest_Description": {
+    "en": "This law sets reasonable limits on loan rates, ensuring that lenders still make a fortune — just a slightly more respectable one.",
+    "uk": "Цей закон встановлює розумні межі відсоткам за позики, гарантуючи, що лихварі й далі наживатимуть статки — лише трохи пристойніше."
+  },
+  "Law_UsuriousInterest_DisplayName": {
+    "en": "Usurious Interest",
+    "uk": "Лихварський відсоток"
+  },
+  "Law_WaylayingOfTransports_Description": {
+    "en": "Decides if it's perfectly fine to ambush a cart and make a quick profit.",
+    "uk": "Вирішує, чи цілком нормально влаштувати засідку на віз і швидко поживитися."
+  },
+  "Law_WaylayingOfTransports_DisplayName": {
+    "en": "Waylaying of Transports",
+    "uk": "Засідки на вози"
+  },
+  "Law_Witchcraft_Description": {
+    "en": "Regulates the practice of witchcraft, including curses and the use of mystical objects.",
+    "uk": "Регулює практику чаклунства, включно з прокляттями та використанням містичних предметів."
+  },
+  "Law_Witchcraft_DisplayName": {
+    "en": "Witchcraft",
+    "uk": "Чаклунство"
+  },
+  "Lawbook_Screen_Description": {
+    "en": "Here you'll find the {L_LAW_C}laws{##} that hold the city together — and the {O_TYP_CIVOFF_C}offices{##} that enforce them. ",
+    "uk": "Тут Ви знайдете {L_LAW_C}закони{##}, на яких тримається місто, — і {O_TYP_CIVOFF_C}посади{##}, що стежать за їх дотриманням."
+  },
+  "Lawbook_Screen_Description_extra1": {
+    "en": "Win an {O_ELE_C}election{##} to one of these roles, and you'll earn the power to shape those laws yourself.",
+    "uk": "Переможіть на {O_ELE_C}виборах{##} на одну з цих посад — і здобудете владу самі формувати ці закони."
+  },
+  "Lawbook_Screen_DisplayName": {
+    "en": "Lawbook",
+    "uk": "Кодекс законів"
+  },
+  "ManagedBy_Label": {
+    "en": "Managed By",
+    "uk": "Керує"
+  },
+  "OfficePosition_ApplyForPosition_Prompt": {
+    "en": "Apply for position",
+    "uk": "Подати заявку на посаду"
+  },
+  "OfficePosition_RetractApplication_Prompt": {
+    "en": "Retract aplication",
+    "uk": "Відкликати заявку"
+  },
+  "OfficeTiers_Description": {
+    "en": "Office progression is organized into ranks from {icon_01} to {icon_09}. \n\nIf you wish to take part in the political life of the town, you must first become a citizen. \n\nFrom there, you begin at rank {icon_01} and work your way upward, step by step.",
+    "uk": "Просування по посадах організоване в ранги від {icon_01} до {icon_09}.\n\nЯкщо Ви бажаєте брати участь у політичному житті міста, спершу маєте стати міщанином.\n\nДалі Ви починаєте з рангу {icon_01} і крок за кроком просуваєтеся вище."
+  },
+  "OfficeTiers_DisplayName": {
+    "en": "Office Tiers",
+    "uk": "Ранги посад"
+  },
+  "OfficeTree_Screen_DisplayName": {
+    "en": "Office Chambers",
+    "uk": "Палати посад"
+  },
+  "Office_Appointers_Label": {
+    "en": "Appointers",
+    "uk": "Виборці"
+  },
+  "Office_Appointers_List01": {
+    "en": "{officeposition1}",
+    "uk": "{officeposition1}"
+  },
+  "Office_Appointers_List02": {
+    "en": "{officeposition1}, and {officeposition2}",
+    "uk": "{officeposition1} і {officeposition2}"
+  },
+  "Office_Appointers_List03": {
+    "en": "{officeposition1}, {officeposition2}, and {officeposition3}",
+    "uk": "{officeposition1}, {officeposition2} і {officeposition3}"
+  },
+  "Office_Appointers_List04": {
+    "en": "{officeposition1}, {officeposition2}, {officeposition3}, and {officeposition4}",
+    "uk": "{officeposition1}, {officeposition2}, {officeposition3} і {officeposition4}"
+  },
+  "Office_Appointers_List05": {
+    "en": "{officeposition1}, {officeposition2}, {officeposition3}, {officeposition4}, and {officeposition5}",
+    "uk": "{officeposition1}, {officeposition2}, {officeposition3}, {officeposition4} і {officeposition5}"
+  },
+  "Office_Benefit_Action": {
+    "en": "{Action} action",
+    "uk": "Дія «{Action}»"
+  },
+  "Office_Benefit_CheapMalice": {
+    "en": "Cheap Malice",
+    "uk": "Дешевші інтриги"
+  },
+  "Office_Benefit_FeignTorture": {
+    "en": "Feign Torture",
+    "uk": "Симулювати тортури"
+  },
+  "Office_Benefit_Income": {
+    "en": "{income} income",
+    "uk": "Прибуток {income}"
+  },
+  "Office_Benefit_Juror": {
+    "en": "{CR_TRI_JUR_C}Juror{##} {icon_01}",
+    "uk": "{CR_TRI_JUR_C}Присяжний{##} {icon_01}"
+  },
+  "Office_Benefit_JurorSubstitute_01": {
+    "en": "Substitute {CR_TRI_JUR_C}Juror{##} {icon_01}",
+    "uk": "Запасний {CR_TRI_JUR_C}присяжний{##} {icon_01}"
+  },
+  "Office_Benefit_JurorSubstitute_02": {
+    "en": "Substitute {CR_TRI_JUR_C}Juror{##} {icon_01} and {icon_02}",
+    "uk": "Запасний {CR_TRI_JUR_C}присяжний{##} {icon_01} та {icon_02}"
+  },
+  "Office_Benefit_LegalImmunity": {
+    "en": "Legal Immunity",
+    "uk": "Правова недоторканність"
+  },
+  "Office_Benefit_Legislator": {
+    "en": "Legislates on",
+    "uk": "Ухвалює закони щодо"
+  },
+  "Office_Benefit_LowCostTraining": {
+    "en": "Low Cost Training in {skill}",
+    "uk": "Дешеве тренування навички «{skill}»"
+  },
+  "Office_Benefit_ReducedBuildingCosts": {
+    "en": "Reduced Building Costs",
+    "uk": "Знижені витрати на будівництво"
+  },
+  "Office_Benefit_ShareOfRents": {
+    "en": "Share of Rents",
+    "uk": "Частка орендної плати"
+  },
+  "Office_Benefit_Spymaster": {
+    "en": "Spy Master",
+    "uk": "Головний шпигун"
+  },
+  "Office_Benefit_TemporaryOwnership": {
+    "en": "In charge of",
+    "uk": "Відповідає за"
+  },
+  "Office_Candidates_Label": {
+    "en": "Candidates",
+    "uk": "Кандидати"
+  },
+  "Office_Chamber_Description": {
+    "en": "{O_TYP_CIVOFF_C}Political authority{##} is divided among six chambers, each hierarchically organized with its own powers and duties.",
+    "uk": "{O_TYP_CIVOFF_C}Політична влада{##} поділена між шістьма палатами, кожна з яких має ієрархічну структуру із власними повноваженнями та обов’язками."
+  },
+  "Office_Chamber_Description_extra1": {
+    "en": "They are:",
+    "uk": "Це:"
+  },
+  "Office_Chamber_DisplayName": {
+    "en": "Chamber",
+    "uk": "Палата"
+  },
+  "Office_Chamber_DisplayName_alt": {
+    "en": "Office Chamber",
+    "uk": "Палата посад"
+  },
+  "Office_Chamber_DisplayName_plural": {
+    "en": "Chambers",
+    "uk": "Палати"
+  },
+  "Office_Chamber_DisplayName_plural_alt": {
+    "en": "Office Chambers",
+    "uk": "Палати посад"
+  },
+  "Office_CurrentHolder_DisplayName": {
+    "en": "Current holder",
+    "uk": "Поточний посадовець"
+  },
+  "Office_ElectionFor_Label": {
+    "en": "Election for {officename}",
+    "uk": "Вибори на посаду «{officename}»"
+  },
+  "Office_Election_ApplicationsOpen_hour": {
+    "en": "Applications open: {start}this turn–{end} next turn",
+    "uk": "Прийом заяв: з {start} цього ходу до {end} наступного ходу"
+  },
+  "Office_Election_AppointerCandidate_AutomaticVote_Warning": {
+    "en": "As both an appointer and a candidate, your vote is automatically cast for yourself.",
+    "uk": "Оскільки Ви одночасно виборець і кандидат, Ваш голос автоматично віддається за Вас самих."
+  },
+  "Office_Election_AppointerCandidate_CannotVote_BeforeApplying_Warning": {
+    "en": "By applying for this position, you give up your right to vote in this election.",
+    "uk": "Подавши заяву на цю посаду, Ви втрачаєте право голосу на цих виборах."
+  },
+  "Office_Election_AppointerCandidate_CannotVote_DuringElection_Warning": {
+    "en": "You cannot be both an appointer and a candidate in the same election. You can no longer vote.",
+    "uk": "Ви не можете бути одночасно виборцем і кандидатом на одних виборах. Ви більше не можете голосувати."
+  },
+  "Office_Election_CollectingApplications": {
+    "en": "Collecting applications…",
+    "uk": "Прийом заяв…"
+  },
+  "Office_Election_Description": {
+    "en": "{CHAR_CITVSWOR_C}Citizens{##} who meet the requirements may apply for {O_TYP_CIVOFF_C}office{##} in elections held the following {C_TRN_C}turn{##}. The appointers' good {CHAR_STA_C}opinion{##} of you — as well as strong {S_RHE_C}rhetoric{##} — can make all the difference.",
+    "uk": "{CHAR_CITVSWOR_C}Міщани{##}, що відповідають вимогам, можуть подати заяву на {O_TYP_CIVOFF_C}посаду{##} на виборах наступного {C_TRN_C}ходу{##}. Висока {CHAR_STA_C}прихильність{##} виборців до Вас — так само як і вправне {S_RHE_C}красномовство{##} — може відіграти вирішальну роль."
+  },
+  "Office_Election_DisplayName": {
+    "en": "Election",
+    "uk": "Вибори"
+  },
+  "Office_Election_UnmetRequirement_General_Message": {
+    "en": "Requirements not met.",
+    "uk": "Вимоги не виконано."
+  },
+  "Office_Election_UnmetRequirement_MaxApplicantsReached_Message": {
+    "en": "Maximum number of candidates reached.",
+    "uk": "Досягнуто максимальної кількості кандидатів."
+  },
+  "Office_Election_UnmetRequirement_OfficeRank_Message": {
+    "en": "Requires: Previous office rank {iconnumber}.",
+    "uk": "Потрібно: попередній ранг посади {iconnumber}."
+  },
+  "Office_Election_UnmetRequirement_OpenAt_Message": {
+    "en": "Applications open at {hour}.",
+    "uk": "Прийом заяв почнеться о {hour}."
+  },
+  "Office_Election_UnmetRequirement_Title_Message": {
+    "en": "Requires: {title}.",
+    "uk": "Потрібно: {title}."
+  },
+  "Office_Election_VotingInProgress": {
+    "en": "The appointers are voting…",
+    "uk": "Виборці голосують…"
+  },
+  "Office_Elections_Label": {
+    "en": "Elections",
+    "uk": "Вибори"
+  },
+  "Office_Elections_Vote_Prompt": {
+    "en": "Cast your vote",
+    "uk": "Проголосувати"
+  },
+  "Office_EligibilityCivicOffice": {
+    "en": "Can apply for the Civic Office of",
+    "uk": "Може подати заяву на міську посаду:"
+  },
+  "Office_EligibilityEmpireAuthority": {
+    "en": "Can be appointed to the Empire Authority office of",
+    "uk": "Може бути призначений(а) на посаду імперської влади:"
+  },
+  "Office_EligibilityHonoraryOffice": {
+    "en": "Can be nominated for the Honorary Office of",
+    "uk": "Може бути висунутий(а) на почесну посаду:"
+  },
+  "Office_EligibilityOfCharacter_DisplayName": {
+    "en": "Eligibility of {Title} {FirstName} {LastName}",
+    "uk": "Доступні посади для {Title} {FirstName} {LastName}"
+  },
+  "Office_NoOffice_Label": {
+    "en": "No office",
+    "uk": "Без посади"
+  },
+  "Office_Position_Label": {
+    "en": "Position",
+    "uk": "Посада"
+  },
+  "Office_Position_Label_alt": {
+    "en": "Office Position",
+    "uk": "Посада"
+  },
+  "Office_PreviousPositionRequirement": {
+    "en": "Have held a rank {icon_n} office position",
+    "uk": "Обіймав(ла) посаду рангу {icon_n}"
+  },
+  "Office_Removal_Description": {
+    "en": "When all {A_REMOFF_C}dismissals{##} are formally enacted, stripping them of office and the authority once held.",
+    "uk": "Коли всі {A_REMOFF_C}звільнення з посади{##} офіційно набувають чинності, позбавляючи посадовця його посади та влади, яку він мав."
+  },
+  "Office_Removal_DisplayName": {
+    "en": "Office Dismissal",
+    "uk": "Звільнення з посади"
+  },
+  "Office_Removal_DisplayName_plural": {
+    "en": "Office Dismissals",
+    "uk": "Звільнення з посад"
+  },
+  "Office_TermsInOffice_DisplayName": {
+    "en": "Terms in office",
+    "uk": "Строки на посаді"
+  },
+  "Office_Vacant_Label": {
+    "en": "vacant",
+    "uk": "вакантна"
+  },
+  "Politics_Concept_DisplayName": {
+    "en": "Politics",
+    "uk": "Політика"
+  },
+  "Trial_Accused_Prompt": {
+    "en": "Answer charges",
+    "uk": "Відповісти на звинувачення"
+  },
+  "Trial_Accuser_Prompt": {
+    "en": "Present case",
+    "uk": "Викласти справу"
+  },
+  "Trial_Description": {
+    "en": "When you hold {CR_EVI_C}evidence{##} of a {CR_CRI_C}crime{##}, you may legally {A_PRECHA_C}press charges{##}. The {CR_TRI_JUR_C}Jury{##} decides whether the accused is guilty and should be {CR_TRIPUN_C}punished{##}, or absolved. If they are absolved, you must cover the costs of the proceedings, so try to be {S_RHE_C}convincing{##}.",
+    "uk": "Якщо у Вас є {CR_EVI_C}докази{##} {CR_CRI_C}злочину{##}, Ви можете законно {A_PRECHA_C}висунути звинувачення{##}. {CR_TRI_JUR_C}Присяжні{##} вирішують, чи є звинувачений винним і чи слід його {CR_TRIPUN_C}покарати{##}, чи виправдати. Якщо його виправдають, Ви маєте оплатити судові витрати — тож постарайтеся бути {S_RHE_C}переконливим{##}."
+  },
+  "Trial_Description_extra1": {
+    "en": "However, if you are the one accused of a crime, do not rely on {S_RHE_C}rhetoric{##} alone. Try to {CHAR_STA_C}win over{##} the jury before the trial even begins. Perhaps {A_BRI_C}greasing their palms{##} would help — if that is not illegal, of course.",
+    "uk": "Проте якщо звинувачують саме Вас, не покладайтеся лише на {S_RHE_C}красномовство{##}. Спробуйте {CHAR_STA_C}здобути прихильність{##} присяжних ще до початку суду. Можливо, {A_BRI_C}позолотити їм руку{##} допоможе — якщо це, звісно, не суперечить закону."
+  },
+  "Trial_DisplayName": {
+    "en": "Trial",
+    "uk": "Суд"
+  },
+  "Trial_Jury_Prompt": {
+    "en": "Submit verdict",
+    "uk": "Ухвалити рішення"
+  },
+  "Trial_Participant_Accused_DisplayName": {
+    "en": "Accused",
+    "uk": "Звинувачений"
+  },
+  "Trial_Participant_Accuser_DisplayName": {
+    "en": "Accuser",
+    "uk": "Обвинувач"
+  },
+  "Trial_Participant_Jury_DisplayName": {
+    "en": "Jury",
+    "uk": "Присяжні"
+  },
+  "Trial_Punishment_Description": {
+    "en": "After being found guilty in a {CR_TRI_C}trial{##}, the accused is punished accordingly. The penalty depends on the {CR_SEV_C}severity of the crime{##} and how {L_LAWSEV_C}harsh{##} the current law is.",
+    "uk": "Після визнання винним на {CR_TRI_C}суді{##} звинуваченого відповідно карають. Покарання залежить від {CR_SEV_C}тяжкості злочину{##} та того, наскільки {L_LAWSEV_C}суворий{##} чинний закон."
+  },
+  "Trial_Punishment_Description_extra1": {
+    "en": "It can be:",
+    "uk": "Це може бути:"
+  },
+  "Trial_Punishment_Description_extra2": {
+    "en": "If the accused is absolved, the crime is erased from their record, and the accuser must pay for the trial proceedings.",
+    "uk": "Якщо звинуваченого виправдають, злочин стирається з його справи, а обвинувач має оплатити судові витрати."
+  },
+  "Trial_Punishment_DisplayName": {
+    "en": "Sentence",
+    "uk": "Вирок"
+  },
+  "Trial_Punishment_Execution": {
+    "en": "Sentenced to {ST_CHR_DEAMAR_C}death{##}",
+    "uk": "Засуджений(а) до {ST_CHR_DEAMAR_C}смерті{##}"
+  },
+  "Trial_Punishment_Extreme_Description": {
+    "en": "Capital Sentence",
+    "uk": "Смертний вирок"
+  },
+  "Trial_Punishment_Extreme_DisplayName": {
+    "en": "Capital Sentence",
+    "uk": "Смертний вирок"
+  },
+  "Trial_Punishment_Fine_Wealth": {
+    "en": "Fined {value}% of {CHAR_WEA_C}wealth{##}",
+    "uk": "Штраф у розмірі {value}% {CHAR_WEA_C}статків{##}"
+  },
+  "Trial_Punishment_Imprisonment": {
+    "en": "{ST_CHR_IMP_C}Imprisoned{##}",
+    "uk": "{ST_CHR_IMP_C}Ув’язнений(а){##}"
+  },
+  "Trial_Punishment_Major_Description": {
+    "en": "Severe Sentence",
+    "uk": "Тяжкий вирок"
+  },
+  "Trial_Punishment_Major_DisplayName": {
+    "en": "Severe Sentence",
+    "uk": "Тяжкий вирок"
+  },
+  "Trial_Punishment_Minor_Description": {
+    "en": "Minor Sentence",
+    "uk": "Дрібне покарання"
+  },
+  "Trial_Punishment_Minor_DisplayName": {
+    "en": "Minor Sentence",
+    "uk": "Дрібне покарання"
+  },
+  "Trial_Punishment_PropertyConfiscation": {
+    "en": "One {B_TYP_OCCBUI_C}professional building{##} confiscated",
+    "uk": "Конфіскація однієї {B_TYP_OCCBUI_C}фахової будівлі{##}"
+  },
+  "Trial_Punishment_RemovalFromOffice": {
+    "en": "Removed from {O_TYP_CIVOFF_C}office{##}",
+    "uk": "Звільнення з {O_TYP_CIVOFF_C}посади{##}"
+  },
+  "Trial_Punishment_Severe_Description": {
+    "en": "Major Sentence",
+    "uk": "Серйозний вирок"
+  },
+  "Trial_Punishment_Severe_DisplayName": {
+    "en": "Major Sentence",
+    "uk": "Серйозний вирок"
+  },
+  "Trial_Punishment_StandingWithEveryCharacter": {
+    "en": "{value} everyone's {CHAR_STA_C}opinion{##} of you",
+    "uk": "{value} до {CHAR_STA_C}прихильності{##} всіх до Вас"
+  },
+  "Trial_Punishment_Torture": {
+    "en": "Subjected to torture",
+    "uk": "Піддано катуванням"
+  },
+  "Trial_Punishment_Trivial_Description": {
+    "en": "Trivial Sentence",
+    "uk": "Незначне покарання"
+  },
+  "Trial_Punishment_Trivial_DisplayName": {
+    "en": "Trivial Sentence",
+    "uk": "Незначне покарання"
+  },
+  "Trial_Result_Guilty": {
+    "en": "By decision of the jury, {gender}|gender({charactername} is guilty, {charactername} is guilty).",
+    "uk": "За рішенням присяжних {gender}|gender({charactername} винний, {charactername} винна)."
+  },
+  "Trial_Result_Guilty_DisplayName": {
+    "en": "Guilty",
+    "uk": "Винний"
+  },
+  "Trial_Result_NotGuilty": {
+    "en": "By decision of the jury, {gender}|gender({charactername} is absolved, {charactername} is absolved).",
+    "uk": "За рішенням присяжних {gender}|gender({charactername} виправданий, {charactername} виправдана)."
+  },
+  "Trial_Result_NotGuilty_DisplayName": {
+    "en": "Not Guilty",
+    "uk": "Не винний"
+  },
+  "Trial_Rules_Description": {
+    "en": "To deliver a fair verdict in a {CR_TRI_C}trial{##}, the jury evaluates the {CR_EVI_C}evidence{##} and {S_RHE_C}arguments{##} from both sides.\nStill, partiality and {CHAR_STA_C}opinion{##} may sway their judgment.",
+    "uk": "Щоб винести справедливий вирок на {CR_TRI_C}суді{##}, присяжні оцінюють {CR_EVI_C}докази{##} та {S_RHE_C}красномовство{##} обох сторін.\nПроте упередженість і {CHAR_STA_C}прихильність{##} можуть вплинути на їхнє рішення."
+  },
+  "Trial_Rules_Description_extra1": {
+    "en": "In case of a tie, position {icon_01} has the deciding vote. If vacant, position {icon_02} decides. If all members are absent, the accused is {CR_TRIPUN_C}absolved{##}.",
+    "uk": "У разі рівності голосів вирішальний голос має посада {icon_01}. Якщо вона вакантна — посада {icon_02}. Якщо всі члени відсутні, звинуваченого {CR_TRIPUN_C}виправдовують{##}."
+  },
+  "Trial_Rules_Description_extra2": {
+    "en": "The jury consists of:",
+    "uk": "До складу присяжних входять:"
+  },
+  "Trial_Rules_Description_extra3": {
+    "en": "If any of these positions are vacant, a substitute juror will be assigned.",
+    "uk": "Якщо будь-яка з цих посад вакантна, буде призначено запасного присяжного."
+  },
+  "Trial_Rules_DisplayName": {
+    "en": "Trial Outcome Rules",
+    "uk": "Правила судового рішення"
+  },
+  "Trial_Spectator_Prompt": {
+    "en": "Watch proceedings",
+    "uk": "Спостерігати за судом"
+  },
+  "Trial_WaitingForJury_Message": {
+    "en": "The jury is deciding…",
+    "uk": "Присяжні вирішують…"
+  },
+  "Vote_Abstain_Prompt": {
+    "en": "Abstain",
+    "uk": "Утриматися"
+  },
+  "Vote_Abstained_Label": {
+    "en": "Abstained",
+    "uk": "Утримався(лась)"
+  },
+  "Vote_SubmitVote_Prompt": {
+    "en": "Submit your vote",
+    "uk": "Проголосувати"
+  },
+  "Vote_SubmitedVote_Label": {
+    "en": "Vote Submitted",
+    "uk": "Голос подано"
+  }
+}

@@ -35,6 +35,7 @@ MODELS = {'sonnet': 'sonnet', 'opus': 'opus', 'haiku': 'haiku'}
 SKIP_RE = re.compile(r'\(LocMe\)|^\s*TBD\s*$')
 LETTERS_RE = re.compile(r'[A-Za-z]{2,}')
 CYR_RE = re.compile(r'[А-Яа-яЇїІіЄєҐґ]')
+MIXED_RE = re.compile(r'[А-Яа-яЇїІіЄєҐґ][A-Za-z]|[A-Za-z][А-Яа-яЇїІіЄєҐґ]')
 
 _lock = threading.Lock()
 
@@ -174,6 +175,8 @@ def validate(en, uk):
         return 'no Cyrillic letters in translation'
     if en.startswith(('\n', '\r\n')) != uk.startswith(('\n', '\r\n')):
         return 'leading newline changed'
+    if MIXED_RE.search(re.sub(r'\{[^}]*\}|<[^>]*>', '', uk)):
+        return 'Latin letters inside a Cyrillic word'
     return None
 
 

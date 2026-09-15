@@ -1,0 +1,1306 @@
+{
+  "AccidentProtectionIncreased_Description": {
+    "en": "Work is carried out with unusual care. The physician finds little to do.",
+    "uk": "Роботу виконують з незвичною ретельністю. Лікареві майже нема чим зайнятися."
+  },
+  "AccidentProtectionIncreased_DisplayName": {
+    "en": "All Fingers Present",
+    "uk": "Усі пальці на місці"
+  },
+  "ArtisanalGoods_Description": {
+    "en": "Charm is the house specialty. It pairs well with everything on the menu.",
+    "uk": "Чарівність — фірмова страва цього закладу. Пасує до всього в меню."
+  },
+  "ArtisanalGoods_DisplayName": {
+    "en": "Persuasion on Tap",
+    "uk": "Переконання на розлив"
+  },
+  "BackstoryBloodFeud_Description": {
+    "en": "Quick with a retort and quicker to reach for a weapon. This dynasty is remarkably good at handling disagreements — and remarkably good at having them.",
+    "uk": "Гострі на слово й ще швидші на зброю. Ця династія напрочуд вправно залагоджує суперечки — і так само вправно їх затіває."
+  },
+  "BackstoryBloodFeud_DisplayName": {
+    "en": "Bad Blood",
+    "uk": "Погана кров"
+  },
+  "BackstoryBornPerformers_Description": {
+    "en": "They know how to charm a room, fill a tavern, and keep the common folk entertained. Respectable society may call them improper. Usually while trying not to be seen enjoying themselves.",
+    "uk": "Вони вміють причарувати зал, наповнити корчму й розважити простий люд. Поважне товариство може назвати їх непристойними. Зазвичай тоді, коли намагається приховати, що й саме розважається."
+  },
+  "BackstoryBornPerformers_DisplayName": {
+    "en": "Crowd Pleasers",
+    "uk": "Улюбленці натовпу"
+  },
+  "BackstoryFallenHouse_Description": {
+    "en": "They lost the fortune, not the education. This dynasty can still charm its way through polite society.  Workers, however, tend to find tales of lost privilege somewhat less moving.  ",
+    "uk": "Статки втрачено, але не виховання. Ця династія й досі вміє причарувати вишукане товариство. А от працівників оповідки про втрачені привілеї зворушують значно менше."
+  },
+  "BackstoryFallenHouse_DisplayName": {
+    "en": "Formerly Important",
+    "uk": "Колишня велич"
+  },
+  "BackstoryFamilyCraft_Description": {
+    "en": "Why waste time talking when there's work to be done? A fine philosophy — until someone asks them to make a convincing argument.",
+    "uk": "Навіщо марнувати час на балачки, коли є робота? Чудова філософія — доки хтось не попросить навести переконливий аргумент."
+  },
+  "BackstoryFamilyCraft_DisplayName": {
+    "en": "Better With Their Hands",
+    "uk": "Діло краще за слова"
+  },
+  "BackstoryGoodChristians_Description": {
+    "en": "Known for their faith, this dynasty has earned the townsfolk's respect. The trouble with being so well regarded is that people notice when you misbehave.",
+    "uk": "Відома своєю побожністю, ця династія заслужила повагу городян. Біда доброї слави в тому, що всі помічають, коли ти оступаєшся."
+  },
+  "BackstoryGoodChristians_DisplayName": {
+    "en": "Model Citizen",
+    "uk": "Взірцевий громадянин"
+  },
+  "BackstoryHouseOfScholars_Description": {
+    "en": "They trust books, experiments, and their own eyes. The faithful may find that troubling, but so far nobody has proven them witches. So far.",
+    "uk": "Вони довіряють книгам, дослідам і власним очам. Побожних це може непокоїти, але поки що ніхто не довів, що вони відьми. Поки що."
+  },
+  "BackstoryHouseOfScholars_DisplayName": {
+    "en": "Know-It-Alls",
+    "uk": "Всезнайки"
+  },
+  "BackstoryMarriageStrategists_Description": {
+    "en": "A keen eye for advantageous marriages, turning courtship into lasting bonds between houses.",
+    "uk": "Гострий погляд на вигідні шлюби перетворює залицяння на міцні зв’язки між родами."
+  },
+  "BackstoryMarriageStrategists_DisplayName": {
+    "en": "Alliance Makers",
+    "uk": "Ковалі союзів"
+  },
+  "BackstoryMartialTradition_Description": {
+    "en": "Disciplined and difficult to catch unprepared. Thieves know better than to linger near their property. Diplomacy is useful, certainly. They simply prefer something a little more… convincing.",
+    "uk": "Дисципліновані, їх нелегко захопити зненацька. Злодії добре знають, що краще триматися подалі від їхнього майна. Дипломатія, звісно, річ корисна. Та вони воліють щось трохи… переконливіше."
+  },
+  "BackstoryMartialTradition_DisplayName": {
+    "en": "Never Off Duty",
+    "uk": "Завжди на посту"
+  },
+  "BackstoryNewMoney_Description": {
+    "en": "Hard-earned new money spends just as well as old money. Those who inherited theirs may disagree. Apparently, wealth is more respectable when your grandfather had it first.",
+    "uk": "Тяжкою працею здобуті нові гроші витрачаються так само добре, як і старі. Ті, кому статки дісталися у спадок, можуть не погодитись. Певно, багатство шанованіше, якщо першим ним володів ваш дід."
+  },
+  "BackstoryNewMoney_DisplayName": {
+    "en": "Self-Made",
+    "uk": "Самі всього досягли"
+  },
+  "BackstoryOldBlood_Description": {
+    "en": "A famous name, impeccable manners, and not a callus in sight. This dynasty moves with ease through political circles — just don't expect its well-kept descendants to fare quite as gracefully in a fight.",
+    "uk": "Славетне ім’я, безхибні манери й жодної мозолі. Ця династія легко почувається в політичних колах — тільки не чекайте, що її випещені нащадки так само граційно впораються в бою."
+  },
+  "BackstoryOldBlood_DisplayName": {
+    "en": "Soft Hands",
+    "uk": "М’які руки"
+  },
+  "BackstoryOpportunists_Description": {
+    "en": "Allies, rivals, principles — useful things, provided you know when to set them aside. This family has survived by keeping its options open.",
+    "uk": "Спільники, суперники, засади — усе це корисне, якщо знати, коли їх відкласти набік. Ця родина вижила саме тому, що завжди лишала собі шлях до відступу."
+  },
+  "BackstoryOpportunists_DisplayName": {
+    "en": "Flexible Principles",
+    "uk": "Гнучкі засади"
+  },
+  "BackstoryOutlawBlood_Description": {
+    "en": "A life close to crime has made this dynasty tough, discreet, and quick to learn the tricks of the trade. The guards have every reason to be wary.",
+    "uk": "Життя на межі закону зробило цю династію витривалою, обережною і вправною у ремеслі шахрайства. Вартові мають усі підстави триматися насторожі."
+  },
+  "BackstoryOutlawBlood_DisplayName": {
+    "en": "Underworld Reputation",
+    "uk": "Слава в тіньових колах"
+  },
+  "BackstorySurvivorsBlood_Description": {
+    "en": "Bad things have a habit of happening around this family. The stranger part is how often they survive them. After a while, people start drawing conclusions.",
+    "uk": "З цією родиною раз у раз стається щось лихе. Дивнішим є те, як часто вона з цього виходить неушкодженою. Згодом люди починають робити висновки."
+  },
+  "BackstorySurvivorsBlood_DisplayName": {
+    "en": "Hard to Kill",
+    "uk": "Живучі"
+  },
+  "BadlyMaintainedCart_Description": {
+    "en": "Rough shape, but functional. Mostly.",
+    "uk": "Пошарпаний вигляд, але поки що на ходу. Здебільшого."
+  },
+  "BadlyMaintainedCart_DisplayName": {
+    "en": "Neglected",
+    "uk": "Занедбаний"
+  },
+  "BadlyMaintainedCart_Improves": {
+    "en": "If {B_HP_C}Integrity{##} rises above {value}%, this status is removed.",
+    "uk": "Якщо {B_HP_C}цілісність{##} перевищить {value}%, цей стан зникає."
+  },
+  "BadlyMaintainedCart_Worsens": {
+    "en": "If {B_HP_C}Integrity{##} falls below {value}%, the cart becomes {ST_CAR_TERMAI_C}Run-Down{##}.",
+    "uk": "Якщо {B_HP_C}цілісність{##} впаде нижче {value}%, віз стає {ST_CAR_TERMAI_C}розбитим{##}."
+  },
+  "BadlyMaintained_Description": {
+    "en": "Worn and creaky, but still serviceable — mostly.",
+    "uk": "Спрацьований і скрипучий, але ще придатний до вжитку — здебільшого."
+  },
+  "BadlyMaintained_DisplayName": {
+    "en": "Neglected",
+    "uk": "Занедбаний"
+  },
+  "BadlyMaintained_Improves": {
+    "en": "If {B_HP_C}Integrity{##} rises above {value}%, this status is removed.",
+    "uk": "Якщо {B_HP_C}цілісність{##} перевищить {value}%, цей стан зникає."
+  },
+  "BadlyMaintained_Worsens": {
+    "en": "If {B_HP_C}Integrity{##} falls below {value}%, the building becomes {ST_STR_TERMAI_C}Dilapidated{##}.",
+    "uk": "Якщо {B_HP_C}цілісність{##} впаде нижче {value}%, будівля стає {ST_STR_TERMAI_C}ветхою{##}."
+  },
+  "BasicCivicService_Description": {
+    "en": "The essentials are barely covered. Streets are passable, fires are handled — eventually. Smuggling? Easy to miss.",
+    "uk": "Найпотрібніше ледве забезпечено. Вулиці прохідні, пожежі гасять — зрештою. Контрабанда? Легко проґавити."
+  },
+  "BasicCivicService_DisplayName": {
+    "en": "Basic Civic Service",
+    "uk": "Базова міська служба"
+  },
+  "BatteredEscort_Description": {
+    "en": "Wounded, tired, and barely holding formation. One more hit might break them.",
+    "uk": "Поранені, знесилені, ледве тримають лад. Ще один удар — і вони можуть зламатися."
+  },
+  "BatteredEscort_DisplayName": {
+    "en": "Battered Escort",
+    "uk": "Побита охорона"
+  },
+  "BeeHoneyComb_Contaminated_Description": {
+    "en": "Something foul has found its way into the comb, spoiling every last drop.",
+    "uk": "Щось погане потрапило в стільники, зіпсувавши кожну краплю."
+  },
+  "BeeHoneyComb_Contaminated_DisplayName": {
+    "en": "A Ruined Harvest",
+    "uk": "Зіпсований урожай"
+  },
+  "BeeHoneyComb_Empty_Description": {
+    "en": "Plenty of hexagons, but not a drop of honey.",
+    "uk": "Повно шестикутників, та жодної краплі меду."
+  },
+  "BeeHoneyComb_Empty_DisplayName": {
+    "en": "Honeyless",
+    "uk": "Без меду"
+  },
+  "BeeHoneyComb_Full_Description": {
+    "en": "The comb hangs heavy with honey, a sweet reward for keeping the colony happy.",
+    "uk": "Стільники обважніли від меду — солодка нагорода за турботу про рій."
+  },
+  "BeeHoneyComb_Full_DisplayName": {
+    "en": "Dripping with Honey",
+    "uk": "Стікає медом"
+  },
+  "BeeHoneyComb_Half_Description": {
+    "en": "The colony fell short this season. Perhaps someone could have taken better care of them.",
+    "uk": "Цього сезону рій не виправдав сподівань. Можливо, за ним варто було краще доглядати."
+  },
+  "BeeHoneyComb_Half_DisplayName": {
+    "en": "Less Honey Than Hoped",
+    "uk": "Меду менше, ніж сподівалися"
+  },
+  "BeeState_Active_Description": {
+    "en": "The hive is in full swing, and the bees are working as though winter starts tomorrow.",
+    "uk": "Вулик кипить роботою, а бджоли трудяться так, наче завтра настане зима."
+  },
+  "BeeState_Active_DisplayName": {
+    "en": "Busy Bees",
+    "uk": "Працьовиті бджоли"
+  },
+  "BeeState_Agitated_Description": {
+    "en": "The bees are sharpening their stings and looking for any excuse to ruin someone's day.",
+    "uk": "Бджоли гострять жала й шукають найменшого приводу зіпсувати комусь день."
+  },
+  "BeeState_Agitated_DisplayName": {
+    "en": "Angry Bees",
+    "uk": "Розлючені бджоли"
+  },
+  "BeeState_Empty_Description": {
+    "en": "The hive stands empty — waiting for a queen to claim it.",
+    "uk": "Вулик стоїть порожній — чекає на матку, яка його займе."
+  },
+  "BeeState_Empty_DisplayName": {
+    "en": "Abandoned Hive",
+    "uk": "Покинутий вулик"
+  },
+  "BeeState_Hybernating_Description": {
+    "en": "No buzz here, only zzz.",
+    "uk": "Ніякого гудіння, самі лиш сни."
+  },
+  "BeeState_Hybernating_DisplayName": {
+    "en": "Dormant Bees",
+    "uk": "Сплячі бджоли"
+  },
+  "BeeState_Sick_Description": {
+    "en": "Tiny bees are dropping from the comb, too weak to serve their queen, too weak to find their way home.",
+    "uk": "Крихітні бджоли падають зі стільників, надто слабкі, щоб служити матці, надто слабкі, щоб знайти дорогу додому."
+  },
+  "BeeState_Sick_DisplayName": {
+    "en": "Ailing Bees",
+    "uk": "Хворі бджоли"
+  },
+  "BeeStung_Description": {
+    "en": "One eye is puffed shut, the cheeks are twice their usual size, but you should have seen the other guy.",
+    "uk": "Одне око запухло, щоки вдвічі більші за звичайні, та якби ви бачили того, іншого."
+  },
+  "BeeStung_DisplayName": {
+    "en": "Beeaten Up",
+    "uk": "Ужалений"
+  },
+  "Blessed_Description": {
+    "en": "Some say the blessed walk with fate's favor. Others just call it luck.",
+    "uk": "Кажуть, благословенних супроводжує прихильність долі. Інші називають це просто везінням."
+  },
+  "Blessed_DisplayName": {
+    "en": "Blessed",
+    "uk": "Благословенний"
+  },
+  "Broken_Description": {
+    "en": "The cart cannot move until it is {B_HP_C}repaired{##}.",
+    "uk": "Віз не може рухатися, доки його не {B_HP_C}полагодять{##}."
+  },
+  "Broken_DisplayName": {
+    "en": "Broken Beyond Use",
+    "uk": "Розбитий вщент"
+  },
+  "Broken_Improves": {
+    "en": "If {B_HP_C}Integrity{##} rises above {value}%, the cart becomes {ST_CAR_WRE_C}Wrecked{##}.",
+    "uk": "Якщо {B_HP_C}цілісність{##} перевищить {value}%, віз стане {ST_CAR_WRE_C}розтрощеним{##}."
+  },
+  "BustDisplayed_Description": {
+    "en": "A symbol of stature that inspires workers and impresses customers.",
+    "uk": "Символ становища, що надихає працівників і вражає покупців."
+  },
+  "BustDisplayed_DisplayName": {
+    "en": "Patron's Image",
+    "uk": "Образ покровителя"
+  },
+  "Captured_Description": {
+    "en": "Combat didn't kill them — it just locked them away somewhere unfriendly.",
+    "uk": "Бій не вбив їх — просто замкнув десь у недоброму місці."
+  },
+  "Captured_DisplayName": {
+    "en": "Captured",
+    "uk": "У полоні"
+  },
+  "CartSuperstructureImproved_Description": {
+    "en": "Rebuilt for speed and durability. Moves faster, wears slower — if at all.",
+    "uk": "Перебудований на швидкість і міцність. Рухається жвавіше, зношується повільніше — якщо взагалі зношується."
+  },
+  "CartSuperstructureImproved_DisplayName": {
+    "en": "Rebuilt",
+    "uk": "Перебудований"
+  },
+  "Cart_Escort_Hard_Description": {
+    "en": "Disciplined, well-armed, and expecting trouble. Attacking this cart is more of a mistake than a robbery.",
+    "uk": "Дисципліновані, добре озброєні й готові до сутички. Напад на цей віз — радше помилка, ніж пограбування."
+  },
+  "Cart_Escort_Hard_DisplayName": {
+    "en": "Heavily Escorted",
+    "uk": "Посилений супровід"
+  },
+  "Cart_Escort_Light_Description": {
+    "en": "A few armed hands. Enough to scare off opportunists — nothing more.",
+    "uk": "Кілька озброєних рук. Достатньо, щоб відлякати випадкових шибайголів — не більше."
+  },
+  "Cart_Escort_Light_DisplayName": {
+    "en": "Lightly Escorted",
+    "uk": "Легкий супровід"
+  },
+  "Cart_Escort_Medium_Description": {
+    "en": "Trained guards, steady formation, and weapons meant to be used. Bandits think twice.",
+    "uk": "Навчені вартові, стрункий стрій і зброя, яку не бояться пускати в хід. Розбійники двічі подумають."
+  },
+  "Cart_Escort_Medium_DisplayName": {
+    "en": "Escorted",
+    "uk": "Із супроводом"
+  },
+  "Cart_Escort_Special_Description": {
+    "en": "Guards reserved for special services, where failure is not an option.",
+    "uk": "Вартові, призначені для особливих доручень, де права на помилку немає."
+  },
+  "Cart_Escort_Special_DisplayName": {
+    "en": "Selectively Escorted",
+    "uk": "Вибірковий супровід"
+  },
+  "Cart_UnderAttack_Description": {
+    "en": "Someone thought this cart looked profitable. Hand it over — or {A_HIRESC_C}fight{##}!",
+    "uk": "Хтось вирішив, що цей віз — легка здобич. Віддайте його — або {A_HIRESC_C}бийтеся{##}!"
+  },
+  "Cart_UnderAttack_DisplayName": {
+    "en": "Under Attack",
+    "uk": "Зазнав нападу"
+  },
+  "Cart_WorkedOn_Description": {
+    "en": "The joiners are tending to its splinters and stubborn nails. It will roll again soon.",
+    "uk": "Столярі клопочуться коло скалок і впертих цвяхів. Незабаром він знову покотиться."
+  },
+  "Cart_WorkedOn_DisplayName": {
+    "en": "In the Joiner's Care",
+    "uk": "На піклуванні столяра"
+  },
+  "CausedBy_Label": {
+    "en": "Caused by",
+    "uk": "Спричинено"
+  },
+  "CharmingWeakBeer_Description": {
+    "en": "Ale does not make a man wiser — but it does make him considerably less aware of that fact.",
+    "uk": "Пиво не робить людину мудрішою — зате чудово допомагає про це забути."
+  },
+  "CharmingWeakBeer_DisplayName": {
+    "en": "Liquid Courage",
+    "uk": "Хмільна відвага"
+  },
+  "CleanBuilding_Description": {
+    "en": "Swept floors, polished counters, and not a single rat in sight. ",
+    "uk": "Заметена підлога, начищені прилавки — і жодного пацюка в полі зору. "
+  },
+  "CleanBuilding_DisplayName": {
+    "en": "Spotless",
+    "uk": "Бездоганно"
+  },
+  "ComplexCivicService_Description": {
+    "en": "Well-staffed and far-reaching. Bureaucrats track what enters, what exits, and who's not playing by the rules.",
+    "uk": "Достатньо служителів, і робота охоплює все місто. Урядники стежать, що вносять, що виносять і хто порушує правила."
+  },
+  "ComplexCivicService_DisplayName": {
+    "en": "Complex Civic Service",
+    "uk": "Розгалужена міська служба"
+  },
+  "CrimeRate_Catastrophic_Description": {
+    "en": "Law has broken down. Crime controls the streets, and no one feels safe.",
+    "uk": "Закон занепав. Вулицями керує злочинність, і ніхто не почувається в безпеці."
+  },
+  "CrimeRate_Catastrophic_DisplayName": {
+    "en": "Catastrophic",
+    "uk": "Катастрофічний"
+  },
+  "CrimeRate_Concerning_Description": {
+    "en": "Criminals grow bolder. Guards respond, but too much slips past them.",
+    "uk": "Злочинці дедалі зухваліші. Вартові намагаються стримувати, та надто багато чого вислизає повз них."
+  },
+  "CrimeRate_Concerning_DisplayName": {
+    "en": "Concerning",
+    "uk": "Тривожний"
+  },
+  "CrimeRate_Insignificant_Description": {
+    "en": "A few petty acts here and there — nothing that shakes the quarter's peace.",
+    "uk": "Подекуди трапляються дрібні злочини — та нічого, що порушило б спокій кварталу."
+  },
+  "CrimeRate_Insignificant_DisplayName": {
+    "en": "Insignificant",
+    "uk": "Незначний"
+  },
+  "CrimeRate_Moderate_Description": {
+    "en": "Thefts and assaults are no longer rare. Guards stay busy, but can't be everywhere.",
+    "uk": "Крадіжки й напади вже не рідкість. Вартові не сидять без діла, та встигнути всюди не можуть."
+  },
+  "CrimeRate_Moderate_DisplayName": {
+    "en": "Moderate",
+    "uk": "Помірний"
+  },
+  "CrimeRate_NonExistent_Description": {
+    "en": "The streets are safe, patrols are steady, and the people sleep well.",
+    "uk": "Вулиці безпечні, патрулі надійні, а люд спить спокійно."
+  },
+  "CrimeRate_NonExistent_DisplayName": {
+    "en": "Non Existent",
+    "uk": "Відсутній"
+  },
+  "CrimeRate_Severe_Description": {
+    "en": "Criminals act without fear. Guards are outnumbered, and order is fragile.",
+    "uk": "Злочинці діють без страху. Вартові в меншості, а порядок ледь тримається."
+  },
+  "CrimeRate_Severe_DisplayName": {
+    "en": "Severe",
+    "uk": "Тяжкий"
+  },
+  "Cursed_Description": {
+    "en": "Tainted by forces unseen. Not contagious — just unlucky.",
+    "uk": "Уражений невидимими силами. Не заразно — просто не щастить."
+  },
+  "Cursed_DisplayName": {
+    "en": "Cursed",
+    "uk": "Проклятий"
+  },
+  "Dead_Description": {
+    "en": "Tu fui, ego eris.",
+    "uk": "Tu fui, ego eris."
+  },
+  "Dead_DisplayName": {
+    "en": "Dead",
+    "uk": "Мертвий"
+  },
+  "DeathMark_Description": {
+    "en": "Soon to be dead. Awaiting execution due to being convicted of a heinous crime.",
+    "uk": "Скоро помре. Чекає страти за тяжкий злочин."
+  },
+  "DeathMark_DisplayName": {
+    "en": "On Death Row",
+    "uk": "У камері смертників"
+  },
+  "DesolateHouse_Description": {
+    "en": "It's not abandoned. It just wishes it were.",
+    "uk": "Ще не пустка. Але дуже хотіло б нею стати."
+  },
+  "DesolateHouse_DisplayName": {
+    "en": "Desolate",
+    "uk": "Покинуте"
+  },
+  "DesolateHouse_Improves": {
+    "en": "If {B_HP_C}Integrity{##} rises above {value}%, the building becomes {ST_STR_RUI_C}Ruined{##}.",
+    "uk": "Якщо {B_HP_C}цілісність{##} підніметься вище {value}%, будівля стане {ST_STR_RUI_C}зруйнованою{##}."
+  },
+  "Dishonored_Cause_01": {
+    "en": "Shrank from a {A_DUECHA_C}duel{##}",
+    "uk": "Ухилився від {A_DUECHA_C}дуелі{##}"
+  },
+  "Dishonored_Cause_02": {
+    "en": "Proven dishonest",
+    "uk": "Викрито в нечесності"
+  },
+  "Dishonored_Description": {
+    "en": "Refused to fight for their name. Now even friends speak of their name with caution.",
+    "uk": "Відмовився боротися за своє ім’я. Тепер навіть друзі згадують його з обережністю."
+  },
+  "Dishonored_DisplayName": {
+    "en": "Dishonored",
+    "uk": "Зганьблений"
+  },
+  "Disreputable_Description": {
+    "en": "Somewhere, an Imperial clerk is writing your city's name down for the wrong reasons.",
+    "uk": "Десь імперський писар записує назву Вашого міста не з тих причин."
+  },
+  "Disreputable_DisplayName": {
+    "en": "Cast from the Crown's Good Graces",
+    "uk": "Позбавлений прихильності Корони"
+  },
+  "Dreams_Description": {
+    "en": "(LocMe)Dreams01.",
+    "uk": "(LocMe)Dreams01."
+  },
+  "Dreams_DisplayName": {
+    "en": "(LocMe)Dreams01",
+    "uk": "(LocMe)Dreams01"
+  },
+  "FertilityDecrease_Description": {
+    "en": "Obligations keep the spouses apart. Nature must wait.",
+    "uk": "Обов’язки тримають подружжя нарізно. Природі доведеться зачекати."
+  },
+  "FertilityDecrease_DisplayName": {
+    "en": "Work Comes First",
+    "uk": "Спершу справи"
+  },
+  "FertilityIncrease_Description": {
+    "en": "Disheveled hair and a certain satisfied glow. A well-tended marriage leaves its marks.",
+    "uk": "Розкуйовджене волосся й особливе сяйво задоволення. Дбайливий шлюб лишає свої сліди."
+  },
+  "FertilityIncrease_DisplayName": {
+    "en": "Well-Loved",
+    "uk": "Щасливе подружжя"
+  },
+  "FineClothes_Description": {
+    "en": "Some of us are simply… better.",
+    "uk": "Дехто з нас просто… кращий."
+  },
+  "FineClothes_DisplayName": {
+    "en": "Elegance Incarnate",
+    "uk": "Втілена елегантність"
+  },
+  "Fire_Description": {
+    "en": "The structure burns. So does everything inside. You should probably be running.",
+    "uk": "Будівля палає. Як і все всередині. Мабуть, варто тікати."
+  },
+  "Fire_DisplayName": {
+    "en": "On Fire",
+    "uk": "Пожежа"
+  },
+  "Frightened_Description": {
+    "en": "Overcome by fear. Unable to act against the one who caused it.",
+    "uk": "Охоплений страхом. Не здатен діяти проти того, хто його викликав."
+  },
+  "Frightened_DisplayName": {
+    "en": "Frightened",
+    "uk": "Наляканий"
+  },
+  "GreasedWheels_Description": {
+    "en": "With a slick coat of grease, the cart rolls smoother and faster.",
+    "uk": "Колеса щедро змащено — тепер віз котиться плавніше й швидше."
+  },
+  "GreasedWheels_DisplayName": {
+    "en": "Well-Greased",
+    "uk": "Добре змащений"
+  },
+  "HappyHour_Description": {
+    "en": "Nobody counts coins when the room is spinning.",
+    "uk": "Ніхто не рахує монет, коли кімната йде обертом."
+  },
+  "HappyHour_DisplayName": {
+    "en": "Happy Hour",
+    "uk": "Щаслива година"
+  },
+  "Homelessness_Catastrophic_Description": {
+    "en": "Shelter is scarce. Families sleep in alleys. The city's unraveling.",
+    "uk": "Прихистку бракує. Родини сплять у провулках. Місто розсипається."
+  },
+  "Homelessness_Catastrophic_DisplayName": {
+    "en": "Catastrophic",
+    "uk": "Катастрофічний"
+  },
+  "Homelessness_NonExistent_Description": {
+    "en": "Everyone has a roof — however humble. No one sleeps in the streets.",
+    "uk": "У кожного є дах над головою — хай і скромний. Ніхто не спить на вулиці."
+  },
+  "Homelessness_NonExistent_DisplayName": {
+    "en": "Non Existent",
+    "uk": "Відсутній"
+  },
+  "Homelessness_Small_Description": {
+    "en": "A few live rough, often on the edges of town. Most still find shelter.",
+    "uk": "Дехто живе просто неба, здебільшого на околицях міста. Більшість усе ж знаходить прихисток."
+  },
+  "Homelessness_Small_DisplayName": {
+    "en": "Small",
+    "uk": "Незначний"
+  },
+  "Homelessness_Troubling_Description": {
+    "en": "Too many go without shelter. It's no longer unusual to see families sleeping outdoors.",
+    "uk": "Забагато людей залишаються без даху над головою. Родини, що сплять просто неба, більше не рідкість."
+  },
+  "Homelessness_Troubling_DisplayName": {
+    "en": "Troubling",
+    "uk": "Тривожний"
+  },
+  "HowToRemove_Label": {
+    "en": "Ways to Improve",
+    "uk": "Способи покращити"
+  },
+  "Illness_ArsenicPoisoning_Description": {
+    "en": "Ill with intent. Someone wanted this.",
+    "uk": "Хвороба зі злим умислом. Хтось цього хотів."
+  },
+  "Illness_ArsenicPoisoning_DisplayName": {
+    "en": "Arsenic poisoning",
+    "uk": "Отруєння миш’яком"
+  },
+  "Illness_BubonicPlague_Description": {
+    "en": "It begins with fever. Then the swellings. Then the black. Then the grave — if there's room.",
+    "uk": "Починається з гарячки. Потім набряки. Потім чорнота. Потім могила — якщо знайдеться місце."
+  },
+  "Illness_BubonicPlague_DisplayName": {
+    "en": "Bubonic plague",
+    "uk": "Бубонна чума"
+  },
+  "Illness_Cholera_Description": {
+    "en": "The body empties itself in a hurry, breath and blood fleeing toward that final blue.",
+    "uk": "Тіло поспіхом спорожняється, подих і кров тікають назустріч останній синяві."
+  },
+  "Illness_Cholera_DisplayName": {
+    "en": "Cholera",
+    "uk": "Холера"
+  },
+  "Illness_Cough_Description": {
+    "en": "Cough. Cough.",
+    "uk": "Кахи-кахи."
+  },
+  "Illness_Cough_DisplayName": {
+    "en": "Cough",
+    "uk": "Кашель"
+  },
+  "Illness_FogOfHorror_Description": {
+    "en": "A breath of rot clings to the streets. The dead have ways of reminding the living they were here first.",
+    "uk": "Подих тліну висить над вулицями. Мертві мають свої способи нагадати живим, що вони були тут першими."
+  },
+  "Illness_FogOfHorror_DisplayName": {
+    "en": "Fog of Horror",
+    "uk": "Туман жаху"
+  },
+  "Illness_FoodPoisoning_Description": {
+    "en": "Hard to work when the insides want out.",
+    "uk": "Важко працювати, коли нутрощі рвуться назовні."
+  },
+  "Illness_FoodPoisoning_DisplayName": {
+    "en": "Food poisoning",
+    "uk": "Харчове отруєння"
+  },
+  "Illness_HemlockPoisoning_Description": {
+    "en": "A philosopher's death — wasted on this one.",
+    "uk": "Смерть, гідна філософа, — і змарнована на такого."
+  },
+  "Illness_HemlockPoisoning_DisplayName": {
+    "en": "Hemlock poisoning",
+    "uk": "Отруєння болиголовом"
+  },
+  "Illness_LeadPoisoning_Description": {
+    "en": "Stored in wine, painted on faces, piped through water — lead does not ask permission to stay.",
+    "uk": "Зберігається у вині, наноситься на обличчя, тече з водою трубами — свинець не питає дозволу залишитися."
+  },
+  "Illness_LeadPoisoning_DisplayName": {
+    "en": "Lead poisoning",
+    "uk": "Отруєння свинцем"
+  },
+  "Illness_Leprosy_Description": {
+    "en": "Given a bell, declared dead before the flesh gave in. The prayers stopped. What followed was a death that refused to end.",
+    "uk": "Йому дали дзвоника й оголосили мертвим ще до того, як плоть здалася. Молитви стихли. Далі настала смерть, що не бажала закінчуватися."
+  },
+  "Illness_Leprosy_DisplayName": {
+    "en": "Leprosy",
+    "uk": "Проказа"
+  },
+  "Illness_Measles_Description": {
+    "en": "The rash is only the beginning.",
+    "uk": "Висип — це лише початок."
+  },
+  "Illness_Measles_DisplayName": {
+    "en": "Measles",
+    "uk": "Кір"
+  },
+  "Illness_ScarletFever_Description": {
+    "en": "They call it a strawberry tongue. Nothing sweet about it.",
+    "uk": "Це називають полуничним язиком. Нічого солодкого в цьому немає."
+  },
+  "Illness_ScarletFever_DisplayName": {
+    "en": "Scarlet fever",
+    "uk": "Скарлатина"
+  },
+  "Illness_Sick_Description": {
+    "en": "Fever, shivers, or something worse. Best not linger too close.",
+    "uk": "Гарячка, дрижаки чи щось гірше. Краще не підходити надто близько."
+  },
+  "Illness_Sick_DisplayName": {
+    "en": "Ill",
+    "uk": "Хворий"
+  },
+  "Illness_SmallPox_Description": {
+    "en": "Blisters swell with infected fury, each bursting into raw, weeping sores that only deepens the agony.",
+    "uk": "Пухирі набрякають зараженою люттю, кожен лопається у сирі, мокнучі виразки, що лише поглиблюють муку."
+  },
+  "Illness_SmallPox_DisplayName": {
+    "en": "Small pox",
+    "uk": "Віспа"
+  },
+  "Illness_TyphoidFever_Description": {
+    "en": "They call it typhoid for the fog it brings. You forget you're dying until it's nearly done.",
+    "uk": "Тиф зветься так за туман, що його приносить. Забуваєш, що вмираєш, аж поки все майже не скінчиться."
+  },
+  "Illness_TyphoidFever_DisplayName": {
+    "en": "Typhoid fever",
+    "uk": "Черевний тиф"
+  },
+  "Imprisoned_Cause_01": {
+    "en": "{CR_TRIPUN_C}Trial Conviction{##}",
+    "uk": "{CR_TRIPUN_C}Вирок суду{##}"
+  },
+  "Imprisoned_Cause_02": {
+    "en": "{BAL_PER_C}Debt{##}",
+    "uk": "{BAL_PER_C}Борг{##}"
+  },
+  "Imprisoned_Description": {
+    "en": "Four walls, one fate. And far too much time to regret what brought you here.",
+    "uk": "Чотири стіни, одна доля. І забагато часу, щоб пошкодувати про те, що привело Вас сюди."
+  },
+  "Imprisoned_DisplayName": {
+    "en": "Imprisoned",
+    "uk": "Ув’язнений"
+  },
+  "ImprovedBuilding_Description": {
+    "en": "Time slows down here. No creaks, no cracks, no worries.",
+    "uk": "Тут час сповільнюється. Ні скрипу, ні тріщин, ні турбот."
+  },
+  "ImprovedBuilding_DisplayName": {
+    "en": "Reinforced",
+    "uk": "Зміцнено"
+  },
+  "ImprovedRoadHUB_Description": {
+    "en": "Stonework so precise, carts glide through untouched. Not a jolt, not a scratch.",
+    "uk": "Кладка настільки рівна, що вози ковзають, не торкаючись нічого. Ні поштовху, ні подряпини."
+  },
+  "ImprovedRoadHUB_DisplayName": {
+    "en": "Stone-Paved",
+    "uk": "Замощено каменем"
+  },
+  "Infamous_Description": {
+    "en": "Your name travels faster than you do—and rarely for the right reasons.",
+    "uk": "Ваше ім’я мандрує швидше за Вас — і рідко з добрих причин."
+  },
+  "Infamous_DisplayName": {
+    "en": "Infamous",
+    "uk": "Зганьблений"
+  },
+  "Injured_Description": {
+    "en": "Wounded and slowed. Every task takes longer, every step comes with pain.",
+    "uk": "Поранений і сповільнений. Кожна справа триває довше, кожен крок дається з болем."
+  },
+  "Injured_DisplayName": {
+    "en": "Injured",
+    "uk": "Поранений"
+  },
+  "Inspired_Description": {
+    "en": "The food was fine. The speech? That changed something.",
+    "uk": "Їжа була непогана. А промова? Вона щось змінила."
+  },
+  "Inspired_DisplayName": {
+    "en": "Inspired",
+    "uk": "Натхненний"
+  },
+  "JewelryChestDisplayed_Description": {
+    "en": "A visible sign of wealth and standing.",
+    "uk": "Помітна ознака статків і становища."
+  },
+  "JewelryChestDisplayed_DisplayName": {
+    "en": "Signs of Prosperity",
+    "uk": "Ознаки заможності"
+  },
+  "Kidnapped_Description": {
+    "en": "Gone for now. Possibly fed. Probably priced.",
+    "uk": "Наразі відсутні. Можливо, нагодовані. Ймовірно, оцінені."
+  },
+  "Kidnapped_DisplayName": {
+    "en": "Kidnapped",
+    "uk": "Викрадено"
+  },
+  "KnockedDown_Cause_01": {
+    "en": "{CHAR_ENE_C}Energy{##} below zero",
+    "uk": "{CHAR_ENE_C}Енергія{##} нижче нуля"
+  },
+  "KnockedDown_Description": {
+    "en": "A harsh hit sent them to the ground. Getting up will take time — or help.",
+    "uk": "Жорсткий удар звалив із ніг. Підвестися вдасться не скоро — без часу чи допомоги не обійтися."
+  },
+  "KnockedDown_DisplayName": {
+    "en": "Knocked down",
+    "uk": "Збитий з ніг"
+  },
+  "LargeStandingLevy_Description": {
+    "en": "A visible armed presence. Keeps the streets calmer — and the criminals twitchy.",
+    "uk": "Помітна збройна варта. Робить вулиці спокійнішими — а злочинців нервовими."
+  },
+  "LargeStandingLevy_DisplayName": {
+    "en": "Large standing levy",
+    "uk": "Велика постійна сторожа"
+  },
+  "LaughingStock_Cause_01": {
+    "en": "Lost a {A_DUECHA_C}duel{##}",
+    "uk": "Програв {A_DUECHA_C}дуель{##}"
+  },
+  "LaughingStock_Description": {
+    "en": "If everyone is laughing, surely they earned it.",
+    "uk": "Якщо сміються всі, певно, заслужив."
+  },
+  "LaughingStock_DisplayName": {
+    "en": "Laughing Stock",
+    "uk": "Посміховисько"
+  },
+  "LivePerformance_Description": {
+    "en": "Music spills into the street. Crowds gather — best keep the beer stocked.",
+    "uk": "Музика лине на вулицю. Збирається люд — варто підготувати більше пива."
+  },
+  "LivePerformance_DisplayName": {
+    "en": "Crowd Magnet",
+    "uk": "Магніт для юрби"
+  },
+  "MuddyRoad_Description": {
+    "en": "Recent storms turned the road to sludge. Carts crawl, wheels groan, and nothing moves quickly.",
+    "uk": "Нещодавні зливи перетворили дорогу на багнюку. Вози повзуть, колеса скриплять, і ніщо не рухається швидко."
+  },
+  "MuddyRoad_DisplayName": {
+    "en": "Muddy road",
+    "uk": "Багниста дорога"
+  },
+  "PactWithTheDead_Description": {
+    "en": "Revived by a forbidden deal. Still walking. Technically dead.",
+    "uk": "Повернутий до життя забороненою угодою. Все ще ходить. Формально мертвий."
+  },
+  "PactWithTheDead_DisplayName": {
+    "en": "Pact with the Dead",
+    "uk": "Угода з мертвими"
+  },
+  "Paralyzed_Description": {
+    "en": "Completely immobilized. Still conscious, and unfortunately aware.",
+    "uk": "Цілком знерухомлений. При тямі, і, на жаль, усвідомлює це."
+  },
+  "Paralyzed_DisplayName": {
+    "en": "Paralyzed",
+    "uk": "Паралізований"
+  },
+  "PavedRoads_Description": {
+    "en": "A shining example of what happens when the city actually spends money on infrastructure.",
+    "uk": "Яскравий приклад того, що буває, коли місто справді витрачає гроші на інфраструктуру."
+  },
+  "PavedRoads_DisplayName": {
+    "en": "Paved Roads",
+    "uk": "Бруковані дороги"
+  },
+  "PossiblyCausedBy_Label": {
+    "en": "Possibly caused by",
+    "uk": "Можлива причина"
+  },
+  "ProductionOverseen_Description": {
+    "en": "The boss is watching. No slouching, no slacking — just suspiciously efficient work.",
+    "uk": "Господар пильнує. Ніякого неробства, ніяких лінощів — лише підозріло злагоджена робота."
+  },
+  "ProductionOverseen_DisplayName": {
+    "en": "Under Watchful Eye",
+    "uk": "Під пильним оком"
+  },
+  "ProtectedBuilding_Description": {
+    "en": "Kept safe by the kind of people you don't say no to.",
+    "uk": "Під захистом людей, яким не кажуть «ні»."
+  },
+  "ProtectedBuilding_DisplayName": {
+    "en": "Criminal Protection",
+    "uk": "Злочинна опіка"
+  },
+  "ProtectiveCover_Description": {
+    "en": "A sturdy cover shields the cart, making it last longer.",
+    "uk": "Міцне накриття захищає віз, продовжуючи його службу."
+  },
+  "ProtectiveCover_DisplayName": {
+    "en": "Under Cover",
+    "uk": "Під накриттям"
+  },
+  "Quarter_CrimeRate_Tier00_Worsens": {
+    "en": "Crime is under control.\nIf {QUA_CRI_C}Crime Rate{##} rises above {value}, the quarter becomes {ST_QTR_CRI_1_C}Shady{##}.",
+    "uk": "Злочинність під контролем.\nЯкщо {QUA_CRI_C}Рівень злочинності{##} перевищить {value}, квартал стане {ST_QTR_CRI_1_C}Сумнівним{##}."
+  },
+  "Quarter_CrimeRate_Tier01_Description": {
+    "en": "A few petty acts here and there — nothing alarming, but keep a hand on your purse.",
+    "uk": "Дрібні витівки то тут, то там — нічого тривожного, але тримайте руку на гаманці."
+  },
+  "Quarter_CrimeRate_Tier01_DisplayName": {
+    "en": "Shady",
+    "uk": "Сумнівний"
+  },
+  "Quarter_CrimeRate_Tier02_Description": {
+    "en": "Criminals grow bolder. Guards respond, but too much slips past them.",
+    "uk": "Злочинці дедалі зухваліші. Вартові намагаються стримувати, та надто багато чого вислизає повз них."
+  },
+  "Quarter_CrimeRate_Tier02_DisplayName": {
+    "en": "Unsafe",
+    "uk": "Небезпечний"
+  },
+  "Quarter_CrimeRate_Tier03_Description": {
+    "en": "Law has broken down. Crime controls the streets, and no one feels safe.",
+    "uk": "Закон занепав. Вулицями керує злочинність, і ніхто не почувається в безпеці."
+  },
+  "Quarter_CrimeRate_Tier03_DisplayName": {
+    "en": "Crime-ridden",
+    "uk": "Розсадник злочинності"
+  },
+  "Quarter_Devastation_Tier00_Worsens": {
+    "en": "The city is orderly and free from pestilence.\nIf {QUA_DEV_C}Filth and Ruin{##} rises above {value}, the quarter becomes {ST_QTR_DEV_1_C}Poorly Maintained{##}.",
+    "uk": "У місті лад і жодного мору.\nЯкщо {QUA_DEV_C}Занепад і бруд{##} перевищить {value}, квартал стане {ST_QTR_DEV_1_C}Занедбаним{##}."
+  },
+  "Quarter_Devastation_Tier01_Description": {
+    "en": "Streets crack, roofs leak, and gutters go uncleared. Taxes, at least, arrive on time.",
+    "uk": "Вулиці тріскаються, дахи протікають, канави не чистять. Хоч податки надходять вчасно."
+  },
+  "Quarter_Devastation_Tier01_DisplayName": {
+    "en": "Poorly Maintained",
+    "uk": "Занедбаний"
+  },
+  "Quarter_Devastation_Tier01_DisplayName_alt": {
+    "en": "Unkempt Streets",
+    "uk": "Занедбані вулиці"
+  },
+  "Quarter_Devastation_Tier02_Description": {
+    "en": "Trash gathers in corners, and cobbles come loose. The quarter looks worn and weary.",
+    "uk": "У кутках накопичується сміття, бруківка розхитується. Квартал виглядає стомленим і обшарпаним."
+  },
+  "Quarter_Devastation_Tier02_DisplayName": {
+    "en": "In Disrepair",
+    "uk": "У розрусі"
+  },
+  "Quarter_Devastation_Tier02_DisplayName_alt": {
+    "en": "Filthy Streets",
+    "uk": "Брудні вулиці"
+  },
+  "Quarter_Devastation_Tier03_Description": {
+    "en": "Buildings shed debris, and filth fouls the streets. Watch your step — and your head.",
+    "uk": "Зі стін будівель сиплеться сміття, а вулиці потопають у бруді. Дивіться під ноги — і бережіть голову."
+  },
+  "Quarter_Devastation_Tier03_DisplayName": {
+    "en": "Declared Ruinous",
+    "uk": "Занепад визнано офіційно"
+  },
+  "Quarter_Devastation_Tier03_DisplayName_alt": {
+    "en": "Crumbling Streets",
+    "uk": "Розтріскані вулиці"
+  },
+  "Quarter_Hygiene_Tier01_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Quarter_Hygiene_Tier01_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Quarter_Reputation_Tier01_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Quarter_Reputation_Tier01_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Quarter_Unrest_Tier00_Worsens": {
+    "en": "The people are content.\nIf {QUA_UNR_C}Unrest{##} rises above {value}, the quarter becomes {ST_QTR_UNR_1_C}Restless{##}.",
+    "uk": "Люд задоволений.\nЯкщо {QUA_UNR_C}Заворушення{##} перевищать {value}, квартал стане {ST_QTR_UNR_1_C}Неспокійним{##}."
+  },
+  "Quarter_Unrest_Tier01_Description": {
+    "en": "Jobs are few, streets stay dirty, and repairs never come. Murmurs spread as trust fades.",
+    "uk": "Роботи мало, вулиці не прибирають, а ремонту не діждешся. Ширяться перешіптування, і довіра тане."
+  },
+  "Quarter_Unrest_Tier01_DisplayName": {
+    "en": "Restless",
+    "uk": "Неспокійний"
+  },
+  "Quarter_Unrest_Tier02_Description": {
+    "en": "Workers stand idle, waste piles high, and nothing gets fixed. Anger grows louder in the streets.",
+    "uk": "Працівники стоять без діла, сміття копичиться горами, і ніхто нічого не лагодить. Гнів на вулицях дедалі гучніший."
+  },
+  "Quarter_Unrest_Tier02_DisplayName": {
+    "en": "Agitated",
+    "uk": "Збурений"
+  },
+  "Quarter_Unrest_Tier03_Description": {
+    "en": "The quarter rots — jobless, filthy, forgotten. People have lost faith. A shove, a shout, and it explodes.",
+    "uk": "Квартал гниє — без роботи, у бруді, забутий усіма. Люди втратили віру. Досить одного поштовху чи вигуку — і все вибухне."
+  },
+  "Quarter_Unrest_Tier03_DisplayName": {
+    "en": "On the Brink",
+    "uk": "На межі"
+  },
+  "Quarter_Wilderness_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Quarter_Wilderness_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Quarter_Zeal_Tier00_Improves": {
+    "en": "Revelation 3:15-16\nIf {QUA_ZEA_C}Zeal{##} rises above {value}, the quarter becomes {ST_QTR_ZEA_1_C}Piously Inclined{##}.",
+    "uk": "Об’явлення 3:15-16\nЯкщо {QUA_ZEA_C}Побожність{##} перевищить {value}, квартал стане {ST_QTR_ZEA_1_C}Побожним{##}."
+  },
+  "Quarter_Zeal_Tier01_Description": {
+    "en": "Citizens act decently and mind their duties. The quarter earns a good name.",
+    "uk": "Городяни поводяться пристойно й пильнують своїх обов’язків. Квартал здобуває добру славу."
+  },
+  "Quarter_Zeal_Tier01_DisplayName": {
+    "en": "Piously Inclined",
+    "uk": "Побожний"
+  },
+  "Quarter_Zeal_Tier02_Description": {
+    "en": "Belief shapes behavior. Crime is discouraged, and order is enforced by custom.",
+    "uk": "Віра формує поведінку. Злочини засуджуються, а лад підтримується звичаєм."
+  },
+  "Quarter_Zeal_Tier02_DisplayName": {
+    "en": "Religiously Fervent",
+    "uk": "Ревно віруючий"
+  },
+  "Quarter_Zeal_Tier03_Description": {
+    "en": "Faith has become fury. Heresy and sin are hunted down. Righteousness leaves no room for tolerance.",
+    "uk": "Віра обернулася люттю. Єресь і гріх виполюють нещадно. Праведність не лишає місця поблажливості."
+  },
+  "Quarter_Zeal_Tier03_DisplayName": {
+    "en": "Fanatically Devout",
+    "uk": "Фанатично побожний"
+  },
+  "RelicDreams_Description": {
+    "en": "Close your eyes, and the relic is still there—burned into your sight and haunting your dreams.",
+    "uk": "Заплющіть очі — реліквія все одно перед Вами, випалена в погляді, і переслідує Вас навіть у снах."
+  },
+  "RelicDreams_DisplayName": {
+    "en": "The Relic's Imprint",
+    "uk": "Слід реліквії"
+  },
+  "Reputable_Description": {
+    "en": "The Emperor seems pleased with this city — but at what cost?",
+    "uk": "Здається, імператор задоволений цим містом — та якою ціною?"
+  },
+  "Reputable_DisplayName": {
+    "en": "Crown-Favored",
+    "uk": "У милості корони"
+  },
+  "Ruined_Description": {
+    "en": "Barely qualifies as a building. More like a regret held up by habit.",
+    "uk": "Ледве тягне на будівлю. Радше жаль, підтримуваний звичкою."
+  },
+  "Ruined_DisplayName": {
+    "en": "Ruined",
+    "uk": "Зруйнований"
+  },
+  "Ruined_Improves": {
+    "en": "If {B_HP_C}Integrity{##} rises above {value}%, the building becomes {ST_STR_TERMAI_C}Dilapidated{##}.",
+    "uk": "Якщо {B_HP_C}Цілісність{##} зросте понад {value}%, будівля стане {ST_STR_TERMAI_C}Ветхою{##}."
+  },
+  "Ruined_Worsens": {
+    "en": "If {B_HP_C}Integrity{##} falls below {value}%, the building becomes {ST_STR_DES_C}Desolate{##}.",
+    "uk": "Якщо {B_HP_C}Цілісність{##} впаде нижче {value}%, будівля стане {ST_STR_DES_C}Покинутою{##}."
+  },
+  "RuralRoads_Description": {
+    "en": "Basic roads with little care and less funding. Travel slows, and carts take the punishment.",
+    "uk": "Прості дороги: догляду мало, а грошей на них — іще менше. Подорожі уповільнюються, а вози страждають."
+  },
+  "RuralRoads_DisplayName": {
+    "en": "Rural Roads",
+    "uk": "Сільські дороги"
+  },
+  "Sanitized_Description": {
+    "en": "Even the bad humors know not to linger here.",
+    "uk": "Навіть лихі випари знають, що тут їм не місце."
+  },
+  "Sanitized_DisplayName": {
+    "en": "Sanitized",
+    "uk": "Очищено"
+  },
+  "ScarcityOfGoods_Description": {
+    "en": "Not much to buy, even less worth affording.",
+    "uk": "Купити майже нічого, а те, що є, — не по кишені."
+  },
+  "ScarcityOfGoods_DisplayName": {
+    "en": "Scarcity of goods",
+    "uk": "Нестача товарів"
+  },
+  "ScentEnhanced_Description": {
+    "en": "An inviting aroma fills the building, drawing customers in before they realize it.",
+    "uk": "Принадний аромат наповнює будівлю, заманюючи покупців раніше, ніж вони самі це усвідомлять."
+  },
+  "ScentEnhanced_DisplayName": {
+    "en": "Inviting",
+    "uk": "Запашний"
+  },
+  "SevereBurns_Description": {
+    "en": "Fire has written itself across the flesh in wounds that burn long after the flames are gone.",
+    "uk": "Вогонь залишив свій слід на плоті ранами, що ще довго пектимуть після того, як згасло полум’я."
+  },
+  "SevereBurns_DisplayName": {
+    "en": "Severely Burned",
+    "uk": "Тяжкі опіки"
+  },
+  "SmallStandingLevy_Description": {
+    "en": "A modest local force. Enough to patrol, not enough to deter much.",
+    "uk": "Скромна місцева сторожа. Достатньо, щоб патрулювати, та замало, щоб когось відлякати."
+  },
+  "SmallStandingLevy_DisplayName": {
+    "en": "Small standing levy",
+    "uk": "Невелика постійна сторожа"
+  },
+  "SpouseHelping_Description": {
+    "en": "Fewer mistakes slip through when two minds watch the same ledger.",
+    "uk": "Менше помилок прослизає повз, коли за однією книгою рахунків стежать дві голови."
+  },
+  "SpouseHelping_DisplayName": {
+    "en": "Family Business",
+    "uk": "Родинна справа"
+  },
+  "StatusEffects_Description": {
+    "en": "Temporary modifiers that affect characters, structures, or objects. They can help or hinder, and are added or removed automatically when their conditions are met.",
+    "uk": "Тимчасові модифікатори, що впливають на персонажів, будівлі чи предмети. Вони можуть допомагати або заважати й додаються чи знімаються автоматично, коли виконуються їхні умови."
+  },
+  "StatusEffects_DisplayName": {
+    "en": "Status Effect",
+    "uk": "Статусний ефект"
+  },
+  "StatusEffects_DisplayName_plural": {
+    "en": "Status Effects",
+    "uk": "Статусні ефекти"
+  },
+  "StatusEffects_NotApplied_Warning": {
+    "en": "This Status Effect is not applied.",
+    "uk": "Цей статусний ефект не застосовано."
+  },
+  "Stinky_Description": {
+    "en": "The stench is impossible to ignore. Anyone with a working nose would rather be somewhere else.",
+    "uk": "Сморід неможливо не помітити. Кожен, хто здатен щось нюхати, волів би опинитися деінде."
+  },
+  "Stinky_DisplayName": {
+    "en": "Reeking",
+    "uk": "Смердючий"
+  },
+  "StoneChestDisplayed_Description": {
+    "en": "Getting it open takes more time than most thieves can afford.",
+    "uk": "Щоб його відкрити, треба більше часу, ніж може дозволити собі більшість злодіїв."
+  },
+  "StoneChestDisplayed_DisplayName": {
+    "en": "Stoneguard Wealth",
+    "uk": "Скарб під камінням"
+  },
+  "StrengthenedBars_Description": {
+    "en": "Even the bravest burglars prefer easier targets.",
+    "uk": "Навіть найсміливіші зломщики радше оберуть легшу здобич."
+  },
+  "StrengthenedBars_DisplayName": {
+    "en": "Barred Windows",
+    "uk": "Ґратовані вікна"
+  },
+  "StrengthenedRoads_Description": {
+    "en": "Reinforced and reliable. Less wear, more speed, and fewer cart repairs in your future.",
+    "uk": "Зміцнені й надійні. Менше зносу, більше швидкості й менше ремонтів возів у майбутньому."
+  },
+  "StrengthenedRoads_DisplayName": {
+    "en": "Strengthened Roads",
+    "uk": "Укріплені дороги"
+  },
+  "StrongDefensiveInstallations_Description": {
+    "en": "Built with real stone, real planning, and real money.",
+    "uk": "Збудовано зі справжнього каменю, за справжнім планом і за справжні гроші."
+  },
+  "StrongDefensiveInstallations_DisplayName": {
+    "en": "Strong Defensive Installations",
+    "uk": "Потужні укріплення"
+  },
+  "TerriblyMaintainedCart_Description": {
+    "en": "Barely rolling, mostly rattling.",
+    "uk": "Ледве котиться, більше торохтить."
+  },
+  "TerriblyMaintainedCart_DisplayName": {
+    "en": "Run-Down",
+    "uk": "Розбитий"
+  },
+  "TerriblyMaintainedCart_Improves": {
+    "en": "If {B_HP_C}Integrity{##} rises above {value}%, the cart becomes {ST_CAR_BADMAI_C}Neglected{##}.",
+    "uk": "Якщо {B_HP_C}Цілісність{##} зросте понад {value}%, віз стане {ST_CAR_BADMAI_C}Занедбаним{##}."
+  },
+  "TerriblyMaintainedCart_Worsens": {
+    "en": "If {B_HP_C}Integrity{##} falls below {value}%, the cart becomes {ST_CAR_WRE_C}Wrecked{##}.",
+    "uk": "Якщо {B_HP_C}Цілісність{##} впаде нижче {value}%, віз стане {ST_CAR_WRE_C}Розтрощеним{##}."
+  },
+  "TerriblyMaintained_Description": {
+    "en": "Unsafe, unpleasant, and barely holding together.",
+    "uk": "Небезпечний, неприємний і ледве тримається купи."
+  },
+  "TerriblyMaintained_DisplayName": {
+    "en": "Dilapidated",
+    "uk": "Ветхий"
+  },
+  "TerriblyMaintained_Improves": {
+    "en": "If {B_HP_C}Integrity{##} rises above {value}%, the building becomes {ST_STR_BADMAI_C}Neglected{##}.",
+    "uk": "Якщо {B_HP_C}Цілісність{##} зросте понад {value}%, будівля стане {ST_STR_BADMAI_C}Занедбаною{##}."
+  },
+  "TerriblyMaintained_Worsens": {
+    "en": "If {B_HP_C}Integrity{##} falls below {value}%, the building becomes {ST_STR_RUI_C}Ruined{##}.",
+    "uk": "Якщо {B_HP_C}Цілісність{##} впаде нижче {value}%, будівля стане {ST_STR_RUI_C}Зруйнованою{##}."
+  },
+  "TrainLivePerformace_Description": {
+    "en": "Once the show starts, the crowd won't notice the hour — or the bill.",
+    "uk": "Щойно вистава почнеться, натовп не помітить ні часу, ні рахунку."
+  },
+  "TrainLivePerformace_DisplayName": {
+    "en": "Stage-Ready",
+    "uk": "Готовий до виступу"
+  },
+  "Unemployment_Catastrophic_Description": {
+    "en": "Work has vanished. Resentment grows, and the city feels stuck in place.",
+    "uk": "Праці не стало. Невдоволення росте, і місто наче застрягло на місці."
+  },
+  "Unemployment_Catastrophic_DisplayName": {
+    "en": "Catastrophic",
+    "uk": "Катастрофічний"
+  },
+  "Unemployment_NonExistent_Description": {
+    "en": "Everyone has work, and even the lazy pretend to be useful.",
+    "uk": "Усі при ділі, навіть ледарі вдають, що корисні."
+  },
+  "Unemployment_NonExistent_DisplayName": {
+    "en": "Non existent",
+    "uk": "Відсутнє"
+  },
+  "Unemployment_Small_Description": {
+    "en": "Some sit idle, but the city still hums along without trouble.",
+    "uk": "Дехто байдикує, та місто й далі жваво гуде без клопоту."
+  },
+  "Unemployment_Small_DisplayName": {
+    "en": "Small",
+    "uk": "Незначне"
+  },
+  "Unemployment_Troubling_Description": {
+    "en": "Too many are out of work. Tension grows as coin grows scarce.",
+    "uk": "Забагато людей без роботи. Напруга росте, а монет стає дедалі менше."
+  },
+  "Unemployment_Troubling_DisplayName": {
+    "en": "Troubling",
+    "uk": "Тривожне"
+  },
+  "UnrulyPopulation_Description": {
+    "en": "The people are restless, the streets are tense — and the buildings are falling apart twice as fast.",
+    "uk": "Люд неспокійний, вулиці напружені — і будівлі занепадають удвічі швидше."
+  },
+  "UnrulyPopulation_DisplayName": {
+    "en": "Unruly population",
+    "uk": "Непокірне населення"
+  },
+  "Vandalized_Description": {
+    "en": "Scratched obscenities in stone, splintered wood, pointless damage. Just bored idiots with chisels.",
+    "uk": "Видряпана лайка на камені, тріски дерева, безглузда шкода. Просто знуджені бовдури із зубилами."
+  },
+  "Vandalized_DisplayName": {
+    "en": "Vandalized",
+    "uk": "Сплюндровано"
+  },
+  "VigilantDriver_Description": {
+    "en": "Eyes on every bush, sweat on every brow. Not twice.",
+    "uk": "Очі на кожному кущі, піт на чолі. Двічі не спіймають."
+  },
+  "VigilantDriver_DisplayName": {
+    "en": "Vigilant Carter",
+    "uk": "Пильний візник"
+  },
+  "WeakDefensiveInstallations_Description": {
+    "en": "The kind of fortifications that fall apart before anyone attacks.",
+    "uk": "Такі укріплення, що розвалюються ще до того, як хтось нападе."
+  },
+  "WeakDefensiveInstallations_DisplayName": {
+    "en": "Weak Defensive Installations",
+    "uk": "Слабкі укріплення"
+  },
+  "WeakenedEscort_Description": {
+    "en": "They'll fight — but probably not well. One injury away from trouble.",
+    "uk": "Битимуться — але навряд чи добре. Одна рана відділяє їх від біди."
+  },
+  "WeakenedEscort_DisplayName": {
+    "en": "Weakened Escort",
+    "uk": "Ослаблений супровід"
+  },
+  "WellFed_Description": {
+    "en": "Energized after a hearty banquet. Work feels lighter, and life warmer.",
+    "uk": "Сповнений сил після ситного бенкету. Праця здається легшою, а життя — теплішим."
+  },
+  "WellFed_DisplayName": {
+    "en": "Well-Fed",
+    "uk": "Ситий"
+  },
+  "WellMaintainedRoad_Description": {
+    "en": "A road so well-kept, it almost makes paying taxes feel worth it.",
+    "uk": "Дорога така доглянута, що аж податки платити не шкода."
+  },
+  "WellMaintainedRoad_DisplayName": {
+    "en": "Well maintained road",
+    "uk": "Доглянута дорога"
+  },
+  "WellSuppliedCity_Description": {
+    "en": "Traders delivered, the council's content, and everything runs a little smoother.",
+    "uk": "Торговці доставили товар, рада задоволена, і все йде трохи гладше."
+  },
+  "WellSuppliedCity_DisplayName": {
+    "en": "Well supplied city",
+    "uk": "Добре забезпечене місто"
+  },
+  "Wrecked_Description": {
+    "en": "Broken, bent, and better as firewood.",
+    "uk": "Поламаний, погнутий — хіба що на дрова й згодиться."
+  },
+  "Wrecked_DisplayName": {
+    "en": "Wrecked",
+    "uk": "Розтрощений"
+  },
+  "Wrecked_Improves": {
+    "en": "If {B_HP_C}Integrity{##} rises above {value}%, the cart becomes {ST_CAR_TERMAI_C}Run-Down{##}.",
+    "uk": "Якщо {B_HP_C}Цілісність{##} зросте понад {value}%, віз стане {ST_CAR_TERMAI_C}Розбитим{##}."
+  },
+  "Wrecked_Worsens": {
+    "en": "If {B_HP_C}Integrity{##} falls below {value}%, the cart becomes {ST_CAR_BRO_C}Broken Beyond Use{##}.",
+    "uk": "Якщо {B_HP_C}Цілісність{##} впаде нижче {value}%, віз стане {ST_CAR_BRO_C}Непридатним{##}."
+  }
+}

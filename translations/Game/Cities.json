@@ -1,0 +1,830 @@
+{
+  "AccidentChance_DisplayName_alt": {
+    "en": "Quarter Accident Risk",
+    "uk": "Ризик нещасних випадків"
+  },
+  "CityHygiene_Description": {
+    "en": "Sanitation reflects city cleanliness and its impact on disease spread, especially among the homeless. ",
+    "uk": "Санітарія відображає чистоту міста та її вплив на поширення хвороб, особливо серед безхатьків. "
+  },
+  "CityHygiene_Description_extra1": {
+    "en": "Poor Sanitation leads to frequent outbreaks, weakening the workforce, reducing productivity, and threatening population growth.",
+    "uk": "Погана санітарія призводить до частих спалахів хвороб, послаблюючи робочу силу, знижуючи продуктивність і загрожуючи зростанню населення."
+  },
+  "CityInfrastructure_DisplayName": {
+    "en": "Infrastructure",
+    "uk": "Інфраструктура"
+  },
+  "CityOverview_DisplayName": {
+    "en": "City Overview",
+    "uk": "Огляд міста"
+  },
+  "CityStatictics_DisplayName": {
+    "en": "Statistics",
+    "uk": "Статистика"
+  },
+  "City_DisplayName": {
+    "en": "City",
+    "uk": "Місто"
+  },
+  "City_DisplayName_plural": {
+    "en": "Cities",
+    "uk": "Міста"
+  },
+  "City_Freiburg_Description": {
+    "en": "A busy city beside the Black Forest, known for its markets, craftsmen, and great church.",
+    "uk": "Жваве місто біля Шварцвальду, відоме своїми ринками, ремісниками та величним собором."
+  },
+  "City_Freiburg_DisplayName": {
+    "en": "Freiburg",
+    "uk": "Фрайбург"
+  },
+  "City_Graz_Description": {
+    "en": "The Habsburg bastion on the Empire's restless frontier, fortified by stone, trade, and stubborn ambition.",
+    "uk": "Габсбурзький бастіон на неспокійному прикордонні Імперії, укріплений каменем, торгівлею та впертими амбіціями."
+  },
+  "City_Graz_DisplayName": {
+    "en": "Graz",
+    "uk": "Ґрац"
+  },
+  "City_Heerlen_Description": {
+    "en": "A fortified settlement in the Duchy of Brabant, perfect for learning the various mechanics of Europa 1410 before jumping into a city of your choosing. Start here to play the tutorial.",
+    "uk": "Укріплене поселення в герцогстві Брабант, ідеальне для знайомства з різними механіками Europa 1410, перш ніж поринути у місто на власний вибір. Почніть звідси, щоб пройти навчання."
+  },
+  "City_Heerlen_DisplayName": {
+    "en": "Heerlen",
+    "uk": "Геерлен"
+  },
+  "City_Heerlen_DisplayName_alt": {
+    "en": "Herle",
+    "uk": "Герле"
+  },
+  "City_Kuttenberg_Description": {
+    "en": "Bohemia's silver vein, a mining town that carves coin from earth and fills the treasuries of kings.",
+    "uk": "Срібна жила Богемії — гірниче місто, що видобуває монету із землі й наповнює скарбниці королів."
+  },
+  "City_Kuttenberg_Description_alt": {
+    "en": "Three mines bleed silver from the hills to the north and west; the rest of the city exists to spend it. Four districts sprawl around the clamorous marketplace, while St Barbara's, still unfinished, already stands as a monument to the city's pride, paid for with silver from its own hills.",
+    "uk": "Три копальні точать срібло з пагорбів на півночі й заході; решта міста існує, щоб його витрачати. Чотири квартали розкинулися навколо галасливого ринку, а собор Святої Барбари, ще недобудований, уже стоїть пам’ятником гордості міста, оплаченим сріблом з власних пагорбів."
+  },
+  "City_Kuttenberg_DisplayName": {
+    "en": "Kuttenberg",
+    "uk": "Куттенберг"
+  },
+  "City_London_Description": {
+    "en": "Western Europe's giant of 100,000 souls — thriving with trade and not even in the Empire.",
+    "uk": "Велетень Західної Європи зі 100 000 душ — процвітає завдяки торгівлі й навіть не входить до Імперії."
+  },
+  "City_London_DisplayName": {
+    "en": "London",
+    "uk": "Лондон"
+  },
+  "City_Nurnberg_Description": {
+    "en": "The Empire's proud workshop, where patrician hands forge law and iron alike behind walls that bow to no prince.",
+    "uk": "Горда майстерня Імперії, де руки патриціїв кують закони й залізо однаково за мурами, що не схиляються перед жодним князем."
+  },
+  "City_Nurnberg_DisplayName": {
+    "en": "Nuremberg",
+    "uk": "Нюрнберг"
+  },
+  "City_Wroclaw_Description": {
+    "en": "A Silesian crossroads of Czech authority and German tradition, where shifting allegiances and competing tongues define a city never truly claimed by one crown.",
+    "uk": "Сілезьке перехрестя чеської влади й німецької традиції, де мінливі союзи й суперницькі мови визначають місто, яке ніколи по-справжньому не належало жодній короні."
+  },
+  "City_Wroclaw_DisplayName": {
+    "en": "Breslau",
+    "uk": "Бреслау"
+  },
+  "City_Wroclaw_DisplayName_alt": {
+    "en": "Wrocław",
+    "uk": "Вроцлав"
+  },
+  "CrimeRate_Description": {
+    "en": "Crime rate measures city safety and public perception, not just what is legally allowed.",
+    "uk": "Рівень злочинності показує безпеку міста та суспільне сприйняття, а не лише те, що дозволено законом."
+  },
+  "CrimeRate_Description_extra1": {
+    "en": "High crime lowers city reputation with the Emperor, increases accident risks, and makes patrolling harder for guards while benefiting criminals.",
+    "uk": "Висока злочинність знижує репутацію міста в очах Імператора, підвищує ризик нещасних випадків і ускладнює патрулювання вартовим, водночас вигідна злочинцям."
+  },
+  "CrimeRate_Description_extra2": {
+    "en": "The Colonel can help reduce crime by recruiting workers for military service, while the Sovereign can strengthen city security by building and fortifying its walls.",
+    "uk": "Полковник може знизити злочинність, набираючи працівників на військову службу, а Правитель може посилити безпеку міста, будуючи й укріплюючи мури."
+  },
+  "CrimeRate_DisplayName": {
+    "en": "Crime Rate",
+    "uk": "Рівень злочинності"
+  },
+  "District_Description": {
+    "en": "Major city divisions that provide space for expansion.",
+    "uk": "Головні поділи міста, що дають простір для розширення."
+  },
+  "District_Description_extra1": {
+    "en": "The Fencing Master, Dungeon Master, Colonel and Steward are responsible for unlocking new districts and fortifying them with walls.",
+    "uk": "Фехтмейстер, Тюремник, Полковник і Управитель відповідають за відкриття нових районів та їхнє укріплення мурами."
+  },
+  "District_DisplayName": {
+    "en": "District",
+    "uk": "Район"
+  },
+  "District_DisplayName_plural": {
+    "en": "Districts",
+    "uk": "Райони"
+  },
+  "Freiburg_District_01_DisplayName": {
+    "en": "Old Town",
+    "uk": "Старе Місто"
+  },
+  "Freiburg_District_02_DisplayName": {
+    "en": "Southern Outskirts",
+    "uk": "Південне передмістя"
+  },
+  "Freiburg_District_03_DisplayName": {
+    "en": "Neuburg",
+    "uk": "Нойбург"
+  },
+  "Freiburg_District_04_DisplayName": {
+    "en": "Western Fields",
+    "uk": "Західні поля"
+  },
+  "Freiburg_Quarter_01_DisplayName": {
+    "en": "Cathedral Square",
+    "uk": "Соборна площа"
+  },
+  "Freiburg_Quarter_02_DisplayName": {
+    "en": "Rathausplatz",
+    "uk": "Ратушна площа"
+  },
+  "Freiburg_Quarter_03_DisplayName": {
+    "en": "Roach Village",
+    "uk": "Тарганяче село"
+  },
+  "Freiburg_Quarter_04_DisplayName": {
+    "en": "Holzmarkt",
+    "uk": "Гольцмаркт"
+  },
+  "Freiburg_Quarter_05_DisplayName": {
+    "en": "Schlossberg",
+    "uk": "Шлосберг"
+  },
+  "Freiburg_Quarter_06_DisplayName": {
+    "en": "Wheat Fields",
+    "uk": "Пшеничні поля"
+  },
+  "Freiburg_Quarter_07_DisplayName": {
+    "en": "Water Canal Bank",
+    "uk": "Набережна каналу"
+  },
+  "Freiburg_Quarter_08_DisplayName": {
+    "en": "Rolling Farmland",
+    "uk": "Хвилясті угіддя"
+  },
+  "Freiburg_Quarter_09_DisplayName": {
+    "en": "Mining Settlement",
+    "uk": "Гірниче поселення"
+  },
+  "Freiburg_Quarter_10_DisplayName": {
+    "en": "Northern Hills",
+    "uk": "Північні пагорби"
+  },
+  "Freiburg_Quarter_11_DisplayName": {
+    "en": "Western Woods",
+    "uk": "Західний ліс"
+  },
+  "Freiburg_Quarter_12_DisplayName": {
+    "en": "Wiehre",
+    "uk": "Віре"
+  },
+  "Freiburg_Quarter_13_DisplayName": {
+    "en": "Neuburg Gate Entrance",
+    "uk": "Вхід біля Нойбурзької брами"
+  },
+  "Graz_Alchemist_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Graz_District_01_DisplayName": {
+    "en": "Graz Town",
+    "uk": "Місто Ґрац"
+  },
+  "Graz_District_02_DisplayName": {
+    "en": "Lend",
+    "uk": "Ленд"
+  },
+  "Graz_District_03_DisplayName": {
+    "en": "St. Leonhard",
+    "uk": "Санкт-Леонгард"
+  },
+  "Graz_Guard_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Graz_Innkeeper_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Graz_Joiner_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Graz_Perfumer_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Graz_Preacher_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Graz_Quarter_01_DisplayName": {
+    "en": "Market Square",
+    "uk": "Ринкова площа"
+  },
+  "Graz_Quarter_02_DisplayName": {
+    "en": "Garrison",
+    "uk": "Гарнізон"
+  },
+  "Graz_Quarter_03_DisplayName": {
+    "en": "River Bank",
+    "uk": "Річковий берег"
+  },
+  "Graz_Quarter_04_DisplayName": {
+    "en": "Eastern Outskirts",
+    "uk": "Східне передмістя"
+  },
+  "Graz_Quarter_05_DisplayName": {
+    "en": "Southern Outskirts",
+    "uk": "Південне передмістя"
+  },
+  "Graz_Quarter_06_DisplayName": {
+    "en": "Western Hills",
+    "uk": "Західні пагорби"
+  },
+  "Graz_Quarter_07_DisplayName": {
+    "en": "Northern Hills",
+    "uk": "Північні пагорби"
+  },
+  "Graz_Quarter_08_DisplayName": {
+    "en": "Southern Woods",
+    "uk": "Південні ліси"
+  },
+  "Graz_Quarter_09_DisplayName": {
+    "en": "Mines",
+    "uk": "Копальні"
+  },
+  "Graz_Robber_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Graz_Smith_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Graz_StoneMason_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Graz_Tailor_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Graz_Thief_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Heerlen_District_01_DisplayName": {
+    "en": "Herle",
+    "uk": "Герле"
+  },
+  "Heerlen_District_02_DisplayName": {
+    "en": "Outer Ward",
+    "uk": "Зовнішній квартал"
+  },
+  "Heerlen_Quarter_01_DisplayName": {
+    "en": "Church Quarter",
+    "uk": "Церковний квартал"
+  },
+  "Heerlen_Quarter_02_DisplayName": {
+    "en": "Fairgrounds",
+    "uk": "Ярмаркова галявина"
+  },
+  "Heerlen_Quarter_03_DisplayName": {
+    "en": "Eastern Hamlet",
+    "uk": "Східний хутір"
+  },
+  "Heerlen_Quarter_04_DisplayName": {
+    "en": "Fertile Fields",
+    "uk": "Родючі поля"
+  },
+  "Heerlen_Quarter_05_DisplayName": {
+    "en": "Howling Groves",
+    "uk": "Виючі гаї"
+  },
+  "Heerlen_Smith_Description": {
+    "en": "Your {B_OCC_SMI_01_C}forge{##} sits a {C_QUA_C}quarter{##} away from the action — {QUA_CRI_C}safe{##} enough, but watch your {I_SILRIN_C}silver rings{##} on that two-hour trip to the {B_PUB_MKT_C}marketplace{##}; crime is creeping up and the streets turn {ST_QTR_STRROA_C}rough{##} past the gates. The {B_EXTFAC_MIN_C}mines{##} offer discounted materials, but the road through the city's {ST_QTR_CRI_1_C}shadier{##} outskirts is a {CAR_CHANATT_C}gamble{##}. You'd better start saving for a {CAR_2_C}faster cart{##}.",
+    "uk": "Ваша {B_OCC_SMI_01_C}кузня{##} розташована на {C_QUA_C}квартал{##} від головних подій — досить {QUA_CRI_C}безпечно{##}, але пильнуйте свої {I_SILRIN_C}срібні персні{##} під час двогодинної подорожі до {B_PUB_MKT_C}ринку{##}; злочинність повзе вгору, і вулиці стають {ST_QTR_STRROA_C}небезпечними{##} за брамою. {B_EXTFAC_MIN_C}Копальні{##} пропонують знижені ціни на матеріали, але дорога через {ST_QTR_CRI_1_C}сумнівніші{##} околиці міста — це {CAR_CHANATT_C}ризик{##}. Вам краще почати відкладати на {CAR_2_C}швидший віз{##}."
+  },
+  "Homelessness_Description": {
+    "en": "Characters become homeless when they lose their homes or can't afford rent. ",
+    "uk": "Персонажі стають безхатьками, коли втрачають домівку або не можуть сплатити оренду. "
+  },
+  "Homelessness_Description_extra1": {
+    "en": "High homelessness lowers city attractivity, worsens Sanitation, and damages reputation with the Pope while increasing disease spread.",
+    "uk": "Висока безхатченність знижує привабливість міста, погіршує санітарію та шкодить репутації в очах Папи, водночас підвищуючи поширення хвороб."
+  },
+  "Homelessness_Description_extra2": {
+    "en": "The Mayor can build worker accommodations while the Treasurer sets rent price levels, both directly affecting homelessness rates.",
+    "uk": "Бургомістр може будувати помешкання для працівників, а скарбник встановлює рівень орендної плати — обидва фактори безпосередньо впливають на рівень безхатченства."
+  },
+  "Homelessness_DisplayName": {
+    "en": "Homelessness",
+    "uk": "Безхатченність"
+  },
+  "Kuttenberg_Alchemist_Description": {
+    "en": "Dead center, {ST_QTR_STRROA_C}passable roads{##}, minutes from the {B_PUB_MKT_C}marketplace{##} — your {B_OCC_ALC_01_C}lab's{##} location is as good as it gets. {A_ACT_GATING_C}The land itself stocks your shelves{##} and spares your coin. The one thorn: potion laws keep your craft in the shadows, but as long as the taxes arrive at year's end, the authorities care little for what is brewed — provided nobody {CR_CRI_C}drinks{##} it. Rise to {O_TYP_CIVOFF_C}deacon{##} someday, and perhaps you can change that. Alchemy is science. Make them see it!",
+    "uk": "Просто в центрі, {ST_QTR_STRROA_C}прохідні дороги{##}, кілька хвилин до {B_PUB_MKT_C}ринку{##} — розташування Вашої {B_OCC_ALC_01_C}лабораторії{##} кращим і бути не може. {A_ACT_GATING_C}Сама земля наповнює Ваші полиці{##} й береже Ваші гроші. Єдина заковика: закони про настоянки тримають Ваше ремесло в тіні, але доки податки надходять наприкінці року, владі байдуже, що там вариться — за умови, що ніхто цього не {CR_CRI_C}п’є{##}. Станьте колись {O_TYP_CIVOFF_C}дияконом{##}, і, можливо, зможете це змінити. Алхімія — це наука. Змусьте їх це побачити!"
+  },
+  "Kuttenberg_District_01_DisplayName": {
+    "en": "Old Town",
+    "uk": "Старе Місто"
+  },
+  "Kuttenberg_District_02_DisplayName": {
+    "en": "Karlshof",
+    "uk": "Карлсгоф"
+  },
+  "Kuttenberg_District_03_DisplayName": {
+    "en": "St. Barbara",
+    "uk": "Санкт-Барбара"
+  },
+  "Kuttenberg_District_04_DisplayName": {
+    "en": "Riverside",
+    "uk": "Набережна"
+  },
+  "Kuttenberg_Guard_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Kuttenberg_Innkeeper_Description": {
+    "en": "Brew it, stock it, sell it. {A_ACT_LIVPER_C}Put on a show{##} during {ST_STR_WORBAR_C}happy hour{##}, and {B_PARAM_ATT_C}the customers won't stop coming{##}. The {B_PUB_MKT_C}marketplace{##} is a ride, the {B_EXTFAC_VILMKT_C}producer's market{##} more so. Lucky you — you are close to claiming your {T_FULCIT_C}citizenship{##}, and with it a shot at {O_TYP_CIVOFF_C}politics{##}. If that's your thing. ",
+    "uk": "Варіть, накопичуйте, продавайте. {A_ACT_LIVPER_C}Влаштуйте виставу{##} під час {ST_STR_WORBAR_C}щасливої години{##}, і {B_PARAM_ATT_C}гості не перестануть приходити{##}. {B_PUB_MKT_C}Ринок{##} — то ще пригода, а {B_EXTFAC_VILMKT_C}ринок виробників{##} — і поготів. Пощастило Вам — Ви близькі до отримання {T_FULCIT_C}міщанства{##}, а з ним і шансу на {O_TYP_CIVOFF_C}політику{##}. Якщо це Вам до душі. "
+  },
+  "Kuttenberg_Joiner_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Kuttenberg_Perfumer_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Kuttenberg_Preacher_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Kuttenberg_Quarter_01_DisplayName": {
+    "en": "Town Hall Quarter",
+    "uk": "Ратушний квартал"
+  },
+  "Kuttenberg_Quarter_02_DisplayName": {
+    "en": "Outskirts",
+    "uk": "Околиці"
+  },
+  "Kuttenberg_Quarter_03_DisplayName": {
+    "en": "St. Barbara Square",
+    "uk": "Площа Святої Барбари"
+  },
+  "Kuttenberg_Quarter_04_DisplayName": {
+    "en": "River Valley",
+    "uk": "Річкова долина"
+  },
+  "Kuttenberg_Quarter_05_DisplayName": {
+    "en": "Western Woods",
+    "uk": "Західний ліс"
+  },
+  "Kuttenberg_Quarter_06_DisplayName": {
+    "en": "Northern Fields",
+    "uk": "Північні поля"
+  },
+  "Kuttenberg_Quarter_07_DisplayName": {
+    "en": "Eastern Hills",
+    "uk": "Східні пагорби"
+  },
+  "Kuttenberg_Quarter_08_DisplayName": {
+    "en": "Market Square",
+    "uk": "Ринкова площа"
+  },
+  "Kuttenberg_Robber_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Kuttenberg_Smith_Description": {
+    "en": "Your {B_OCC_SMI_01_C}forge{##} sits a {C_QUA_C}quarter{##} away from the action — {QUA_CRI_C}safe{##} enough, but watch your {I_SILRIN_C}silver rings{##} on that one-hour trip to the {B_PUB_MKT_C}marketplace{##}; crime is creeping up and the streets stay rough till you're {ST_QTR_STRROA_C}nearly at the gates{##}. The {B_EXTFAC_MIN_C}mines{##} offer discounted materials, but the road through the city's {ST_QTR_CRI_1_C}shadier{##} outskirts is a {CAR_CHANATT_C}gamble{##}. You'd better start saving for a {CAR_2_C}faster cart{##}.",
+    "uk": "Ваша {B_OCC_SMI_01_C}кузня{##} розташована на {C_QUA_C}квартал{##} від головних подій — досить {QUA_CRI_C}безпечно{##}, але пильнуйте свої {I_SILRIN_C}срібні персні{##} під час годинної подорожі до {B_PUB_MKT_C}ринку{##}; злочинність повзе вгору, і вулиці лишаються небезпечними, доки Ви {ST_QTR_STRROA_C}майже не дійдете до брами{##}. {B_EXTFAC_MIN_C}Копальні{##} пропонують знижені ціни на матеріали, але дорога через {ST_QTR_CRI_1_C}сумнівніші{##} околиці міста — це {CAR_CHANATT_C}ризик{##}. Вам краще почати відкладати на {CAR_2_C}швидший віз{##}."
+  },
+  "Kuttenberg_StoneMason_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Kuttenberg_Tailor_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Kuttenberg_Thief_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "NumDynasties": {
+    "en": "{NumDynasties} {NumDynasties}|plural(one={CHAR_DYN_C}dynasty{##},other={CHAR_DYN_C}dynasties{##})",
+    "uk": "{NumDynasties} {NumDynasties}|plural(one={CHAR_DYN_C}династія{##},few={CHAR_DYN_C}династії{##},many={CHAR_DYN_C}династій{##},other={CHAR_DYN_C}династії{##})"
+  },
+  "NumPlayers": {
+    "en": "{NumPlayers} {NumPlayers}|plural(one=player,other=players)",
+    "uk": "{NumPlayers} {NumPlayers}|plural(one=гравець,few=гравці,many=гравців,other=гравця)"
+  },
+  "Nuremberg_Alchemist_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Nuremberg_Guard_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Nuremberg_Innkeeper_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Nuremberg_Joiner_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Nuremberg_Perfumer_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Nuremberg_Preacher_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Nuremberg_Robber_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Nuremberg_Smith_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Nuremberg_StoneMason_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Nuremberg_Tailor_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Nuremberg_Thief_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Nurnberg_District_01_DisplayName": {
+    "en": "Altstadt",
+    "uk": "Альтштадт"
+  },
+  "Nurnberg_District_02_DisplayName": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Nurnberg_District_03_DisplayName": {
+    "en": "Lorenz",
+    "uk": "Лоренц"
+  },
+  "Nurnberg_District_04_DisplayName": {
+    "en": "St. Johannis",
+    "uk": "Санкт-Йоганніс"
+  },
+  "Nurnberg_District_05_DisplayName": {
+    "en": "Gostenhof",
+    "uk": "Ґостенгоф"
+  },
+  "Nurnberg_District_06_DisplayName": {
+    "en": "Tafelhof",
+    "uk": "Тафельгоф"
+  },
+  "Nurnberg_District_07_DisplayName": {
+    "en": "Wöhrd",
+    "uk": "Верд"
+  },
+  "Nurnberg_Quarter_01_DisplayName": {
+    "en": "Southern Hills",
+    "uk": "Південні пагорби"
+  },
+  "Nurnberg_Quarter_02_DisplayName": {
+    "en": "Town Square",
+    "uk": "Міська площа"
+  },
+  "Nurnberg_Quarter_03_DisplayName": {
+    "en": "Market Square",
+    "uk": "Ринкова площа"
+  },
+  "Nurnberg_Quarter_04_DisplayName": {
+    "en": "South Bank Market",
+    "uk": "Ринок на південному березі"
+  },
+  "Nurnberg_Quarter_05_DisplayName": {
+    "en": "Eastern Fields",
+    "uk": "Східні поля"
+  },
+  "Nurnberg_Quarter_06_DisplayName": {
+    "en": "Marshlands",
+    "uk": "Болотяні землі"
+  },
+  "Nurnberg_Quarter_07_DisplayName": {
+    "en": "Western Fields",
+    "uk": "Західні поля"
+  },
+  "Nurnberg_Quarter_08_DisplayName": {
+    "en": "Fort Downtown",
+    "uk": "Укріплений центр"
+  },
+  "Nurnberg_Quarter_09_DisplayName": {
+    "en": "Western Hills",
+    "uk": "Західні пагорби"
+  },
+  "Nurnberg_Quarter_10_DisplayName": {
+    "en": "Eastern Plains",
+    "uk": "Східні рівнини"
+  },
+  "Nurnberg_Quarter_11_DisplayName": {
+    "en": "Woodlands",
+    "uk": "Лісові угіддя"
+  },
+  "Nurnberg_Quarter_12_DisplayName": {
+    "en": "St. Lorenz Square",
+    "uk": "Площа Святого Лоренца"
+  },
+  "OnboardingCity_Label": {
+    "en": "Tutorial",
+    "uk": "Навчання"
+  },
+  "QuarterPeriodicEffect_Burglary_Description": {
+    "en": "The opportunity makes the thief.",
+    "uk": "Нагода робить злодія."
+  },
+  "QuarterPeriodicEffect_Burglary_Description_extra1": {
+    "en": "{B_PARAM_BURPRO_C}Unsecured{##} buildings in {QUA_CRI_C}dangerous areas{##} are an open invitation — and thieves rarely leave without taking something, or {B_HP_C}breaking{##} something.",
+    "uk": "{B_PARAM_BURPRO_C}Незахищені{##} будівлі в {QUA_CRI_C}небезпечних районах{##} — відкрите запрошення, і злодії рідко йдуть, нічого не прихопивши або нічого не {B_HP_C}зламавши{##}."
+  },
+  "QuarterPeriodicEffect_Burglary_DisplayName": {
+    "en": "Risk of Break-ins",
+    "uk": "Ризик зломів"
+  },
+  "QuarterPeriodicEffect_Illness_Description": {
+    "en": "{QUA_DEV_C}Filth and devastation{##} increase the risk of {ST_CHR_SIC_C}illness{##} for you, your loved ones, and your workers.",
+    "uk": "{QUA_DEV_C}Бруд і занепад{##} підвищують ризик {ST_CHR_SIC_C}хвороби{##} для Вас, Ваших близьких і Ваших працівників."
+  },
+  "QuarterPeriodicEffect_Illness_Description_extra1": {
+    "en": "Invest in {B_PARAM_HYG_C}sanitation{##} to keep it under control.",
+    "uk": "Інвестуйте в {B_PARAM_HYG_C}санітарію{##}, щоб тримати це під контролем."
+  },
+  "QuarterPeriodicEffect_Illness_DisplayName": {
+    "en": "Risk of Illness",
+    "uk": "Ризик хвороби"
+  },
+  "Quarter_CrimeRate_Description": {
+    "en": "Represents how unsafe a {C_QUA_C}quarter{##} is — how active {P_THI_C}thieves{##} and {P_ROB_C}robbers{##} are, and how effectively {P_GUA_C}guards{##} can keep order.",
+    "uk": "Показує, наскільки небезпечним є {C_QUA_C}квартал{##} — наскільки активні {P_THI_C}злодії{##} й {P_ROB_C}розбійники{##}, і наскільки ефективно {P_GUA_C}вартові{##} можуть підтримувати порядок."
+  },
+  "Quarter_CrimeRate_Description_extra1": {
+    "en": "A high crime rate will result in more {QUAPEREFF_BUR_C}break-ins{##}.",
+    "uk": "Висока злочинність призведе до більшої кількості {QUAPEREFF_BUR_C}зломів{##}."
+  },
+  "Quarter_CrimeRate_Description_extra2": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Quarter_CrimeRate_DisplayName": {
+    "en": "Crime Rate",
+    "uk": "Рівень злочинності"
+  },
+  "Quarter_Description": {
+    "en": "Subdivisions within {C_DIS_C}Districts{##}, forming a cluster of roads. \nWhen choosing where to build, location matters. Some quarters {ST_QTR_ZEA_3_C}pray{##}, some {ST_QTR_CRI_3_C}scheme{##}, some just {ST_QTR_DEV_3_C}smell bad and kill you slowly{##}.",
+    "uk": "Підрозділи всередині {C_DIS_C}районів{##}, що формують скупчення вулиць. \nОбираючи місце для будівництва, зважайте на розташування. Одні квартали {ST_QTR_ZEA_3_C}моляться{##}, інші {ST_QTR_CRI_3_C}плетуть змови{##}, а деякі просто {ST_QTR_DEV_3_C}смердять і повільно вбивають Вас{##}."
+  },
+  "Quarter_Description_extra1": {
+    "en": "The Building Master is entrusted with developing road infrastructure — without roads, no buildings can be constructed.",
+    "uk": "Будівничий відповідає за розвиток дорожньої інфраструктури — без доріг жодну будівлю звести неможливо."
+  },
+  "Quarter_Devastation_Description": {
+    "en": "Shows the level of damage and neglect in a {C_QUA_C}quarter{##} — crumbling buildings, filth, and unsafe conditions that increase {B_PARAM_ACCPRO_ACC}accidents{##}, {QUAPEREFF_ILL_C}sickness{##}, and {QUA_UNR_C}unrest{##}.",
+    "uk": "Показує рівень пошкоджень і занедбаності {C_QUA_C}кварталу{##} — напівзруйновані будівлі, бруд і небезпечні умови, через які частішають {B_PARAM_ACCPRO_ACC}нещасні випадки{##}, {QUAPEREFF_ILL_C}хвороби{##} та {QUA_UNR_C}заворушення{##}."
+  },
+  "Quarter_Devastation_DisplayName": {
+    "en": "Ruin & Filth",
+    "uk": "Занепад і бруд"
+  },
+  "Quarter_DisplayName": {
+    "en": "Quarter",
+    "uk": "Квартал"
+  },
+  "Quarter_DisplayName_plural": {
+    "en": "Quarters",
+    "uk": "Квартали"
+  },
+  "Quarter_Hygiene_Description": {
+    "en": "Measures the {C_QUA_C}quarter's{##} cleanliness — waste, filth, and general upkeep — which directly affects how easily {ST_CHR_SIC_C}illness{##} spreads among the population.",
+    "uk": "Вимірює чистоту {C_QUA_C}кварталу{##} — сміття, бруд і загальне утримання — що безпосередньо впливає на легкість поширення {ST_CHR_SIC_C}хвороб{##} серед населення."
+  },
+  "Quarter_Hygiene_DisplayName": {
+    "en": "Sanitation",
+    "uk": "Санітарія"
+  },
+  "Quarter_InDistrict_Label": {
+    "en": "In District",
+    "uk": "У районі"
+  },
+  "Quarter_InQuarter_Label": {
+    "en": "In Quarter",
+    "uk": "У кварталі"
+  },
+  "Quarter_Parameter_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Quarter_Parameter_DisplayName": {
+    "en": "Quarter Metric",
+    "uk": "Показник кварталу"
+  },
+  "Quarter_Reputation_Description": {
+    "en": "Captures how the {C_QUA_C}quarter{##} is viewed — whether it is seen as orderly and respectable, or troubled and in decline.",
+    "uk": "Відображає, як сприймають {C_QUA_C}квартал{##} — чи вважають його впорядкованим і поважним, чи неспокійним і занедбаним."
+  },
+  "Quarter_Reputation_Description_extra1": {
+    "en": "A city is judged by its quarters. The better their reputation, the more generously the Empire fills the city's coffers.",
+    "uk": "Про місто судять за його кварталами. Що краща їхня репутація, то щедріше Імперія наповнює міську скарбницю."
+  },
+  "Quarter_Reputation_DisplayName": {
+    "en": "Reputation",
+    "uk": "Репутація"
+  },
+  "Quarter_SelectQuarter_Prompt": {
+    "en": "Select a Quarter",
+    "uk": "Виберіть квартал"
+  },
+  "Quarter_Unrest_Description": {
+    "en": "Represents the tension felt in a {C_QUA_C}quarter{##} — {QUA_CRI_C}crime{##}, {QUA_DEV_C}ruin and filth{##}, and dissatisfaction that can escalate into riots if left unchecked.",
+    "uk": "Показує напругу у {C_QUA_C}кварталі{##} — {QUA_CRI_C}злочинність{##}, {QUA_DEV_C}занепад і бруд{##} та невдоволення, яке без нагляду може перерости в заворушення."
+  },
+  "Quarter_Unrest_DisplayName": {
+    "en": "Unrest",
+    "uk": "Заворушення"
+  },
+  "Quarter_Zeal_Description": {
+    "en": "Reflects the religious spirit of a {C_QUA_C}quarter{##} — how strongly people attend sermons, support the church, and follow moral expectations that discourage {QUA_CRI_C}crime{##}.",
+    "uk": "Відображає побожність {C_QUA_C}кварталу{##} — наскільки старанно люди відвідують проповіді, підтримують церкву та дотримуються моральних засад, що стримують {QUA_CRI_C}злочинність{##}."
+  },
+  "Quarter_Zeal_DisplayName": {
+    "en": "Zeal",
+    "uk": "Побожність"
+  },
+  "SelectCity": {
+    "en": "Choose a city",
+    "uk": "Виберіть місто"
+  },
+  "Unemployment_Description": {
+    "en": "Worker-class characters become unemployed when fired, when they quit out of dissatisfaction, or when their workplace is destroyed. ",
+    "uk": "Персонажі-працівники стають безробітними, коли їх звільняють, коли вони йдуть із роботи через невдоволення або коли їхнє робоче місце знищено."
+  },
+  "Unemployment_Description_extra1": {
+    "en": "High unemployment increases Crime and Homelessness while lowering your city's reputation with the Emperor.",
+    "uk": "Високе безробіття підвищує злочинність і безхатченство, водночас знижуючи репутацію Вашого міста в очах Імператора."
+  },
+  "Unemployment_Description_extra2": {
+    "en": "The Bishop, Colonel, and Steward can help reduce Unemployment by hiring Townsfolk for pilgrimage, military service, and civic service respectively.",
+    "uk": "Єпископ, полковник і управитель можуть допомогти зменшити безробіття, наймаючи городян відповідно на прощу, військову й громадську службу."
+  },
+  "Unemployment_DisplayName": {
+    "en": "Unemployment",
+    "uk": "Безробіття"
+  },
+  "Wroclaw_Alchemist_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Wroclaw_District_01_DisplayName": {
+    "en": "Old Town",
+    "uk": "Старе Місто"
+  },
+  "Wroclaw_District_02_DisplayName": {
+    "en": "Island Outskirts",
+    "uk": "Острівні околиці"
+  },
+  "Wroclaw_District_03_DisplayName": {
+    "en": "Cathedral Island",
+    "uk": "Соборний острів"
+  },
+  "Wroclaw_District_04_DisplayName": {
+    "en": "Świdnica District",
+    "uk": "Свідницький район"
+  },
+  "Wroclaw_District_05_DisplayName": {
+    "en": "Nadodrze",
+    "uk": "Надодже"
+  },
+  "Wroclaw_Guard_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Wroclaw_Innkeeper_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Wroclaw_Joiner_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Wroclaw_Perfumer_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Wroclaw_Preacher_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Wroclaw_Quarter_01_DisplayName": {
+    "en": "Rynek",
+    "uk": "Ринок"
+  },
+  "Wroclaw_Quarter_02_DisplayName": {
+    "en": "Nowy Targ",
+    "uk": "Новий Тарг"
+  },
+  "Wroclaw_Quarter_03_DisplayName": {
+    "en": "New Town",
+    "uk": "Нове місто"
+  },
+  "Wroclaw_Quarter_04_DisplayName": {
+    "en": "Sand Island",
+    "uk": "Піщаний острів"
+  },
+  "Wroclaw_Quarter_05_DisplayName": {
+    "en": "Cathedral Quarter",
+    "uk": "Соборний квартал"
+  },
+  "Wroclaw_Quarter_06_DisplayName": {
+    "en": "Two Denominations Quarter",
+    "uk": "Квартал двох конфесій"
+  },
+  "Wroclaw_Quarter_07_DisplayName": {
+    "en": "Świdnica Gate",
+    "uk": "Свідницька брама"
+  },
+  "Wroclaw_Quarter_08_DisplayName": {
+    "en": "St. Christopher's",
+    "uk": "Квартал святого Христофора"
+  },
+  "Wroclaw_Quarter_09_DisplayName": {
+    "en": "Oława Suburb",
+    "uk": "Олавське передмістя"
+  },
+  "Wroclaw_Quarter_10_DisplayName": {
+    "en": "Szczepin",
+    "uk": "Щепін"
+  },
+  "Wroclaw_Quarter_11_DisplayName": {
+    "en": "Middle Islet",
+    "uk": "Середній острівець"
+  },
+  "Wroclaw_Quarter_12_DisplayName": {
+    "en": "Ołbin",
+    "uk": "Ольбін"
+  },
+  "Wroclaw_Quarter_13_DisplayName": {
+    "en": "Łokietek Quarter",
+    "uk": "Квартал Локетка"
+  },
+  "Wroclaw_Quarter_14_DisplayName": {
+    "en": "Northern Outskirts",
+    "uk": "Північні околиці"
+  },
+  "Wroclaw_Quarter_15_DisplayName": {
+    "en": "Workers' Quarter",
+    "uk": "Робітничий квартал"
+  },
+  "Wroclaw_Robber_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Wroclaw_Smith_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Wroclaw_StoneMason_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Wroclaw_Tailor_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Wroclaw_Thief_Description": {
+    "en": "tbd",
+    "uk": "tbd"
+  }
+}
