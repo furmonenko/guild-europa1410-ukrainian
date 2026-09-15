@@ -51,7 +51,7 @@ git commit
 | Захід | Розділи | Модель | Символів |
 |---|---|---|---|
 | 1 (зроблено) | Items | Sonnet + рецензія Opus | 17 тис. |
-| 2 | Buildings, Building Rooms, Building Improvements, Professions, Workers, Titles, Traits, Seasons, Carts | Sonnet | 36 тис. |
+| 2 (зроблено, $2.1) | Buildings, Building Rooms, Building Improvements, Professions, Workers, Titles, Traits, Seasons, Carts | Sonnet | 36 тис. |
 | 3 | Character, Cities, Combat, Effects, Status Effects, Politics | Sonnet | 61 тис. |
 | 4 | Actions, Notifications | Sonnet | 56 тис. |
 | 5 | Events | Opus | 57 тис. |

@@ -1,0 +1,146 @@
+{
+  "Alchemist_MustyCellar_Description": {
+    "en": "Beneath the grime and mold: tinctures, tonics, and trouble.",
+    "uk": "Під брудом і пліснявою — настоянки, зілля й клопіт."
+  },
+  "Alchemist_MustyCellar_DisplayName": {
+    "en": "Musty Cellar",
+    "uk": "Затхлий підвал"
+  },
+  "ChooseRoom_Prompt": {
+    "en": "Only one room can be built here. Choose which one.",
+    "uk": "Тут можна побудувати лише одну кімнату. Виберіть, яку саме."
+  },
+  "ChooseRoom_Prompt_shorter": {
+    "en": "Choose one room.",
+    "uk": "Виберіть одну кімнату."
+  },
+  "Church_Chancel_Description": {
+    "en": "For the right sum, even heaven can look the other way.",
+    "uk": "За належну суму навіть небо може заплющити очі."
+  },
+  "Church_Chancel_DisplayName": {
+    "en": "Chancel",
+    "uk": "Вівтарна частина"
+  },
+  "Church_Confessional_Description": {
+    "en": "What's said here dies here — and so do your crimes.",
+    "uk": "Що сказано тут, тут і вмирає — як і Ваші злочини."
+  },
+  "Church_Confessional_DisplayName": {
+    "en": "Confessional",
+    "uk": "Сповідальня"
+  },
+  "Church_Sacristy_Description": {
+    "en": "Vestments for the body. Absolution for the soul.",
+    "uk": "Ризи для тіла. Відпущення гріхів для душі."
+  },
+  "Church_Sacristy_DisplayName": {
+    "en": "Sacristy",
+    "uk": "Ризниця"
+  },
+  "Graveyard_Crypt_Description": {
+    "en": "Some seek counsel in books. Others dig deeper.",
+    "uk": "Одні шукають поради в книгах. Інші копають глибше."
+  },
+  "Graveyard_Crypt_DisplayName": {
+    "en": "Crypt",
+    "uk": "Крипта"
+  },
+  "Graveyard_NecromancersTower_Description": {
+    "en": "Here, the dead improve. The living, not so much.",
+    "uk": "Тут мертві стають кращими. Живі — не надто."
+  },
+  "Graveyard_NecromancersTower_DisplayName": {
+    "en": "Necromancer's Tower",
+    "uk": "Вежа некроманта"
+  },
+  "Guild_Office_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Guild_Office_DisplayName": {
+    "en": "Office",
+    "uk": "Кабінет"
+  },
+  "House_Villa_Backroom_Description": {
+    "en": "Thick walls. Thin morals.",
+    "uk": "Товсті стіни. Тонка мораль."
+  },
+  "House_Villa_Backroom_DisplayName": {
+    "en": "Backroom",
+    "uk": "Задня кімната"
+  },
+  "House_Villa_DrawingRoom_Description": {
+    "en": "Some favor steel, others silverware. Both cut deep, if used right.",
+    "uk": "Одні полюбляють сталь, інші — срібне начиння. І те, і те ріже глибоко, якщо вміло ним орудувати."
+  },
+  "House_Villa_DrawingRoom_DisplayName": {
+    "en": "Drawing Room",
+    "uk": "Вітальня"
+  },
+  "House_Villa_Library_Description": {
+    "en": "Rhetoric, revenge, and footnotes. Best read between the lines.",
+    "uk": "Красномовство, помста й примітки. Найкраще читати між рядків."
+  },
+  "House_Villa_Library_DisplayName": {
+    "en": "Library",
+    "uk": "Бібліотека"
+  },
+  "House_Villa_MusicRoom_Description": {
+    "en": "A little music, a little wine, and someone else's spouse.",
+    "uk": "Трохи музики, трохи вина — і чужий чоловік чи дружина."
+  },
+  "House_Villa_MusicRoom_DisplayName": {
+    "en": "Music Room",
+    "uk": "Музична кімната"
+  },
+  "House_Villa_StudyRoom_Description": {
+    "en": "A quiet room for plans, papers, and the weight of decisions.",
+    "uk": "Тиха кімната для планів, паперів і тягаря рішень."
+  },
+  "House_Villa_StudyRoom_DisplayName": {
+    "en": "Study Room",
+    "uk": "Кабінет"
+  },
+  "House_Villa_WineCellar_Description": {
+    "en": "Aged red. Hidden gold. And no reason to explain either.",
+    "uk": "Витримане червоне. Приховане золото. І жодних пояснень ні щодо одного, ні щодо іншого."
+  },
+  "House_Villa_WineCellar_DisplayName": {
+    "en": "Wine Cellar",
+    "uk": "Винний погріб"
+  },
+  "Mine_WatchTower_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Mine_WatchTower_DisplayName": {
+    "en": "Watch Tower",
+    "uk": "Вартова вежа"
+  },
+  "Room_DisplayName": {
+    "en": "Room",
+    "uk": "Кімната"
+  },
+  "TownHall_Auditorium_Description": {
+    "en": "Every law was once just a loud enough idea.",
+    "uk": "Кожен закон колись був просто достатньо гучною ідеєю."
+  },
+  "TownHall_Auditorium_DisplayName": {
+    "en": "Auditorium",
+    "uk": "Зала засідань"
+  },
+  "Unlocks_Extra_Room_Slot_Description": {
+    "en": "Unlock this slot to build an extra room here.",
+    "uk": "Розблокуйте це місце, щоб побудувати тут додаткову кімнату."
+  },
+  "Unlocks_Extra_Room_Slot_DisplayName": {
+    "en": "Expansion Slot",
+    "uk": "Місце для розширення"
+  },
+  "Unlocks_Number_Rooms": {
+    "en": "You can build {numroom} {numroom}|plural(one=additional room,other=additional rooms)",
+    "uk": "Ви можете побудувати {numroom} {numroom}|plural(one=додаткову кімнату,few=додаткові кімнати,many=додаткових кімнат,other=додаткової кімнати)"
+  }
+}

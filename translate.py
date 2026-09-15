@@ -56,13 +56,25 @@ def source_rows(target, ns):
     return load_json(path)
 
 
+UI_NAMESPACES = {'Settings', 'Controls', 'General'}
+
+
+def is_ui(path):
+    """Menu/settings namespaces and widget texts: short strings there mean something else in-game."""
+    return path.parent.name == 'Uncategorized Texts' or path.stem in UI_NAMESPACES
+
+
 def translation_memory():
     """en text -> uk from everything already translated (any namespace)."""
     tm = {}
     for path in sorted(TRANSLATIONS.glob('*/*.json')):
+        ui = is_ui(path)
         for entry in load_json(path).values():
             if isinstance(entry, dict) and entry.get('uk') and entry.get('en'):
-                tm.setdefault(entry['en'].strip(), entry['uk'])
+                en = entry['en'].strip()
+                if ui and len(en.split()) < 3:
+                    continue    # "Master" in Settings is master volume, not a guild master
+                tm.setdefault(en, entry['uk'])
     return tm
 
 
@@ -70,6 +82,8 @@ def short_terms():
     """Already translated short strings (names of items, buildings, ...) for reuse inside longer texts."""
     out = {}
     for path in sorted(TRANSLATIONS.glob('*/*.json')):
+        if is_ui(path):
+            continue
         for key, entry in load_json(path).items():
             en = (entry.get('en') or '').strip()
             if 3 <= len(en) <= 40 and not any(c in en for c in '{}<>\n') and entry.get('uk'):
@@ -213,7 +227,7 @@ def cmd_run(args):
         if r['key'] in done and done[r['key']].get('en') == r['en']:
             continue
         en = r['en']
-        if SKIP_RE.search(en) or not LETTERS_RE.search(en):
+        if SKIP_RE.search(en) or not LETTERS_RE.search(re.sub(r'\{[^}]*\}', '', en)):
             done[r['key']] = {'en': en, 'uk': en}          # technical / placeholder rows stay as they are
         elif en.strip() in tm:
             done[r['key']] = {'en': en, 'uk': tm[en.strip()]}; reused += 1

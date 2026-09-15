@@ -1,0 +1,230 @@
+{
+  "Benefit_CanApplyToHigherOffices": {
+    "en": "Eligible for {O_CHA_STAAUT_C}State Authority{##} Offices",
+    "uk": "Право обіймати {O_CHA_STAAUT_C}посади державної влади{##}"
+  },
+  "Benefit_CanApplyToOffices": {
+    "en": "Eligible for {O_TYP_CIVOFF_C}Office Positions{##}",
+    "uk": "Право обіймати {O_TYP_CIVOFF_C}посади{##}"
+  },
+  "Benefit_EligibleForChambers": {
+    "en": "Eligible for {O_TYP_CIVOFF_C}Office Chambers{##}",
+    "uk": "Право на {O_TYP_CIVOFF_C}посади в палатах{##}"
+  },
+  "Benefit_IneligibleForOffice": {
+    "en": "Ineligible for {O_TYP_CIVOFF_C}Office{##}",
+    "uk": "Без права обіймати {O_TYP_CIVOFF_C}посади{##}"
+  },
+  "Benefit_PermittedResidence": {
+    "en": "Permitted Residence",
+    "uk": "Дозволене житло"
+  },
+  "PreviousTitle": {
+    "en": "Previous Title",
+    "uk": "Попередній титул"
+  },
+  "Rights_CupbearerService_Description": {
+    "en": "Balanced risk and time. Tests Handicraft.",
+    "uk": "Помірні ризик і час. Перевіряє Ремесло."
+  },
+  "Rights_CupbearerService_DisplayName": {
+    "en": "Cupbearer Service",
+    "uk": "Служба чашника"
+  },
+  "Rights_Description": {
+    "en": "This official document attests that once you've acquired the necessary wealth, you'll be eligible to ascend to the title of {title}.",
+    "uk": "Ця офіційна грамота засвідчує, що по накопиченні потрібних статків Ви матимете право отримати титул {title}."
+  },
+  "Rights_DiplomaticService_Description": {
+    "en": "Safe, but slow. Tests Negotiation and Rhetoric.",
+    "uk": "Безпечно, але повільно. Перевіряє Торг і Красномовство."
+  },
+  "Rights_DiplomaticService_DisplayName": {
+    "en": "Diplomatic Service",
+    "uk": "Дипломатична служба"
+  },
+  "Rights_HighNobility_Description": {
+    "en": "Once you've met the necessary requirements and established an exceptional relationship with the Emperor, he himself will grant you the High Nobility Charter.",
+    "uk": "Коли Ви виконаєте всі вимоги і здобудете виняткову прихильність Імператора, він сам дарує Вам грамоту про вищу знатність."
+  },
+  "Rights_HighNobility_DisplayName": {
+    "en": "High Nobility Charter",
+    "uk": "Грамота про вищу знатність"
+  },
+  "Rights_Nobility_AlternativeAction_Description": {
+    "en": "Alternatively, the Nobility Charter may be granted by the Sovereign or any official of the Empire Authority.",
+    "uk": "Крім того, грамоту про дворянство може надати Володар або будь-який урядник Імперської влади."
+  },
+  "Rights_Nobility_Description": {
+    "en": "By committing to serve a noble for a time, you can earn a Nobility Charter.",
+    "uk": "Прослуживши певний час дворянину, Ви можете здобути грамоту про дворянство."
+  },
+  "Rights_Nobility_DisplayName": {
+    "en": "Nobility Charter",
+    "uk": "Грамота про дворянство"
+  },
+  "Rights_SquireService_Description": {
+    "en": "Fast, but dangerous. Tests Martial and Roguery.",
+    "uk": "Швидко, але небезпечно. Перевіряє Бойові навички і Шахрайство."
+  },
+  "Rights_SquireService_DisplayName": {
+    "en": "Squire Service",
+    "uk": "Служба зброєносця"
+  },
+  "SubsequentTitle": {
+    "en": "Subsequent Title",
+    "uk": "Наступний титул"
+  },
+  "Title_Baron_Description": {
+    "en": "Influential, if approached carefully.",
+    "uk": "Впливовий, якщо діяти обережно."
+  },
+  "Title_Baron_DisplayName": {
+    "en": "{Gender}|gender(Baron,Baroness)",
+    "uk": "{Gender}|gender(Барон,Баронеса)"
+  },
+  "Title_Baron_DisplayName_plural": {
+    "en": "Barons",
+    "uk": "Барони"
+  },
+  "Title_Count_Description": {
+    "en": "A voice that carries weight.",
+    "uk": "Голос, що має вагу."
+  },
+  "Title_Count_DisplayName": {
+    "en": "{Gender}|gender(Count,Countess)",
+    "uk": "{Gender}|gender(Граф,Графиня)"
+  },
+  "Title_Count_DisplayName_plural": {
+    "en": "Counts",
+    "uk": "Графи"
+  },
+  "Title_Description": {
+    "en": "Titles are hereditary ranks in the social hierarchy. They come with privileges and requirements, and are set by your {CHAR_WEA_C}wealth{##} and the {I_NOBRIG_C}rights{##} you've earned.",
+    "uk": "Титули — це спадкові щаблі суспільної ієрархії. З ними пов’язані привілеї й вимоги, а визначаються вони Вашими {CHAR_WEA_C}статками{##} і здобутими {I_NOBRIG_C}правами{##}."
+  },
+  "Title_Description_extra1": {
+    "en": "From lowest to highest, the titles are:",
+    "uk": "Титули від найнижчого до найвищого:"
+  },
+  "Title_Description_extra2": {
+    "en": "Your next title awaits at the {B_PUB_TOWHAL_E}Town Hall{##}.",
+    "uk": "Ваш наступний титул чекає в {B_PUB_TOWHAL_E}ратуші{##}."
+  },
+  "Title_DisplayName": {
+    "en": "Title",
+    "uk": "Титул"
+  },
+  "Title_DisplayName_plural": {
+    "en": "Titles",
+    "uk": "Титули"
+  },
+  "Title_Duke_Description": {
+    "en": "Decisions echo beyond the title.",
+    "uk": "Рішення відлунюють далеко за межі титулу."
+  },
+  "Title_Duke_DisplayName": {
+    "en": "{Gender}|gender(Duke,Duchess)",
+    "uk": "{Gender}|gender(Герцог,Герцогиня)"
+  },
+  "Title_Duke_DisplayName_plural": {
+    "en": "Dukes",
+    "uk": "Герцоги"
+  },
+  "Title_FullCitizen_Description": {
+    "en": "Known by name, not by power.",
+    "uk": "Відомий за ім’ям, а не за владою."
+  },
+  "Title_FullCitizen_DisplayName": {
+    "en": "Burgher",
+    "uk": "Міщанин"
+  },
+  "Title_FullCitizen_DisplayName_Alt_01": {
+    "en": "Full Citizen",
+    "uk": "Повноправний громадянин"
+  },
+  "Title_FullCitizen_DisplayName_plural": {
+    "en": "Burghers",
+    "uk": "Міщани"
+  },
+  "Title_FullCitizen_DisplayName_plural_Alt_01": {
+    "en": "Full Citizens",
+    "uk": "Повноправні громадяни"
+  },
+  "Title_Gentleman_Description": {
+    "en": "Barely noticed, easily ignored.",
+    "uk": "Ледь помітний, легко забутий."
+  },
+  "Title_Gentleman_DisplayName": {
+    "en": "Commoner",
+    "uk": "Простолюдин"
+  },
+  "Title_Gentleman_DisplayName_Alt_01": {
+    "en": "{Gender}|gender(Gentleman,Lady)",
+    "uk": "{Gender}|gender(Пан,Пані)"
+  },
+  "Title_Gentleman_DisplayName_Alt_02": {
+    "en": "{Gender}|gender(Freeman,Freewoman)",
+    "uk": "{Gender}|gender(Вільний чоловік,Вільна жінка)"
+  },
+  "Title_Gentleman_DisplayName_plural": {
+    "en": "Commoners",
+    "uk": "Простолюдини"
+  },
+  "Title_Gentleman_DisplayName_plural_Alt_01": {
+    "en": "Ladies and Gentlemen",
+    "uk": "Пані та панове"
+  },
+  "Title_Gentleman_DisplayName_plural_Alt_02": {
+    "en": "Freefolk",
+    "uk": "Вільний люд"
+  },
+  "Title_Nobleman_Description": {
+    "en": "Respected in the right rooms.",
+    "uk": "Шанований у належних колах."
+  },
+  "Title_Nobleman_DisplayName": {
+    "en": "{Gender}|gender(Nobleman,Noblewoman)",
+    "uk": "{Gender}|gender(Дворянин,Дворянка)"
+  },
+  "Title_Nobleman_DisplayName_plural": {
+    "en": "Nobles",
+    "uk": "Дворяни"
+  },
+  "Title_Patrician_Description": {
+    "en": "Listened to, occasionally obeyed.",
+    "uk": "До нього прислухаються, часом і слухаються."
+  },
+  "Title_Patrician_DisplayName": {
+    "en": "Patrician",
+    "uk": "Патрицій"
+  },
+  "Title_Patrician_DisplayName_plural": {
+    "en": "Patricians",
+    "uk": "Патриції"
+  },
+  "Title_PrinceOfTheEmpire_Description": {
+    "en": "Authority few dare to challenge.",
+    "uk": "Влада, з якою мало хто наважиться сперечатися."
+  },
+  "Title_PrinceOfTheEmpire_DisplayName": {
+    "en": "{Gender}|gender(Prince of the Empire,Princess of the Empire)",
+    "uk": "{Gender}|gender(Імперський князь,Імперська княгиня)"
+  },
+  "Title_PrinceOfTheEmpire_DisplayName_plural": {
+    "en": "Princes of the Empire",
+    "uk": "Імперські князі"
+  },
+  "Title_Prince_Description": {
+    "en": "Power recognized before words are spoken.",
+    "uk": "Могутність, що впізнають ще до слів."
+  },
+  "Title_Prince_DisplayName": {
+    "en": "{Gender}|gender(Prince,Princess)",
+    "uk": "{Gender}|gender(Князь,Княгиня)"
+  },
+  "Title_Prince_DisplayName_plural": {
+    "en": "Princes",
+    "uk": "Князі"
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "AccidentChance_Description": {
+    "en": "Accidents happen — just less often with better {B_PARAM_ACCPRO_C}prevention{##}. You can also {A_TRAWORSKI_C}train your workers' skills{##}, which not only improves {CHAR_PRO_C}productivity{##} but also reduces the {ACC_CHAACC_C}chance of accidents{##}.",
+    "uk": "Нещасні випадки трапляються — просто рідше з кращим {B_PARAM_ACCPRO_C}захистом{##}. Ви також можете {A_TRAWORSKI_C}тренувати навички своїх працівників{##}, що не лише підвищує {CHAR_PRO_C}продуктивність{##}, а й знижує {ACC_CHAACC_C}шанс нещасних випадків{##}."
+  },
+  "AccidentChance_DisplayName": {
+    "en": "Accident Chance",
+    "uk": "Шанс нещасного випадку"
+  },
+  "AccidentChance_Effect_Base_Description": {
+    "en": "Every task comes with its own risks. Some are safer, while others are more prone to {ACC_C}accidents{##} — especially in unskilled hands.",
+    "uk": "Кожне завдання несе свої ризики. Деякі безпечніші, інші ж більш схильні до {ACC_C}нещасних випадків{##} — особливо в недосвідчених руках."
+  },
+  "AccidentChance_Effect_Base_DisplayName": {
+    "en": "Inherent Risk",
+    "uk": "Природний ризик"
+  },
+  "AccidentChance_Effect_QuarterAccidentChance_Description": {
+    "en": "A loose cobble, a crowded alley, and the occasional knife in the dark — accidents take many forms. In {C_QUA_C}quarters{##} with higher risk, such misfortunes are more likely to find your workers during {A_ACT_OUT_C}outdoor tasks{##}.",
+    "uk": "Хиткий брук, тісний провулок і подеколи ніж у темряві — нещасні випадки бувають різні. У {C_QUA_C}кварталах{##} з вищим ризиком такі лиха частіше трапляються з Вашими працівниками під час {A_ACT_OUT_C}виїзних завдань{##}."
+  },
+  "AccidentChance_Effect_QuarterAccidentChance_DisplayName": {
+    "en": "Quarter Accident Risk",
+    "uk": "Ризик у кварталі"
+  },
+  "AccidentChance_Effect_WorkLocation_Description": {
+    "en": "Within your walls, {B_IMP_OCCBUI_ACCPRO_C}safety measures{##} protect your workers. ",
+    "uk": "У межах Ваших стін {B_IMP_OCCBUI_ACCPRO_C}заходи безпеки{##} захищають Ваших працівників. "
+  },
+  "AccidentChance_Effect_WorkLocation_Description_extra1": {
+    "en": "Outside, the world is less forgiving. When assigning {A_ACT_OUT_C}outdoor tasks{##}, watch the {QUA_CRI_C}crime rate{##} — where crime runs high, accidents tend to follow.",
+    "uk": "Назовні світ не такий поблажливий. Призначаючи {A_ACT_OUT_C}виїзні завдання{##}, стежте за {QUA_CRI_C}рівнем злочинності{##} — де злочинність висока, там часто трапляються й нещасні випадки."
+  },
+  "AccidentChance_Effect_WorkLocation_DisplayName": {
+    "en": "Task Location",
+    "uk": "Місце завдання"
+  },
+  "AccidentChance_Value": {
+    "en": "{value} per {duration}|plural(one={duration} minute, other={duration} minutes)",
+    "uk": "{value} за {duration}|plural(one={duration} хвилину, few={duration} хвилини, many={duration} хвилин, other={duration} хвилини)"
+  },
+  "Accident_Description": {
+    "en": "Accidents happen — just less often with better {B_PARAM_ACCPRO_C}prevention{##}. You can also {A_TRAWORSKI_C}train your workers' skills{##}, which not only improves {CHAR_PRO_C}productivity{##} but also reduces the {ACC_CHAACC_C}chance of accidents{##}.",
+    "uk": "Нещасні випадки трапляються — просто рідше з кращим {B_PARAM_ACCPRO_C}захистом{##}. Ви також можете {A_TRAWORSKI_C}тренувати навички своїх працівників{##}, що не лише підвищує {CHAR_PRO_C}продуктивність{##}, а й знижує {ACC_CHAACC_C}шанс нещасних випадків{##}."
+  },
+  "Accident_DisplayName": {
+    "en": "Accident",
+    "uk": "Нещасний випадок"
+  },
+  "Activity_OnTheWayTo": {
+    "en": "On the way…",
+    "uk": "У дорозі…"
+  },
+  "Activity_OutsideWorkingHours": {
+    "en": "Awaiting next shift.",
+    "uk": "Очікує наступної зміни."
+  },
+  "Activity_Returning": {
+    "en": "Returning…",
+    "uk": "Повертається…"
+  },
+  "Activity_SendWorker_Prompt": {
+    "en": "Send",
+    "uk": "Відправити"
+  },
+  "Activity_WorkingOnSite": {
+    "en": "Working on site.",
+    "uk": "Працює на місці."
+  },
+  "AssignWorkerToTask": {
+    "en": "Assign Worker",
+    "uk": "Призначити працівника"
+  },
+  "AssignWorkers_Prompt": {
+    "en": "Assign workers to tasks. If a task requires materials, ensure they are available in the {B_STOROO_C}storeroom{##}.",
+    "uk": "Призначайте працівників на завдання. Якщо для завдання потрібні матеріали, переконайтеся, що вони є в {B_STOROO_C}коморі{##}."
+  },
+  "CharacterType_Worker_AllWorkers_DisplayName": {
+    "en": "All Workers",
+    "uk": "Усі працівники"
+  },
+  "CharacterType_Worker_DisplayName": {
+    "en": "Worker",
+    "uk": "Працівник"
+  },
+  "CharacterType_Worker_DisplayName_plural": {
+    "en": "Workers",
+    "uk": "Працівники"
+  },
+  "EmployeeManagement_Header_DisplayName": {
+    "en": "Manage your workers",
+    "uk": "Керуйте своїми працівниками"
+  },
+  "EmployeeManagement_HireEmployee_Prompt": {
+    "en": "Hire a new worker.",
+    "uk": "Найняти нового працівника."
+  },
+  "EmployeeManagement_HireMaster_Prompt": {
+    "en": "Hire a master to take care of your business",
+    "uk": "Найняти майстра, який доглядатиме за Вашою справою"
+  },
+  "Employee_DisplayName": {
+    "en": "Employee",
+    "uk": "Наймит"
+  },
+  "Employee_DisplayName_plural": {
+    "en": "Employees",
+    "uk": "Наймити"
+  },
+  "Employer_DisplayName": {
+    "en": "Employer",
+    "uk": "Роботодавець"
+  },
+  "Employer_DisplayName_plural": {
+    "en": "Employers",
+    "uk": "Роботодавці"
+  },
+  "Employment_Alchemist_Apprentice_DisplayName": {
+    "en": "Alchemist Apprentice",
+    "uk": "Учень алхіміка"
+  },
+  "Employment_Alchemist_Description": {
+    "en": "Brews mixtures and conducts experiments in an {B_OCC_ALC_C}Alchemist's Lab{##}.",
+    "uk": "Готує суміші та проводить досліди в {B_OCC_ALC_C}лабораторії алхіміка{##}."
+  },
+  "Employment_Alchemist_Journeyman_DisplayName": {
+    "en": "Alchemist Journeyman",
+    "uk": "Підмайстер алхіміка"
+  },
+  "Employment_DisplayName": {
+    "en": "Employment",
+    "uk": "Заняття"
+  },
+  "Employment_GraveyardWarden_Apprentice_DisplayName": {
+    "en": "Graveyard Warden Apprentice",
+    "uk": "Учень доглядача цвинтаря"
+  },
+  "Employment_GraveyardWarden_Description": {
+    "en": "Tends graves and maintains the {B_OCC_GRA_C}Graveyard{##}.",
+    "uk": "Доглядає за могилами та підтримує {B_OCC_GRA_C}цвинтар{##}."
+  },
+  "Employment_GraveyardWarden_Journeyman_DisplayName": {
+    "en": "Graveyard Warden Journeyman",
+    "uk": "Підмайстер доглядача цвинтаря"
+  },
+  "Employment_Guard_Apprentice_DisplayName": {
+    "en": "Guard Apprentice",
+    "uk": "Учень вартового"
+  },
+  "Employment_Guard_Description": {
+    "en": "Patrols streets and trains within the {B_OCC_GUA_C}Barracks{##}.",
+    "uk": "Патрулює вулиці та тренується в {B_OCC_GUA_C}казармі{##}."
+  },
+  "Employment_Guard_Journeyman_DisplayName": {
+    "en": "Guard Journeyman",
+    "uk": "Підмайстер вартового"
+  },
+  "Employment_Innkeeper_Apprentice_DisplayName": {
+    "en": "Innkeeper Apprentice",
+    "uk": "Учень шинкаря"
+  },
+  "Employment_Innkeeper_Description": {
+    "en": "Serves guests and tends duties within an {B_OCC_INN_C}Inn{##}.",
+    "uk": "Обслуговує гостей і виконує обов'язки в {B_OCC_INN_C}заїзді{##}."
+  },
+  "Employment_Innkeeper_Journeyman_DisplayName": {
+    "en": "Innkeeper Journeyman",
+    "uk": "Підмайстер шинкаря"
+  },
+  "Employment_Joiner_Apprentice_DisplayName": {
+    "en": "Joiner Apprentice",
+    "uk": "Учень столяра"
+  },
+  "Employment_Joiner_Description": {
+    "en": "Crafts wooden items, and rebuilds carts in a {B_OCC_JOI_C}Joiner's Workshop{##}.",
+    "uk": "Виготовляє дерев'яні вироби та лагодить вози в {B_OCC_JOI_C}столярні{##}."
+  },
+  "Employment_Joiner_Journeyman_DisplayName": {
+    "en": "Joiner Journeyman",
+    "uk": "Підмайстер столяра"
+  },
+  "Employment_Message_CurrentlyUnemployed": {
+    "en": "Currently unemployed",
+    "uk": "Наразі безробітний"
+  },
+  "Employment_MoneyLender_Apprentice_DisplayName": {
+    "en": "Moneylender Apprentice",
+    "uk": "Учень лихваря"
+  },
+  "Employment_MoneyLender_Description": {
+    "en": "Handles accounts and financial dealings in a {B_OCC_MONLEN_C}Counting House{##}.",
+    "uk": "Веде рахунки та грошові справи в {B_OCC_MONLEN_C}лихварському домі{##}."
+  },
+  "Employment_MoneyLender_Journeyman_DisplayName": {
+    "en": "Moneylender Journeyman",
+    "uk": "Підмайстер лихваря"
+  },
+  "Employment_Perfumer_Apprentice_DisplayName": {
+    "en": "Perfumer Apprentice",
+    "uk": "Учень парфумера"
+  },
+  "Employment_Perfumer_Description": {
+    "en": "Creates fragrances, oils, and scented goods in a {B_OCC_PER_C}Perfumery{##}.",
+    "uk": "Створює пахощі, олії та ароматні вироби в {B_OCC_PER_C}парфумерії{##}."
+  },
+  "Employment_Perfumer_Journeyman_DisplayName": {
+    "en": "Perfumer Journeyman",
+    "uk": "Підмайстер парфумера"
+  },
+  "Employment_Preacher_Apprentice_DisplayName": {
+    "en": "Preacher Apprentice",
+    "uk": "Учень проповідника"
+  },
+  "Employment_Preacher_Description": {
+    "en": "Serves the faithful in a {B_OCC_PRE_C}Church{##}.",
+    "uk": "Служить вірянам у {B_OCC_PRE_C}церкві{##}."
+  },
+  "Employment_Preacher_Journeyman_DisplayName": {
+    "en": "Preacher Journeyman",
+    "uk": "Підмайстер проповідника"
+  },
+  "Employment_Robber_Apprentice_DisplayName": {
+    "en": "Robber Apprentice",
+    "uk": "Учень розбійника"
+  },
+  "Employment_Robber_Description": {
+    "en": "Conducts robberies and waylays carts from a {B_OCC_ROB_C}Robber Baron's Fortress{##}.",
+    "uk": "Здійснює пограбування та влаштовує засідки на вози з {B_OCC_ROB_C}фортеці розбійного барона{##}."
+  },
+  "Employment_Robber_Journeyman_DisplayName": {
+    "en": "Robber Journeyman",
+    "uk": "Підмайстер розбійника"
+  },
+  "Employment_Smith_Apprentice_DisplayName": {
+    "en": "Smith Apprentice",
+    "uk": "Учень коваля"
+  },
+  "Employment_Smith_Description": {
+    "en": "Shapes metal goods and weapons at a {B_OCC_SMI_C}Smithy{##}.",
+    "uk": "Кує металеві вироби та зброю в {B_OCC_SMI_C}кузні{##}."
+  },
+  "Employment_Smith_Journeyman_DisplayName": {
+    "en": "Smith Journeyman",
+    "uk": "Підмайстер коваля"
+  },
+  "Employment_StoneMason_Apprentice_DisplayName": {
+    "en": "Stone Mason Apprentice",
+    "uk": "Учень каменяра"
+  },
+  "Employment_StoneMason_Description": {
+    "en": "Cuts and tames stubborn stone for roadwork, foundations, and more at the {B_OCC_MAS_C}Masonry{##}.",
+    "uk": "Теше й приборкує впертий камінь для доріг, фундаментів та іншого в {B_OCC_MAS_C}каменярні{##}."
+  },
+  "Employment_StoneMason_Journeyman_DisplayName": {
+    "en": "Stone Mason Journeyman",
+    "uk": "Підмайстер каменяра"
+  },
+  "Employment_Tailor_Apprentice_DisplayName": {
+    "en": "Tailor Apprentice",
+    "uk": "Учень кравця"
+  },
+  "Employment_Tailor_Description": {
+    "en": "Sews garments and fine clothing in a {B_OCC_TAI_C}Tailor's Workshop{##}.",
+    "uk": "Шиє одяг і вишукане вбрання в {B_OCC_TAI_C}кравецькій майстерні{##}."
+  },
+  "Employment_Tailor_Journeyman_DisplayName": {
+    "en": "Tailor Journeyman",
+    "uk": "Підмайстер кравця"
+  },
+  "Employment_Thief_Apprentice_DisplayName": {
+    "en": "Thief Apprentice",
+    "uk": "Учень злодія"
+  },
+  "Employment_Thief_Description": {
+    "en": "Steals valuables and operates discreetly from a hidden {B_OCC_THI_C}Hideout{##}.",
+    "uk": "Краде цінності й діє непомітно з потаємної {B_OCC_THI_C}схованки{##}."
+  },
+  "Employment_Thief_Journeyman_DisplayName": {
+    "en": "Thief Journeyman",
+    "uk": "Підмайстер злодія"
+  },
+  "Employment_Trader_Apprentice_DisplayName": {
+    "en": "Trader Apprentice",
+    "uk": "Учень торговця"
+  },
+  "Employment_Trader_Description": {
+    "en": "Buys, sells, and handles goods in a {B_OCC_TRA_C}Storehouse{##}.",
+    "uk": "Купує, продає й веде облік товарів на {B_OCC_TRA_C}складі{##}."
+  },
+  "Employment_Trader_Journeyman_DisplayName": {
+    "en": "Trader Journeyman",
+    "uk": "Підмайстер торговця"
+  },
+  "Employment_TravellingEntertainer_Apprentice_DisplayName": {
+    "en": "Circus Artist Apprentice",
+    "uk": "Учень циркача"
+  },
+  "Employment_TravellingEntertainer_Description": {
+    "en": "Performs tricks and entertains audiences from a {B_OCC_ENT_C}Travelling Circus Camp{##}.",
+    "uk": "Показує трюки та розважає глядачів з {B_OCC_ENT_C}табору мандрівного цирку{##}."
+  },
+  "Employment_TravellingEntertainer_Journeyman_DisplayName": {
+    "en": "Circus Artist Journeyman",
+    "uk": "Підмайстер циркача"
+  },
+  "Energy_Regeneration_Tip": {
+    "en": "Unassigned workers recover {CHAR_ENE_C}energy{##} faster. Sometimes it's best to let them rest so they return more {CHAR_PRO_C}productive{##}.",
+    "uk": "Непризначені працівники відновлюють {CHAR_ENE_C}енергію{##} швидше. Іноді краще дати їм відпочити, щоб вони повернулися більш {CHAR_PRO_C}продуктивними{##}."
+  },
+  "Expenses_DisplayName": {
+    "en": "Annual expenses",
+    "uk": "Річні витрати"
+  },
+  "FireEmployee_Confirmation_Prompt": {
+    "en": "Fire {WorkerName}?\n\nExcept for crafting, any worker fired while performing a task will complete it before leaving their post permanently.",
+    "uk": "Звільнити {WorkerName}?\n\nОкрім виготовлення, будь-який працівник, звільнений під час виконання завдання, завершить його, перш ніж остаточно піти з роботи."
+  },
+  "FireEmployee_DisplayName": {
+    "en": "Fire Worker",
+    "uk": "Звільнити працівника"
+  },
+  "FireEmployee_Prompt": {
+    "en": "Fire",
+    "uk": "Звільнити"
+  },
+  "Hiring_DontHireAnyWorker_Prompt": {
+    "en": "No one",
+    "uk": "Нікого"
+  },
+  "Hiring_HireSelectedWorker_Prompt": {
+    "en": "Hire",
+    "uk": "Найняти"
+  },
+  "Hiring_HireWorkerAction_DisplayName": {
+    "en": "Hire Worker",
+    "uk": "Найняти працівника"
+  },
+  "Hiring_HiringFee_DisplayName": {
+    "en": "Hiring fee",
+    "uk": "Плата за найм"
+  },
+  "Hiring_SelectWorkerToHire_Prompt": {
+    "en": "Select an apprentice to hire.",
+    "uk": "Виберіть учня для найму."
+  },
+  "Manager_Budget_DisplayName": {
+    "en": "Budget",
+    "uk": "Кошторис"
+  },
+  "Manager_Competency_DisplayName_plural": {
+    "en": "Competencies",
+    "uk": "Компетенції"
+  },
+  "MyWorker_DisplayName_plural": {
+    "en": "My Workers",
+    "uk": "Мої працівники"
+  },
+  "OpenWorkerContextMenu": {
+    "en": "Open Worker Context Menu",
+    "uk": "Відкрити контекстне меню працівника"
+  },
+  "Parameter_Productivity_Description": {
+    "en": "Reflects how quickly and effectively a worker completes their {A_ACT_C}tasks{##}. \nWorkers are more productive when assigned to tasks that match their {S_C}skills{##}. And the higher the {CHAR_ENE_C}energy{##}, the more productive they become.",
+    "uk": "Показує, наскільки швидко й ефективно працівник виконує свої {A_ACT_C}завдання{##}. \nПрацівники продуктивніші, коли їх призначають на завдання, що відповідають їхнім {S_C}навичкам{##}. А що вища {CHAR_ENE_C}енергія{##}, то продуктивніші вони."
+  },
+  "Parameter_Productivity_DisplayName": {
+    "en": "Productivity",
+    "uk": "Продуктивність"
+  },
+  "PickWorker": {
+    "en": "Select Worker",
+    "uk": "Вибрати працівника"
+  },
+  "Productivity_Effect_Base_Description": {
+    "en": "Every worker can manage some honest work.",
+    "uk": "Кожен працівник здатен на певну чесну працю."
+  },
+  "Productivity_Effect_Base_DisplayName": {
+    "en": "Innate Productivity",
+    "uk": "Природна продуктивність"
+  },
+  "Productivity_Effect_Building_Description": {
+    "en": "With {B_IMP_OCCBUI_PROD_C}proper tools{##}, your workers become more {CHAR_PRO_C}productive{##}.",
+    "uk": "Маючи {B_IMP_OCCBUI_PROD_C}належні інструменти{##}, Ваші працівники стають більш {CHAR_PRO_C}продуктивними{##}."
+  },
+  "Productivity_Effect_Building_DisplayName": {
+    "en": "Workplace",
+    "uk": "Робоче місце"
+  },
+  "Productivity_Effect_Employer_Description": {
+    "en": "When running a business, your {S_C}skills{##} matter as much as your workers'. The better you are at the skills a task requires, the better you can direct your workers, making them more {CHAR_PRO_C}productive{##}.",
+    "uk": "Коли Ви ведете справу, Ваші {S_C}навички{##} важать не менше, ніж навички Ваших працівників. Що краще Ви володієте навичками, потрібними для завдання, то краще Ви можете скеровувати працівників, роблячи їх більш {CHAR_PRO_C}продуктивними{##}."
+  },
+  "Productivity_Effect_Employer_DisplayName": {
+    "en": "Skilled Employer",
+    "uk": "Вправний наймач"
+  },
+  "Productivity_Effect_Energy_Description": {
+    "en": "A worker's {CHAR_PRO_C}productivity{##} depends heavily on {CHAR_ENE_C}energy{##}.",
+    "uk": "{CHAR_PRO_C}Продуктивність{##} працівника сильно залежить від {CHAR_ENE_C}енергії{##}."
+  },
+  "Productivity_Effect_Energy_DisplayName": {
+    "en": "Energy",
+    "uk": "Енергія"
+  },
+  "Productivity_Effect_Fallback_Description": {
+    "en": "What a mystery, huh?",
+    "uk": "Ото загадка, чи не так?"
+  },
+  "Productivity_Effect_Fallback_DisplayName": {
+    "en": "Unknown Source",
+    "uk": "Невідоме джерело"
+  },
+  "Rank_Apprentice_DisplayName": {
+    "en": "Apprentice",
+    "uk": "Учень"
+  },
+  "Rank_Description": {
+    "en": "Every worker starts as an Apprentice and can be {A_PROWOR_C}promoted{##} to Journeyman as they gain {CHAR_XP_C}experience{##}. \nJourneymen are more {CHAR_PRO_C}efficient{##}, less prone to {B_PARAM_ACCPRO_ACC}accidents{##}, but expect higher salaries.",
+    "uk": "Кожен працівник починає як учень і може бути {A_PROWOR_C}підвищений{##} до підмайстра з набуттям {CHAR_XP_C}досвіду{##}. \nПідмайстри працюють {CHAR_PRO_C}ефективніше{##}, рідше зазнають {B_PARAM_ACCPRO_ACC}нещасних випадків{##}, але очікують вищої платні."
+  },
+  "Rank_DisplayName": {
+    "en": "Expertise",
+    "uk": "Кваліфікація"
+  },
+  "Rank_Expert_DisplayName": {
+    "en": "Expert",
+    "uk": "Знавець"
+  },
+  "Rank_Journeyman_DisplayName": {
+    "en": "Journeyman",
+    "uk": "Підмайстер"
+  },
+  "Rank_Master_DisplayName": {
+    "en": "Master",
+    "uk": "Майстер"
+  },
+  "Salary_Description": {
+    "en": "High pay costs more but buys loyalty — enough to make rough treatment bearable.",
+    "uk": "Висока платня коштує дорожче, та вона купує відданість — достатню, щоб зробити грубе поводження стерпним."
+  },
+  "Salary_DisplayName": {
+    "en": "Salary",
+    "uk": "Платня"
+  },
+  "Salary_DisplayName_plural": {
+    "en": "Salaries",
+    "uk": "Платня"
+  },
+  "Salary_OneTimeBonusAction_Description": {
+    "en": "Give the workers a little extra. Let them think they've found something worth staying for.",
+    "uk": "Дайте працівникам трохи більше. Хай думають, що знайшли місце, заради якого варто лишитися."
+  },
+  "Salary_OneTimeBonusAction_Prompt": {
+    "en": "Pay One Time Bonus",
+    "uk": "Виплатити одноразову винагороду"
+  },
+  "Salary_Total_Tooltip": {
+    "en": "Total salaries paid within this building.",
+    "uk": "Загальна платня, виплачена в цій будівлі."
+  },
+  "SendToRest_Description": {
+    "en": "Send a worker home to recover {CHAR_ENE_C}energy{##} and reduce the risk of spreading disease.",
+    "uk": "Відправте працівника додому, щоб відновити {CHAR_ENE_C}енергію{##} і зменшити ризик поширення хвороб."
+  },
+  "SendToRest_DisplayName": {
+    "en": "Send To Rest",
+    "uk": "Відправити відпочивати"
+  },
+  "Skill_Productivity_Tip": {
+    "en": "A worker with the right {S_C}skills{##} knows what they're doing. Assign the right worker to the right {A_ACT_C}task{##}, and they'll be more {CHAR_PRO_C}productive{##} and less prone to {ACC_C}accidents{##}.",
+    "uk": "Працівник із належними {S_C}навичками{##} знає свою справу. Доручіть потрібному працівникові потрібне {A_ACT_C}завдання{##} — і він стане більш {CHAR_PRO_C}продуктивним{##}, а {ACC_C}нещасні випадки{##} траплятимуться з ним рідше."
+  },
+  "StandingTowardsEmployer_Description": {
+    "en": "Reflects the workers' loyalty and satisfaction with their working conditions. A low opinion suggests they are likely to seek service elsewhere soon.",
+    "uk": "Відображає відданість працівників і їхнє задоволення умовами праці. Низька оцінка означає, що вони, ймовірно, скоро шукатимуть службу деінде."
+  },
+  "StandingTowardsEmployer_DisplayName": {
+    "en": "Opinion towards employer",
+    "uk": "Ставлення до роботодавця"
+  },
+  "TaskContextMenu_AssignAllFreeWorkers_prompt": {
+    "en": "Assign Idle Workers ({NumWorkers})",
+    "uk": "Призначити вільних працівників ({NumWorkers})"
+  },
+  "TaskContextMenu_DisableRepeating_Description": {
+    "en": "After the assigned workers complete this task once, they will be idle and await new orders.",
+    "uk": "Щойно призначені працівники виконають це завдання один раз, вони простоюватимуть і чекатимуть нових наказів."
+  },
+  "TaskContextMenu_DisableRepeating_prompt": {
+    "en": "Disable Auto-Repeat",
+    "uk": "Вимкнути автоповтор"
+  },
+  "TaskContextMenu_DisplayName": {
+    "en": "Task Menu",
+    "uk": "Меню завдання"
+  },
+  "TaskContextMenu_EnableRepeating_Description": {
+    "en": "The workers assigned to this task will repeat it automatically until you unassign them.",
+    "uk": "Працівники, призначені на це завдання, виконуватимуть його автоматично, доки Ви їх не знімете."
+  },
+  "TaskContextMenu_EnableRepeating_NotPossible": {
+    "en": "This task cannot be repeated automatically. Assign workers manually to do it again.",
+    "uk": "Це завдання не можна повторювати автоматично. Призначте працівників вручну, щоб виконати його знову."
+  },
+  "TaskContextMenu_EnableRepeating_prompt": {
+    "en": "Enable Auto-Repeat",
+    "uk": "Увімкнути автоповтор"
+  },
+  "TaskContextMenu_UnassignAllWorkers_prompt": {
+    "en": "Unassign All Workers ({NumWorkers})",
+    "uk": "Зняти всіх працівників ({NumWorkers})"
+  },
+  "TaskContextMenu_UnassignAllWorkers_prompt_alt": {
+    "en": "Dismiss All Workers ({NumWorkers})",
+    "uk": "Відпустити всіх працівників ({NumWorkers})"
+  },
+  "Treatment_Benevolence_DisplayName": {
+    "en": "Benevolence",
+    "uk": "Доброзичливість"
+  },
+  "Treatment_Description": {
+    "en": "Harsher treatment boosts {CHAR_PRO_C}productivity{##} but steadily lowers {CHAR_STA_WOR_C}opinion{##}; push too far and workers quit.",
+    "uk": "Суворіше ставлення підвищує {CHAR_PRO_C}продуктивність{##}, але поступово знижує {CHAR_STA_WOR_C}прихильність{##}; перегнете — і працівники звільняться."
+  },
+  "Treatment_DisplayName": {
+    "en": "Treatment",
+    "uk": "Ставлення"
+  },
+  "Treatment_Exploitation_DisplayName": {
+    "en": "Exploitation",
+    "uk": "Визиск"
+  },
+  "Treatment_Oppression_DisplayName": {
+    "en": "Oppression",
+    "uk": "Гніт"
+  },
+  "Treatment_Patronage_DisplayName": {
+    "en": "Patronage",
+    "uk": "Заступництво"
+  },
+  "Treatment_Standard_DisplayName": {
+    "en": "Standard",
+    "uk": "Звичайне"
+  },
+  "WorkersAtYourBusiness": {
+    "en": "At your business",
+    "uk": "У Вашій справі"
+  },
+  "WorkingHours_Description": {
+    "en": "Determines when workers begin and end their shifts. Working hours vary by profession and season to make use of available daylight.",
+    "uk": "Визначає, коли працівники починають і закінчують зміну. Робочі години різняться залежно від професії та пори року, щоб використати доступне денне світло."
+  },
+  "WorkingHours_DisplayName": {
+    "en": "Working Hours",
+    "uk": "Робочі години"
+  },
+  "YouWorkers_Label": {
+    "en": "Your workers",
+    "uk": "Ваші працівники"
+  }
+}

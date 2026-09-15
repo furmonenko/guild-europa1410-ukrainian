@@ -1,0 +1,126 @@
+{
+  "Attractive_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Attractive_DisplayName": {
+    "en": "Attractive",
+    "uk": "Привабливий"
+  },
+  "Canny_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Canny_DisplayName": {
+    "en": "Canny",
+    "uk": "Кмітливий"
+  },
+  "Careful_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Careful_DisplayName": {
+    "en": "Careful",
+    "uk": "Обережний"
+  },
+  "Clever_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Clever_DisplayName": {
+    "en": "Clever",
+    "uk": "Розумний"
+  },
+  "Content_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Content_DisplayName": {
+    "en": "Content",
+    "uk": "Задоволений"
+  },
+  "EarlyBird_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "EarlyBird_DisplayName": {
+    "en": "Early Bird",
+    "uk": "Ранній пташок"
+  },
+  "ExceptionalBlood_Description": {
+    "en": "In this bloodline, talent is the expectation — not the exception.",
+    "uk": "У цьому роду талант — не виняток, а норма."
+  },
+  "ExceptionalBlood_DisplayName": {
+    "en": "Exceptional Bloodline",
+    "uk": "Виняткова кров"
+  },
+  "Frail_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Frail_DisplayName": {
+    "en": "Frail",
+    "uk": "Кволий"
+  },
+  "HardWorker_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "HardWorker_DisplayName": {
+    "en": "Hard Worker",
+    "uk": "Працьовитий"
+  },
+  "IronConstitution_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "IronConstitution_DisplayName": {
+    "en": "Iron Constitution",
+    "uk": "Залізне здоров’я"
+  },
+  "Modest_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Modest_DisplayName": {
+    "en": "Modest",
+    "uk": "Скромний"
+  },
+  "PrestigiousEmployment_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PrestigiousEmployment_DisplayName": {
+    "en": "Prestigious Employment",
+    "uk": "Престижна служба"
+  },
+  "StrongBlood_Description": {
+    "en": "Talent seems to run in this family. Children begin life a little more capable than most.",
+    "uk": "Здається, талант передається в цій родині. Діти народжуються трохи здібнішими за інших."
+  },
+  "StrongBlood_DisplayName": {
+    "en": "Strong Bloodline",
+    "uk": "Міцна кров"
+  },
+  "Tough_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Tough_DisplayName": {
+    "en": "Tough",
+    "uk": "Витривалий"
+  },
+  "Trait_Description": {
+    "en": "Permanent characteristics that shape someone's behavior, abilities, or role. Unlike status effects, they remain for life.",
+    "uk": "Постійні риси, що визначають поведінку, здібності чи роль людини. На відміну від станів, вони лишаються на все життя."
+  },
+  "Trait_DisplayName": {
+    "en": "Trait",
+    "uk": "Риса"
+  },
+  "Trait_DisplayName_plural": {
+    "en": "Traits",
+    "uk": "Риси"
+  }
+}

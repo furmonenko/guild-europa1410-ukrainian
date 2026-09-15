@@ -133,7 +133,7 @@
   },
   "Guildopedia_Business_DisplayName": {
     "en": "Business",
-    "uk": "Підприємство"
+    "uk": "Справа"
   },
   "Price_Buying_Label": {
     "en": "Buying price",
@@ -861,7 +861,7 @@
   },
   "MaintenancePhase_PersonnelCosts_Salaries_DisplayName": {
     "en": "Salaries",
-    "uk": "Зарплати"
+    "uk": "Платня"
   },
   "MaintenancePhase_PersonnelCosts_Description": {
     "en": "Salaries, hiring fees, and bonuses paid to workers.",
@@ -1205,11 +1205,11 @@
   },
   "MaintenancePhase_BusinessesRevenue_UpgradeBuilding_DisplayName": {
     "en": "Upgrades",
-    "uk": "Вдосконалення"
+    "uk": "Поліпшення"
   },
   "MaintenancePhase_HouseExpenses_Upgrades_DisplayName": {
     "en": "Upgrades",
-    "uk": "Вдосконалення"
+    "uk": "Поліпшення"
   },
   "RomanNumeral_05": {
     "en": "V",

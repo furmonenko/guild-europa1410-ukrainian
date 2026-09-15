@@ -1,0 +1,250 @@
+{
+  "AttackCartChance_DisplayName": {
+    "en": "Chance of Cart Attack",
+    "uk": "Ймовірність нападу на віз"
+  },
+  "AttackCart_Description": {
+    "en": "Carts can suffer {A_ATKCAR_C}ambushes{##} from lurking robbers. Take care when passing through {ST_QTR_CRI_3_C}dangerous quarters{##}, or {A_HIRESC_C}hire escorts{##} to protect your goods.",
+    "uk": "На вози можуть чигати {A_ATKCAR_C}засідки{##} розбійників. Будьте обережні, проїжджаючи через {ST_QTR_CRI_3_C}небезпечні квартали{##}, або {A_HIRESC_C}наймайте супровід{##}, щоб захистити свій крам."
+  },
+  "AttackCart_DisplayName": {
+    "en": "Cart Attack",
+    "uk": "Напад на віз"
+  },
+  "BreakdownChance_DisplayName": {
+    "en": "Chance of Cart Stalling",
+    "uk": "Ймовірність зупинки воза"
+  },
+  "Breakdown_Description": {
+    "en": "Wheels sink and axles strain, delaying the journey — usually thanks to {B_HP_C}neglected carts{##} or underdeveloped {C_QUA_C}quarters{##}.",
+    "uk": "Колеса грузнуть, осі надриваються, подорож затримується — зазвичай через {B_HP_C}занедбані вози{##} або нерозвинені {C_QUA_C}квартали{##}."
+  },
+  "Breakdown_DisplayName": {
+    "en": "Cart Stalling",
+    "uk": "Зупинка воза"
+  },
+  "Button_ManageCarts": {
+    "en": "Manage Carts",
+    "uk": "Керувати возами"
+  },
+  "CargoSlot_DisplayName": {
+    "en": "Cargo Compartment",
+    "uk": "Вантажне відділення"
+  },
+  "CargoSlot_DisplayName_plural": {
+    "en": "Cargo Compartments",
+    "uk": "Вантажні відділення"
+  },
+  "CargoSlot_Num": {
+    "en": "{NumCargoSlots} {NumCargoSlots}|plural(one=cargo compartment,other=cargo compartments)",
+    "uk": "{NumCargoSlots} {NumCargoSlots}|plural(one=вантажне відділення,few=вантажні відділення,many=вантажних відділень,other=вантажного відділення)"
+  },
+  "CartManagement_DisplayName": {
+    "en": "Cart Management",
+    "uk": "Керування возами"
+  },
+  "CartManagement_Tip": {
+    "en": "Need more {CAR_C}carts{##} — or fewer? Visit the {B_PUB_MKT_E}Marketplace{##} to buy or sell them.",
+    "uk": "Потрібно більше {CAR_C}возів{##} — чи навпаки менше? Завітайте на {B_PUB_MKT_E}Ринок{##}, щоб купити чи продати їх."
+  },
+  "CartNumber_DisplayName": {
+    "en": "Cart number {cartnumber}",
+    "uk": "Віз номер {cartnumber}"
+  },
+  "Cart_Description": {
+    "en": "Carts are used to load and transport goods. They wear down with use and require {B_HP_C}repairs{##}.",
+    "uk": "Вози використовуються для завантаження й перевезення краму. Вони зношуються від використання й потребують {B_HP_C}ремонту{##}."
+  },
+  "Cart_Description_extra1": {
+    "en": "You start with one cart, and you can buy new ones at the {B_PUB_MKT_C}Marketplace{##}, where you may find different models.",
+    "uk": "Ви починаєте з одним возом, а нові можна придбати на {B_PUB_MKT_C}Ринку{##}, де трапляються різні моделі."
+  },
+  "Cart_Description_extra2": {
+    "en": "Did you know? You can select a cart in the city and hire thugs to {A_ATKCAR_C}attack{##} it. The profit can be tempting — but it works both ways, so {A_HIRESC_C}hiring an escort{##} for your cart is often wise.",
+    "uk": "А чи знали Ви? Можна вибрати віз у місті й найняти головорізів, щоб {A_ATKCAR_C}напасти{##} на нього. Зиск може бути спокусливим — але це працює в обидва боки, тож {A_HIRESC_C}найняти супровід{##} для свого воза часто буває мудрим рішенням."
+  },
+  "Cart_DisplayName": {
+    "en": "Cart",
+    "uk": "Віз"
+  },
+  "Cart_DisplayName_plural": {
+    "en": "Carts",
+    "uk": "Вози"
+  },
+  "Cart_Parameter_TravelSpeed_Description": {
+    "en": "How swiftly the cart rolls — depends on its build, condition, and the road's mood.",
+    "uk": "Наскільки швидко котиться віз — залежить від його будови, стану та примх дороги."
+  },
+  "Cart_Parameter_TravelSpeed_DisplayName": {
+    "en": "Travel Speed",
+    "uk": "Швидкість пересування"
+  },
+  "Cart_Parameter_TravelTime_DisplayName": {
+    "en": "Travel Time",
+    "uk": "Час у дорозі"
+  },
+  "Category_MyCart_DisplayName": {
+    "en": "My Cart",
+    "uk": "Мій віз"
+  },
+  "Category_MyCart_DisplayName_plural": {
+    "en": "My Carts",
+    "uk": "Мої вози"
+  },
+  "EscortNone_Description": {
+    "en": "An unguarded cart is easy prey for {A_ATKCAR_C}attackers{##}. Hire an {A_HIRESC_C}escort{##} to protect it.",
+    "uk": "Непильнований віз — легка здобич для {A_ATKCAR_C}нападників{##}. Наймайте {A_HIRESC_C}супровід{##}, щоб захистити його."
+  },
+  "EscortNone_Description_alt": {
+    "en": "Unprotected carts are more likely to be {A_ATKCAR_C}attacked{##}, especially when they are carrying valuable items. Hire an {A_HIRESC_C}escort{##} to guard them.",
+    "uk": "Непильновані вози частіше {A_ATKCAR_C}зазнають нападу{##}, надто якщо на них цінний вантаж. Наймайте {A_HIRESC_C}супровід{##} для їхньої охорони."
+  },
+  "EscortNone_DisplayName": {
+    "en": "Unguarded Cart",
+    "uk": "Непильнований віз"
+  },
+  "Escort_Description": {
+    "en": "Hire mercenaries to defend your cart against lurking robbers during its journey.",
+    "uk": "Наймайте вояків, щоб захищати Ваш віз від причаєних розбійників у дорозі."
+  },
+  "Escort_DisplayName": {
+    "en": "Escort",
+    "uk": "Супровід"
+  },
+  "Escort_LenghtOfService_DisplayName": {
+    "en": "Length of service in turns{C_TRN_DURACT_C}*{##}",
+    "uk": "Тривалість служби в ходах{C_TRN_DURACT_C}*{##}"
+  },
+  "Escort_Type_HeavyEscort_DisplayName": {
+    "en": "Heavy Escort",
+    "uk": "Важкий супровід"
+  },
+  "Escort_Type_HeavyEscort_DisplayName_alt": {
+    "en": "Heavy",
+    "uk": "Важкий"
+  },
+  "Escort_Type_LightEscort_DisplayName": {
+    "en": "Light Escort",
+    "uk": "Легкий супровід"
+  },
+  "Escort_Type_LightEscort_DisplayName_alt": {
+    "en": "Light",
+    "uk": "Легкий"
+  },
+  "Escort_Type_MediumEscort_DisplayName": {
+    "en": "Medium Escort",
+    "uk": "Середній супровід"
+  },
+  "Escort_Type_MediumEscort_DisplayName_alt": {
+    "en": "Medium",
+    "uk": "Середній"
+  },
+  "Escort_Type_ShadyEscort_DisplayName": {
+    "en": "Shady Escort",
+    "uk": "Сумнівний супровід"
+  },
+  "Escort_Type_ShadyEscort_DisplayName_alt": {
+    "en": "Shady",
+    "uk": "Сумнівний"
+  },
+  "Escort_Type_SpecialEscort_DisplayName": {
+    "en": "Special Escort",
+    "uk": "Особливий супровід"
+  },
+  "Escort_Type_SpecialEscort_DisplayName_alt": {
+    "en": "Special",
+    "uk": "Особливий"
+  },
+  "MarketplaceSell_SendCart_Instruction": {
+    "en": "To sell your wares at the marketplace, you should load your cart and dispatch it there.",
+    "uk": "Щоб продати товар на ринку, слід завантажити віз і відправити його туди."
+  },
+  "Message_CartsInBuilding": {
+    "en": "Parked carts",
+    "uk": "Припарковані вози"
+  },
+  "Message_CurrentlyHiredEscortDismissed": {
+    "en": "Currently hired escort will be dismissed.",
+    "uk": "Наразі найнятий супровід буде звільнено."
+  },
+  "Message_NoCartsInBuilding": {
+    "en": "You have no carts parked here.",
+    "uk": "Тут у Вас немає припаркованих возів."
+  },
+  "Message_NumCartsInBuilding": {
+    "en": "There are {NumCarts} {NumCarts}|plural(one=cart,other=carts) parked here.",
+    "uk": "Тут припарковано {NumCarts} {NumCarts}|plural(one=віз,few=вози,many=возів,other=воза)."
+  },
+  "NumOwnedCarts": {
+    "en": "{NumCarts} owned",
+    "uk": "У власності: {NumCarts}"
+  },
+  "OnTheWayTo_Progress": {
+    "en": "On the way to {BuildingName} ({Progress})",
+    "uk": "На шляху до {BuildingName} ({Progress})"
+  },
+  "SelectCart_Prompt": {
+    "en": "Select cart",
+    "uk": "Виберіть віз"
+  },
+  "SelectDestionation_Prompt": {
+    "en": "Select destination",
+    "uk": "Виберіть пункт призначення"
+  },
+  "Sell_Cart_Description": {
+    "en": "Sell the cart for {value}?",
+    "uk": "Продати віз за {value}?"
+  },
+  "Sell_Cart_DisplayName": {
+    "en": "Sell Cart",
+    "uk": "Продати віз"
+  },
+  "Sell_Cart_Warning": {
+    "en": "All items inside will be permanently lost.",
+    "uk": "Усі предмети всередині буде втрачено назавжди."
+  },
+  "SendCartToDestionation_Prompt": {
+    "en": "Send",
+    "uk": "Відправити"
+  },
+  "Tier_1_Cart_Description": {
+    "en": "One goat. One slot. Endless opinions from the goat about the route. Light enough to trot at a decent {CAR_SPE_C}pace{##}, but skip {B_HP_C}maintenance{##} and you'll be pushing it back yourself.",
+    "uk": "Одна коза. Одне відділення. Нескінченні думки кози про маршрут. Достатньо легкий, щоб бігти пристойним {CAR_SPE_C}темпом{##}, але знехтуйте {B_HP_C}доглядом{##} — і штовхати доведеться самому."
+  },
+  "Tier_1_Cart_DisplayName": {
+    "en": "Goat Cart",
+    "uk": "Козячий віз"
+  },
+  "Tier_2_BetterCart_Description": {
+    "en": "Experienced merchants swear by the donkey cart. {B_HP_MAX_C}Tough{##} enough to outlast a few rough seasons. Two slots won't carry everything — but what it carries, it carries {CAR_SPE_C}fast{##}.",
+    "uk": "Досвідчені торговці присягаються на ослячий віз. {B_HP_MAX_C}Витривалий{##} достатньо, щоб пережити кілька важких сезонів. Двома відділеннями всього не забереш — та що забереш, довезеш {CAR_SPE_C}швидко{##}."
+  },
+  "Tier_2_BetterCart_DisplayName": {
+    "en": "Donkey Cart",
+    "uk": "Ослячий віз"
+  },
+  "Tier_3_BestCart_Description": {
+    "en": "Why take two trips when one will do? The horse cart keeps up with the {CAR_SPE_C}nimble{##} donkey and carries twice the cargo. Built {B_HP_MAX_C}sturdier{##} than anything before it.",
+    "uk": "Навіщо їхати двічі, якщо можна раз? Кінний віз не поступається {CAR_SPE_C}прудкому{##} ослячому та везе вдвічі більше вантажу. Збудований {B_HP_MAX_C}міцніше{##} за все, що було раніше."
+  },
+  "Tier_3_BestCart_DisplayName": {
+    "en": "Horse Cart",
+    "uk": "Кінний віз"
+  },
+  "Tier_4_CartWithHiddenCompartments_Description": {
+    "en": "A cart with hidden compartments.",
+    "uk": "Віз із прихованими відділеннями."
+  },
+  "Tier_4_CartWithHiddenCompartments_DisplayName": {
+    "en": "Cart with hidden compartments",
+    "uk": "Віз із прихованими відділеннями"
+  },
+  "Tier_4_HugeCart_Description": {
+    "en": "Six slots and the {B_HP_MAX_C}toughest{##} frame on any road. The ox doesn't {CAR_SPE_C}hurry{##} for anyone — but when you're carrying this much, you don't need to.",
+    "uk": "Шість відділень і {B_HP_MAX_C}найміцніший{##} каркас на будь-якій дорозі. Віл ні для кого не {CAR_SPE_C}квапиться{##} — але коли везеш стільки, поспіх ні до чого."
+  },
+  "Tier_4_HugeCart_DisplayName": {
+    "en": "Ox Cart",
+    "uk": "Волячий віз"
+  }
+}

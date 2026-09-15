@@ -1,0 +1,278 @@
+{
+  "ActiveProfession_Description": {
+    "en": "Your {P_C}profession{##} defines the actions you can take, others' {CHAR_STA_C}opinion{##} of you, and how you progress through {P_MASGRA_C}Mastery Grades{##}.",
+    "uk": "Ваша {P_C}професія{##} визначає доступні дії, {CHAR_STA_C}прихильність{##} до Вас інших персонажів і Ваш поступ крізь {P_MASGRA_C}ступені майстерності{##}."
+  },
+  "ActiveProfession_Description_extra1": {
+    "en": "You may unlock and specialize in multiple {P_C}professions{##} without losing progress or benefits, but only one can be {A_ACTPRO_C}set as your line of work{##} at a time.",
+    "uk": "Ви можете відкривати й розвивати кілька {P_C}професій{##}, не втрачаючи прогресу чи привілеїв, але {A_ACTPRO_C}основною професією{##} водночас може бути лише одна."
+  },
+  "ActiveProfession_Description_extra2": {
+    "en": "{CHAR_XP_C}Experience{##} is earned exclusively in your Active Profession and used to advance its {P_MASGRA_C}Mastery Grades{##}.",
+    "uk": "{CHAR_XP_C}Досвід{##} здобувається виключно в основній професії і йде на просування по {P_MASGRA_C}ступенях майстерності{##}."
+  },
+  "ActiveProfession_DisplayName": {
+    "en": "Active Profession",
+    "uk": "Основна професія"
+  },
+  "ActiveProfession_Innactive_DisplayName": {
+    "en": "Other professions",
+    "uk": "Інші професії"
+  },
+  "CanRunBuilding_Header": {
+    "en": "Can operate",
+    "uk": "Може керувати"
+  },
+  "ProfessionRequired_Header": {
+    "en": "Profession",
+    "uk": "Професія"
+  },
+  "ProfessionRequired_level_Header": {
+    "en": "Profession",
+    "uk": "Професія"
+  },
+  "Profession_Alchemist_Description": {
+    "en": "Operates an {B_OCC_ALC_C}Alchemist's Lab{##}, researching mixtures, remedies, and {A_ACT_PESCON_C}pest-control{##} concoctions.",
+    "uk": "Керує {B_OCC_ALC_C}лабораторією алхіміка{##}, досліджує суміші, ліки та засоби для {A_ACT_PESCON_C}боротьби зі шкідниками{##}."
+  },
+  "Profession_Alchemist_DisplayName": {
+    "en": "Alchemist",
+    "uk": "Алхімік"
+  },
+  "Profession_Alchemist_DisplayName_plural": {
+    "en": "Alchemists",
+    "uk": "Алхіміки"
+  },
+  "Profession_Description": {
+    "en": "A profession defines your trade and determines which {B_TYP_OCCBUI_C}business building{##} you can operate.",
+    "uk": "Професія визначає Ваше ремесло й те, якою {B_TYP_OCCBUI_C}фаховою будівлею{##} Ви можете керувати."
+  },
+  "Profession_Description_extra1": {
+    "en": "Over time, you gain {CHAR_XP_C}experience{##} in your {P_ACTPRO_C}active profession{##}, advancing through six {A_MASGRA_C}Mastery Grades{##} within its {B_GUILD_C}guild{##}.",
+    "uk": "Із часом Ви здобуваєте {CHAR_XP_C}досвід{##} у {P_ACTPRO_C}основній професії{##}, проходячи шість {A_MASGRA_C}ступенів майстерності{##} у своїй {B_GUILD_C}гільдії{##}."
+  },
+  "Profession_Description_extra2": {
+    "en": "Higher grades unlock building upgrades, new actions, and passive benefits.",
+    "uk": "Вищі ступені відкривають покращення будівель, нові дії та пасивні привілеї."
+  },
+  "Profession_DisplayName": {
+    "en": "Profession",
+    "uk": "Професія"
+  },
+  "Profession_DisplayName_plural": {
+    "en": "Professions",
+    "uk": "Професії"
+  },
+  "Profession_GraveyardWarden_Description": {
+    "en": "Manages burial grounds and oversees operations at the {B_OCC_GRA_C}Graveyard{##}.",
+    "uk": "Опікується місцями поховань і веде справи {B_OCC_GRA_C}цвинтаря{##}."
+  },
+  "Profession_GraveyardWarden_DisplayName": {
+    "en": "Graveyard Warden",
+    "uk": "Доглядач цвинтаря"
+  },
+  "Profession_GraveyardWarden_DisplayName_plural": {
+    "en": "Graveyard Wardens",
+    "uk": "Доглядачі цвинтаря"
+  },
+  "Profession_Guard_Description": {
+    "en": "Oversees security operations and commands the {B_OCC_GUA_C}Barracks{##}, organizing {A_ACT_GUAPAT_C}patrols{##} and maintaining order.",
+    "uk": "Відповідає за безпеку та очолює {B_OCC_GUA_C}казарму{##}, організовуючи {A_ACT_GUAPAT_C}патрулювання{##} й підтримуючи порядок."
+  },
+  "Profession_Guard_DisplayName": {
+    "en": "Guard",
+    "uk": "Вартовий"
+  },
+  "Profession_Guard_DisplayName_plural": {
+    "en": "Guards",
+    "uk": "Вартові"
+  },
+  "Profession_Innkeeper_Description": {
+    "en": "Owns and manages an {B_OCC_INN_C}Inn{##}, hosting travelers while {A_ACT_FINEVIFROWOR_C}gathering rumors{##} and arranging {A_ACT_LIVPER_C}entertainment{##}.",
+    "uk": "Володіє {B_OCC_INN_C}заїздом{##} і керує ним, приймає мандрівників, {A_ACT_FINEVIFROWOR_C}підслуховує гостей{##} й влаштовує {A_ACT_LIVPER_C}виступи на сцені{##}."
+  },
+  "Profession_Innkeeper_DisplayName": {
+    "en": "Innkeeper",
+    "uk": "Шинкар"
+  },
+  "Profession_Innkeeper_DisplayName_plural": {
+    "en": "Innkeepers",
+    "uk": "Шинкарі"
+  },
+  "Profession_Joiner_Description": {
+    "en": "Oversees a {B_OCC_JOI_C}Joiner's Workshop{##}, supplying wooden tools, and {A_ACT_IMPCAR_C}sturdier carts{##}.",
+    "uk": "Керує {B_OCC_JOI_C}столярнею{##}, постачає дерев’яні інструменти та {A_ACT_IMPCAR_C}поліпшені вози{##}."
+  },
+  "Profession_Joiner_DisplayName": {
+    "en": "Joiner",
+    "uk": "Столяр"
+  },
+  "Profession_Joiner_DisplayName_plural": {
+    "en": "Joiners",
+    "uk": "Столярі"
+  },
+  "Profession_MoneyLender_Description": {
+    "en": "Controls loans, debts, and financial dealings from a {B_OCC_MONLEN_C}Counting House{##}.",
+    "uk": "Контролює позики, борги й грошові справи в {B_OCC_MONLEN_C}лихварському домі{##}."
+  },
+  "Profession_MoneyLender_DisplayName": {
+    "en": "Moneylender",
+    "uk": "Лихвар"
+  },
+  "Profession_MoneyLender_DisplayName_plural": {
+    "en": "Moneylenders",
+    "uk": "Лихварі"
+  },
+  "Profession_Perfumer_Description": {
+    "en": "Runs a {B_OCC_PER_C}Perfumery{##}, producing fragrances and scented goods that {A_ACT_SCEENH_C}attract customers{##}.",
+    "uk": "Веде {B_OCC_PER_C}парфумерію{##}, виготовляє пахощі й запашний товар для {A_ACT_SCEENH_C}ароматизації{##}, що приваблює покупців."
+  },
+  "Profession_Perfumer_DisplayName": {
+    "en": "Perfumer",
+    "uk": "Парфумер"
+  },
+  "Profession_Perfumer_DisplayName_plural": {
+    "en": "Perfumers",
+    "uk": "Парфумери"
+  },
+  "Profession_Preacher_Description": {
+    "en": "Leads worship and oversees affairs within a {B_OCC_PRE_C}Church{##}, delivering {A_ACT_HOLSTRSER_C}sermons{##}, {A_ACT_PASVIS_C}absolving sins{##}, and {A_PRAOTH_C}praying{##} for the faithful.",
+    "uk": "Веде богослужіння та справи {B_OCC_PRE_C}церкви{##}, виголошує {A_ACT_HOLSTRSER_C}проповіді{##}, {A_ACT_PASVIS_C}відпускає гріхи{##} й {A_PRAOTH_C}молиться{##} за вірян."
+  },
+  "Profession_Preacher_DisplayName": {
+    "en": "Preacher",
+    "uk": "Проповідник"
+  },
+  "Profession_Preacher_DisplayName_plural": {
+    "en": "Preachers",
+    "uk": "Проповідники"
+  },
+  "Profession_Robber_Description": {
+    "en": "Commands raids and controls a {B_OCC_ROB_C}Robber Baron's Fortress{##}, organizing {A_ACT_ROB_C}break-ins{##} and {A_ACT_WAYTRA_C}cart ambushes{##}.",
+    "uk": "Очолює наскоки та керує {B_OCC_ROB_C}фортецею розбійного барона{##}, організовує {A_ACT_ROB_C}пограбування зі зломом{##} і {A_ACT_WAYTRA_C}засідки на вози{##}."
+  },
+  "Profession_Robber_DisplayName": {
+    "en": "Robber",
+    "uk": "Розбійник"
+  },
+  "Profession_Robber_DisplayName_plural": {
+    "en": "Robbers",
+    "uk": "Розбійники"
+  },
+  "Profession_Smith_Description": {
+    "en": "Owns and operates a {B_OCC_SMI_C}Smithy{##}, producing metal goods, tools, and weapons. They install iron bars on windows to {A_ACT_STRBAR_C}reinforce security{##}, giving would-be robbers serious second thoughts.",
+    "uk": "Володіє {B_OCC_SMI_C}кузнею{##} і керує нею, виготовляє металеві вироби, інструменти й зброю. Встановлює залізні ґрати на вікна, щоб {A_ACT_STRBAR_C}посилити охорону{##}, — і охочі до грабунку добряче замисляться."
+  },
+  "Profession_Smith_DisplayName": {
+    "en": "Smith",
+    "uk": "Коваль"
+  },
+  "Profession_Smith_DisplayName_plural": {
+    "en": "Smiths",
+    "uk": "Ковалі"
+  },
+  "Profession_StoneMason_Description": {
+    "en": "Directs stoneworking projects and operates a {B_OCC_MAS_C}Masonry{##}, {A_ACT_IMPQUA_C}improving roads{##} and {A_ACT_IMPSTR_C}building foundations{##}.",
+    "uk": "Керує кам’яними роботами й {B_OCC_MAS_C}каменярнею{##}, {A_ACT_IMPQUA_C}поліпшує дороги{##} і {A_ACT_IMPSTR_C}поліпшує фундаменти будівель{##}."
+  },
+  "Profession_StoneMason_DisplayName": {
+    "en": "Stone Mason",
+    "uk": "Каменяр"
+  },
+  "Profession_StoneMason_DisplayName_plural": {
+    "en": "Stone Masons",
+    "uk": "Каменярі"
+  },
+  "Profession_Tailor_Description": {
+    "en": "Operates a {B_OCC_TAI_C}Tailor's Workshop{##}, producing garments and {A_ACT_SEWCLO_C}refining attire{##} for paying clients.",
+    "uk": "Керує {B_OCC_TAI_C}кравецькою майстернею{##}, шиє одяг і {A_ACT_SEWCLO_C}оновлює вбрання{##} заможним покупцям."
+  },
+  "Profession_Tailor_DisplayName": {
+    "en": "Tailor",
+    "uk": "Кравець"
+  },
+  "Profession_Tailor_DisplayName_plural": {
+    "en": "Tailors",
+    "uk": "Кравці"
+  },
+  "Profession_Thief_Description": {
+    "en": "Leads covert operations from a hidden {B_OCC_THI_C}Hideout{##}, orchestrating {A_ACT_PICPOCCIT_C}scams{##}, {A_ACT_PICPOC_C}thefts{##}, and {A_ACT_FRAFORCRI_C}planted evidence{##}.",
+    "uk": "Керує таємними справами з потайної {B_OCC_THI_C}схованки{##}, влаштовуючи {A_ACT_PICPOCCIT_C}шахрайства{##}, {A_ACT_PICPOC_C}кишенькові крадіжки{##} й {A_ACT_FRAFORCRI_C}підкинуті докази{##}."
+  },
+  "Profession_Thief_DisplayName": {
+    "en": "Thief",
+    "uk": "Злодій"
+  },
+  "Profession_Thief_DisplayName_plural": {
+    "en": "Thieves",
+    "uk": "Злодії"
+  },
+  "Profession_Trader_Description": {
+    "en": "Manages trade operations and oversees goods stored in a {B_OCC_TRA_C}Storehouse{##}.",
+    "uk": "Керує торговими справами й наглядає за товаром на {B_OCC_TRA_C}складі{##}."
+  },
+  "Profession_Trader_DisplayName": {
+    "en": "Trader",
+    "uk": "Торговець"
+  },
+  "Profession_Trader_DisplayName_plural": {
+    "en": "Traders",
+    "uk": "Торговці"
+  },
+  "Profession_TravellingEntertainer_Description": {
+    "en": "Leads performances and manages a {B_OCC_ENT_C}Travelling Circus Camp{##}, drawing crowds with spectacles and amusement.",
+    "uk": "Веде вистави та керує {B_OCC_ENT_C}табором мандрівного цирку{##}, приваблюючи натовп видовищами й розвагами."
+  },
+  "Profession_TravellingEntertainer_DisplayName": {
+    "en": "Circus Artist",
+    "uk": "Циркач"
+  },
+  "Profession_TravellingEntertainer_DisplayName_plural": {
+    "en": "Circus Artists",
+    "uk": "Циркачі"
+  },
+  "SelectProfession_Prompt": {
+    "en": "Select a profession",
+    "uk": "Виберіть професію"
+  },
+  "StartingProfession_Description": {
+    "en": "What calling shall you first embrace?  You may learn more professions later.",
+    "uk": "Якому покликанню Ви присвятите себе спочатку? Інші професії можна опанувати пізніше."
+  },
+  "StartingProfession_DisplayName": {
+    "en": "Starting Profession",
+    "uk": "Початкова професія"
+  },
+  "StartingProfession_Warning": {
+    "en": "Your starting profession may limit which backstories are available.",
+    "uk": "Ваша початкова професія може обмежити доступні передісторії."
+  },
+  "XP_Description": {
+    "en": "You steadily gain experience in your {P_ACTPRO_C}active profession{##} as time passes.",
+    "uk": "З часом Ви поступово здобуваєте досвід у {P_ACTPRO_C}основній професії{##}."
+  },
+  "XP_Description_extra1": {
+    "en": "If you want to accelerate that growth, consider enrolling in {A_TRAPRO_C}specialized training{##} at the {B_GUILD_C}Guild{##} to earn a {A_MASGRA_C}Mastery Grade{##} more quickly.",
+    "uk": "Щоб пришвидшити цей поступ, розгляньте {A_TRAPRO_C}фахове навчання{##} в {B_GUILD_C}гільдії{##} — так Ви швидше здобудете {A_MASGRA_C}ступінь майстерності{##}."
+  },
+  "XP_Description_extra2": {
+    "en": "Your {CHAR_CITVSWOR_C}workers{##} also accumulate experience over time, but they'll be ready for a {A_PROWOR_C}promotion{##} much sooner if you {A_TRAWOREXP_C}mentor{##} them.",
+    "uk": "Ваші {CHAR_CITVSWOR_C}працівники{##} теж набувають досвіду з часом, але якщо Ви їх {A_TRAWOREXP_C}наставляєте{##}, вони будуть готові до {A_PROWOR_C}підвищення{##} значно швидше."
+  },
+  "XP_DisplayName": {
+    "en": "XP",
+    "uk": "Досвід"
+  },
+  "XP_DisplayName_alt": {
+    "en": "Profession Experience",
+    "uk": "Досвід у професії"
+  },
+  "XP_ProgressBar_Description": {
+    "en": "Once the progress bar is full, go to the {B_GUILD_C}Guild{##} and advance to the next {P_MASGRA_C}Mastery Grade{##} in your profession.",
+    "uk": "Коли шкала заповниться, завітайте до {B_GUILD_C}гільдії{##} й підвищіть {P_MASGRA_C}ступінь майстерності{##} у своїй професії."
+  },
+  "XP_ProgressBar_Description_extra1": {
+    "en": "Once the progress bar is full, the character can advance to a higher {P_MASGRA_C}Mastery Grade{##} in their field of work.",
+    "uk": "Коли шкала заповниться, персонаж може досягти вищого {P_MASGRA_C}ступеня майстерності{##} у своєму фаху."
+  }
+}

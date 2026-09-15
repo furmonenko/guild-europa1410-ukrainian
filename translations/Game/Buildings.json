@@ -1,4 +1,12 @@
 {
+  "Activity_Crafting_DisplayName": {
+    "en": "Crafting",
+    "uk": "Виготовлення"
+  },
+  "Activity_Crafting_Recipe_DisplayName": {
+    "en": "Recipe",
+    "uk": "Рецепт"
+  },
   "Activity_DisplayName_Plural": {
     "en": "Activities",
     "uk": "Заняття"
@@ -7,85 +15,1569 @@
     "en": "Build",
     "uk": "Будувати"
   },
+  "Build_NextToBuild_Label": {
+    "en": "Next to build",
+    "uk": "Наступне будівництво"
+  },
+  "Building_DisplayName": {
+    "en": "Building",
+    "uk": "Будівля"
+  },
+  "Building_DisplayName_plural": {
+    "en": "Buildings",
+    "uk": "Будівлі"
+  },
+  "Built_Currently_Label": {
+    "en": "Currently built",
+    "uk": "Наразі побудовано"
+  },
+  "Built_Fully_Label": {
+    "en": "Fully built",
+    "uk": "Повністю побудовано"
+  },
+  "Built_Label": {
+    "en": "Built",
+    "uk": "Побудовано"
+  },
+  "Built_Not_Label": {
+    "en": "Not built",
+    "uk": "Не побудовано"
+  },
+  "Category_BuildingManagedByMe_DisplayName_plural": {
+    "en": "My Managed Buildings",
+    "uk": "Мої керовані будівлі"
+  },
   "Category_Business_DisplayName": {
     "en": "Business",
-    "uk": "Підприємство"
+    "uk": "Справа"
+  },
+  "Category_Business_DisplayName_plural": {
+    "en": "Businesses",
+    "uk": "Справи"
+  },
+  "Category_Businesses_NotPlayerOwned_DisplayName": {
+    "en": "Other Businesses",
+    "uk": "Інші справи"
+  },
+  "Category_Businesses_PlayerOwned_DisplayName": {
+    "en": "Your Businesses",
+    "uk": "Ваші справи"
   },
   "Category_Dwelling_Description": {
     "en": "TBD",
     "uk": "TBD"
   },
+  "Category_Dwelling_DisplayName": {
+    "en": "Dwelling",
+    "uk": "Житло"
+  },
+  "Category_Dwelling_DisplayName_pural": {
+    "en": "Dwellings",
+    "uk": "Житла"
+  },
+  "Category_ExtractionFacility_Description": {
+    "en": "Where natural resources are extracted and made ready for crafting.",
+    "uk": "Тут видобувають природні ресурси й готують їх до подальшого виготовлення виробів."
+  },
+  "Category_ExtractionFacility_DisplayName": {
+    "en": "Resource Site",
+    "uk": "Ресурсні угіддя"
+  },
+  "Category_ExtractionFacility_DisplayName_plural": {
+    "en": "Resource Sites",
+    "uk": "Ресурсні угіддя"
+  },
+  "Category_MilitaryInstallation_DisplayName_plural": {
+    "en": "Military Installations",
+    "uk": "Військові споруди"
+  },
+  "Category_MyBuilding_DisplayName_plural": {
+    "en": "My Buildings",
+    "uk": "Мої будівлі"
+  },
+  "Category_MyBusiness_DisplayName": {
+    "en": "{MyBusiness}|plural(one=My Business, other=My Businesses)",
+    "uk": "{MyBusiness}|plural(one=Моя справа, few=Мої справи, many=Мої справи, other=Мої справи)"
+  },
+  "Category_MyGuildHouse_DisplayName": {
+    "en": "My Guild House",
+    "uk": "Мій дім гільдії"
+  },
+  "Category_MyGuildHouse_DisplayName_plural": {
+    "en": "My Guild Houses",
+    "uk": "Мої доми гільдії"
+  },
+  "Category_MyPersonal_DisplayName": {
+    "en": "{MyPersonal}|plural(one=My Property, other=My Properties)",
+    "uk": "{MyPersonal}|plural(one=Моє володіння, few=Мої володіння, many=Мої володіння, other=Мої володіння)"
+  },
+  "Category_OccupationBuilding_Description": {
+    "en": "Buildings where {P_C}professions{##} operate and {CHAR_CITVSWOR_C}workers{##} carry out their trade or activities.",
+    "uk": "Будівлі, де діють {P_C}професії{##}, а {CHAR_CITVSWOR_C}працівники{##} провадять свій промисел чи заняття."
+  },
+  "Category_OccupationBuilding_DisplayName": {
+    "en": "Profession Building",
+    "uk": "Фахова будівля"
+  },
+  "Category_OccupationBuilding_DisplayName_plural": {
+    "en": "Profession Buildings",
+    "uk": "Фахові будівлі"
+  },
+  "Category_OutsideBusiness_DisplayName_pural": {
+    "en": "Outside Business",
+    "uk": "Заміська справа"
+  },
+  "Category_OwnedByOthers_DisplayName_plural": {
+    "en": "Owned By Others",
+    "uk": "У власності інших"
+  },
+  "Category_PersonalBuildings_Description": {
+    "en": "Provides convenience and strategic advantages to its owner.",
+    "uk": "Дає власнику зручність і стратегічні переваги."
+  },
+  "Category_PersonalBuildings_DisplayName": {
+    "en": "Private Structure",
+    "uk": "Приватна споруда"
+  },
+  "Category_PersonalBuildings_DisplayName_plural": {
+    "en": "Private Structures",
+    "uk": "Приватні споруди"
+  },
+  "Category_PublicBuilding_Description": {
+    "en": "Structures maintained in the name of the city, supporting civic life and public functions.",
+    "uk": "Споруди, що утримуються від імені міста й підтримують громадське життя та публічні функції."
+  },
+  "Category_PublicBuilding_DisplayName": {
+    "en": "City Infrastructure",
+    "uk": "Міська інфраструктура"
+  },
+  "Category_PublicBuilding_DisplayName_plural": {
+    "en": "City Infrastructure",
+    "uk": "Міська інфраструктура"
+  },
+  "Category_Residence_Description": {
+    "en": "Buildings intended for living, rest, and the daily life of a household or family.",
+    "uk": "Будівлі, призначені для проживання, відпочинку й повсякденного життя домогосподарства чи родини."
+  },
+  "Category_Residence_DisplayName": {
+    "en": "Residence",
+    "uk": "Житло"
+  },
   "Category_Residence_DisplayName_plural": {
     "en": "Residences",
     "uk": "Житло"
+  },
+  "Category_Statue_DisplayName_pural": {
+    "en": "Statues",
+    "uk": "Статуї"
+  },
+  "ConstructionScreen_Businesses_DisplayName": {
+    "en": "Businesses",
+    "uk": "Справи"
+  },
+  "ConstructionScreen_DisplayName": {
+    "en": "Construction Menu",
+    "uk": "Меню будівництва"
+  },
+  "ConstructionScreen_ForSale_DisplayName": {
+    "en": "For Sale",
+    "uk": "На продаж"
   },
   "ConstructionScreen_Private_DisplayName": {
     "en": "Personal",
     "uk": "Особисте"
   },
+  "Construction_DisplayName": {
+    "en": "Construction",
+    "uk": "Будівництво"
+  },
+  "Dwelling_Dwelling_Description": {
+    "en": "A second roof to prove your first wasn't expensive enough.",
+    "uk": "Другий дах над головою — доказ, що першого було замало, щоб розоритися."
+  },
+  "Dwelling_Dwelling_DisplayName": {
+    "en": "Dwelling",
+    "uk": "Житло"
+  },
+  "Enter_instruction": {
+    "en": "Double-click the building to step inside",
+    "uk": "Двічі клацніть на будівлю, щоб зайти всередину"
+  },
+  "Enter_prompt": {
+    "en": "Step inside",
+    "uk": "Зайти всередину"
+  },
+  "Event_CharacterAtPillory_DisplayName": {
+    "en": "Public Punishment",
+    "uk": "Публічна кара"
+  },
   "Exit_prompt": {
     "en": "Exit",
     "uk": "Вихід"
+  },
+  "Exit_prompt_instruction": {
+    "en": "Right-click anywhere to exit",
+    "uk": "Клацніть правою кнопкою будь-де, щоб вийти"
+  },
+  "ExtractionFacility_Mine_Description": {
+    "en": "A source of precious ores and minerals, fueling the city's economy and craftsmanship.",
+    "uk": "Джерело коштовних руд і мінералів, що живить економіку й ремесла міста."
+  },
+  "ExtractionFacility_Mine_DisplayName": {
+    "en": "Mine",
+    "uk": "Копальня"
+  },
+  "ExtractionFacility_Mine_DisplayName_plural": {
+    "en": "Mines",
+    "uk": "Копальні"
+  },
+  "ExtractionFacility_Mine_III_DisplayName": {
+    "en": "Mining Complex",
+    "uk": "Гірничий комплекс"
+  },
+  "ExtractionFacility_Mine_II_DisplayName": {
+    "en": "Deep Mine",
+    "uk": "Глибока копальня"
+  },
+  "ExtractionFacility_Mine_I_DisplayName": {
+    "en": "Mine",
+    "uk": "Копальня"
+  },
+  "ExtractionFacility_Quarry_Description": {
+    "en": "A rugged site where slate, brick, and granite are extracted for construction and crafting projects.",
+    "uk": "Кам'яниста ділянка, де видобувають сланець, цеглу й граніт для будівництва й ремесел."
+  },
+  "ExtractionFacility_Quarry_DisplayName": {
+    "en": "Quarry",
+    "uk": "Кам’яний кар’єр"
+  },
+  "ExtractionFacility_Quarry_DisplayName_plural": {
+    "en": "Quarries",
+    "uk": "Кам’яні кар’єри"
+  },
+  "ExtractionFacility_Quarry_III_DisplayName": {
+    "en": "Great Quarry",
+    "uk": "Великий кар’єр"
+  },
+  "ExtractionFacility_Quarry_II_DisplayName": {
+    "en": "Stoneworks",
+    "uk": "Каменярський двір"
+  },
+  "ExtractionFacility_Quarry_I_DisplayName": {
+    "en": "Quarry",
+    "uk": "Кам’яний кар’єр"
+  },
+  "ExtractionFacility_VillageMarket_Description": {
+    "en": "The land's yield, gathered and ready for sale — waiting to be worked into something more.",
+    "uk": "Врожай землі, зібраний і готовий на продаж — і чекає, щоб із нього зробили щось більше."
+  },
+  "ExtractionFacility_VillageMarket_DisplayName": {
+    "en": "Producers' Market",
+    "uk": "Ринок виробників"
+  },
+  "ExtractionFacility_VillageMarket_DisplayName_plural": {
+    "en": "Producers' Markets",
+    "uk": "Ринки виробників"
+  },
+  "ExtractionFacility_VillageMarket_III_DisplayName": {
+    "en": "Grand Market",
+    "uk": "Великий ринок"
+  },
+  "ExtractionFacility_VillageMarket_II_DisplayName": {
+    "en": "Trade Market",
+    "uk": "Торговий ринок"
+  },
+  "ExtractionFacility_VillageMarket_I_DisplayName": {
+    "en": "Producers' Market",
+    "uk": "Ринок виробників"
+  },
+  "ExtractionFacility_WoodlandArea_Description": {
+    "en": "A timber-rich area where wood is harvested to supply the city.",
+    "uk": "Багата на деревину ділянка, звідки ліс постачають для потреб міста."
+  },
+  "ExtractionFacility_WoodlandArea_DisplayName": {
+    "en": "Timberlands",
+    "uk": "Лісові угіддя"
+  },
+  "ExtractionFacility_WoodlandArea_DisplayName_plural": {
+    "en": "Timberlands",
+    "uk": "Лісові угіддя"
+  },
+  "ExtractionFacility_WoodlandArea_III_DisplayName": {
+    "en": "Forestry Estate",
+    "uk": "Лісове господарство"
+  },
+  "ExtractionFacility_WoodlandArea_II_DisplayName": {
+    "en": "Managed Timberlands",
+    "uk": "Впорядковані лісові угіддя"
+  },
+  "ExtractionFacility_WoodlandArea_I_DisplayName": {
+    "en": "Timberlands",
+    "uk": "Лісові угіддя"
+  },
+  "Guild_AlchemistsGuild_Description": {
+    "en": "We turn curiosity into gold — sometimes literally.",
+    "uk": "Ми перетворюємо цікавість на золото — часом буквально."
+  },
+  "Guild_AlchemistsGuild_DisplayName": {
+    "en": "Alchemists' Guild",
+    "uk": "Гільдія алхіміків"
+  },
+  "Guild_AlchemistsGuild_III_DisplayName": {
+    "en": "Alchemists' Grand Guild Hall",
+    "uk": "Велика гільдійна зала алхіміків"
+  },
+  "Guild_AlchemistsGuild_II_DisplayName": {
+    "en": "Alchemists' Guild Hall",
+    "uk": "Гільдійна зала алхіміків"
+  },
+  "Guild_AlchemistsGuild_I_DisplayName": {
+    "en": "Alchemists' Guild House",
+    "uk": "Дім гільдії алхіміків"
+  },
+  "Guild_GraveyardWardensGuild_Description": {
+    "en": "We keep what others leave behind. Quiet work, steady hands, and no room for mistakes — once is enough.",
+    "uk": "Ми бережемо те, що лишають інші. Тиха робота, тверда рука й жодного права на помилку — одного разу досить."
+  },
+  "Guild_GraveyardWardensGuild_DisplayName": {
+    "en": "Gravekeepers' Guild",
+    "uk": "Гільдія гробарів"
+  },
+  "Guild_GraveyardWardensGuild_III_DisplayName": {
+    "en": "Gravekeepers' Grand Guild Hall",
+    "uk": "Велика гільдійна зала гробарів"
+  },
+  "Guild_GraveyardWardensGuild_II_DisplayName": {
+    "en": "Gravekeepers' Guild Hall",
+    "uk": "Гільдійна зала гробарів"
+  },
+  "Guild_GraveyardWardensGuild_I_DisplayName": {
+    "en": "Gravekeepers' Guild House",
+    "uk": "Дім гільдії гробарів"
+  },
+  "Guild_GuardsGuild_Description": {
+    "en": "Order does not keep itself. We train, we watch, and when needed, we act.",
+    "uk": "Порядок сам себе не береже. Ми навчаємось, стежимо і, коли треба, діємо."
+  },
+  "Guild_GuardsGuild_DisplayName": {
+    "en": "Guards' Guild",
+    "uk": "Гільдія вартових"
+  },
+  "Guild_GuardsGuild_III_DisplayName": {
+    "en": "Guards' Grand Guild Hall",
+    "uk": "Велика гільдійна зала вартових"
+  },
+  "Guild_GuardsGuild_II_DisplayName": {
+    "en": "Guards' Guild Hall",
+    "uk": "Гільдійна зала вартових"
+  },
+  "Guild_GuardsGuild_I_DisplayName": {
+    "en": "Guards' Guild House",
+    "uk": "Дім гільдії вартових"
+  },
+  "Guild_GuildHouse_Description": {
+    "en": "A place where professionals gather to train, share knowledge, and receive support.",
+    "uk": "Місце, де майстри своєї справи збираються, щоб навчатися, ділитися знаннями й отримувати підтримку."
   },
   "Guild_GuildHouse_DisplayName": {
     "en": "Guild House",
     "uk": "Дім гільдії"
   },
+  "Guild_GuildHouse_DisplayName_plural": {
+    "en": "Guild Houses",
+    "uk": "Доми гільдії"
+  },
+  "Guild_InnkeepersGuild_Description": {
+    "en": "A good drink, a warm bed, and the right rumor at the right time — this is our trade.",
+    "uk": "Добрий напій, тепла постіль і слушна чутка в потрібну мить — оце наш промисел."
+  },
+  "Guild_InnkeepersGuild_DisplayName": {
+    "en": "Innkeepers' Guild",
+    "uk": "Гільдія шинкарів"
+  },
+  "Guild_InnkeepersGuild_III_DisplayName": {
+    "en": "Innkeepers' Grand Guild Hall",
+    "uk": "Велика гільдійна зала шинкарів"
+  },
+  "Guild_InnkeepersGuild_II_DisplayName": {
+    "en": "Innkeepers' Guild Hall",
+    "uk": "Гільдійна зала шинкарів"
+  },
+  "Guild_InnkeepersGuild_I_DisplayName": {
+    "en": "Innkeepers' Guild House",
+    "uk": "Дім гільдії шинкарів"
+  },
+  "Guild_JoinersGuild_Description": {
+    "en": "Measure twice, cut once. We shape wood, and the city rests on it.",
+    "uk": "Двічі відміряй, раз відріж. Ми обробляємо дерево — і на ньому тримається місто."
+  },
+  "Guild_JoinersGuild_DisplayName": {
+    "en": "Joiners' Guild",
+    "uk": "Гільдія столярів"
+  },
+  "Guild_JoinersGuild_III_DisplayName": {
+    "en": "Joiners' Grand Guild Hall",
+    "uk": "Велика гільдійна зала столярів"
+  },
+  "Guild_JoinersGuild_II_DisplayName": {
+    "en": "Joiners' Guild Hall",
+    "uk": "Гільдійна зала столярів"
+  },
+  "Guild_JoinersGuild_I_DisplayName": {
+    "en": "Joiners' Guild House",
+    "uk": "Дім гільдії столярів"
+  },
+  "Guild_MoneyLendersGuild_Description": {
+    "en": "Coin flows where we allow it. Debts are remembered, even when people hope they are not.",
+    "uk": "Монета тече туди, куди ми дозволяємо. Борги пам’ятають, навіть коли хтось сподівається на інше."
+  },
+  "Guild_MoneyLendersGuild_DisplayName": {
+    "en": "Moneylenders' Guild",
+    "uk": "Гільдія лихварів"
+  },
+  "Guild_MoneyLendersGuild_III_DisplayName": {
+    "en": "Moneylenders' Grand Guild Hall",
+    "uk": "Велика гільдійна зала лихварів"
+  },
+  "Guild_MoneyLendersGuild_II_DisplayName": {
+    "en": "Moneylenders' Guild Hall",
+    "uk": "Гільдійна зала лихварів"
+  },
+  "Guild_MoneyLendersGuild_I_DisplayName": {
+    "en": "Moneylenders' Guild House",
+    "uk": "Дім гільдії лихварів"
+  },
+  "Guild_PerfumersGuild_Description": {
+    "en": "What cannot be seen can still command a room. We deal in scents — and the impressions they leave behind.",
+    "uk": "Те, чого не видно, все одно здатне заволодіти увагою всієї зали. Ми торгуємо ароматами — і враженнями, що лишаються по них."
+  },
+  "Guild_PerfumersGuild_DisplayName": {
+    "en": "Perfumers' Guild",
+    "uk": "Гільдія парфумерів"
+  },
+  "Guild_PerfumersGuild_III_DisplayName": {
+    "en": "Perfumers' Grand Guild Hall",
+    "uk": "Велика гільдійна зала парфумерів"
+  },
+  "Guild_PerfumersGuild_II_DisplayName": {
+    "en": "Perfumers' Guild Hall",
+    "uk": "Гільдійна зала парфумерів"
+  },
+  "Guild_PerfumersGuild_I_DisplayName": {
+    "en": "Perfumers' Guild House",
+    "uk": "Дім гільдії парфумерів"
+  },
+  "Guild_PreachersGuild_Description": {
+    "en": "Words shape souls. Whether they listen is their concern — we make sure they hear.",
+    "uk": "Слово формує душу. Чи слухають — то вже їхня справа, а от почути ми змусимо."
+  },
+  "Guild_PreachersGuild_DisplayName": {
+    "en": "Preachers' Guild",
+    "uk": "Гільдія проповідників"
+  },
+  "Guild_PreachersGuild_III_DisplayName": {
+    "en": "Preachers' Grand Guild Hall",
+    "uk": "Велика гільдійна зала проповідників"
+  },
+  "Guild_PreachersGuild_II_DisplayName": {
+    "en": "Preachers' Guild Hall",
+    "uk": "Гільдійна зала проповідників"
+  },
+  "Guild_PreachersGuild_I_DisplayName": {
+    "en": "Preachers' Guild House",
+    "uk": "Дім гільдії проповідників"
+  },
+  "Guild_RobbersGuild_Description": {
+    "en": "The road belongs to those who can hold it. If it moves, we can take it.",
+    "uk": "Шлях належить тому, хто здатен його втримати. Якщо воно рухається — ми можемо це забрати."
+  },
+  "Guild_RobbersGuild_DisplayName": {
+    "en": "Robbers' Guild",
+    "uk": "Гільдія розбійників"
+  },
+  "Guild_RobbersGuild_III_DisplayName": {
+    "en": "Robbers' Grand Guild Hall",
+    "uk": "Велика гільдійна зала розбійників"
+  },
+  "Guild_RobbersGuild_II_DisplayName": {
+    "en": "Robbers' Guild Hall",
+    "uk": "Гільдійна зала розбійників"
+  },
+  "Guild_RobbersGuild_I_DisplayName": {
+    "en": "Robbers' Guild House",
+    "uk": "Дім гільдії розбійників"
+  },
+  "Guild_SmithsGuild_Description": {
+    "en": "Give us fire and iron — we will give you the tools to shape the world.",
+    "uk": "Дайте нам вогонь і залізо — ми дамо вам знаряддя, щоб надати світові форми."
+  },
+  "Guild_SmithsGuild_DisplayName": {
+    "en": "Smiths' Guild",
+    "uk": "Гільдія ковалів"
+  },
+  "Guild_SmithsGuild_III_DisplayName": {
+    "en": "Smiths' Grand Guild Hall",
+    "uk": "Велика гільдійна зала ковалів"
+  },
+  "Guild_SmithsGuild_II_DisplayName": {
+    "en": "Smiths' Guild Hall",
+    "uk": "Гільдійна зала ковалів"
+  },
+  "Guild_SmithsGuild_I_DisplayName": {
+    "en": "Smiths' Guild House",
+    "uk": "Дім гільдії ковалів"
+  },
+  "Guild_StoneMasonsGuild_Description": {
+    "en": "Stone remembers. We make sure it remembers us.",
+    "uk": "Камінь пам’ятає. Ми подбаємо, щоб він пам’ятав і нас."
+  },
+  "Guild_StoneMasonsGuild_DisplayName": {
+    "en": "Stone Masons' Guild",
+    "uk": "Гільдія каменярів"
+  },
+  "Guild_StoneMasonsGuild_III_DisplayName": {
+    "en": "Stone Masons' Grand Guild Hall",
+    "uk": "Велика гільдійна зала каменярів"
+  },
+  "Guild_StoneMasonsGuild_II_DisplayName": {
+    "en": "Stone Masons' Guild Hall",
+    "uk": "Гільдійна зала каменярів"
+  },
+  "Guild_StoneMasonsGuild_I_DisplayName": {
+    "en": "Stone Masons' Guild House",
+    "uk": "Дім гільдії каменярів"
+  },
+  "Guild_TailorsGuild_Description": {
+    "en": "Cloth may cover the body — but we decide what it says.",
+    "uk": "Тканина може вкрити тіло — та що вона про нього скаже, вирішуємо ми."
+  },
+  "Guild_TailorsGuild_DisplayName": {
+    "en": "Tailors' Guild",
+    "uk": "Гільдія кравців"
+  },
+  "Guild_TailorsGuild_III_DisplayName": {
+    "en": "Tailors' Grand Guild Hall",
+    "uk": "Велика гільдійна зала кравців"
+  },
+  "Guild_TailorsGuild_II_DisplayName": {
+    "en": "Tailors' Guild Hall",
+    "uk": "Гільдійна зала кравців"
+  },
+  "Guild_TailorsGuild_I_DisplayName": {
+    "en": "Tailors' Guild House",
+    "uk": "Дім гільдії кравців"
+  },
+  "Guild_ThievesGuild_Description": {
+    "en": "You will not see us. You will notice what is missing.",
+    "uk": "Ви нас не побачите. Ви помітите лише те, чого бракує."
+  },
+  "Guild_ThievesGuild_DisplayName": {
+    "en": "Thieves' Guild",
+    "uk": "Гільдія злодіїв"
+  },
+  "Guild_ThievesGuild_III_DisplayName": {
+    "en": "Thieves' Grand Guild Hall",
+    "uk": "Велика гільдійна зала злодіїв"
+  },
+  "Guild_ThievesGuild_II_DisplayName": {
+    "en": "Thieves' Guild Hall",
+    "uk": "Гільдійна зала злодіїв"
+  },
+  "Guild_ThievesGuild_I_DisplayName": {
+    "en": "Thieves' Guild House",
+    "uk": "Дім гільдії злодіїв"
+  },
+  "Guild_TradersGuild_Description": {
+    "en": "Every deal has two sides. We make sure ours is better.",
+    "uk": "У кожної угоди є два боки. Ми стежимо, щоб наш був кращим."
+  },
+  "Guild_TradersGuild_DisplayName": {
+    "en": "Merchants' Guild",
+    "uk": "Гільдія купців"
+  },
+  "Guild_TradersGuild_III_DisplayName": {
+    "en": "Merchants' Grand Guild Hall",
+    "uk": "Велика гільдійна зала купців"
+  },
+  "Guild_TradersGuild_II_DisplayName": {
+    "en": "Merchants' Guild Hall",
+    "uk": "Гільдійна зала купців"
+  },
+  "Guild_TradersGuild_I_DisplayName": {
+    "en": "Merchants' Guild House",
+    "uk": "Дім гільдії купців"
+  },
+  "Guild_TravellingEntertainersGuild_Description": {
+    "en": "If they are watching, we are winning. If they are paying, even better.",
+    "uk": "Якщо дивляться — ми перемагаємо. Якщо ще й платять — тим краще."
+  },
+  "Guild_TravellingEntertainersGuild_DisplayName": {
+    "en": "Circus Artists' Guild",
+    "uk": "Гільдія циркових митців"
+  },
+  "Guild_TravellingEntertainersGuild_III_DisplayName": {
+    "en": "Circus Artists' Grand Guild Hall",
+    "uk": "Велика гільдійна зала циркових митців"
+  },
+  "Guild_TravellingEntertainersGuild_II_DisplayName": {
+    "en": "Circus Artists' Guild Hall",
+    "uk": "Гільдійна зала циркових митців"
+  },
+  "Guild_TravellingEntertainersGuild_I_DisplayName": {
+    "en": "Circus Artists' Guild House",
+    "uk": "Дім гільдії циркових митців"
+  },
   "ListOfActions_Header": {
     "en": "Actions",
     "uk": "Дії"
   },
+  "ListOfActivities_Header": {
+    "en": "Tasks",
+    "uk": "Завдання"
+  },
+  "ListOfCraftables_Header": {
+    "en": "Craft",
+    "uk": "Виготовлення"
+  },
+  "ListOfQuarterEffects_Header": {
+    "en": "Quarter Impact",
+    "uk": "Вплив на квартал"
+  },
   "ListOfUpgrades_Header": {
     "en": "Upgrades",
-    "uk": "Вдосконалення"
+    "uk": "Поліпшення"
+  },
+  "ManagedBy_Label": {
+    "en": "In the care of",
+    "uk": "Під опікою"
+  },
+  "Manager_CityBuilding_Description": {
+    "en": "As an office holder, your position may grant you stewardship over a city-owned building. Keep it in good repair, commission improvements, and pay for it all from the {O_CITTRE_C}city treasury{##}. And if those repairs happen to cost a little more than expected... well, accounting is rarely an exact science.",
+    "uk": "Обіймаючи посаду, Ви можете отримати опіку над будівлею, що належить місту. Підтримуйте її в належному стані, замовляйте поліпшення й сплачуйте за все це з {O_CITTRE_C}міської скарбниці{##}. А якщо ремонт коштує трохи більше, ніж очікувалося… що ж, облік рідко буває точною наукою."
+  },
+  "Manager_CityBuilding_DisplayName": {
+    "en": "Warden",
+    "uk": "Доглядач"
+  },
+  "Manager_ProfessionBuilding_Description": {
+    "en": "You are always the best person to manage your own business, but once you have several buildings to look after, appointing a master can free you to spend your time elsewhere.",
+    "uk": "Ви завжди найкраще керуєте власною справою, та коли будівель побільшає, призначення майстра звільнить Ваш час для інших справ."
+  },
+  "Manager_ProfessionBuilding_Description_extra1": {
+    "en": "A master must be a member of your {CHAR_DYN_C}dynasty{##} and share the {P_C}profession{##} of the business they are meant to run.",
+    "uk": "Майстер має належати до Вашої {CHAR_DYN_C}династії{##} й мати ту саму {P_C}професію{##}, що й справа, якою він має керувати."
+  },
+  "Manager_ProfessionBuilding_Description_extra2": {
+    "en": "The arrangement benefits both of you: they gain {CHAR_XP_C}experience{##} and a share of the profits, while you keep the business running without managing it personally.",
+    "uk": "Домовленість вигідна обом: майстер здобуває {CHAR_XP_C}досвід{##} і частку прибутку, а Ваша справа працює без Вашого особистого нагляду."
+  },
+  "Manager_ProfessionBuilding_Description_extra3": {
+    "en": "Choose and train them carefully, though. A worker's {CHAR_PRO_C}productivity{##} is also influenced by the master's skill in whatever {S_C}skill{##} their current {A_ACT_C}task{##} requires.",
+    "uk": "Проте обирайте й навчайте його ретельно. {CHAR_PRO_C}Продуктивність{##} працівника також залежить від того, наскільки добре майстер володіє тією {S_C}навичкою{##}, якої вимагає поточне {A_ACT_C}завдання{##}."
   },
   "Manager_ProfessionBuilding_DisplayName": {
     "en": "Master",
-    "uk": "Загальна"
+    "uk": "Майстер"
+  },
+  "Message_NoBuildingsForSale": {
+    "en": "There are no buildings for sale at the moment.",
+    "uk": "Наразі немає будівель на продаж."
+  },
+  "OccupationBuilding_Alchemist_Description": {
+    "en": "Where alchemy and craft meet to refine potions, remedies, and solutions for all needs.",
+    "uk": "Тут алхімія й ремесло поєднуються, щоб виготовляти настоянки, зілля й мазі на будь-яку потребу."
+  },
+  "OccupationBuilding_Alchemist_DisplayName": {
+    "en": "Alchemist's Lab",
+    "uk": "Лабораторія алхіміка"
+  },
+  "OccupationBuilding_Alchemist_DisplayName_plural": {
+    "en": "Alchemist's Labs",
+    "uk": "Лабораторії алхіміків"
+  },
+  "OccupationBuilding_Alchemist_III_DisplayName": {
+    "en": "Alchemist's Parlour",
+    "uk": "Кімната алхіміка"
+  },
+  "OccupationBuilding_Alchemist_II_DisplayName": {
+    "en": "Herb Shop",
+    "uk": "Крамниця трав"
+  },
+  "OccupationBuilding_Alchemist_I_DisplayName": {
+    "en": "Tinctury",
+    "uk": "Настойня"
+  },
+  "OccupationBuilding_Church_Description": {
+    "en": "A place of worship offering redemption, knowledge, and connection with the divine.",
+    "uk": "Місце поклоніння, що дарує відпущення гріхів, знання та зв’язок із божественним."
+  },
+  "OccupationBuilding_Church_DisplayName": {
+    "en": "Church",
+    "uk": "Церква"
+  },
+  "OccupationBuilding_Church_DisplayName_plural": {
+    "en": "Churches",
+    "uk": "Церкви"
+  },
+  "OccupationBuilding_Church_III_DisplayName": {
+    "en": "Cathedral",
+    "uk": "Собор"
+  },
+  "OccupationBuilding_Church_II_DisplayName": {
+    "en": "Abbey",
+    "uk": "Абатство"
+  },
+  "OccupationBuilding_Church_I_DisplayName": {
+    "en": "Church",
+    "uk": "Церква"
+  },
+  "OccupationBuilding_Entertainer_Description": {
+    "en": "A lively camp where performers stage plays and sell mystical objects.",
+    "uk": "Жвавий табір, де виступають актори та продають містичні предмети."
+  },
+  "OccupationBuilding_Entertainer_DisplayName": {
+    "en": "Travelling Circus Camp",
+    "uk": "Табір мандрівного цирку"
+  },
+  "OccupationBuilding_Entertainer_DisplayName_plural": {
+    "en": "Travelling Circus Camps",
+    "uk": "Табори мандрівного цирку"
+  },
+  "OccupationBuilding_Entertainer_III_DisplayName": {
+    "en": "Showmen's Camp",
+    "uk": "Табір лицедіїв"
+  },
+  "OccupationBuilding_Entertainer_II_DisplayName": {
+    "en": "Travelling Entertainer's Camp",
+    "uk": "Табір мандрівних артистів"
+  },
+  "OccupationBuilding_Entertainer_I_DisplayName": {
+    "en": "Vagabond's Camp",
+    "uk": "Табір волоцюг"
+  },
+  "OccupationBuilding_Graveyard_Description": {
+    "en": "A peaceful burial ground, offering family graves for those wishing to honor their ancestors.",
+    "uk": "Мирне місце поховання з родинними могилами для тих, хто хоче вшанувати предків."
+  },
+  "OccupationBuilding_Graveyard_DisplayName": {
+    "en": "Graveyard",
+    "uk": "Цвинтар"
+  },
+  "OccupationBuilding_Graveyard_DisplayName_plural": {
+    "en": "Graveyards",
+    "uk": "Цвинтарі"
+  },
+  "OccupationBuilding_Graveyard_III_DisplayName": {
+    "en": "Churchyard",
+    "uk": "Церковний цвинтар"
+  },
+  "OccupationBuilding_Graveyard_II_DisplayName": {
+    "en": "God's Acre",
+    "uk": "Божа нива"
+  },
+  "OccupationBuilding_Graveyard_I_DisplayName": {
+    "en": "Graveyard",
+    "uk": "Цвинтар"
+  },
+  "OccupationBuilding_Guard_Description": {
+    "en": "A training ground and residence for the guards, keeping order and protecting the people.",
+    "uk": "Місце навчання й проживання варти, що підтримує лад і захищає люд."
+  },
+  "OccupationBuilding_Guard_DisplayName": {
+    "en": "Barracks",
+    "uk": "Казарма"
+  },
+  "OccupationBuilding_Guard_DisplayName_plural": {
+    "en": "Barracks",
+    "uk": "Казарми"
+  },
+  "OccupationBuilding_Guard_III_DisplayName": {
+    "en": "Garrison",
+    "uk": "Гарнізон"
+  },
+  "OccupationBuilding_Guard_II_DisplayName": {
+    "en": "Town Watch",
+    "uk": "Міська варта"
+  },
+  "OccupationBuilding_Guard_I_DisplayName": {
+    "en": "Guard House",
+    "uk": "Вартівня"
+  },
+  "OccupationBuilding_Inn_Description": {
+    "en": "A warm establishment serving food, drinks, and games for both travelers and townsfolk.",
+    "uk": "Затишний заклад із наїдками, напоями та розвагами для подорожніх і городян."
+  },
+  "OccupationBuilding_Inn_DisplayName": {
+    "en": "Inn",
+    "uk": "Заїзд"
+  },
+  "OccupationBuilding_Inn_DisplayName_plural": {
+    "en": "Inns",
+    "uk": "Заїзди"
+  },
+  "OccupationBuilding_Inn_III_DisplayName": {
+    "en": "Inn",
+    "uk": "Заїзд"
+  },
+  "OccupationBuilding_Inn_II_DisplayName": {
+    "en": "Public House",
+    "uk": "Корчма"
+  },
+  "OccupationBuilding_Inn_I_DisplayName": {
+    "en": "Tavern",
+    "uk": "Таверна"
+  },
+  "OccupationBuilding_Joiner_Description": {
+    "en": "Where skilled hands carve wood into toys, tools, and weapons alike.",
+    "uk": "Тут вправні руки вирізьблюють з дерева іграшки, знаряддя й зброю."
+  },
+  "OccupationBuilding_Joiner_DisplayName": {
+    "en": "Joiner's Workshop",
+    "uk": "Столярна майстерня"
+  },
+  "OccupationBuilding_Joiner_DisplayName_plural": {
+    "en": "Joiner's Workshops",
+    "uk": "Столярні майстерні"
+  },
+  "OccupationBuilding_Joiner_III_DisplayName": {
+    "en": "Sawmill",
+    "uk": "Тартак"
+  },
+  "OccupationBuilding_Joiner_II_DisplayName": {
+    "en": "Turnery",
+    "uk": "Токарня"
+  },
+  "OccupationBuilding_Joiner_I_DisplayName": {
+    "en": "Joiner's Workshop",
+    "uk": "Столярна майстерня"
+  },
+  "OccupationBuilding_Mason_Description": {
+    "en": "Where masons craft stone into tools, treasures, and stronger structures for the city.",
+    "uk": "Тут каменярі перетворюють камінь на знаряддя, скарби й міцніші будівлі для міста."
+  },
+  "OccupationBuilding_Mason_DisplayName": {
+    "en": "Masonry ",
+    "uk": "Каменярня"
+  },
+  "OccupationBuilding_Mason_DisplayName_plural": {
+    "en": "Masonries",
+    "uk": "Каменярні"
+  },
+  "OccupationBuilding_Mason_III_DisplayName": {
+    "en": "Stonemason's Hut",
+    "uk": "Хижа каменяра"
+  },
+  "OccupationBuilding_Mason_II_DisplayName": {
+    "en": "Stone Cutter",
+    "uk": "Каменотесня"
+  },
+  "OccupationBuilding_Mason_I_DisplayName": {
+    "en": "Bricklayer",
+    "uk": "Мурярня"
+  },
+  "OccupationBuilding_MoneyLender_Description": {
+    "en": "A trusted place for loans, currency exchange, and a variety of financial services.",
+    "uk": "Надійне місце для позик, обміну монет і всіляких грошових справ."
+  },
+  "OccupationBuilding_MoneyLender_DisplayName": {
+    "en": "Counting House",
+    "uk": "Лихварський дім"
+  },
+  "OccupationBuilding_MoneyLender_DisplayName_plural": {
+    "en": "Counting Houses",
+    "uk": "Лихварські доми"
+  },
+  "OccupationBuilding_MoneyLender_III_DisplayName": {
+    "en": "Banking House",
+    "uk": "Великий лихварський дім"
+  },
+  "OccupationBuilding_MoneyLender_II_DisplayName": {
+    "en": "Money Lender",
+    "uk": "Лихварня"
+  },
+  "OccupationBuilding_MoneyLender_I_DisplayName": {
+    "en": "Money Exchange",
+    "uk": "Міняльна лавка"
+  },
+  "OccupationBuilding_Perfumer_Description": {
+    "en": "A fragrant workshop where exotic oils and scents are blended into perfumes.",
+    "uk": "Запашна майстерня, де екзотичні олії й пахощі змішують у парфуми."
+  },
+  "OccupationBuilding_Perfumer_DisplayName": {
+    "en": "Perfumery",
+    "uk": "Парфумерія"
+  },
+  "OccupationBuilding_Perfumer_DisplayName_plural": {
+    "en": "Perfumeries",
+    "uk": "Парфумерії"
+  },
+  "OccupationBuilding_Perfumer_III_DisplayName": {
+    "en": "Perfumery",
+    "uk": "Парфумерія"
+  },
+  "OccupationBuilding_Perfumer_II_DisplayName": {
+    "en": "Scent Workshop",
+    "uk": "Майстерня пахощів"
+  },
+  "OccupationBuilding_Perfumer_I_DisplayName": {
+    "en": "Boilery",
+    "uk": "Виварня"
+  },
+  "OccupationBuilding_Robber_Description": {
+    "en": "A fortified stronghold where robbers dominate the roads and control illicit profits.",
+    "uk": "Укріплена твердиня, звідки розбійники панують над дорогами й тримають під контролем незаконний зиск."
+  },
+  "OccupationBuilding_Robber_DisplayName": {
+    "en": "Robber Baron's Fortress",
+    "uk": "Фортеця розбійного барона"
+  },
+  "OccupationBuilding_Robber_DisplayName_plural": {
+    "en": "Robber Baron's Fortresses",
+    "uk": "Фортеці розбійних баронів"
+  },
+  "OccupationBuilding_Robber_III_DisplayName": {
+    "en": "Robber Baron's Fortress",
+    "uk": "Фортеця розбійного барона"
+  },
+  "OccupationBuilding_Robber_II_DisplayName": {
+    "en": "Robber's Camp",
+    "uk": "Розбійницький табір"
+  },
+  "OccupationBuilding_Robber_I_DisplayName": {
+    "en": "Robber's Nest",
+    "uk": "Розбійницьке лігво"
+  },
+  "OccupationBuilding_Smithy_Description": {
+    "en": "A forge dedicated to creating tools, weapons, and fine jewelry.",
+    "uk": "Кузня, присвячена виготовленню знарядь, зброї та тонких прикрас."
+  },
+  "OccupationBuilding_Smithy_DisplayName": {
+    "en": "Smithy",
+    "uk": "Кузня"
+  },
+  "OccupationBuilding_Smithy_DisplayName_plural": {
+    "en": "Smithies",
+    "uk": "Кузні"
+  },
+  "OccupationBuilding_Smithy_III_DisplayName": {
+    "en": "Goldsmith's",
+    "uk": "Золотарня"
+  },
+  "OccupationBuilding_Smithy_II_DisplayName": {
+    "en": "Smithy",
+    "uk": "Кузня"
+  },
+  "OccupationBuilding_Smithy_I_DisplayName": {
+    "en": "Foundry",
+    "uk": "Ливарня"
+  },
+  "OccupationBuilding_Tailor_Description": {
+    "en": "Where wool and leather combine to create clothing for everyday wear or special occasions.",
+    "uk": "Тут вовна й шкіра поєднуються, творячи повсякденне чи святкове вбрання."
+  },
+  "OccupationBuilding_Tailor_DisplayName": {
+    "en": "Tailor's Workshop",
+    "uk": "Кравецька майстерня"
+  },
+  "OccupationBuilding_Tailor_DisplayName_plural": {
+    "en": "Tailor's Workshops",
+    "uk": "Кравецькі майстерні"
+  },
+  "OccupationBuilding_Tailor_III_DisplayName": {
+    "en": "Robe Maker's Workshop",
+    "uk": "Майстерня одежинника"
+  },
+  "OccupationBuilding_Tailor_II_DisplayName": {
+    "en": "Tailor's Workshop",
+    "uk": "Кравецька майстерня"
+  },
+  "OccupationBuilding_Tailor_I_DisplayName": {
+    "en": "Sewing Room",
+    "uk": "Швацька кімната"
+  },
+  "OccupationBuilding_Thief_Description": {
+    "en": "A secret refuge where thieves operate in the shadows, preying on the unwary.",
+    "uk": "Таємна схованка, де злодії діють у тіні, підстерігаючи необачних."
+  },
+  "OccupationBuilding_Thief_DisplayName": {
+    "en": "Hideout",
+    "uk": "Схованка"
+  },
+  "OccupationBuilding_Thief_DisplayName_plural": {
+    "en": "Hideouts",
+    "uk": "Схованки"
+  },
+  "OccupationBuilding_Thief_III_DisplayName": {
+    "en": "Thieves' Den",
+    "uk": "Кубло злодіїв"
+  },
+  "OccupationBuilding_Thief_II_DisplayName": {
+    "en": "Hideout",
+    "uk": "Схованка"
+  },
+  "OccupationBuilding_Thief_I_DisplayName": {
+    "en": "Smuggler's Hole",
+    "uk": "Контрабандистська нора"
+  },
+  "OccupationBuilding_Trader_Description": {
+    "en": "A facility for storing trade goods, arranging deals, and setting the stage for market opportunities.",
+    "uk": "Приміщення для зберігання товару, укладання угод і пошуку вигідних нагод на ринку."
+  },
+  "OccupationBuilding_Trader_DisplayName": {
+    "en": "Storehouse",
+    "uk": "Склад"
+  },
+  "OccupationBuilding_Trader_DisplayName_plural": {
+    "en": "Storehouses",
+    "uk": "Склади"
+  },
+  "OccupationBuilding_Trader_III_DisplayName": {
+    "en": "Trading Hall",
+    "uk": "Торгова зала"
+  },
+  "OccupationBuilding_Trader_II_DisplayName": {
+    "en": "Warehouse",
+    "uk": "Пакгауз"
+  },
+  "OccupationBuilding_Trader_I_DisplayName": {
+    "en": "Storehouse",
+    "uk": "Склад"
+  },
+  "OpenBuildingScreen_instruction": {
+    "en": "Left-click to view",
+    "uk": "ЛКМ — переглянути"
+  },
+  "OwnerTemporary_Label": {
+    "en": "Kept by",
+    "uk": "Під наглядом"
+  },
+  "OwnerTemporary_Label_alt": {
+    "en": "Managed by",
+    "uk": "Керує"
+  },
+  "Owner_Label": {
+    "en": "Owned by",
+    "uk": "Належить"
+  },
+  "Owner_None_Label": {
+    "en": "No one",
+    "uk": "Нікому"
+  },
+  "Parameter_AccidentProtection_Description": {
+    "en": "Decreases {B_PARAM_ACCPRO_ACC}accident{##} risk whenever workers are performing tasks in this building.",
+    "uk": "Знижує ризик {B_PARAM_ACCPRO_ACC}нещасних випадків{##}, коли працівники виконують завдання в цій будівлі."
+  },
+  "Parameter_AccidentProtection_DisplayName": {
+    "en": "Accident Prevention",
+    "uk": "Запобігання нещасним випадкам"
+  },
+  "Parameter_Attractiveness_Description": {
+    "en": "Makes your business more appealing to customers, increasing {PM_ATT_C}demand{##} and driving up prices in your {B_STOFRO_C}storefront{##}.",
+    "uk": "Робить Вашу справу привабливішою для покупців, підвищуючи {PM_ATT_C}попит{##} і ціну у Вашій {B_STOFRO_C}крамниці{##}."
+  },
+  "Parameter_Attractiveness_DisplayName": {
+    "en": "Customer Appeal",
+    "uk": "Привабливість для покупців"
+  },
+  "Parameter_BurglaryProtection_Description": {
+    "en": "Makes it harder for criminals to {A_ACT_STEITESTOMKT_C}shoplift{##} from or {A_ACT_ROB_C}break into{##} your business or property.",
+    "uk": "Ускладнює {A_ACT_STEITESTOMKT_C}крадіжки з крамниці{##} та {A_ACT_ROB_C}пограбування зі зломом{##} Вашої справи чи власності."
+  },
+  "Parameter_BurglaryProtection_DisplayName": {
+    "en": "Security",
+    "uk": "Захист від зломів"
   },
   "Parameter_Description": {
     "en": "TBD",
     "uk": "TBD"
   },
+  "Parameter_DisplayName": {
+    "en": "Structure Stat",
+    "uk": "Показник будівлі"
+  },
+  "Parameter_DisplayName_alt": {
+    "en": "Stat",
+    "uk": "Показник"
+  },
+  "Parameter_DisplayName_plural": {
+    "en": "Structure Stats",
+    "uk": "Показники будівлі"
+  },
+  "Parameter_DisplayName_plural_alt": {
+    "en": "Stats",
+    "uk": "Показники"
+  },
+  "Parameter_Hygiene_Description": {
+    "en": "Keeps the place clean and reduces the {QUAPEREFF_ILL_C}risk of illnesses{##}.",
+    "uk": "Знижує {QUAPEREFF_ILL_C}ризик хвороб{##} і підтримує чистоту."
+  },
+  "Parameter_Hygiene_DisplayName": {
+    "en": "Sanitation",
+    "uk": "Санітарія"
+  },
+  "Parameter_ProductivityBonus_Description": {
+    "en": "Helps workers get more done, faster, and with better results.",
+    "uk": "Допомагає працівникам робити більше, швидше й краще."
+  },
+  "Parameter_ProductivityBonus_DisplayName": {
+    "en": "Productivity Bonus",
+    "uk": "Бонус до продуктивності"
+  },
+  "Parameter_Value_Description": {
+    "en": "Represents the building's worth, adjusted by its current {B_HP_C}condition{##}.",
+    "uk": "Відображає вартість будівлі з поправкою на її поточну {B_HP_C}цілісність{##}."
+  },
+  "Parameter_Value_DisplayName": {
+    "en": "Property Value",
+    "uk": "Вартість власності"
+  },
+  "PersonalBuilding_BeeHives_Description": {
+    "en": "From hive to honey, from honey to profit.",
+    "uk": "Від вулика до меду, від меду до зиску."
+  },
+  "PersonalBuilding_BeeHives_DisplayName": {
+    "en": "Beehives",
+    "uk": "Вулики"
+  },
+  "PersonalBuilding_BeeHives_DisplayName_plural": {
+    "en": "Beehives",
+    "uk": "Вулики"
+  },
+  "PersonalBuilding_BeeHives_III_DisplayName": {
+    "en": "Apiary",
+    "uk": "Пасіка"
+  },
+  "PersonalBuilding_BeeHives_II_DisplayName": {
+    "en": "Small Bee Yard",
+    "uk": "Малий бджолиний сад"
+  },
+  "PersonalBuilding_BeeHives_I_DisplayName": {
+    "en": "Beehives",
+    "uk": "Вулики"
+  },
   "PersonalBuilding_ConstructionShack_Description": {
     "en": "TBD",
     "uk": "TBD"
+  },
+  "PersonalBuilding_ConstructionShack_DisplayName": {
+    "en": "Construction Shack",
+    "uk": "Будівельна хижа"
+  },
+  "PersonalBuilding_ConstructionShack_DisplayName_plural": {
+    "en": "Construction Shacks",
+    "uk": "Будівельні хижі"
+  },
+  "PersonalBuilding_ConstructionShack_III_DisplayName": {
+    "en": "Builder's Workshop",
+    "uk": "Майстерня будівельника"
+  },
+  "PersonalBuilding_ConstructionShack_II_DisplayName": {
+    "en": "Builder's Yard",
+    "uk": "Двір будівельника"
+  },
+  "PersonalBuilding_ConstructionShack_I_DisplayName": {
+    "en": "Construction Shack",
+    "uk": "Будівельна хижа"
   },
   "PersonalBuilding_SecretDen_Description": {
     "en": "TBD",
     "uk": "TBD"
   },
+  "PersonalBuilding_SecretDen_DisplayName": {
+    "en": "Secret Den",
+    "uk": "Таємна схованка"
+  },
+  "PersonalBuilding_SecretDen_DisplayName_plural": {
+    "en": "Secret Dens",
+    "uk": "Таємні схованки"
+  },
+  "PersonalBuilding_SecretDen_III_DisplayName": {
+    "en": "Hidden Lair",
+    "uk": "Прихований барліг"
+  },
+  "PersonalBuilding_SecretDen_II_DisplayName": {
+    "en": "Secret Den",
+    "uk": "Таємна схованка"
+  },
+  "PersonalBuilding_SecretDen_I_DisplayName": {
+    "en": "Hideaway",
+    "uk": "Криївка"
+  },
+  "PersonalBuilding_Shrine_Description": {
+    "en": "A modest personal shrine for devotion.",
+    "uk": "Скромна особиста святиня для молитов."
+  },
+  "PersonalBuilding_Shrine_DisplayName": {
+    "en": "Shrine",
+    "uk": "Святиня"
+  },
+  "PersonalBuilding_Shrine_DisplayName_plural": {
+    "en": "Shrines",
+    "uk": "Святині"
+  },
+  "PersonalBuilding_Shrine_III_DisplayName": {
+    "en": "Sanctuary",
+    "uk": "Святилище"
+  },
+  "PersonalBuilding_Shrine_II_DisplayName": {
+    "en": "Shrine",
+    "uk": "Святиня"
+  },
+  "PersonalBuilding_Shrine_I_DisplayName": {
+    "en": "Wayside Shrine",
+    "uk": "Придорожня каплиця"
+  },
   "PersonalBuilding_Small Brewery_Description": {
     "en": "TBD",
     "uk": "TBD"
+  },
+  "PersonalBuilding_Small Brewery_DisplayName": {
+    "en": "Small Brewery",
+    "uk": "Мала броварня"
+  },
+  "PersonalBuilding_Small Brewery_DisplayName_plural": {
+    "en": "Small Breweries",
+    "uk": "Малі броварні"
+  },
+  "PersonalBuilding_Small Brewery_III_DisplayName": {
+    "en": "Brewhouse",
+    "uk": "Пивоварня"
+  },
+  "PersonalBuilding_Small Brewery_II_DisplayName": {
+    "en": "Brewery",
+    "uk": "Броварня"
+  },
+  "PersonalBuilding_Small Brewery_I_DisplayName": {
+    "en": "Small Brewery",
+    "uk": "Мала броварня"
   },
   "PersonalBuilding_Stable_Description": {
     "en": "TBD",
     "uk": "TBD"
   },
+  "PersonalBuilding_Stable_DisplayName": {
+    "en": "Stable",
+    "uk": "Стайня"
+  },
+  "PersonalBuilding_Stable_DisplayName_plural": {
+    "en": "Stables",
+    "uk": "Стайні"
+  },
+  "PersonalBuilding_Stable_III_DisplayName": {
+    "en": "Great Stables",
+    "uk": "Велика стайня"
+  },
+  "PersonalBuilding_Stable_II_DisplayName": {
+    "en": "Stables",
+    "uk": "Стайні"
+  },
+  "PersonalBuilding_Stable_I_DisplayName": {
+    "en": "Stable",
+    "uk": "Стайня"
+  },
+  "PersonalBuilding_Statue_Description": {
+    "en": "Nothing says modesty like a giant stone version of yourself.",
+    "uk": "Ніщо не свідчить про скромність краще за велетенську кам'яну статую самого себе."
+  },
+  "PersonalBuilding_Statue_DisplayName": {
+    "en": "Statue",
+    "uk": "Статуя"
+  },
+  "PersonalBuilding_Statue_III_DisplayName": {
+    "en": "Grand Statue",
+    "uk": "Велична статуя"
+  },
+  "PersonalBuilding_Statue_II_DisplayName": {
+    "en": "Statue",
+    "uk": "Статуя"
+  },
+  "PersonalBuilding_Statue_I_DisplayName": {
+    "en": "Small Statue",
+    "uk": "Мала статуя"
+  },
+  "PersonalBuilding_StorageShed_Description": {
+    "en": "Need space? The storage shed gives you the luxury of waiting for higher prices.",
+    "uk": "Потребуєте місця? Комора дає розкіш чекати на вищі ціни."
+  },
+  "PersonalBuilding_StorageShed_DisplayName": {
+    "en": "Storage Shed",
+    "uk": "Комора"
+  },
+  "PersonalBuilding_StorageShed_DisplayName_plural": {
+    "en": "Storage Sheds",
+    "uk": "Комори"
+  },
+  "PersonalBuilding_StorageShed_III_DisplayName": {
+    "en": "Storage Barn",
+    "uk": "Комірний хлів"
+  },
+  "PersonalBuilding_StorageShed_II_DisplayName": {
+    "en": "Storage Shed",
+    "uk": "Комора"
+  },
+  "PersonalBuilding_StorageShed_I_DisplayName": {
+    "en": "Storage Hut",
+    "uk": "Комірна хижа"
+  },
+  "PublicBuilding_Blackmarket_Description": {
+    "en": "A secret hub for trading forbidden goods beyond the law's reach.",
+    "uk": "Таємне кубло для торгівлі забороненим товаром поза досяжністю закону."
+  },
+  "PublicBuilding_Blackmarket_DisplayName": {
+    "en": "Blackmarket",
+    "uk": "Чорний ринок"
+  },
+  "PublicBuilding_Blackmarket_DisplayName_plural": {
+    "en": "Blackmarkets",
+    "uk": "Чорні ринки"
+  },
+  "PublicBuilding_Blackmarket_III_DisplayName": {
+    "en": "Underground Market",
+    "uk": "Підпільний ринок"
+  },
+  "PublicBuilding_Blackmarket_II_DisplayName": {
+    "en": "Black Market",
+    "uk": "Чорний ринок"
+  },
+  "PublicBuilding_Blackmarket_I_DisplayName": {
+    "en": "Back-Alley Market",
+    "uk": "Ринок глухого завулка"
+  },
+  "PublicBuilding_CannonTower_Description": {
+    "en": "An old defensive tower overlooking the city, its cannon still remarkably functional despite the years.",
+    "uk": "Старовинна оборонна вежа над містом, чия гармата й досі напрочуд справна попри роки."
+  },
+  "PublicBuilding_CannonTower_Description_EarlyAccess": {
+    "en": "A derelict cannon tower… There may still be a dangerous, functional cannon buried under all this rubble. Come back later in Early Access to see if anything has been uncovered.",
+    "uk": "Занедбана гарматна вежа… Під усіма цими руїнами, можливо, досі ховається небезпечна, справна гармата. Загляньте пізніше в Ранньому доступі — може, щось відкопають."
+  },
+  "PublicBuilding_CannonTower_DisplayName": {
+    "en": "Cannon Tower",
+    "uk": "Гарматна вежа"
+  },
+  "PublicBuilding_CannonTower_III_DisplayName": {
+    "en": "Cannon Bastion",
+    "uk": "Гарматний бастіон"
+  },
+  "PublicBuilding_CannonTower_II_DisplayName": {
+    "en": "Fortified Cannon Tower",
+    "uk": "Укріплена гарматна вежа"
+  },
+  "PublicBuilding_CannonTower_I_DisplayName": {
+    "en": "Cannon Tower",
+    "uk": "Гарматна вежа"
+  },
+  "PublicBuilding_Fountain_Description": {
+    "en": "With a fountain nearby, people recover energy faster — and the quarter looks more inviting.",
+    "uk": "Поруч із фонтаном люд відновлює енергію швидше — та й квартал виглядає привабливіше."
+  },
+  "PublicBuilding_Fountain_DisplayName": {
+    "en": "Fountain",
+    "uk": "Фонтан"
+  },
+  "PublicBuilding_Fountain_DisplayName_plural": {
+    "en": "Fountains",
+    "uk": "Фонтани"
+  },
+  "PublicBuilding_Fountain_III_DisplayName": {
+    "en": "Ornamental Fountain",
+    "uk": "Оздоблений фонтан"
+  },
+  "PublicBuilding_Fountain_II_DisplayName": {
+    "en": "Public Fountain",
+    "uk": "Міський фонтан"
+  },
+  "PublicBuilding_Fountain_I_DisplayName": {
+    "en": "Simple Fountain",
+    "uk": "Простий фонтан"
+  },
+  "PublicBuilding_Marketplace_Description": {
+    "en": "Operating 24/7 and offering a variety of items from local and foreign merchants, there's always a great deal waiting for you in the marketplace.",
+    "uk": "Ринок працює цілодобово й пропонує розмаїття товарів від місцевих і заморських купців, тож тут на Вас завжди чекає вигідна оборудка."
+  },
+  "PublicBuilding_Marketplace_DisplayName": {
+    "en": "Marketplace",
+    "uk": "Ринок"
+  },
+  "PublicBuilding_Marketplace_DisplayName_plural": {
+    "en": "Marketplaces",
+    "uk": "Ринки"
+  },
+  "PublicBuilding_Marketplace_III_DisplayName": {
+    "en": "Grand Market",
+    "uk": "Великий ринок"
+  },
+  "PublicBuilding_Marketplace_II_DisplayName": {
+    "en": "Marketplace",
+    "uk": "Ринок"
+  },
+  "PublicBuilding_Marketplace_I_DisplayName": {
+    "en": "Market",
+    "uk": "Ринок"
+  },
+  "PublicBuilding_MessageBoard_Description": {
+    "en": "A public board for official decrees, urgent town news, and quests meant for brave or desperate citizens.",
+    "uk": "Дошка для оголошень, нагальних міських звісток і завдань для сміливих чи відчайдушних городян."
+  },
+  "PublicBuilding_MessageBoard_DisplayName": {
+    "en": "Announcement Board",
+    "uk": "Дошка оголошень"
+  },
+  "PublicBuilding_MessageBoard_III_DisplayName": {
+    "en": "Announcement Board",
+    "uk": "Дошка оголошень"
+  },
+  "PublicBuilding_MessageBoard_II_DisplayName": {
+    "en": "Announcement Board",
+    "uk": "Дошка оголошень"
+  },
+  "PublicBuilding_MessageBoard_I_DisplayName": {
+    "en": "Announcement Board",
+    "uk": "Дошка оголошень"
+  },
+  "PublicBuilding_PhysiciansOffice_Description": {
+    "en": "A place for medical care and healing.",
+    "uk": "Місце для лікарської опіки й зцілення."
+  },
+  "PublicBuilding_PhysiciansOffice_DisplayName": {
+    "en": "Physician's House",
+    "uk": "Дім лікаря"
+  },
+  "PublicBuilding_PhysiciansOffice_DisplayName_plural": {
+    "en": "Physician's Houses",
+    "uk": "Доми лікарів"
+  },
+  "PublicBuilding_PhysiciansOffice_III_DisplayName": {
+    "en": "Physician's Hall",
+    "uk": "Зала лікаря"
+  },
+  "PublicBuilding_PhysiciansOffice_II_DisplayName": {
+    "en": "Physician's House",
+    "uk": "Дім лікаря"
+  },
+  "PublicBuilding_PhysiciansOffice_I_DisplayName": {
+    "en": "Healer's House",
+    "uk": "Дім знахаря"
+  },
+  "PublicBuilding_Pillory_Description": {
+    "en": "Dishonor here weighs heavier than chains and smells worse than rotten produce.",
+    "uk": "Тут ганьба важча за кайдани й смердить гірше за гнилий крам."
+  },
+  "PublicBuilding_Pillory_DisplayName": {
+    "en": "Pillory",
+    "uk": "Ганебний стовп"
+  },
+  "PublicBuilding_Pillory_DisplayName_plural": {
+    "en": "Pillories",
+    "uk": "Ганебні стовпи"
+  },
+  "PublicBuilding_Pillory_III_DisplayName": {
+    "en": "Pillory",
+    "uk": "Ганебний стовп"
+  },
+  "PublicBuilding_Pillory_II_DisplayName": {
+    "en": "Pillory",
+    "uk": "Ганебний стовп"
+  },
+  "PublicBuilding_Pillory_I_DisplayName": {
+    "en": "Pillory",
+    "uk": "Ганебний стовп"
+  },
+  "PublicBuilding_Prison_Description": {
+    "en": "A secure facility for detaining those who disrupt the peace and order of the city.",
+    "uk": "Надійна споруда для тримання тих, хто порушує спокій і лад міста."
+  },
   "PublicBuilding_Prison_DisplayName": {
     "en": "Prison",
     "uk": "В'язниця"
   },
+  "PublicBuilding_Prison_DisplayName_plural": {
+    "en": "Prisons",
+    "uk": "В'язниці"
+  },
+  "PublicBuilding_Prison_III_DisplayName": {
+    "en": "City Prison",
+    "uk": "Міська в'язниця"
+  },
   "PublicBuilding_Prison_II_DisplayName": {
     "en": "Prison",
+    "uk": "В'язниця"
+  },
+  "PublicBuilding_Prison_I_DisplayName": {
+    "en": "Gaol",
     "uk": "В'язниця"
   },
   "PublicBuilding_PublicBathhouse_Description": {
     "en": "TBD",
     "uk": "TBD"
   },
+  "PublicBuilding_PublicBathhouse_DisplayName": {
+    "en": "Public Bathhouse",
+    "uk": "Громадські лазні"
+  },
+  "PublicBuilding_PublicBathhouse_DisplayName_plural": {
+    "en": "Public Bathhouses",
+    "uk": "Громадські лазні"
+  },
+  "PublicBuilding_PublicBathhouse_III_DisplayName": {
+    "en": "Grand Bathhouse",
+    "uk": "Великі лазні"
+  },
+  "PublicBuilding_PublicBathhouse_II_DisplayName": {
+    "en": "Public Bathhouse",
+    "uk": "Громадські лазні"
+  },
+  "PublicBuilding_PublicBathhouse_I_DisplayName": {
+    "en": "Bathhouse",
+    "uk": "Лазня"
+  },
+  "PublicBuilding_Rostrum_Description": {
+    "en": "The stage where officials speak and bards perform.",
+    "uk": "Поміст, звідки промовляють урядники й виступають барди."
+  },
   "PublicBuilding_Rostrum_DisplayName": {
     "en": "Rostrum",
     "uk": "Трибуна"
+  },
+  "PublicBuilding_Rostrum_DisplayName_plural": {
+    "en": "Rostra",
+    "uk": "Трибуни"
+  },
+  "PublicBuilding_Rostrum_III_DisplayName": {
+    "en": "Grand Rostrum",
+    "uk": "Велика трибуна"
   },
   "PublicBuilding_Rostrum_II_DisplayName": {
     "en": "Rostrum",
     "uk": "Трибуна"
   },
+  "PublicBuilding_Rostrum_I_DisplayName": {
+    "en": "Speaker's Platform",
+    "uk": "Трибуна промовця"
+  },
   "PublicBuilding_Sewers_Description": {
     "en": "TBD",
     "uk": "TBD"
+  },
+  "PublicBuilding_Sewers_DisplayName": {
+    "en": "Sewers",
+    "uk": "Стічні канали"
+  },
+  "PublicBuilding_Sewers_DisplayName_plural": {
+    "en": "Sewers",
+    "uk": "Стічні канали"
+  },
+  "PublicBuilding_Sewers_III_DisplayName": {
+    "en": "Sewer Network",
+    "uk": "Мережа стічних каналів"
+  },
+  "PublicBuilding_Sewers_II_DisplayName": {
+    "en": "Sewers",
+    "uk": "Стічні канали"
+  },
+  "PublicBuilding_Sewers_I_DisplayName": {
+    "en": "Drains",
+    "uk": "Стоки"
   },
   "PublicBuilding_SovereignsSeat_Description": {
     "en": "TBD",
@@ -99,36 +1591,236 @@
     "en": "TBD",
     "uk": "TBD"
   },
+  "PublicBuilding_TownHall_Description": {
+    "en": "The center of governance, where leaders gather to discuss the city's political matters and shape its future.",
+    "uk": "Осередок урядування, де міські очільники обговорюють політичні справи міста й формують його майбутнє."
+  },
   "PublicBuilding_TownHall_DisplayName": {
     "en": "Town Hall",
     "uk": "Ратуша"
+  },
+  "PublicBuilding_TownHall_DisplayName_plural": {
+    "en": "Town Halls",
+    "uk": "Ратуші"
+  },
+  "PublicBuilding_TownHall_III_DisplayName": {
+    "en": "Grand Town Hall",
+    "uk": "Велика ратуша"
   },
   "PublicBuilding_TownHall_II_DisplayName": {
     "en": "Town Hall",
     "uk": "Ратуша"
   },
+  "PublicBuilding_TownHall_I_DisplayName": {
+    "en": "Council House",
+    "uk": "Дім ради"
+  },
   "PublicBuilding_TownsGate_Description": {
     "en": "TBD",
     "uk": "TBD"
+  },
+  "PublicBuilding_TownsGate_DisplayName": {
+    "en": "Town's Gate",
+    "uk": "Міська брама"
+  },
+  "PublicBuilding_TownsGate_DisplayName_plural": {
+    "en": "Town's Gates",
+    "uk": "Міські брами"
   },
   "PublicBuilding_University_Description": {
     "en": "TBD",
     "uk": "TBD"
   },
+  "PublicBuilding_University_DisplayName": {
+    "en": "University",
+    "uk": "Університет"
+  },
+  "PublicBuilding_University_DisplayName_plural": {
+    "en": "Universities",
+    "uk": "Університети"
+  },
+  "PublicBuilding_University_III_DisplayName": {
+    "en": "University",
+    "uk": "Університет"
+  },
+  "PublicBuilding_University_II_DisplayName": {
+    "en": "College",
+    "uk": "Колегія"
+  },
+  "PublicBuilding_University_I_DisplayName": {
+    "en": "Schoolhouse",
+    "uk": "Школа"
+  },
+  "PublicBuilding_Well_Description": {
+    "en": "Every town needs a well. Folk whisper it's also a portal — and best not to shout into it, or you may not like what shouts back.",
+    "uk": "Кожному місту потрібен колодязь. Люд шепоче, що це ще й портал — і краще в нього не кричати, бо не сподобається, що відгукнеться."
+  },
   "PublicBuilding_Well_DisplayName": {
     "en": "Well",
     "uk": "Колодязь"
+  },
+  "PublicBuilding_Well_DisplayName_plural": {
+    "en": "Wells",
+    "uk": "Колодязі"
+  },
+  "PublicBuilding_Well_III_DisplayName": {
+    "en": "Roofed Well",
+    "uk": "Критий колодязь"
+  },
+  "PublicBuilding_Well_II_DisplayName": {
+    "en": "Stone Well",
+    "uk": "Кам'яний колодязь"
+  },
+  "PublicBuilding_Well_I_DisplayName": {
+    "en": "Simple Well",
+    "uk": "Простий колодязь"
+  },
+  "PublicBuilding_WorkersAccommodation_Description": {
+    "en": "Simple accommodations for laborers, close to their place of work and daily necessities.",
+    "uk": "Прості оселі для наймитів, поблизу їхнього місця праці й повсякденних потреб."
+  },
+  "PublicBuilding_WorkersAccommodation_DisplayName": {
+    "en": "Workers' House",
+    "uk": "Дім працівників"
+  },
+  "PublicBuilding_WorkersAccommodation_DisplayName_plural": {
+    "en": "Workers' Houses",
+    "uk": "Доми працівників"
+  },
+  "PublicBuilding_WorkersAccommodation_III_DisplayName": {
+    "en": "Workers' Quarters",
+    "uk": "Житло працівників"
+  },
+  "PublicBuilding_WorkersAccommodation_II_DisplayName": {
+    "en": "Workers' House",
+    "uk": "Дім працівників"
+  },
+  "PublicBuilding_WorkersAccommodation_I_DisplayName": {
+    "en": "Workers' Lodgings",
+    "uk": "Помешкання працівників"
   },
   "Requirement_BuildingOwnership_Description": {
     "en": "TBD",
     "uk": "TBD"
   },
+  "Requirement_BuildingOwnership_DisplayName": {
+    "en": "Building Ownership",
+    "uk": "Володіння будівлею"
+  },
+  "Requirement_Upgrade_BuildingLevel_1": {
+    "en": "Building I",
+    "uk": "Будівля I"
+  },
+  "Requirement_Upgrade_BuildingLevel_2": {
+    "en": "Building II",
+    "uk": "Будівля II"
+  },
+  "Requirement_Upgrade_BuildingLevel_3": {
+    "en": "Building III",
+    "uk": "Будівля III"
+  },
+  "Residence_House_Description": {
+    "en": "A humble home providing comfort and security for its inhabitants.",
+    "uk": "Скромна оселя, що дає мешканцям затишок і безпеку."
+  },
+  "Residence_House_DisplayName": {
+    "en": "House",
+    "uk": "Дім"
+  },
+  "Residence_House_II_DisplayName": {
+    "en": "Townhouse",
+    "uk": "Міський дім"
+  },
+  "Residence_House_I_DisplayName": {
+    "en": "Cottage",
+    "uk": "Хатина"
+  },
+  "Residence_Villa_Description": {
+    "en": "A lavish residence for the wealthy, offering comfort and prestige.",
+    "uk": "Розкішна оселя для заможних, що дарує комфорт і престиж."
+  },
   "Residence_Villa_DisplayName": {
     "en": "Villa",
     "uk": "Вілла"
   },
+  "Residence_Villa_II_DisplayName": {
+    "en": "Mansion",
+    "uk": "Особняк"
+  },
+  "Residence_Villa_I_DisplayName": {
+    "en": "Patrician House",
+    "uk": "Патриціанський дім"
+  },
+  "StartingBuildings_Description": {
+    "en": "The exact location will be assigned at the start.",
+    "uk": "Точне розташування буде призначене на початку."
+  },
+  "StartingBuildings_DisplayName": {
+    "en": "Starting Properties",
+    "uk": "Початкові володіння"
+  },
+  "Storage_Description": {
+    "en": "A secure spot for storing goods, keeping them organized and ready for {A_ACT_CRA_C}crafting{##}.",
+    "uk": "Надійне місце для зберігання товарів, де вони впорядковані й готові для {A_ACT_CRA_C}виготовлення{##}."
+  },
+  "Storage_DisplayName": {
+    "en": "Storage",
+    "uk": "Комора"
+  },
+  "StorefrontRevenue_Description": {
+    "en": "Coin earned from {B_PARAM_ATT_C}customers{##} buying directly from the business {B_STOFRO_C}storefront{##}.",
+    "uk": "Гроші, зароблені від {B_PARAM_ATT_C}покупців{##}, які купують безпосередньо в {B_STOFRO_C}крамниці{##} справи."
+  },
+  "StorefrontRevenue_Description_extra1": {
+    "en": "Well-served customers leave in good spirits, and reward you with a little extra — a {PM_STOREV_C}coin of appreciation{##}.",
+    "uk": "Задоволені покупці йдуть у доброму гуморі й винагороджують Вас невеликим додатком — {PM_STOREV_C}монетою вдячності{##}."
+  },
+  "StorefrontRevenue_DisplayName": {
+    "en": "Storefront Revenue",
+    "uk": "Виручка крамниці"
+  },
+  "Storefront_Description": {
+    "en": "In the storefront, items are displayed for sale, with {B_PARAM_ATT_C}Customer Appeal{##} attracting buyers during opening hours.\n\nSelling at the {B_PUB_MKT_C}Marketplace{##} usually yields higher profit, while storefront sales cut cart {B_HP_C}repair{##} costs and the {CAR_CHANATT_C}risk of waylaying{##}.",
+    "uk": "У крамниці товари виставлені на продаж, а {B_PARAM_ATT_C}привабливість для покупців{##} заманює їх у робочі години.\n\nПродаж на {B_PUB_MKT_C}ринку{##} зазвичай приносить більший зиск, тоді як продаж у крамниці скорочує витрати на {B_HP_C}ремонт{##} воза та {CAR_CHANATT_C}ризик нападу{##}."
+  },
+  "Storefront_DisplayName": {
+    "en": "Storefront",
+    "uk": "Крамниця"
+  },
+  "StoreroomSlots_Count": {
+    "en": "{NumStorage} {B_STOROO_C}{NumStorage}|plural(one=storeroom slot,other=storeroom slots){##}",
+    "uk": "{NumStorage} {B_STOROO_C}{NumStorage}|plural(one=місце в коморі,few=місця в коморі,many=місць у коморі,other=місця в коморі){##}"
+  },
+  "Storeroom_Description": {
+    "en": "The storeroom serves as a multifunctional hub for storage, storefront display, cart loading/unloading, and inventory management.",
+    "uk": "Комора слугує багатофункціональним центром для зберігання, виставлення товарів у крамниці, завантаження й розвантаження воза та керування запасами."
+  },
+  "Storeroom_DisplayName": {
+    "en": "Storeroom",
+    "uk": "Комора"
+  },
+  "TemporaryHighlight_Instruction": {
+    "en": "Hold Alt to temporarily highlight all buildings.",
+    "uk": "Утримуйте Alt, щоб тимчасово підсвітити всі будівлі."
+  },
   "Trade_DisplayName": {
     "en": "Trade",
     "uk": "Торгівля"
+  },
+  "Upgrade_Description": {
+    "en": "Most buildings can be upgraded up to three levels.\nEach new level unlocks additional actions, improvements, and new possibilities.",
+    "uk": "Більшість будівель можна вдосконалити до трьох рівнів.\nКожен новий рівень відкриває додаткові дії, покращення та нові можливості."
+  },
+  "Upgrade_DisplayName": {
+    "en": "Upgrade",
+    "uk": "Поліпшення"
+  },
+  "Upgraded_Fully_Label": {
+    "en": "Fully upgraded",
+    "uk": "Повністю вдосконалено"
+  },
+  "WreckedCaravan_DisplayName": {
+    "en": "Wrecked Caravan",
+    "uk": "Розбитий караван"
   }
 }

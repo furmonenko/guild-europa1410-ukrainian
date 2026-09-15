@@ -1,0 +1,702 @@
+{
+  " BuildingAttractiveness_DisplayName": {
+    "en": "Shop Signs",
+    "uk": "Вивіски крамниць"
+  },
+  " BuildingAttractiveness_DisplayName_Inn": {
+    "en": "Inn Signs",
+    "uk": "Вивіски шинку"
+  },
+  "AccidentProtection_DisplayName": {
+    "en": "Safety Measures",
+    "uk": "Заходи безпеки"
+  },
+  "AccomodationsII_Description": {
+    "en": "Lets you have more affairs",
+    "uk": "Дозволяє більше любовних зв’язків"
+  },
+  "AccomodationsI_Description": {
+    "en": "Unlocks affairs",
+    "uk": "Відкриває любовні зв’язки"
+  },
+  "Accomodations_DisplayName": {
+    "en": "Accommodations",
+    "uk": "Спальні покої"
+  },
+  "ActionAccessPoint_Instruction": {
+    "en": "The action will be available directly from the object.",
+    "uk": "Дію можна буде виконати прямо на об’єкті."
+  },
+  "AdditionalEmployee_Description": {
+    "en": "Lets you hire one more worker",
+    "uk": "Дозволяє найняти ще одного працівника"
+  },
+  "AdditionalEmployee_DisplayName": {
+    "en": "Workforce",
+    "uk": "Робоча сила"
+  },
+  "AdditionalGatheringAnimalIngredient_DisplayName": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "AdditionalGatheringBotanicalIngredient_DisplayName": {
+    "en": "Useful Greens",
+    "uk": "Корисна зелень"
+  },
+  "AdditionalGatheringIngredient_Description": {
+    "en": "Lets you gather {item}",
+    "uk": "Дозволяє зібрати {item}"
+  },
+  "AdditionalGatheringIngredient_DisplayName": {
+    "en": "Additional Gathering Ingredient",
+    "uk": "Додатковий інгредієнт для збору"
+  },
+  "AdditionalRecipe_Description": {
+    "en": "Unlocks the {item} recipe",
+    "uk": "Відкриває рецепт {item}"
+  },
+  "AdditionalRecipe_DisplayName": {
+    "en": "New Craft",
+    "uk": "Нове ремесло"
+  },
+  "AdditionalStorage_Description": {
+    "en": "Adds one {B_STOROO_C}storeroom{##} slot",
+    "uk": "Додає один слот {B_STOROO_C}комори{##}"
+  },
+  "AdditionalStorage_DisplayName": {
+    "en": "Extra Storeroom",
+    "uk": "Додаткова комора"
+  },
+  "AdditionalStorage_alt_01_DisplayName": {
+    "en": "Shelves",
+    "uk": "Полиці"
+  },
+  "AdditionalStorage_alt_02_DisplayName": {
+    "en": "More Shelves",
+    "uk": "Ще полиці"
+  },
+  "AdditionalStorage_alt_03_DisplayName": {
+    "en": "Shelves, Again",
+    "uk": "Знову полиці"
+  },
+  "AdditionalStorage_alt_04_DisplayName": {
+    "en": "Extra Shelves",
+    "uk": "Додаткові полиці"
+  },
+  "AdditionalStorage_alt_05_DisplayName": {
+    "en": "Shelves Everywhere",
+    "uk": "Полиці всюди"
+  },
+  "AdditionalStorage_alt_06_DisplayName": {
+    "en": "Every Wall a Shelf",
+    "uk": "Кожна стіна — полиця"
+  },
+  "AdditionalStorefront_Description": {
+    "en": "Adds one {B_STOFRO_C}storefront{##} slot",
+    "uk": "Додає один слот {B_STOFRO_C}крамниці{##}"
+  },
+  "AdditionalStorefront_DisplayName": {
+    "en": "Sales Counter",
+    "uk": "Прилавок для продажу"
+  },
+  "BarPodium_Description": {
+    "en": "Unlocks {A_ACT_LIVPER_C}put on a show{##}",
+    "uk": "Відкриває {A_ACT_LIVPER_C}виступ на сцені{##}"
+  },
+  "BarPodium_DisplayName": {
+    "en": "Bar Podium",
+    "uk": "Поміст шинку"
+  },
+  "Bell _DisplayName": {
+    "en": "Bell",
+    "uk": "Дзвін"
+  },
+  "BetterBedsForWorkers_DisplayName": {
+    "en": "Straw Mattresses",
+    "uk": "Солом'яні матраци"
+  },
+  "BetterBeds_Description": {
+    "en": "{CV_({Value})} {CHAR_ENE_C}Energy{##} at the start of the turn",
+    "uk": "{CV_({Value})} {CHAR_ENE_C}Енергії{##} на початку ходу"
+  },
+  "BetterBeds_DisplayName": {
+    "en": "Rope Bed",
+    "uk": "Ліжко з мотузок"
+  },
+  "BetterPriestClothesIII_Description": {
+    "en": "When {A_ACT_PASVIS_C}giving absolution{##}:\n{CV_({Value})} {CHAR_AP}, if successful",
+    "uk": "Коли {A_ACT_PASVIS_C}відпускаєте гріхи{##}:\n{CV_({Value})} {CHAR_AP}, у разі успіху"
+  },
+  "BetterPriestClothesII_Description": {
+    "en": "When {A_ACT_PASVIS_C}giving absolution{##}:\n{CV_({Value})} {CHAR_PRO}",
+    "uk": "Коли {A_ACT_PASVIS_C}відпускаєте гріхи{##}:\n{CV_({Value})} {CHAR_PRO}"
+  },
+  "BetterPriestClothesI_Description": {
+    "en": "Unlocks {A_ACT_PASVIS_C}give absolution{##}",
+    "uk": "Відкриває {A_ACT_PASVIS_C}відпустити гріхи{##}"
+  },
+  "BetterPriestClothes_DisplayName": {
+    "en": "Clerical Vestments",
+    "uk": "Церковні ризи"
+  },
+  "BlackenSomeonesName_Description": {
+    "en": "Unlocks the ability to {A_BLANAM_C}blacken someone's name{##}",
+    "uk": "Відкриває можливість {A_BLANAM_C}зганьбити чиєсь ім’я{##}"
+  },
+  "BlackenSomeonesName_DisplayName": {
+    "en": "Defamation Ledger",
+    "uk": "Книга наклепів"
+  },
+  "BonusYieldChance_Description": {
+    "en": "When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} chance to double the yield",
+    "uk": "Коли {A_ACT_GATING_C}шукаєте інгредієнти{##}:\n{CV_({Value})} шанс подвоїти здобич"
+  },
+  "BonusYieldChance_DisplayName": {
+    "en": "Lucky Yield",
+    "uk": "Щасливий здобуток"
+  },
+  "Bribe_Description": {
+    "en": "Unlocks the ability to {A_BRI_C}bribe{##} others",
+    "uk": "Відкриває можливість {A_BRI_C}підкупити{##} інших"
+  },
+  "Bribe_DisplayName": {
+    "en": "Purse of Persuasion",
+    "uk": "Гаманець переконання"
+  },
+  "BurglaryProtection_DisplayName": {
+    "en": "Reinforced Defenses",
+    "uk": "Посилений захист"
+  },
+  "Camouflage_Description": {
+    "en": "{#green}{Value}{##} chance to be detected by a {A_ACT_GUAPAT_C}guard patrol{##}",
+    "uk": "{#green}{Value}{##} шанс бути виявленим {A_ACT_GUAPAT_C}вартовим патрулем{##}"
+  },
+  "Camouflage_DisplayName": {
+    "en": "Camouflage",
+    "uk": "Маскування"
+  },
+  "CheaperRepairs_Description": {
+    "en": "Lowers {B_HP_C}repair{##} costs by {value}",
+    "uk": "Знижує вартість {B_HP_C}ремонту{##} на {value}"
+  },
+  "CheaperRepairs_DisplayName": {
+    "en": "Cheaper Repairs",
+    "uk": "Дешевший ремонт"
+  },
+  "ChooseImprovement_Prompt": {
+    "en": "Only one improvement can be built here. Choose which one.",
+    "uk": "Тут можна побудувати лише одне покращення. Оберіть, яке саме."
+  },
+  "ChooseImprovement_Prompt_shorter": {
+    "en": "Choose one improvement.",
+    "uk": "Оберіть одне покращення."
+  },
+  "CreateLampoon_Description": {
+    "en": "Unlocks the ability to create {A_WRILAM_C}lampoons{##}",
+    "uk": "Відкриває можливість створювати {A_WRILAM_C}пасквілі{##}"
+  },
+  "CreateLampoon_DisplayName": {
+    "en": "Satire Stand",
+    "uk": "Стіл сатирика"
+  },
+  "CrossII_Description": {
+    "en": "Forgives one {CR_SEV_C}minor crime{##} every {C_TRN_C}turn{##}",
+    "uk": "Пробачає один {CR_SEV_C}дрібний злочин{##} кожен {C_TRN_C}хід{##}"
+  },
+  "CrossI_Description": {
+    "en": "Forgives one {CR_SEV_C}trivial crime{##} every {C_TRN_C}turn{##}",
+    "uk": "Пробачає один {CR_SEV_C}незначний злочин{##} кожен {C_TRN_C}хід{##}"
+  },
+  "Cross_DisplayName": {
+    "en": "Cross",
+    "uk": "Хрест"
+  },
+  "DarkCornerII_Description": {
+    "en": "When {A_ACT_FINEVIFROWOR_C}eavesdropping on customers{##}:\n{CV_({Value})} {CHAR_PRO}",
+    "uk": "Коли {A_ACT_FINEVIFROWOR_C}підслуховуєте покупців{##}:\n{CV_({Value})} {CHAR_PRO}"
+  },
+  "DarkCornerI_Description": {
+    "en": "Unlocks {A_ACT_FINEVIFROWOR_C}eavesdrop on customers{##}",
+    "uk": "Відкриває {A_ACT_FINEVIFROWOR_C}підслухати покупців{##}"
+  },
+  "DarkCorner_DisplayName": {
+    "en": "Dark Corner",
+    "uk": "Темний закуток"
+  },
+  "Decorations_DisplayName": {
+    "en": "Adornments",
+    "uk": "Оздоблення"
+  },
+  "EfficiencyGathering _Description": {
+    "en": "When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} faster gathering",
+    "uk": "Коли {A_ACT_GATING_C}шукаєте інгредієнти{##}:\n{CV_({Value})} швидший збір"
+  },
+  "EfficiencyGathering _DisplayName": {
+    "en": "Quick Harvest",
+    "uk": "Швидкий врожай"
+  },
+  "EnterBuildingForImprovements_Instruction": {
+    "en": "Step inside to install improvements.",
+    "uk": "Зайдіть всередину, щоб додати покращення."
+  },
+  "ExtraCell_Description": {
+    "en": "Adds one extra cell",
+    "uk": "Додає ще одну камеру"
+  },
+  "ExtraCell_DisplayName": {
+    "en": "Extra Cell",
+    "uk": "Додаткова камера"
+  },
+  "Feast_Description": {
+    "en": "Unlocks the ability to {A_INVDIN_C}invite to dinner{##}",
+    "uk": "Відкриває можливість {A_INVDIN_C}запросити на вечерю{##}"
+  },
+  "Feast_DisplayName": {
+    "en": "Feastmaster's Table",
+    "uk": "Стіл бенкетника"
+  },
+  "GameTable_Description": {
+    "en": "Unlocks {A_ACT_TRALIVPER_C}rehearse{##}",
+    "uk": "Відкриває {A_ACT_TRALIVPER_C}репетирувати{##}"
+  },
+  "GameTable_DisplayName": {
+    "en": "Improv Corner",
+    "uk": "Закуток для імпровізацій"
+  },
+  "GatherAnimalIngredients_Description": {
+    "en": "When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} {item}",
+    "uk": "Коли {A_ACT_GATING_C}шукаєте інгредієнти{##}:\n{CV_({Value})} {item}"
+  },
+  "GatherAnimalIngredients_DisplayName": {
+    "en": "Fresh Stock",
+    "uk": "Свіжі запаси"
+  },
+  "GatherBotanicalIngredients_Description": {
+    "en": "When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} {item}",
+    "uk": "Коли {A_ACT_GATING_C}шукаєте інгредієнти{##}:\n{CV_({Value})} {item}"
+  },
+  "GatherBotanicalIngredients_DisplayName": {
+    "en": "Garden Beds",
+    "uk": "Грядки"
+  },
+  "GuestRevenue_DisplayName": {
+    "en": "Charming Staff",
+    "uk": "Привітна челядь"
+  },
+  "HaveAChat_Description": {
+    "en": "Unlocks the ability to {A_ACT_HAVCHA_C}have a chat{##}",
+    "uk": "Відкриває можливість {A_ACT_HAVCHA_C}побалакати{##}"
+  },
+  "HaveAChat_DisplayName": {
+    "en": "Comfortable Couch",
+    "uk": "Зручна лавка"
+  },
+  "Heating_DisplayName": {
+    "en": "Hearth",
+    "uk": "Вогнище"
+  },
+  "HidingSpotII_Description": {
+    "en": "Adds a hidden compartment for storing items",
+    "uk": "Додає таємне сховище для предметів"
+  },
+  "HidingSpotI_Description": {
+    "en": "Allows you to stash money in the cellar",
+    "uk": "Дозволяє сховати гроші в підвалі"
+  },
+  "HidingSpot_DisplayName": {
+    "en": "Hiding Spot",
+    "uk": "Таємне сховище"
+  },
+  "HostageControlII_Description": {
+    "en": "{#green}{Value}{##} chance for prisoner to escape",
+    "uk": "{#green}{Value}{##} шанс, що бранець утече"
+  },
+  "HostageControlI_Description": {
+    "en": "{#green}{Value}{##} chance for prisoner to die",
+    "uk": "{#green}{Value}{##} шанс, що бранець помре"
+  },
+  "HostageControl_DisplayName": {
+    "en": "Hostage Control",
+    "uk": "Утримання бранців"
+  },
+  "Hygiene_DisplayName": {
+    "en": "Wash Station",
+    "uk": "Місце для миття"
+  },
+  "ImproveBuilding_Description": {
+    "en": "Unlocks the service to {A_ACT_IMPSTR_C}improve structure{##}",
+    "uk": "Відкриває послугу {A_ACT_IMPSTR_C}поліпшити будівлю{##}"
+  },
+  "ImproveBuilding_DisplayName": {
+    "en": "Master Builder's Tools",
+    "uk": "Інструменти майстра-будівника"
+  },
+  "ImproveCarts_Description": {
+    "en": "Unlocks the service to {A_ACT_IMPCAR_C}improve carts{##}",
+    "uk": "Відкриває послугу {A_ACT_IMPCAR_C}поліпшити віз{##}"
+  },
+  "ImproveCarts_DisplayName": {
+    "en": "Wheel Reinforcement Set",
+    "uk": "Набір для зміцнення коліс"
+  },
+  "ImproveCombat_Description": {
+    "en": "Unlocks the ability to improve {S_COM_C}martial{##} skills",
+    "uk": "Дозволяє покращувати {S_COM_C}бойові навички{##}"
+  },
+  "ImproveCombat_DisplayName": {
+    "en": "Weapon Rack",
+    "uk": "Стійка для зброї"
+  },
+  "ImproveHUB_Description": {
+    "en": "Unlocks the service to {A_ACT_IMPQUA_C}improve quarter{##}",
+    "uk": "Відкриває послугу {A_ACT_IMPQUA_C}поліпшити квартал{##}"
+  },
+  "ImproveHUB_DisplayName": {
+    "en": "Street Paving Kit",
+    "uk": "Набір для бруківки"
+  },
+  "ImproveHandicraft_Description": {
+    "en": "Unlocks the ability to improve {S_HAN_C}handicraft{##} skills",
+    "uk": "Дозволяє покращувати навички {S_HAN_C}ремесла{##}"
+  },
+  "ImproveHandicraft_DisplayName": {
+    "en": "Artisan's Toolbox",
+    "uk": "Скринька ремісника"
+  },
+  "ImproveNegotiation_Description": {
+    "en": "Unlocks the ability to improve {S_NEG_C}negotiation{##} skills",
+    "uk": "Дозволяє покращувати навички {S_NEG_C}торгу{##}"
+  },
+  "ImproveNegotiation_DisplayName": {
+    "en": "Negotiator's Seal",
+    "uk": "Печатка торговця"
+  },
+  "ImproveRhetoric_Description": {
+    "en": "Unlocks the ability to improve {S_RHE_C}rhetoric{##} skills",
+    "uk": "Дозволяє покращувати навички {S_RHE_C}красномовства{##}"
+  },
+  "ImproveRhetoric_DisplayName": {
+    "en": "Scroll of Fine Words",
+    "uk": "Сувій добірних слів"
+  },
+  "ImproveStealth_Description": {
+    "en": "Unlocks the ability to improve {S_STE_C}roguery{##} skills",
+    "uk": "Дозволяє покращувати навички {S_STE_C}шахрайства{##}"
+  },
+  "ImproveStealth_DisplayName": {
+    "en": "Trickster's Box",
+    "uk": "Скринька шахрая"
+  },
+  "ImprovedPreaching_Description": {
+    "en": "When performing a {A_ACT_HOLSTRSER_C}street sermon{##}:\n{CV_({Value})} {CHAR_PRO}",
+    "uk": "Під час {A_ACT_HOLSTRSER_C}вуличної проповіді{##}:\n{CV_({Value})} {CHAR_PRO}"
+  },
+  "ImprovedPreaching_DisplayName": {
+    "en": "Improved Preaching",
+    "uk": "Поліпшена проповідь"
+  },
+  "ImprovedStanding_Description": {
+    "en": "Every turn:\n{CV_({Value})} {CHAR_STA_C}workers' opinion{##} of you",
+    "uk": "Щоходу:\n{CV_({Value})} {CHAR_STA_C}прихильність працівників{##} до Вас"
+  },
+  "ImprovedStanding_DisplayName": {
+    "en": "Worker Amenities",
+    "uk": "Пільги для працівників"
+  },
+  "Improved_Fully_Label": {
+    "en": "Fully improved",
+    "uk": "Повністю покращено"
+  },
+  "Improvement_Description": {
+    "en": "Improvements refine your buildings — unlocking new actions, expanding capacity, and improving efficiency, safety, and other capabilities.",
+    "uk": "Покращення вдосконалюють Ваші будівлі — відкривають нові дії, збільшують місткість і підвищують продуктивність, безпеку та інші можливості."
+  },
+  "Improvement_DisplayName": {
+    "en": "Improvement",
+    "uk": "Покращення"
+  },
+  "Improvement_DisplayName_plural": {
+    "en": "Improvements",
+    "uk": "Покращення"
+  },
+  "Infirmary_Description": {
+    "en": "{CV_({Value})} faster recovery when {ST_INJ_C}injured{##}",
+    "uk": "{CV_({Value})} швидше відновлення при {ST_INJ_C}пораненні{##}"
+  },
+  "Infirmary_DisplayName": {
+    "en": "Infirmary",
+    "uk": "Лікарня"
+  },
+  "Inspection_Description": {
+    "en": "Unlocks {A_ACT_INSBUS_C}inspect business{##}",
+    "uk": "Відкриває {A_ACT_INSBUS_C}перевірити справу{##}"
+  },
+  "Inspection_DisplayName": {
+    "en": "Map of Holdings",
+    "uk": "Карта володінь"
+  },
+  "InstrumentsII_Description": {
+    "en": "Musical instruments are twice as effective at {A_INVDIN_C}dinners{##}",
+    "uk": "Музичні інструменти вдвічі ефективніші на {A_INVDIN_C}вечерях{##}"
+  },
+  "InstrumentsI_Description": {
+    "en": "Unlocks musical instruments for {A_INVDIN_C}dinners{##}",
+    "uk": "Відкриває музичні інструменти для {A_INVDIN_C}вечер{##}"
+  },
+  "Instruments_DisplayName": {
+    "en": "Instruments",
+    "uk": "Інструменти"
+  },
+  "IronBars_Description": {
+    "en": "Unlocks the service to {A_ACT_STRBAR_C}reinforce security{##}",
+    "uk": "Відкриває послугу {A_ACT_STRBAR_C}посилити охорону{##}"
+  },
+  "IronBars_DisplayName": {
+    "en": "Iron Bars",
+    "uk": "Залізні ґрати"
+  },
+  "LargerBar_Description": {
+    "en": "When {A_ACT_WORINN_C}working at the bar{##}:\n{CV_({Value})} {CHAR_PRO}",
+    "uk": "Коли {A_ACT_WORINN_C}працюєте за шинквасом{##}:\n{CV_({Value})} {CHAR_PRO}"
+  },
+  "LargerBar_DisplayName": {
+    "en": "Larger Bar",
+    "uk": "Більший шинквас"
+  },
+  "LeadershipTraining_Description": {
+    "en": "Unlocks Leadership Training",
+    "uk": "Відкриває навчання лідерству"
+  },
+  "LeadershipTraining_DisplayName": {
+    "en": "Leadership Training",
+    "uk": "Навчання лідерству"
+  },
+  "NightSkill_Description": {
+    "en": "{CV_({Value})} {S_STE_C}roguery{##} out of {WORHOU_C}working hours{##}",
+    "uk": "{CV_({Value})} {S_STE_C}шахрайства{##} поза {WORHOU_C}робочими годинами{##}"
+  },
+  "NightSkill_DisplayName": {
+    "en": "Night Skill",
+    "uk": "Нічний хист"
+  },
+  "PatrolDetection_Description": {
+    "en": "During a {A_ACT_GUAPAT_C}patrol{##}:\n{CV_({Value})} chance to detect {P_THI_C}thieves{##} and {P_ROB_C}robbers{##}",
+    "uk": "Під час {A_ACT_GUAPAT_C}патрулювання{##}:\n{CV_({Value})} шанс виявити {P_THI_C}злодіїв{##} і {P_ROB_C}розбійників{##}"
+  },
+  "PatrolDetection_DisplayName": {
+    "en": "Patrol Detection",
+    "uk": "Пильний погляд"
+  },
+  "PestControl_Description": {
+    "en": "Unlocks the service to {A_ACT_PESCON_C}pest control{##}",
+    "uk": "Відкриває послугу {A_ACT_PESCON_C}боротьби зі шкідниками{##}"
+  },
+  "PestControl_DisplayName": {
+    "en": "Pest Control",
+    "uk": "Боротьба зі шкідниками"
+  },
+  "PickpocketTactics_Description": {
+    "en": "When {A_ACT_PICPOC_C}pickpocketing{##}:\n{CV_({Value})} {CHAR_MON}",
+    "uk": "Під час {A_ACT_PICPOC_C}кишенькової крадіжки{##}:\n{CV_({Value})} {CHAR_MON}"
+  },
+  "PickpocketTactics_DisplayName": {
+    "en": "Pickpocket Tactics",
+    "uk": "Кишенькова тактика"
+  },
+  "Portal_DisplayName": {
+    "en": "Portal",
+    "uk": "Портал"
+  },
+  "PrayingShrineIIAlt_Description": {
+    "en": "When {A_PRAOTH_C}praying for others{##}:\n{#green}{Value}{##} {CHAR_AP} cost",
+    "uk": "Під час {A_PRAOTH_C}молитви за інших{##}:\n{#green}{Value}{##} до вартості {CHAR_AP}"
+  },
+  "PrayingShrineII_Description": {
+    "en": "When {A_PRAOTH_C}praying for others{##}:\n{#green}{Value}{##} {CHAR_ENE} cost",
+    "uk": "Під час {A_PRAOTH_C}молитви за інших{##}:\n{#green}{Value}{##} до вартості {CHAR_ENE}"
+  },
+  "PrayingShrineI_Description": {
+    "en": "Unlocks {A_PRAOTH_C}pray for others{##}",
+    "uk": "Відкриває {A_PRAOTH_C}молитву за інших{##}"
+  },
+  "PrayingShrine_DisplayName": {
+    "en": "Side Altar",
+    "uk": "Бічний вівтар"
+  },
+  "PreachingBible_Description": {
+    "en": "Unlocks {A_ACT_HOLSTRSER_C}street sermon{##}",
+    "uk": "Відкриває {A_ACT_HOLSTRSER_C}вуличну проповідь{##}"
+  },
+  "PreachingBible_DisplayName": {
+    "en": "Holy Scripture",
+    "uk": "Святе Письмо"
+  },
+  "ProductivityBonus_DisplayName": {
+    "en": "Proper Tools",
+    "uk": "Належні інструменти"
+  },
+  "RegularsTable_Description": {
+    "en": "The regulars' table serves more than ale. Customers pay handsomely for the {CR_EVI_C}gossip{##} shared over its cups.",
+    "uk": "За столом завсідників подають не лише ель. Гості щедро платять за {CR_EVI_C}чутки{##}, якими діляться над кухлями."
+  },
+  "RegularsTable_DisplayName": {
+    "en": "Regulars' Table",
+    "uk": "Стіл завсідників"
+  },
+  "Sabotage_Description": {
+    "en": "Unlocks the ability to {A_SAB_C}sabotage{##} buildings",
+    "uk": "Відкриває можливість {A_SAB_C}саботувати{##} будівлі"
+  },
+  "Sabotage_DisplayName": {
+    "en": "Calamity Bucket",
+    "uk": "Відро лиха"
+  },
+  "ScentEnhancement_Description": {
+    "en": "Unlocks the service to {A_ACT_SCEENH_C}scent enhancement{##}",
+    "uk": "Відкриває послугу {A_ACT_SCEENH_C}ароматизації{##}"
+  },
+  "ScentEnhancement_DisplayName": {
+    "en": "Scent Enhancement",
+    "uk": "Ароматизація"
+  },
+  "Security_Description": {
+    "en": "Enemies have {value}% less chance to scout this building successfully",
+    "uk": "Вороги мають на {value}% менше шансів успішно розвідати цю будівлю"
+  },
+  "Security_Description_alt": {
+    "en": "Enemies have {value}% less chance to scout this building successfully\nEnemies can only scout this building up to level {value2}",
+    "uk": "Вороги мають на {value}% менше шансів успішно розвідати цю будівлю\nВороги можуть розвідати цю будівлю лише до рівня {value2}"
+  },
+  "Security_DisplayName": {
+    "en": "Fortification",
+    "uk": "Укріплення"
+  },
+  "SewClothes_Description": {
+    "en": "Unlocks the service to {A_ACT_SEWCLO_C}refine someone's attire{##}",
+    "uk": "Відкриває послугу {A_ACT_SEWCLO_C}оновити вбрання{##}"
+  },
+  "SewClothes_DisplayName": {
+    "en": "Portable Sewing Kit",
+    "uk": "Дорожній набір для шиття"
+  },
+  "SkillGrowth_Description": {
+    "en": "{CV_({Value})} {S_HAN_C}handicraft{##} for every {NumTrip} {A_ACT_GATING_C}{NumTrip}|plural(one=trip,other=trips){##}",
+    "uk": "{CV_({Value})} {S_HAN_C}ремесла{##} за кожні {NumTrip} {A_ACT_GATING_C}{NumTrip}|plural(one=похід,few=походи,many=походів,other=походу){##}"
+  },
+  "SkillGrowth_DisplayName": {
+    "en": "Hands-On Learning",
+    "uk": "Навчання ділом"
+  },
+  "SmugglingDetection_Description": {
+    "en": "{CV_({Value})} chance to detect illegal goods",
+    "uk": "{CV_({Value})} шанс виявити заборонений товар"
+  },
+  "SmugglingDetection_DisplayName": {
+    "en": "Smuggling Detection",
+    "uk": "Виявлення контрабанди"
+  },
+  "SpyGlass_Description": {
+    "en": "Unlocks the ability to {A_SPY_C}spy{##} on others",
+    "uk": "Відкриває можливість {A_SPY_C}шпигувати{##} за іншими"
+  },
+  "SpyGlass_DisplayName": {
+    "en": "Spyglass",
+    "uk": "Підзорна труба"
+  },
+  "StrategicAmbush_Description": {
+    "en": "When {A_ACT_WAYTRA_C}waylaying a cart{##}:\n{CV_({Value})} chance to successfully intercept a cart",
+    "uk": "Під час {A_ACT_WAYTRA_C}засідки на віз{##}:\n{CV_({Value})} шанс успішно перехопити віз"
+  },
+  "StrategicAmbush_DisplayName": {
+    "en": "Strategic Ambush",
+    "uk": "Стратегічна засідка"
+  },
+  "Sturdiness_DisplayName": {
+    "en": "Sturdiness",
+    "uk": "Міцність"
+  },
+  "ThreateningLetter_Description": {
+    "en": "Unlocks the ability to send a {A_THRLET_C}threatening letter{##}",
+    "uk": "Відкриває можливість надіслати {A_THRLET_C}лист із погрозами{##}"
+  },
+  "ThreateningLetter_DisplayName": {
+    "en": "The “Strongly Worded” Letter Kit",
+    "uk": "Набір для «рішучого» листа"
+  },
+  "TrainingBonusII_Description": {
+    "en": "All workers in the building:\n{CV_({Value})} {S_STE}",
+    "uk": "Усі працівники в будівлі:\n{CV_({Value})} {S_STE}"
+  },
+  "TrainingBonusI_Description": {
+    "en": "All workers in the building:\n{CV_({Value})} {S_COM}",
+    "uk": "Усі працівники в будівлі:\n{CV_({Value})} {S_COM}"
+  },
+  "TrainingBonus_DisplayName": {
+    "en": "Training Bonus",
+    "uk": "Бонус тренування"
+  },
+  "TrainingEquipment_Combat_Description_Guard": {
+    "en": "Allows you to send guards to {A_ACT_TRACOMGUA_C}train martial{##}",
+    "uk": "Дозволяє надсилати вартових {A_ACT_TRACOMGUA_C}тренувати бойові навички{##}"
+  },
+  "TrainingEquipment_Combat_Description_Robber": {
+    "en": "Allows you to send robbers to {A_ACT_TRACOMROB_C}train martial{##}",
+    "uk": "Дозволяє надсилати розбійників {A_ACT_TRACOMROB_C}тренувати бойові навички{##}"
+  },
+  "TrainingEquipment_Combat_Description_Thief": {
+    "en": "Allows you to send thieves to {A_ACT_TRACOMTHI_C}train martial{##}",
+    "uk": "Дозволяє надсилати злодіїв {A_ACT_TRACOMTHI_C}тренувати бойові навички{##}"
+  },
+  "TrainingEquipment_Combat_DisplayName": {
+    "en": "Martial Training Equipment",
+    "uk": "Спорядження для бойового тренування"
+  },
+  "TrainingEquipment_Stealth_Description_Guard": {
+    "en": "Allows you to send guards to {A_ACT_TRASTEGUA_C}train roguery{##}",
+    "uk": "Дозволяє надсилати вартових {A_ACT_TRASTEGUA_C}тренувати шахрайство{##}"
+  },
+  "TrainingEquipment_Stealth_Description_Robber": {
+    "en": "Allows you to send robbers to {A_ACT_TRASTEROB_C}train roguery{##}",
+    "uk": "Дозволяє надсилати розбійників {A_ACT_TRASTEROB_C}тренувати шахрайство{##}"
+  },
+  "TrainingEquipment_Stealth_Description_Thief": {
+    "en": "Allows you to send thieves to {A_ACT_TRASTETHI_C}train roguery{##}",
+    "uk": "Дозволяє надсилати злодіїв {A_ACT_TRASTETHI_C}тренувати шахрайство{##}"
+  },
+  "TrainingEquipment_Stealth_DisplayName": {
+    "en": "Roguery Training Equipment",
+    "uk": "Спорядження для тренування шахрайства"
+  },
+  "TrainingSpeed_Description": {
+    "en": "{CV_({Value})} faster training",
+    "uk": "{CV_({Value})} швидше тренування"
+  },
+  "TrainingSpeed_DisplayName": {
+    "en": "Training Speed",
+    "uk": "Швидкість тренування"
+  },
+  "Trashing_Description": {
+    "en": "Unlocks the action to thrash a target by having them {A_THR_C}beaten up{##} in the streets",
+    "uk": "Відкриває дію: наказати {A_THR_C}побити{##} ціль просто на вулиці"
+  },
+  "Trashing_DisplayName": {
+    "en": "Underhand Contracts",
+    "uk": "Таємні угоди"
+  },
+  "VictoryEnergizer_Description": {
+    "en": "After a victory in combat:\n{CV_({Value})} {CHAR_ENE}",
+    "uk": "Після перемоги в бою:\n{CV_({Value})} {CHAR_ENE}"
+  },
+  "VictoryEnergizer_DisplayName": {
+    "en": "Victory Energizer",
+    "uk": "Заряд перемоги"
+  },
+  "WeaponMaintenance_Description": {
+    "en": "{I_TYP_COMEQU_C}Combat equipment{##} lasts {NumCombat} more {CO_COMENC_C}{NumCombat}|plural(one=combat encounter,other=combat encounters){##}",
+    "uk": "{I_TYP_COMEQU_C}Бойове спорядження{##} витримує ще {NumCombat} {CO_COMENC_C}{NumCombat}|plural(one=бойову сутичку,few=бойові сутички,many=бойових сутичок,other=бойової сутички){##}"
+  },
+  "WeaponMaintenance_DisplayName": {
+    "en": "Weapon Maintenance",
+    "uk": "Догляд за зброєю"
+  }
+}

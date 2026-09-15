@@ -1,0 +1,86 @@
+{
+  "EndOfTurn_Year_Season_Autumn": {
+    "en": "Autumn {YEAR} has ended",
+    "uk": "Осінь {YEAR} закінчилася"
+  },
+  "EndOfTurn_Year_Season_Spring": {
+    "en": "Spring {YEAR} has ended",
+    "uk": "Весна {YEAR} закінчилася"
+  },
+  "EndOfTurn_Year_Season_Summer": {
+    "en": "Summer {YEAR} has ended",
+    "uk": "Літо {YEAR} закінчилося"
+  },
+  "EndOfTurn_Year_Season_Winter": {
+    "en": "Winter {YEAR} has ended",
+    "uk": "Зима {YEAR} закінчилася"
+  },
+  "Season_Autumn_Description": {
+    "en": "Rain soaks the city, slowing carts in the mud, yet the damp makes fires easier to contain.",
+    "uk": "Дощі заливають місто, і вози грузнуть у багнюці, проте в сирості пожежі легше загасити."
+  },
+  "Season_Autumn_DisplayName": {
+    "en": "Autumn",
+    "uk": "Осінь"
+  },
+  "Season_Spring_Description": {
+    "en": "A season of growth. Ingredients are easier to gather, and trade begins to stir after the winter's lull.",
+    "uk": "Пора зростання. Інгредієнти знайти легше, а торгівля пожвавлюється після зимового застою."
+  },
+  "Season_Spring_DisplayName": {
+    "en": "Spring",
+    "uk": "Весна"
+  },
+  "Season_Summer_Description": {
+    "en": "Long days favor business and labor, but the heat dries timber and thatch — fires spread more readily.",
+    "uk": "Довгі дні сприяють праці та справам, та спека сушить деревину й солому — пожежі поширюються швидше."
+  },
+  "Season_Summer_DisplayName": {
+    "en": "Summer",
+    "uk": "Літо"
+  },
+  "Season_Winter_Description": {
+    "en": "Daylight is shortest, work grows harder, and sickness takes root in the cold.",
+    "uk": "Дні найкоротші, робота дається важче, а холод сприяє хворобам."
+  },
+  "Season_Winter_DisplayName": {
+    "en": "Winter",
+    "uk": "Зима"
+  },
+  "Season_Year": {
+    "en": "{Season} {Year}",
+    "uk": "{Season} {Year}"
+  },
+  "StartTurn_Year_Season_Autumn": {
+    "en": "Continue to Autumn {YEAR}",
+    "uk": "Перейти до осені {YEAR}"
+  },
+  "StartTurn_Year_Season_Spring": {
+    "en": "Continue to Spring {YEAR}",
+    "uk": "Перейти до весни {YEAR}"
+  },
+  "StartTurn_Year_Season_Summer": {
+    "en": "Continue to Summer {YEAR}",
+    "uk": "Перейти до літа {YEAR}"
+  },
+  "StartTurn_Year_Season_Winter": {
+    "en": "Continue to Winter {YEAR}",
+    "uk": "Перейти до зими {YEAR}"
+  },
+  "Weather_HeatWave_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Weather_HeatWave_DisplayName": {
+    "en": "Heat Wave",
+    "uk": "Спека"
+  },
+  "Weather_Rain_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Weather_Rain_DisplayName": {
+    "en": "Rain",
+    "uk": "Дощ"
+  }
+}
