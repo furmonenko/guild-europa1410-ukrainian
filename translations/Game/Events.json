@@ -1,0 +1,2358 @@
+{
+  "Ambush_Description_0": {
+    "en": "{P_ROB_C}Robbers{##} and the {P_GUA_C}Guards{##} have always been mortal enemies. It was only a matter of time until your hard-working {A_ACT_GUAPAT_C}guard patrol{##} intercepted a band of lowlifes looking to take advantage of other people's hard work.",
+    "uk": "{P_ROB_C}Розбійники{##} й {P_GUA_C}вартові{##} споконвіку були смертельними ворогами. Тож рано чи пізно Ваше старанне {A_ACT_GUAPAT_C}патрулювання{##} мало натрапити на зграю покидьків, охочих поживитися чужою працею."
+  },
+  "Ambush_Description_1": {
+    "en": "It seems that day has come. You have a reputation to maintain in our fair city, as no one will respect guards who do not stand up for the innocent, so decide quickly how you plan to handle the situation.",
+    "uk": "Схоже, цей день настав. Вам треба берегти добре ім’я в нашому славному місті, бо ніхто не шануватиме вартових, які не стають на захист невинних. Тож швидше вирішуйте, як діяти."
+  },
+  "Ambush_Description_2": {
+    "en": "Are your people full of {CHAR_ENE_C}energy{##} and {I_TYP_COMEQU_C}well-equipped{##} to resolve the matter with arms, or do you prefer to bide your time and fight another day?",
+    "uk": "Чи сповнені Ваші люди {CHAR_ENE_C}енергії{##} і чи мають добре {I_TYP_COMEQU_C}бойове спорядження{##}, щоб розв’язати справу зброєю? Чи краще перечекати й битися іншим разом?"
+  },
+  "Ambush_Name": {
+    "en": "Guard Patrol Has Intercepted Robbers",
+    "uk": "Патруль вартових перестрів розбійників"
+  },
+  "Ambush_Option_01": {
+    "en": "Let the fight begin!",
+    "uk": "До бою!"
+  },
+  "Ambush_Option_01_Result_Description": {
+    "en": "Robbers and guards are about to face off in battle. Better be prepared.",
+    "uk": "Розбійники й вартові ось-ось зійдуться в сутичці. Краще підготуйтеся."
+  },
+  "Ambush_Option_01_Result_Title": {
+    "en": "Situation escalated",
+    "uk": "Сутичка неминуча"
+  },
+  "Ambush_Option_02": {
+    "en": "Back down from the fight",
+    "uk": "Ухилитися від бою"
+  },
+  "Ambush_Option_02_Result_Description": {
+    "en": "Cooler heads prevailed, so the robbers and guards continue on their merry ways as if they never met.",
+    "uk": "Холодний розум переміг: розбійники й вартові весело йдуть кожен своєю дорогою, ніби й не зустрічалися."
+  },
+  "Ambush_Option_02_Result_Description_0": {
+    "en": "\nOnlookers disapprove:",
+    "uk": "\nПерехожі невдоволені:"
+  },
+  "Ambush_Option_02_Result_Title": {
+    "en": "Situation defused",
+    "uk": "Сутичку відвернуто"
+  },
+  "Argument_Description_0": {
+    "en": "Life in our bustling city is not exactly simple, and when you're looking for trouble, you tend to find it.",
+    "uk": "Життя в нашому гомінкому місті не таке вже й просте, а хто шукає клопоту, той його знаходить."
+  },
+  "Argument_Description_1": {
+    "en": "You'd think that your fellow citizens have better things to do than start arguments in public, but here you are.",
+    "uk": "Здавалося б, Ваші земляки мають кращі справи, ніж сваритися посеред вулиці. Але ось Ви тут."
+  },
+  "Argument_Description_2": {
+    "en": "An innocent shoulder bump in the crowd unraveled into a dramatic quarrel. How do you react?",
+    "uk": "Випадковий поштовх плечем у натовпі переріс у бурхливу сварку. Що Ви робитимете?"
+  },
+  "Argument_Name": {
+    "en": "Much Ado About Nothing",
+    "uk": "Багато галасу з нічого"
+  },
+  "Argument_Option_01": {
+    "en": "Settle the matter peacefully",
+    "uk": "Залагодити справу миром"
+  },
+  "Argument_Option_01_Result_01_Instigator": {
+    "en": "The tension eased, and you parted on calmer terms.",
+    "uk": "Напруга спала, і Ви розійшлися вже спокійніше."
+  },
+  "Argument_Option_01_Result_01_Target": {
+    "en": "There was an incident in the crowd, but in the end everyone parted on calm terms.",
+    "uk": "У натовпі стався інцидент, але зрештою всі розійшлися мирно."
+  },
+  "Argument_Option_02": {
+    "en": "Denounce this shameful behavior",
+    "uk": "Засудити таку ганебну поведінку"
+  },
+  "Argument_Option_02_Result_01_Instigator": {
+    "en": "Your words stung, leaving the matter worse than it had started.",
+    "uk": "Ваші слова вжалили, і справа стала гіршою, ніж була спочатку."
+  },
+  "Argument_Option_02_Result_01_Target": {
+    "en": "Insults were exchanged during an incident in the crowd.",
+    "uk": "Під час сутички в натовпі посипалися образи."
+  },
+  "BadOmen_Description_0": {
+    "en": "A red-tailed comet blazes across the sky, sparkling lively discussions among common folk, philosophers, and religious figures alike.",
+    "uk": "Небом промайнула комета з червоним хвостом, і тепер про неї жваво сперечаються і простий люд, і вчені мужі, і духовенство."
+  },
+  "BadOmen_Description_1": {
+    "en": "Citizens report feeling drained, and all sorts of bad things seem to be happening for no reason, as if an evil has seeped into the city.",
+    "uk": "Міщани скаржаться на знесилення, а всілякі лиха трапляються без жодної причини, наче в місто просочилося якесь зло."
+  },
+  "BadOmen_Description_2": {
+    "en": "The priests insist that our sinful nature is to blame. Conveniently, the sale of indulgences has increased.",
+    "uk": "Священники запевняють, що винна наша грішна природа. Як зручно, що продаж індульгенцій відтак зріс."
+  },
+  "BadOmen_Description_3": {
+    "en": "All {CHAR_CITVSWOR_C}townspeople{##}:\n-1 {CHAR_HP}\n-5 {CHAR_ENE}",
+    "uk": "Усі {CHAR_CITVSWOR_C}працівники{##}:\n-1 {CHAR_HP}\n-5 {CHAR_ENE}"
+  },
+  "BadOmen_Name": {
+    "en": "Bad Omen",
+    "uk": "Лихе знамення"
+  },
+  "BallInvite_Description_0": {
+    "en": "All nobles and notables were invited to this auspicious event.",
+    "uk": "На цю врочисту подію запросили всіх дворян і поважних осіб."
+  },
+  "BallInvite_Description_1": {
+    "en": "Attend, and win the favor of the wealthy — or refuse, and prove your bond with the common folk.",
+    "uk": "Прийдіть — і здобудьте прихильність багатіїв. Або відмовтеся — і доведіть свою близькість до простого люду."
+  },
+  "BallInvite_Description_2": {
+    "en": "Whatever you choose, your dynasty's good name in this city is on the line.",
+    "uk": "Хай що Ви оберете, на кону добре ім’я Вашої династії в цьому місті."
+  },
+  "BallInvite_Name": {
+    "en": "Ball Invite",
+    "uk": "Запрошення на бал"
+  },
+  "BallInvite_Option_Accept": {
+    "en": "Attend",
+    "uk": "Прийти"
+  },
+  "BallInvite_Option_Accept_Outcome_Instigator": {
+    "en": "Your presence at this auspicious event has been noted by the city's nobility. Your monetary contribution as well.",
+    "uk": "Вашу появу на цій врочистій події помітили міські дворяни. Як і Ваш грошовий внесок."
+  },
+  "BallInvite_Option_Accept_Outcome_Targets": {
+    "en": "An intriguing upstart has been mingling with the city's nobility. Ambitious move.",
+    "uk": "Цікавий вискочка крутиться серед міської знаті. Сміливий хід."
+  },
+  "BallInvite_Option_Refuse": {
+    "en": "Decline",
+    "uk": "Відмовитися"
+  },
+  "BallInvite_Option_Refuse_Outcome_Instigator": {
+    "en": "The working class admire your refusal to succumb to such extravagant delights. It has also spared your pocket.",
+    "uk": "Трудовий люд захоплюється тим, що Ви не піддалися таким розкішним забавам. До того ж Ваш гаманець уцілів."
+  },
+  "BallInvite_Option_Refuse_Outcome_Targets": {
+    "en": "Some upstart has spurned the city's nobility. Foolish move.",
+    "uk": "Якийсь вискочка знехтував міською знаттю. Нерозважливий хід."
+  },
+  "Bard_Description": {
+    "en": "A bard has brought his talents to the city, singing merry songs aplenty. The bard's trail of tunes echoes cheerful notes of dancing and laughter — the question is, where is the bard?\nGo search the city streets for this merriment, and you may discover interesting opportunities…",
+    "uk": "До міста завітав бард і щедро розсипає веселі пісні. Його мелодії відлунюють радісними нотками танців і сміху — питання лише, де ж сам бард?\nПошукайте цих веселощів на міських вулицях, і, може, натрапите на цікаві нагоди…"
+  },
+  "Bard_Description_0": {
+    "en": "A bard has brought his talents to the city, singing merry songs aplenty. The bard's trail of tunes echoes cheerful notes of dancing and laughter — the question is, where is the bard?",
+    "uk": "До міста завітав бард і щедро розсипає веселі пісні. Його мелодії відлунюють радісними нотками танців і сміху — питання лише, де ж сам бард?"
+  },
+  "Bard_Description_1": {
+    "en": "Go search the city streets for this merriment, and you may discover interesting opportunities…",
+    "uk": "Пошукайте цих веселощів на міських вулицях, і, може, натрапите на цікаві нагоди…"
+  },
+  "Bard_Name": {
+    "en": "The Bard is in Town!",
+    "uk": "Бард у місті!"
+  },
+  "BeeAttack_Description_0": {
+    "en": "You were minding your own business when a swarm of bees suddenly decided that you were the problem.",
+    "uk": "Ви собі спокійно займалися своїми справами, аж раптом рій бджіл вирішив, що вся проблема — у Вас."
+  },
+  "BeeAttack_Description_1": {
+    "en": "There was buzzing, swatting, running, and considerably less dignity than you would care to remember.",
+    "uk": "Було дзижчання, відмахування, біганина — і значно менше гідності, ніж Вам хотілося б пам’ятати."
+  },
+  "BeeAttack_Description_2": {
+    "en": "You could swear the swarm briefly formed the shape of a giant fist before knocking you flat. No one is going to believe that.",
+    "uk": "Ви могли б заприсягтися, що рій на мить склався у велетенський кулак, перш ніж збити Вас із ніг. Ніхто в це не повірить."
+  },
+  "BeeAttack_Name": {
+    "en": "A Buzzkill",
+    "uk": "Жалюгідна пригода"
+  },
+  "BeeAttack_Name_alt": {
+    "en": "Beeaten!",
+    "uk": "Зажалено!"
+  },
+  "BeeAttack_Option_01": {
+    "en": "Ouch!",
+    "uk": "Ой!"
+  },
+  "BeeAttack_Option_01_Result_Instigator": {
+    "en": "As your head clears, so does your memory. That swarm was no accident. You must have upset someone quite badly for them to send killer bees after you.",
+    "uk": "Коли в голові проясніло, повернулася й пам’ять. Той рій був не випадковістю. Ви, мабуть, добряче комусь насолили, якщо на Вас нацькували бджіл-убивць."
+  },
+  "BondingOpportunity_Description": {
+    "en": "You met a citizen and can spend some time together",
+    "uk": "Ви зустріли міщанина і можете провести час разом"
+  },
+  "BondingOpportunity_Name": {
+    "en": "Bonding Opportunity",
+    "uk": "Нагода зблизитися"
+  },
+  "BondingOpportunity_Option_01": {
+    "en": "Pay for entertainment effort into it (cost 200)",
+    "uk": "Оплатити розваги (ціна 200)"
+  },
+  "BondingOpportunity_Option_01_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "BondingOpportunity_Option_02": {
+    "en": "Put an effort into it (-10 energy)",
+    "uk": "Докласти зусиль (-10 енергії)"
+  },
+  "BondingOpportunity_Option_02_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "BondingOpportunity_Option_03": {
+    "en": "Just chill",
+    "uk": "Просто відпочити"
+  },
+  "BondingOpportunity_Option_03_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "BribeAttempt_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "BribeAttempt_Name": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "BribeAttempt_Option_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "BribeAttempt_Option_01_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "BribeAttempt_Option_02": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "BribeAttempt_Option_02_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "CharacterAtPillory_Description_0": {
+    "en": "People are talking about the {O_CHA_TOWCOU_C}Town Council's{##} latest efforts to curb crime and heresy.",
+    "uk": "Люди обговорюють найновіші старання {O_CHA_TOWCOU_C}міської ради{##} приборкати злочинність і єресь."
+  },
+  "CharacterAtPillory_Description_1": {
+    "en": "Supposedly, persons convicted of crimes would be pilloried instead of {ST_CHR_IMP_C}imprisoned{##}, so that the citizens can express their dissatisfaction however they see fit. It would probably also help cut down maintenance costs at the {B_PUB_PRI_C}prison{##}.",
+    "uk": "Кажуть, засуджених тепер виставлятимуть біля ганебного стовпа замість {ST_CHR_IMP_C}ув’язнення{##}, щоб міщани могли висловити своє невдоволення, як їм заманеться. Мабуть, це ще й зменшить видатки на утримання {B_PUB_PRI_C}в’язниці{##}."
+  },
+  "CharacterAtPillory_Description_2": {
+    "en": "If a {B_PUB_PIL_C}pillory{##} has been built in our city, and if these new rules are indeed not mere rumors, there is surely a heckling crowd gathering to chuck a rotten cabbage or two at the convicted. Go search for it so you can join in on the mischief or show your superior virtue and capacity for forgiveness.",
+    "uk": "Якщо в нашому місті поставили {B_PUB_PIL_C}ганебний стовп{##}, а нові правила — не просто чутки, то там напевно вже збирається галаслива юрба, щоб пожбурити в засудженого гнилою капустиною-другою. Пошукайте його, щоб і собі долучитися до розваги або ж показати свою високу чесноту й здатність прощати."
+  },
+  "CharacterAtPillory_Name": {
+    "en": "Let the Sinless Cast the First Stone",
+    "uk": "Хто без гріха, хай перший кине камінь"
+  },
+  "ChildIsBorn_Description_0": {
+    "en": "Your family has been blessed with a child! May this new life grow in health, and may your dynasty endure through the ages!",
+    "uk": "Вашу родину благословлено дитиною! Хай нове життя росте здоровим, а Ваша династія живе крізь віки!"
+  },
+  "ChildIsBorn_Description_1": {
+    "en": "Sleepless nights may follow, but they are a small price for such joy. Plus, nothing worth doing is every easy.",
+    "uk": "Попереду, можливо, безсонні ночі, але це невелика ціна за таку радість. До того ж ніщо варте не дається легко."
+  },
+  "ChildIsBorn_Description_2": {
+    "en": "As your child grows, don't forget to invest in their {A_TRACHI_C}education{##} so that, one day, they can contribute meaningfully to your dynasty and even become your {CHAR_HEI_C}heir{##}.",
+    "uk": "Поки дитина росте, не забувайте вкладатися в {A_TRACHI_C}навчання дитини{##}, щоб колись вона могла гідно прислужитися Вашій династії і навіть стати Вашим {CHAR_HEI_C}спадкоємцем{##}."
+  },
+  "ChildIsBorn_Name": {
+    "en": "You Have Become A Parent",
+    "uk": "Ви стали батьками"
+  },
+  "ChildIsBorn_Option_01": {
+    "en": "Rejoice!",
+    "uk": "Радійте!"
+  },
+  "Contamination_Description_0": {
+    "en": "Rat-infested food stores, contaminated water supply, sick-looking travelers… no one knows why or how, but many have suddenly fallen quite ill.",
+    "uk": "Комори, повні щурів, отруєна вода, хворобливі мандрівці… Ніхто не знає, чому і як, але багато людей раптом тяжко занедужали."
+  },
+  "Contamination_Description_1": {
+    "en": "All persons affected: {ST_CHR_SIC}",
+    "uk": "Усі потерпілі: {ST_CHR_SIC}"
+  },
+  "Contamination_Description_2": {
+    "en": "The same question is on everyone's lips: what if the Black Death has returned? City officials helpfully remind everyone that {QUA_HYG_C}sanitation{##} is their own responsibility and prevention is the best cure.",
+    "uk": "У всіх на вустах те саме питання: а що, як повернулася Чорна смерть? Міські урядники послужливо нагадують, що {QUA_HYG_C}санітарія{##} — особиста справа кожного, а запобігти легше, ніж лікувати."
+  },
+  "Contamination_Description_3": {
+    "en": "You may want to {A_PHYCHE_C}visit a physician{##}, {A_PRASHR_C}pray{##} the sickness away, or at least use some salves or potions. Don't forget to check on the wellbeing of your workers and family members too, assuming you want your business and dynasty to survive this.",
+    "uk": "Варто {A_PHYCHE_C}відвідати лікаря{##}, {A_PRASHR_C}молитися{##}, щоб хвороба минула, або принаймні вдатися до мазей чи настоянок. Не забудьте подбати й про здоров’я своїх працівників і членів родини — якщо, звісно, хочете, щоб Ваша справа й династія це пережили."
+  },
+  "Contamination_Name": {
+    "en": "A Frightening Outbreak",
+    "uk": "Моторошна пошесть"
+  },
+  "CourtingCandidateDied_Description_0": {
+    "en": "Such tragedy. You had a wedding planned, and now it has turned into a funeral.",
+    "uk": "Яка трагедія. Ви планували весілля, а тепер доведеться справляти похорон."
+  },
+  "CourtingCandidateDied_Description_1": {
+    "en": "Not even Cyprian's book could save this courtship now.",
+    "uk": "Цього залицяння тепер не врятувала б навіть Кипріанова книга."
+  },
+  "CourtingCandidateDied_Description_2": {
+    "en": "Still, perhaps it was for the best. Whatever they had, it probably would not have produced good children anyway.",
+    "uk": "А втім, може, воно й на краще. Хай що там у тієї людини було, добрих дітей з того однаково б не вийшло."
+  },
+  "CourtingCandidateDied_Description_3": {
+    "en": "You tell yourself this with venom, because the alternative is admitting how dearly you would have loved them.",
+    "uk": "Ви повторюєте це собі з отрутою в голосі, бо інакше довелося б визнати, як сильно Ви б її кохали."
+  },
+  "CourtingCandidateDied_Name": {
+    "en": "Your love was taken… by the Reaper",
+    "uk": "Вашу любов забрала… Смерть"
+  },
+  "CourtingCandidateDied_Option_01": {
+    "en": "Until we meet again",
+    "uk": "До зустрічі"
+  },
+  "CourtingCandidateDied_Option_01_Result": {
+    "en": "You place a single flower upon their body and whisper the farewell you never had the chance to say.",
+    "uk": "Ви кладете на тіло одну-єдину квітку й шепочете прощання, яке так і не встигли сказати."
+  },
+  "CourtingCandidateStolen_Description_0": {
+    "en": "Whether it is the first time or not, rejection hurts.",
+    "uk": "Хай це вперше чи ні, а відмова болить."
+  },
+  "CourtingCandidateStolen_Description_1": {
+    "en": "And unrequited love may be the cruelest of all: all that time spent hoping, waiting, and daydreaming of your first wedding night, only to see them now in the arms of another.",
+    "uk": "А нерозділене кохання, мабуть, найжорстокіше: стільки часу в надіях, чеканні й мріях про першу шлюбну ніч — і ось тепер ця людина в чужих обіймах."
+  },
+  "CourtingCandidateStolen_Description_2": {
+    "en": "May they both catch a suspicious groin rash!",
+    "uk": "Щоб їм обом висипало щось підозріле в паху!"
+  },
+  "CourtingCandidateStolen_Description_3": {
+    "en": "And so, you are alone again. Back to the tedious process of courtship.",
+    "uk": "Отже, Ви знову самі. І знову це виснажливе залицяння."
+  },
+  "CourtingCandidateStolen_Description_4": {
+    "en": "How much easier it would be if one could simply receive, by pigeon mail, a neat little bundle of portraits, each with a short description of the person's qualities, flaws, wealth, and family connections.",
+    "uk": "Наскільки простіше було б, якби голубиною поштою можна було отримати охайний пакунок портретів, кожен із коротким описом чеснот, вад, статків і родинних зв’язків."
+  },
+  "CourtingCandidateStolen_Name": {
+    "en": "Your love was taken",
+    "uk": "Ваше кохання відібрали"
+  },
+  "CourtingCandidateStolen_Option_01": {
+    "en": "Life must go on",
+    "uk": "Життя триває"
+  },
+  "CourtingCandidateStolen_Option_01_Result": {
+    "en": "For a time, you still flinch whenever you hear their name. The portraits you had painted together remain tucked away where only you can find them. Eventually, they become little more than faded paint, and even more colorless memories.",
+    "uk": "Ще якийсь час Ви здригаєтеся, почувши це ім’я. Портрети, які Ви замовляли разом, лежать схованими там, де знайдете їх лише Ви. Зрештою від них лишається тільки вицвіла фарба — і ще безбарвніші спогади."
+  },
+  "DealWithDevil_Description_0": {
+    "en": "As you walk the dark halls of your home, not able to fall sleep, you get the distinct feeling that you are being watched. You turn around suddenly and find a towering androgynous figure seemingly made of liquid swirling smoke.",
+    "uk": "Ви блукаєте темними покоями свого дому, не в змозі заснути, і раптом виразно відчуваєте на собі чийсь погляд. Різко обертаєтеся — перед Вами височіє постать, ні чоловік, ні жінка, ніби зіткана з рідкого диму, що клубочиться."
+  },
+  "DealWithDevil_Description_1": {
+    "en": "Rather than threatening, the mysterious figure smiles knowingly and watches you attentively despite having no eyes to speak of. You feel it rummaging in the deepest corners of your mind.",
+    "uk": "Загадкова постать не погрожує: вона лише всміхається, ніби все знає, і пильно дивиться на Вас, хоч очей у неї, власне, немає. Ви відчуваєте, як вона нишпорить у найглибших закутках Вашого розуму."
+  },
+  "DealWithDevil_Description_2": {
+    "en": "No words are uttered, but your thoughts turn to an interesting but terrifying proposition: sacrifice a child of your body for the promise of a strong bloodline that will carry your dynasty into the annals of history. Make your choice now, mortal!",
+    "uk": "Не прозвучало жодного слова, та Ваші думки самі звертаються до спокусливої і водночас моторошної пропозиції: принести в жертву рідну дитину в обмін на обіцянку міцної крові, що впише Вашу династію в літописи історії. Обирай зараз, смертний!"
+  },
+  "DealWithDevil_Name": {
+    "en": "Deal with the Devil",
+    "uk": "Угода з дияволом"
+  },
+  "DealWithDevil_Option_Accept": {
+    "en": "Let it be such",
+    "uk": "Хай буде так"
+  },
+  "DealWithDevil_Option_Accept_Outcome_Instigator": {
+    "en": "With a satisfied nod, the mysterious figure fades away. As you blink and wonder whether you may have been dreaming, you hear the sudden screams of your spouse…",
+    "uk": "Вдоволено кивнувши, загадкова постать розчиняється в темряві. Ви кліпаєте, гадаючи, чи не наснилося Вам усе це, аж раптом чуєте крики Вашої другої половини…"
+  },
+  "DealWithDevil_Option_Refuse": {
+    "en": "Exorcizamus te!",
+    "uk": "Згинь, нечиста сило!"
+  },
+  "DealWithDevil_Option_Refuse_Outcome_Instigator": {
+    "en": "The mysterious figure hisses angrily and disappears in a puff of smoke. Deep down, you know it may return in your darkest hour.",
+    "uk": "Загадкова постать люто сичить і зникає в клубі диму. У глибині душі Ви знаєте: вона може повернутися у Вашу найтемнішу годину."
+  },
+  "DeathSentence_Description_0": {
+    "en": "Surely, you have heard that crime doesn't pay, yet you persisted in your wayward ways and now the day of reckoning has come. Better put your affairs in order while you still can.",
+    "uk": "Ви, певно, чули, що злочин себе не виправдовує, та вперто не сходили з кривої доріжки — і ось настав час розплати. Краще владнайте свої справи, поки ще можете."
+  },
+  "DeathSentence_Description_1": {
+    "en": "Check that your named {CHAR_HEI_C}heir{##} is properly trained and worthy of carrying your {T_C}title{##} and taking over your {P_C}business{##}. You may even pass the mantle before the sentence is executed, to spare your family some shame.",
+    "uk": "Переконайтеся, що обраний Вами {CHAR_HEI_C}спадкоємець{##} добре навчений і гідний носити Ваш {T_C}титул{##} та перейняти Вашу {P_C}професію{##}. Ви навіть можете передати мантію ще до виконання вироку, щоб уберегти родину від зайвого сорому."
+  },
+  "DeathSentence_Description_2": {
+    "en": "As you stand on the gallows tomorrow, make sure that your last words are memorable for the right reasons.",
+    "uk": "Завтра, стоячи на шибениці, подбайте, щоб Ваші останні слова запам’ятали з правильних причин."
+  },
+  "DeathSentence_Name": {
+    "en": "Sentenced to Death!",
+    "uk": "Смертний вирок!"
+  },
+  "DeathSentence_Option_Ok": {
+    "en": "I regret nothing!",
+    "uk": "Я ні про що не шкодую!"
+  },
+  "DeathSentence_Option_Outcome_Instigator": {
+    "en": "Your execution is scheduled for tomorrow before noon. Use your remaining time wisely.",
+    "uk": "Страту призначено на завтра, до полудня. Використайте час, що лишився, з розумом."
+  },
+  "DuelChallenge_Description_0": {
+    "en": "Some people think very highly of themselves and apparently wish to bestow this impression upon all others.",
+    "uk": "Дехто має про себе надзвичайно високу думку і, схоже, прагне переконати в цьому всіх довкола."
+  },
+  "DuelChallenge_Description_1": {
+    "en": "As such, you now find yourself challenged. Duels are an honor-bound tradition where the participants gain glory by engaging in elegant battle. Well, some refer to duels as a childish need to compensate for something, though they rarely mention for what. Others have even gone so far as to call for {CR_CRI_C}outlawing{##} duels.",
+    "uk": "Тож Вас викликали на дуель. Дуель — шляхетна традиція честі, де учасники здобувають славу у вишуканому двобої. Щоправда, дехто вважає дуелі дитячою потребою щось собі компенсувати, хоч і рідко уточнює, що саме. А інші навіть вимагають визнати дуелі {CR_CRI_C}злочином{##}."
+  },
+  "DuelChallenge_Description_2": {
+    "en": "In any case, if you decide to partake in such a ritual, make sure you are well equipped for the task. If not, perhaps a bruised ego is less painful than a stab in the belly.",
+    "uk": "Хай там як, якщо вирішите взяти участь у цьому ритуалі, подбайте про добре спорядження. А як ні — може, вражене самолюбство болить менше, ніж ніж у животі."
+  },
+  "DuelChallenge_Name": {
+    "en": "Challenged to a Duel",
+    "uk": "Виклик на дуель"
+  },
+  "DuelChallenge_Option_Accept_Outcome_Common": {
+    "en": "The duel will start at sundown. Make sure you rest and regain your energy. You will need it.",
+    "uk": "Дуель почнеться на заході сонця. Відпочиньте й відновіть енергію. Вона Вам знадобиться."
+  },
+  "DuelChallenge_Option_Accept_Outcome_InstigatorAndTargets_Generic": {
+    "en": "Hopefully, you have enough energy to get through this duel in one piece.",
+    "uk": "Сподіваємося, енергії Вам вистачить, щоб вийти з цієї дуелі живим і цілим."
+  },
+  "DuelChallenge_Option_Accept_Outcome_Targets": {
+    "en": "Your opponent has decided to defend their honor.",
+    "uk": "Ваш суперник вирішив стати на захист своєї честі."
+  },
+  "DuelChallenge_Option_Ignore_Outcome_Instigator": {
+    "en": "You have exhibited both common sense and cowardice. Your public image may not survive though.",
+    "uk": "Ви виявили водночас і здоровий глузд, і боягузтво. Щоправда, Ваша репутація може цього не пережити."
+  },
+  "DuelChallenge_Option_Ignore_Outcome_Targets": {
+    "en": "Your opponent has exhibited both common sense and cowardice. At least you've shamed them.",
+    "uk": "Ваш суперник виявив водночас і здоровий глузд, і боягузтво. Принаймні Ви його осоромили."
+  },
+  "DynastyDied_Description_0": {
+    "en": "The bells toll to mark the tragedy of tragedies: the head of a dynasty exhales the last breath in empty halls. There is no one left to carry forth the family name.",
+    "uk": "Дзвони сповіщають про найбільшу з трагедій: голова династії видихнув останній подих у порожніх покоях. Не лишилося нікого, хто проніс би далі родове ім’я."
+  },
+  "DynastyDied_Description_1": {
+    "en": "War, disease, a predilection for gambling and, above all, a general dislike of conjugal duties have left this dynasty with no one to inherit the family business. Thus, all property reverts to the city.",
+    "uk": "Війна, хвороби, пристрасть до азартних ігор і, понад усе, загальна нелюбов до подружніх обов’язків залишили цю династію без жодного спадкоємця родинної справи. Тож усе майно переходить до міста."
+  },
+  "DynastyDied_Description_2": {
+    "en": "If you're interested in acquiring production buildings at a bargain, better hurry and obtain the relevant license. But do not neglect your conjugal duties, or a similar fate may befall your own dynasty.",
+    "uk": "Якщо хочете придбати майстерні за безцінь, поспішіть отримати відповідний дозвіл. Але не нехтуйте подружніми обов’язками, бо подібна доля може спіткати й Вашу династію."
+  },
+  "DynastyDied_Name": {
+    "en": "Dynasty Extinguished",
+    "uk": "Династія згасла"
+  },
+  "DynastyDied_Option_01": {
+    "en": "Meditate upon the meaning of life",
+    "uk": "Поміркувати про сенс життя"
+  },
+  "DynastyDied_Option_01_Tooltip": {
+    "en": "Breathe in... Hold... Breathe out... That's it.",
+    "uk": "Вдих… Затримати… Видих… Отак."
+  },
+  "DynastyHeadWithHeirDied_Description_0": {
+    "en": "As your final breath escapes your body, you let go of victories and regrets. The city lives on, indifferent to your plight, yet subtly shaped by your actions.",
+    "uk": "З останнім подихом Ви відпускаєте і перемоги, і жалі. Місто живе далі, байдуже до Вашої долі, та все ж непомітно змінене Вашими ділами."
+  },
+  "DynastyHeadWithHeirDied_Description_1": {
+    "en": "But just as your path dims, another may yet follow. Hopefully, you got your affairs in order well in advance, and your {CHAR_HEI_C}heir{##} is perfectly capable of taking over your {P_C}business{##} and {T_C}title{##}, ensuring your {CHAR_DYN_C}dynasty{##} thrives.",
+    "uk": "Та хоч Ваш шлях згасає, його ще може продовжити інший. Сподіваємося, Ви заздалегідь владнали свої справи, а Ваш {CHAR_HEI_C}спадкоємець{##} цілком здатен перейняти Вашу {P_C}професію{##} і {T_C}титул{##}, щоб Ваша {CHAR_DYN_C}династія{##} процвітала."
+  },
+  "DynastyHeadWithHeirDied_Description_2": {
+    "en": "They say time forgets nothing, yet remembers selectively. How long will your name linger in the memory of the city?",
+    "uk": "Кажуть, час нічого не забуває, та пам’ятає вибірково. Як довго Ваше ім’я житиме в пам’яті міста?"
+  },
+  "DynastyHeadWithHeirDied_Name": {
+    "en": "Your Time Has Come",
+    "uk": "Ваш час настав"
+  },
+  "DynastyHeadWithHeirDied_Option_01": {
+    "en": "Continue as your heir",
+    "uk": "Грати за спадкоємця"
+  },
+  "EventA_Description": {
+    "en": "Test",
+    "uk": "Тест"
+  },
+  "EventA_Name": {
+    "en": "Test",
+    "uk": "Тест"
+  },
+  "EventA_Result_01": {
+    "en": "Test",
+    "uk": "Тест"
+  },
+  "EventB_Description": {
+    "en": "Test",
+    "uk": "Тест"
+  },
+  "EventB_Name": {
+    "en": "Test",
+    "uk": "Тест"
+  },
+  "EventB_Option_01": {
+    "en": "Test",
+    "uk": "Тест"
+  },
+  "EventB_Option_01_Result_01": {
+    "en": "Test",
+    "uk": "Тест"
+  },
+  "EventB_Option_02": {
+    "en": "Test",
+    "uk": "Тест"
+  },
+  "EventB_Option_02_Result_01": {
+    "en": "Test",
+    "uk": "Тест"
+  },
+  "EventB_Option_03": {
+    "en": "Test",
+    "uk": "Тест"
+  },
+  "EventB_Option_03_Result_01": {
+    "en": "Test",
+    "uk": "Тест"
+  },
+  "Event_Description": {
+    "en": "Events are random occurrences that present choices, challenges, or opportunities.",
+    "uk": "Події — випадкові пригоди, що ставлять Вас перед вибором, випробуваннями чи нагодами."
+  },
+  "Event_DisplayName": {
+    "en": "Event",
+    "uk": "Подія"
+  },
+  "Event_DisplayName_plural": {
+    "en": "Events",
+    "uk": "Події"
+  },
+  "Event_Type_Tutorial_DisplayName": {
+    "en": "Tutorial",
+    "uk": "Навчання"
+  },
+  "Event_Type_Tutorial_DisplayName_plural": {
+    "en": "Tutorials",
+    "uk": "Навчання"
+  },
+  "FamilyMemberDied_Description": {
+    "en": "Sadly, one of your family members has passed away. As you gather in mourning to prepare funeral rites, try to keep in mind that your {CHAR_DYN_C}dynasty{##} must remain strong.\n\nMake sure your dynasty always has an {CHAR_HEI_C}heir{##}, or everything you have built will be lost when your time comes to leave the world of the living.",
+    "uk": "На жаль, один із членів Вашої родини відійшов у засвіти. Збираючись у жалобі, щоб підготувати похорон, пам’ятайте: Ваша {CHAR_DYN_C}династія{##} мусить лишатися сильною.\n\nПодбайте, щоб у Вашої династії завжди був {CHAR_HEI_C}спадкоємець{##}, інакше все, що Ви збудували, буде втрачено, коли настане Ваш час покинути світ живих."
+  },
+  "FamilyMemberDied_Description_0": {
+    "en": "Sadly, one of your family members has passed away. As you gather in mourning to prepare funeral rites, try to keep in mind that your {CHAR_DYN_C}dynasty{##} must remain strong.",
+    "uk": "На жаль, один із членів Вашої родини відійшов у засвіти. Збираючись у жалобі, щоб підготувати похорон, пам’ятайте: Ваша {CHAR_DYN_C}династія{##} мусить лишатися сильною."
+  },
+  "FamilyMemberDied_Description_1": {
+    "en": "Make sure your dynasty always has an {CHAR_HEI_C}heir{##}, or everything you have built will be lost when your time comes to leave the world of the living.",
+    "uk": "Подбайте, щоб у Вашої династії завжди був {CHAR_HEI_C}спадкоємець{##}, інакше все, що Ви збудували, буде втрачено, коли настане Ваш час покинути світ живих."
+  },
+  "FamilyMemberDied_Name": {
+    "en": "A Tragedy Shakes Your Family",
+    "uk": "Горе в родині"
+  },
+  "FamilyMemberDied_Option_01": {
+    "en": "May they rest in peace",
+    "uk": "Хай спочиває з миром"
+  },
+  "Fires_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Fires_Name": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Fires_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "GameChallenge_Description_0": {
+    "en": "A half-drunk stranger challenges you to a game of dice. Seems like easy money, but then again, so did all your failed investments.",
+    "uk": "Напідпитку незнайомець викликає Вас зіграти в кості. Схоже на легкі гроші — втім, так само здавалися й усі Ваші невдалі вкладення."
+  },
+  "GameChallenge_Description_1": {
+    "en": "You try to recall whether gambling is legal these days, but brush the thought away as the stranger clumsily rolls the dice ahead of you, mumbling something along the lines of:",
+    "uk": "Ви силкуєтеся пригадати, чи дозволені нині азартні ігри, та відганяєте цю думку, бо незнайомець уже незграбно кидає кості перед Вами, бурмочучи щось на кшталт:"
+  },
+  "GameChallenge_Description_2": {
+    "en": ">> Look, my friend, I want no trouble… but if you lose, I'll make it double!",
+    "uk": ">> Слухай, друже, не хочу біди… та як програєш — удвічі плати!"
+  },
+  "GameChallenge_Name": {
+    "en": "To Play, Or Not to Play",
+    "uk": "Грати чи не грати"
+  },
+  "GameChallenge_Option_Accept_Result_Instigator": {
+    "en": "Satisfied with the outcome?",
+    "uk": "Задоволені результатом?"
+  },
+  "GameChallenge_Option_Cheat_Result_Instigator": {
+    "en": "It's all fun and games until someone gets caught.",
+    "uk": "Весело, поки когось не спіймають."
+  },
+  "GameChallenge_Option_Refuse_Result_Instigator": {
+    "en": "Better safe than sorry.",
+    "uk": "Береженого Бог береже."
+  },
+  "GoodOmen_Description_0": {
+    "en": "A fiery light cuts across the sky, burning brighter than any torch or candle. It would be terrifying if it were not so magnificent.",
+    "uk": "Вогняне світло прорізає небо, палаючи яскравіше за будь-який смолоскип чи свічку. Це було б жахливо, якби не було так величаво."
+  },
+  "GoodOmen_Description_1": {
+    "en": "Comets are usually read as bad omens, but everyone agrees that this time life in the city actually feels better, as if renewed by means of divine light.",
+    "uk": "Комети зазвичай вважають лихими знаменнями, та цього разу всі згодні: життя в місті ніби покращало, мов оновлене божественним світлом."
+  },
+  "GoodOmen_Description_2": {
+    "en": "All {CHAR_CITVSWOR_C}townspeople{##}:\n+1 {CHAR_HP}\n+5 {CHAR_ENE}",
+    "uk": "Усі {CHAR_CITVSWOR_C}працівники{##}:\n+1 {CHAR_HP}\n+5 {CHAR_ENE}"
+  },
+  "GoodOmen_Name": {
+    "en": "A Comet's Blessing",
+    "uk": "Благословення комети"
+  },
+  "Goosezilla_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Goosezilla_Name": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Goosezilla_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Hassle_Description_0": {
+    "en": "You spoke too freely, and someone nearby took your words as an insult. Perhaps you were rude, but what of it?",
+    "uk": "Ви сказали зайве, і хтось поруч сприйняв Ваші слова як образу. Може, Ви й були грубі, та що з того?"
+  },
+  "Hassle_Description_1": {
+    "en": "Now, people are watching and tempers are flaring. Neither side wants to back down.",
+    "uk": "Тепер люди дивляться, а пристрасті розпалюються. Жодна сторона не хоче поступатися."
+  },
+  "Hassle_Description_2": {
+    "en": "In case you have more {CHAR_ENE_C}energy{##} than sense, take your chance. You never know what comes out of it.",
+    "uk": "Якщо {CHAR_ENE_C}енергії{##} у Вас більше, ніж розуму, — ризикніть. Хтозна, що з того вийде."
+  },
+  "Hassle_Name": {
+    "en": "Not Every Action Needs a Reaction",
+    "uk": "Не на кожне слово треба відповідати"
+  },
+  "Hassle_Option_GonOnWithIt": {
+    "en": "Let fists speak",
+    "uk": "Хай говорять кулаки"
+  },
+  "Hassle_Option_GonOnWithIt_Result_Instigator": {
+    "en": "The fight was rough, and you walked away bruised. But in their anger, your opponent might have let slip a secret.",
+    "uk": "Бійка була жорстока, і Ви пішли геть у синцях. Та у запалі гніву суперник, можливо, вибовкав якусь таємницю."
+  },
+  "Hassle_Option_GonOnWithIt_Result_Target": {
+    "en": "Insults were exchanged in a moment of tension, and a fight ensued. Too much was said and done, and it may be used against you one day.",
+    "uk": "У напружену мить посипалися образи, і зчинилася бійка. Забагато було сказано й зроблено — колись це можуть обернути проти Вас."
+  },
+  "Hassle_Option_HandleWithManners": {
+    "en": "Keep it civil",
+    "uk": "Зберегти гідність"
+  },
+  "Hassle_Option_HandleWithManners_Result_Instigator": {
+    "en": "You answered with calm words, and your opponent was disarmed by your manners.",
+    "uk": "Ви відповіли спокійно, і Ваші манери обеззброїли суперника."
+  },
+  "Hassle_Option_HandleWithManners_Result_Target": {
+    "en": "Despite a moment of tension when insults were exchanged and things almost got physical, your opponent showed sense and good manners.",
+    "uk": "Попри напружену мить, коли посипалися образи й ледь не дійшло до бійки, Ваш суперник виявив розсудливість і добрі манери."
+  },
+  "Imprisoned_Description_0": {
+    "en": "Borrowed money and never returned it? Tried to bribe some official? Blackmailed fellow citizens? Did business too poorly for too long? Read the wrong books? Just be honest.",
+    "uk": "Позичили гроші й не повернули? Намагалися підкупити урядника? Шантажували співгромадян? Надто довго погано вели справи? Читали не ті книжки? Зізнайтеся чесно."
+  },
+  "Imprisoned_Description_1": {
+    "en": "Haven't you ever heard that {CR_CRI_C}crime{##} doesn't pay? In fact, crime definitely pays, but not for you, it seems. You have been {CR_TRIPUN_C}sentenced{##} to jail time according to the {CR_SEV_C}severity of your crime{##} and how {L_LAWSEV_C}harsh{##} the current law is.",
+    "uk": "Невже Ви ніколи не чули, що {CR_CRI_C}злочин{##} себе не виправдовує? Насправді ще й як виправдовує — але, схоже, не у Вашому випадку. Вам винесли {CR_TRIPUN_C}вирок{##} — ув’язнення, строк якого залежить від {CR_SEV_C}тяжкості злочину{##} і {L_LAWSEV_C}суворості закону{##}, що діє нині."
+  },
+  "Imprisoned_Description_2": {
+    "en": "During your {ST_CHR_IMP_C}imprisonment{##}, your actions will be limited, so use this time wisely and learn from your mistakes.",
+    "uk": "Під час {ST_CHR_IMP_C}ув’язнення{##} Ваші дії будуть обмежені, тож використайте цей час з розумом і вчіться на своїх помилках."
+  },
+  "Imprisoned_Name": {
+    "en": "You Have Been Imprisoned!",
+    "uk": "Вас ув’язнено!"
+  },
+  "Imprisoned_Option": {
+    "en": "Straight to jail!",
+    "uk": "Прямо за ґрати!"
+  },
+  "InjuryVictim_Description": {
+    "en": "Thugs came out of nowhere and left you battered. Perhaps this incident was mere chance, or perhaps someone plotted it. Either way, pain is your only certainty. \n\nHopefully, your remaining {CHAR_HP_C}health{##} and {CHAR_ENE_C}energy{##} allow you to proceed with your daily affairs.",
+    "uk": "Невідомо звідки вискочили головорізи й добряче Вас відлупцювали. Може, це був випадок, а може, хтось усе підлаштував. Хай там як, певне лише одне — біль. \n\nСподіваємося, {CHAR_HP_C}здоров’я{##} та {CHAR_ENE_C}енергії{##}, що лишилися, Вам вистачить для щоденних справ."
+  },
+  "InjuryVictim_Description_0": {
+    "en": "Thugs came out of nowhere and left you battered. Perhaps this incident was mere chance, or perhaps someone plotted it. Either way, pain is your only certainty.",
+    "uk": "Невідомо звідки вискочили головорізи й добряче Вас відлупцювали. Може, це був випадок, а може, хтось усе підлаштував. Хай там як, певне лише одне — біль."
+  },
+  "InjuryVictim_Description_1": {
+    "en": "Hopefully, your remaining {CHAR_HP_C}health{##} and {CHAR_ENE_C}energy{##} allow you to proceed with your daily affairs.",
+    "uk": "Сподіваємося, {CHAR_HP_C}здоров’я{##} та {CHAR_ENE_C}енергії{##}, що лишилися, Вам вистачить для щоденних справ."
+  },
+  "InjuryVictim_Name": {
+    "en": "Not Your Day",
+    "uk": "Не Ваш день"
+  },
+  "InjuryVictim_Option_01": {
+    "en": "Ouch!",
+    "uk": "Ой!"
+  },
+  "LetterUnmarkedLetter_Description": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "LetterUnmarkedLetter_Name": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "LetterUnmarkedLetter_Option_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "LetterUnmarkedLetter_Option_01_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "LetterUnmarkedLetter_Option_01_Result_02": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "LetterUnmarkedLetter_Option_01_Result_03": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "LetterUnmarkedLetter_Option_02": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "LetterUnmarkedLetter_Option_02_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "MarriageDecided_Description_0": {
+    "en": "The love of your life is ready to join you in the holy bond of matrimony. May your union be blessed with strong children to carry on your dynasty!",
+    "uk": "Кохання Вашого життя готове поєднатися з Вами святими узами шлюбу. Хай Ваш союз буде благословенний міцними дітьми, що продовжать Вашу династію!"
+  },
+  "MarriageDecided_Description_1": {
+    "en": "Wedding preparations will drain much energy, but your family and friends will rejoice with you, bearing gifts in celebration.",
+    "uk": "Приготування до весілля заберуть чимало енергії, та родина й друзі радітимуть разом із Вами й принесуть дарунки на свято."
+  },
+  "MarriageDecided_Description_2": {
+    "en": "Alternatively, you may prefer a frugal event. In that case, better be prepared for meager wedding gifts and a cooler embrace by your new spouse.",
+    "uk": "Або ж Ви можете влаштувати скромне весілля. Тоді будьте готові до мізерних дарунків і прохолоднішої ласки новоспеченого подружжя."
+  },
+  "MarriageDecided_Name": {
+    "en": "The Wedding Day",
+    "uk": "День весілля"
+  },
+  "MarriageDecided_Option_Enjoy": {
+    "en": "Blessed be this union!",
+    "uk": "Благословенний цей союз!"
+  },
+  "MarriageDecided_Option_Enjoy_Result_Instigator": {
+    "en": "Your wedding banquet is all people talk about these days.",
+    "uk": "Нині всі тільки й говорять, що про Ваш весільний бенкет."
+  },
+  "MarriageDecided_Option_Enjoy_Result_Target": {
+    "en": "An upstanding citizen threw a wedding banquet and those who attended just can't stop talking about it.",
+    "uk": "Шановний міщанин справив весільний бенкет, і гості досі не можуть про нього наговоритися."
+  },
+  "MarriageDecided_Option_Ignore": {
+    "en": "Just get on with it",
+    "uk": "Та хай уже буде"
+  },
+  "MarriageDecided_Option_Ignore_Result_Instigator": {
+    "en": "Hopefully, your spouse learns to manage expectations better than you manage your finances.",
+    "uk": "Будемо сподіватися, що Ваш чоловік чи дружина навчиться стримувати сподівання краще, ніж Ви — вести свої рахунки."
+  },
+  "MineAccident_Description": {
+    "en": "This morning, at one of the town's mines, a support frame collapsed, burying the crew beneath it. The tragedy shook the entire city.",
+    "uk": "Сьогодні вранці в одній із міських копалень завалилося кріплення й поховало під собою всю ватагу. Лихо сколихнуло все місто."
+  },
+  "MineAccident_Name": {
+    "en": "Last Shift",
+    "uk": "Остання зміна"
+  },
+  "MineAccident_Result_01": {
+    "en": "Lives were lost. The town sends prayers and comfort to their families in this dark hour.",
+    "uk": "Загинули люди. У цю темну годину місто молиться за їхні родини й розраджує їх."
+  },
+  "MysteriousBeggar_Description_01": {
+    "en": "From the shadows of an alley, a beggar raises his hand toward you. Do you have anything to offer?",
+    "uk": "Із тіні провулка до Вас простягає руку жебрак. Чи маєте Ви що йому дати?"
+  },
+  "MysteriousBeggar_Description_02": {
+    "en": "You never know what may come of it. Beggars live by scavenging and might reward your generosity with an item, a piece of evidence… or nothing at all.",
+    "uk": "Ніколи не знаєш, чим це обернеться. Жебраки живуть із того, що підберуть, і можуть віддячити за Вашу щедрість якоюсь річчю, доказом… або нічим."
+  },
+  "MysteriousBeggar_Name": {
+    "en": "The Beggar",
+    "uk": "Жебрак"
+  },
+  "MysteriousBeggar_Option_01": {
+    "en": "Offer money",
+    "uk": "Дати грошей"
+  },
+  "MysteriousBeggar_Option_01_Result_01": {
+    "en": "The beggar takes your coin with a nod, then ducks into a crowd. No more is seen or heard of him.",
+    "uk": "Жебрак із кивком бере Вашу монету й пірнає в натовп. Відтоді про нього ні слуху ні духу."
+  },
+  "MysteriousBeggar_Option_01_Result_02": {
+    "en": "From the folds of his ragged cloak, he presses a small vial into your hand. No word of thanks, only a steady gaze before he turns away.",
+    "uk": "Зі складок драного плаща він вкладає Вам у долоню маленьку скляночку. Жодного слова подяки — лише пильний погляд, і він відвертається."
+  },
+  "MysteriousBeggar_Option_02": {
+    "en": "Offer help",
+    "uk": "Запропонувати допомогу"
+  },
+  "MysteriousBeggar_Option_02_Result_01": {
+    "en": "The beggar presses a folded note into your hand. Its lines point to another's secret dealings — enough to be used as evidence against them.",
+    "uk": "Жебрак вкладає Вам у руку складену записку. Написане в ній викриває чиїсь темні оборудки — цього досить, щоб правити за докази проти винуватця."
+  },
+  "MysteriousBeggar_Option_03": {
+    "en": "Do nothing",
+    "uk": "Нічого не робити"
+  },
+  "MysteriousBeggar_Option_03_Result_01": {
+    "en": "You ignore him. He chuckles as if he knew your choice all along. By the time you look back, the alley is empty.",
+    "uk": "Ви проходите повз. Він тихо сміється, наче знав Ваш вибір наперед. Коли Ви озираєтеся, провулок уже порожній."
+  },
+  "Onboarding_BeeHives_Description_00": {
+    "en": "Can you believe those fellows at the bar today? No? You did not hear them?",
+    "uk": "Ну й молодчики сьогодні сиділи в шинку, скажіть? Ні? Ви їх не чули?"
+  },
+  "Onboarding_BeeHives_Description_01": {
+    "en": "Well, I have made a habit of keeping my ears open. It is good for business — and considerably cheaper than paying a spy.",
+    "uk": "Що ж, я маю звичку тримати вуха нашорошеними. Для справи це корисно — і куди дешевше, ніж платити шпигунові."
+  },
+  "Onboarding_BeeHives_Description_02": {
+    "en": "You see that poor man with the swollen face? And the well-dressed fellow beside him? That second man used to be a small-time merchant. Then fortune smiled upon him, and he decided that earning money was less profitable than charging other people to hear how he had done it.",
+    "uk": "Бачите того бідолаху з опухлим обличчям? А чепурного пана поруч із ним? Той другий колись був дрібним крамарем. Потім йому всміхнулася доля, і він вирішив, що заробляти гроші не так вигідно, як брати з інших плату за розповіді про те, як він їх заробив."
+  },
+  "Onboarding_BeeHives_Description_03": {
+    "en": "Apparently, he told our unfortunate friend that honey would be the town's next great fortune. Men will believe almost anything if the advice comes from fine clothes and costs enough.",
+    "uk": "Схоже, він запевнив нашого нещасного приятеля, що мед стане для міста наступною золотою жилою. Люди повірять майже будь-чому, якщо порада вбрана в дороге сукно й коштує чимало."
+  },
+  "Onboarding_BeeHives_Description_04": {
+    "en": "The bees disagreed.",
+    "uk": "Бджоли були іншої думки."
+  },
+  "Onboarding_BeeHives_Description_05": {
+    "en": "Still, all this talk has left me craving mead. Queen bees can be found in the Timberlands. Go find one, and we shall see whether that merchant was onto something after all.",
+    "uk": "Хай там як, а від усіх цих розмов мені закортіло медовухи. Бджолину матку можна знайти в лісових угіддях. Спіймайте одну — і побачимо, чи той крамар таки мав рацію."
+  },
+  "Onboarding_BuyMaterials_Description_00": {
+    "en": "I spent the morning waiting for a mason to finish a sanding block. He arranged his tools, inspected the workbench, and then stood there looking thoughtful.",
+    "uk": "Цілий ранок у мене пішов на те, щоб дочекатися, поки каменяр доробить наждачний брусок. Він розклав інструменти, оглянув верстат, а тоді застиг із задумливим виглядом."
+  },
+  "Onboarding_BuyMaterials_Description_01": {
+    "en": "We had no stone.",
+    "uk": "Каменю в нас не було."
+  },
+  "Onboarding_BuyMaterials_Description_02": {
+    "en": "Before your workers can craft anything, the required materials must be in the storeroom. Send your cart to the Marketplace to buy what they need, or visit Resource Sites such as mines, where materials are often available at better prices because they come straight from the source.",
+    "uk": "Перш ніж Ваші працівники зможуть щось виготовити, потрібна сировина має лежати в коморі. Відправте віз на ринок, щоб купити все необхідне, або навідайтеся до ресурсних угідь, як-от копалень, — там сировина часто дешевша, бо надходить просто з джерела."
+  },
+  "Onboarding_BuyMaterials_Description_03": {
+    "en": "Once the materials are unloaded, production can begin. Potential is just another word for empty shelves.",
+    "uk": "Щойно сировину розвантажать, можна братися до роботи. «Великі задуми» — це лише інша назва порожніх полиць."
+  },
+  "Onboarding_CourtshipAndMarriage_Description_00": {
+    "en": "Your workshop is coming along nicely. Now, I did not want to say anything, but what about the rest of your life?",
+    "uk": "Ваша майстерня процвітає. Не хотілося втручатися, але як щодо решти Вашого життя?"
+  },
+  "Onboarding_CourtshipAndMarriage_Description_01": {
+    "en": "There are a few respectable unmarried people in Herle. I know which are kind, which are sensible, and which only pretend to be either. A lady has an intuition for these things.",
+    "uk": "У Герле є кілька шановних неодружених людей. Я знаю, хто з них добрий, хто розважливий, а хто лише вдає те чи інше. У жінки на такі речі чуття."
+  },
+  "Onboarding_CourtshipAndMarriage_Description_02": {
+    "en": "Find someone you like, court them properly, and perhaps marriage will follow.",
+    "uk": "Знайдіть когось до душі, залицяйтеся як годиться — і, можливо, справа дійде до весілля."
+  },
+  "Onboarding_CourtshipAndMarriage_Description_03": {
+    "en": "I am not interfering. I am helping.",
+    "uk": "Я не втручаюся. Я допомагаю."
+  },
+  "Onboarding_CraftAndSell_Description_00": {
+    "en": "You are the new smith. Marta said you would be here.",
+    "uk": "Ви — новий коваль. Марта казала, що Ви будете тут."
+  },
+  "Onboarding_CraftAndSell_Description_01": {
+    "en": "I'm Elsbeth, the town's mason. I collect old swords, though the fittings interest me more than the blades. Blades receive all the praise. Fittings hold everything together and are only noticed when they fail.",
+    "uk": "Я Ельсбет, міська каменярка. Збираю старі мечі, хоча окуття цікавить мене більше за клинки. Клинкам дістається вся хвала. Окуття тримає все докупи, а помічають його, лише коли воно підводить."
+  },
+  "Onboarding_CraftAndSell_Description_02": {
+    "en": "You should probably begin with those. Craft some fittings and sell them at the marketplace. Someone will need them soon, even if they do not know it yet.",
+    "uk": "Мабуть, із нього Вам і варто почати. Виготовте трохи окуття й продайте на ринку. Незабаром воно комусь знадобиться, навіть якщо той іще про це не здогадується."
+  },
+  "Onboarding_CraftAndSell_Description_03": {
+    "en": "Keep one for yourself. A sword begins with smaller things.",
+    "uk": "Частину залиште собі. Меч починається з дрібниць."
+  },
+  "Onboarding_EvidenceFound_Description_00": {
+    "en": "After finishing your errands, you sit for a moment and watch the town pass by.",
+    "uk": "Упоравшись зі справами, Ви на хвильку сідаєте й спостерігаєте за міським життям."
+  },
+  "Onboarding_EvidenceFound_Description_01": {
+    "en": "A merchant argues over the price of wool. A boy steals an apple, then immediately drops it while trying to look innocent. Nearby, two women complain that their husbands somehow become helpless the moment a chair needs moving.",
+    "uk": "Крамар торгується за ціну вовни. Хлопчак краде яблуко й одразу ж його впускає, силкуючись виглядати невинним. Неподалік дві жінки нарікають, що їхні чоловіки якимось дивом стають безпорадними, щойно треба пересунути стілець."
+  },
+  "Onboarding_EvidenceFound_Description_02": {
+    "en": "Herle is alive.",
+    "uk": "Герле живе."
+  },
+  "Onboarding_EvidenceFound_Description_03": {
+    "en": "Then you notice two men standing at a distance, making a great effort not to be noticed… and failing badly. You recognize one of them as a town official.",
+    "uk": "Аж тут Ви помічаєте двох чоловіків, що стоять оддалік і щосили намагаються не привертати уваги… і з тріском провалюють цю справу. Одного з них Ви впізнаєте — це міський урядник."
+  },
+  "Onboarding_EvidenceFound_Description_04": {
+    "en": "The other man slips a purse into the official's belt pouch. They shake hands and quickly part ways.",
+    "uk": "Другий непомітно вкладає гаманець урядникові до поясної калитки. Вони тиснуть руки й хутко розходяться."
+  },
+  "Onboarding_EvidenceFound_Description_05": {
+    "en": "A folded note falls to the ground behind them.",
+    "uk": "Позаду них на землю падає складена записка."
+  },
+  "Onboarding_EvidenceFound_Description_06": {
+    "en": "When you retrieve it, you find the amount of the payment written inside, followed by the words: “Do not forget to vote for me.”",
+    "uk": "Піднявши її, Ви бачите всередині суму платні, а під нею слова: «Не забудь проголосувати за мене»."
+  },
+  "Onboarding_EvidenceFound_Description_07": {
+    "en": "The fool even signed his name.",
+    "uk": "Бовдур іще й підписався власним іменем."
+  },
+  "Onboarding_GuardService_Description_00": {
+    "en": "Someone broke into my joinery.",
+    "uk": "Хтось вломився до моєї столярні."
+  },
+  "Onboarding_GuardService_Description_01": {
+    "en": "I switched to selling from my storefront to avoid robbers on the road. It turns out they were willing to walk the rest of the way.",
+    "uk": "Щоб уберегтися від розбійників на дорогах, я тепер продаю все з крамниці. Як виявилося, решту шляху вони охоче пройшли пішки."
+  },
+  "Onboarding_GuardService_Description_02": {
+    "en": "You wouldn't happen to know how to install barred windows, would you? No? A pity. You certainly wouldn't be short of clients.",
+    "uk": "Ви часом не знаєте, як ставити ґратовані вікна? Ні? Шкода. Без замовників Ви б точно не лишилися."
+  },
+  "Onboarding_GuardService_Description_03": {
+    "en": "Apparently, since the authorities cannot protect the streets themselves, they have decided to leave the work to whichever desperate citizens are willing to put their lives on the line.",
+    "uk": "Схоже, раз урядники не здатні самі вберегти вулиці, вони вирішили перекласти цю роботу на тих відчайдушних міщан, які готові ризикнути власним життям."
+  },
+  "Onboarding_GuardService_Description_04": {
+    "en": "I hear guard service pays well. Hm… I shall recommend it to someone I dislike.",
+    "uk": "Кажуть, служба у варті добре оплачується. Гм… Пораджу її комусь, кого терпіти не можу."
+  },
+  "Onboarding_HireAndTrainWorkerSkill_Description_00": {
+    "en": "I once employed the finest brewer I ever met. He could brew a full batch in half the time it took most men, without sacrificing a drop of quality.",
+    "uk": "Колись у мене працював найкращий пивовар, якого мені доводилося стрічати. Він міг зварити повний казан удвічі швидше за більшість, не поступившись ані краплиною якості."
+  },
+  "Onboarding_HireAndTrainWorkerSkill_Description_01": {
+    "en": "Unfortunately, whenever I sent him to serve the tables, he frightened half the customers into drinking elsewhere. Excellent with barrels. Terrible with people.",
+    "uk": "На жаль, варто було відправити його обслуговувати столи, як половина відвідувачів з переляку йшла пити деінде. З бочками — чудовий. З людьми — жахливий."
+  },
+  "Onboarding_HireAndTrainWorkerSkill_Description_02": {
+    "en": "That taught me to hire workers for what they are good at. Some have the hands for crafting, some can sell anything placed before them, and some know how to keep customers happy.",
+    "uk": "Відтоді я наймаю працівників за тим, що в них виходить найкраще. Одні мають вправні до ремесла руки, інші продадуть будь-що, що перед ними покладеш, а ще інші вміють догодити покупцям."
+  },
+  "Onboarding_HireAndTrainWorkerSkill_Description_03": {
+    "en": "As a smith, you should look for those skilled in handicraft, choose someone who suits your needs, and hire them. If you are happy with the workers you have, you can train their skills.",
+    "uk": "Як коваль, Ви маєте шукати тих, хто вправний у ремеслі, вибрати когось, хто відповідає Вашим потребам, і найняти. Якщо Ви задоволені своїми працівниками, можете тренувати їхні навички."
+  },
+  "Onboarding_HireAndTrainWorkerSkill_Description_04": {
+    "en": "skip",
+    "uk": "пропустити"
+  },
+  "Onboarding_HireAndTrainWorkerSkill_Description_05": {
+    "en": "You linger, admiring the stonework, as though it alone were the handiwork of God. Yet His truest work is found in the faithful gathered here — and it is the duty of a skilled priest to guide them.",
+    "uk": "Ви затримуєтеся, милуючись кам’яною кладкою, наче лише вона — Боже творіння. Та найправдивіше Його діло — це вірні, що зібралися тут, і обов’язок умілого священника — вести їх."
+  },
+  "Onboarding_ImproveHandicraft_Description_00": {
+    "en": "I am Bishop van Hochstaden-Herle. People come here carrying the consequences of what they failed to notice, correct, or prevent. They call such failures misfortune. More often, they are simply neglect allowed to mature.",
+    "uk": "Я єпископ ван Гохштаден-Герле. Люди приходять сюди з наслідками того, чого не помітили, не виправили чи не відвернули. Такі промахи вони звуть лихою долею. Та частіше це просто недбалість, якій дали дозріти."
+  },
+  "Onboarding_ImproveHandicraft_Description_01": {
+    "en": "Your workers may stand at the forge, but their failures will still bear your name. If you cannot recognize waste, clumsy work, or lost time, then you are not directing them. You are merely paying them.",
+    "uk": "Нехай біля горна стоять Ваші працівники, та їхні промахи однаково носитимуть Ваше ім’я. Якщо Ви не розпізнаєте марнотратства, незграбної роботи чи змарнованого часу, то Ви ними не керуєте. Ви їм лише платите."
+  },
+  "Onboarding_ImproveHandicraft_Description_02": {
+    "en": "Improve your handicraft. Capable workers are valuable, but a capable master makes them better. You need not perform every task yourself—but do not mistake ignorance for delegation.",
+    "uk": "Покращуйте своє ремесло. Здібні працівники цінні, але здібний майстер робить їх кращими. Вам не треба виконувати кожне завдання самотужки — та не плутайте незнання з умінням доручати."
+  },
+  "Onboarding_MasterGrade01_Description_00": {
+    "en": "I have been watching you. Not closely. Closely enough.",
+    "uk": "Я за Вами стежу. Не надто пильно. Але достатньо."
+  },
+  "Onboarding_MasterGrade01_Description_01": {
+    "en": "Your work no longer looks like the work of a beginner. I think you are ready to seek a higher master grade.",
+    "uk": "Ваша робота вже не схожа на роботу новачка. Гадаю, Ви готові здобувати вищий ступінь майстерності."
+  },
+  "Onboarding_MasterGrade01_Description_02": {
+    "en": "It will bring renown to your name. A higher mastery will let you accomplish more in your profession and, in time, build a larger smithy offering more crafts and services.",
+    "uk": "Це принесе славу Вашому імені. Вища майстерність дасть Вам змогу досягти більшого у своїй професії, а згодом — збудувати більшу кузню з ширшим вибором виробів і послуг."
+  },
+  "Onboarding_MasterGrade01_Description_03": {
+    "en": "It is curious how skill takes up no room, yet always seems to require a larger building.",
+    "uk": "Дивно: вміння не займає місця, а проте завжди вимагає більшої будівлі."
+  },
+  "Onboarding_PressCharges_Description_00": {
+    "en": "What is that you are holding? Let me see… reading Hm. This looks like evidence.",
+    "uk": "Що це у Вас у руках? Дайте гляну… (читає) Гм. Схоже на докази."
+  },
+  "Onboarding_PressCharges_Description_01": {
+    "en": "Let me be clear: what happens in my inn stays in my inn. People need somewhere they can speak freely, make fools of themselves, and return the next day without discovering that half the town knows about it.",
+    "uk": "Скажу прямо: що відбувається в моєму шинку, те в ньому й лишається. Людям потрібне місце, де можна вільно говорити, пошитися в дурні й повернутися наступного дня, не дізнавшись, що пів міста вже все знає."
+  },
+  "Onboarding_PressCharges_Description_02": {
+    "en": "But you found this elsewhere, so it is no concern of mine. You may sell the evidence, use it for blackmail, or take it before the court. If you want the law involved, press charges.",
+    "uk": "Але це Ви знайшли деінде, тож мене воно не обходить. Докази можна продати, використати для шантажу або подати до суду. Якщо хочете втягнути закон — висуньте звинувачення."
+  },
+  "Onboarding_PressCharges_Description_03": {
+    "en": "What you do after that is between you, your conscience, and whoever pays best.",
+    "uk": "А що робити далі — вирішуватимете Ви, Ваше сумління і той, хто заплатить найбільше."
+  },
+  "Onboarding_PrivateTimeAndHeirs_Description_00": {
+    "en": "Oh, there you are! Come, you must meet the family before one of them wanders off.",
+    "uk": "О, ось і Ви! Ходіть-но, познайомтеся з родиною, поки ніхто не розбрівся."
+  },
+  "Onboarding_PrivateTimeAndHeirs_Description_01": {
+    "en": "This is Jan, Willem, Pieter, Margriet, Lijsbeth, Cornelis, Aleid, Geertruid, little Hendrika — and the one hiding beneath the table is Adriaan. Unless that is Pieter. No, Pieter is eating the cheese.",
+    "uk": "Це Ян, Віллем, Пітер, Марґріт, Лейсбет, Корнеліс, Алейд, Гертрейд, маленька Гендрика, — а той, що ховається під столом, — Адріан. Хіба що це Пітер. Ні, Пітер їсть сир."
+  },
+  "Onboarding_PrivateTimeAndHeirs_Description_02": {
+    "en": "Ah, my little blessings.",
+    "uk": "Ох, мої крихітки — Божа благодать."
+  },
+  "Onboarding_PrivateTimeAndHeirs_Description_03": {
+    "en": "A business may fill your purse, and a title may raise your standing, but an heir gives all that work somewhere to go. Someone to carry the family name, inherit what you have built, and perhaps improve upon it.",
+    "uk": "Справа може наповнити Ваш гаманець, а титул — піднести Ваше становище, але тільки спадкоємець дає всій цій праці мету. Той, хто понесе родове ім’я, успадкує збудоване Вами і, можливо, примножить його."
+  },
+  "Onboarding_PrivateTimeAndHeirs_Description_04": {
+    "en": "You should think about starting a family of your own. A little private time with your spouse is often where such things begin.",
+    "uk": "Вам варто подумати про власну родину. Трохи часу наодинці з чоловіком чи дружиною — з цього такі речі часто й починаються."
+  },
+  "Onboarding_ProfessionTraining_Description_00": {
+    "en": "My family had produced priests for generations, and they had every intention of producing one more. I had other plans, though I did not know what they were yet.",
+    "uk": "Моя родина поколіннями давала світові священників і твердо мала намір дати ще одного. Я ж мав інші плани, хоч і сам іще не знав які."
+  },
+  "Onboarding_ProfessionTraining_Description_01": {
+    "en": "So I left home and travelled through Bohemia. Somewhere along the way, I discovered brewing. Shortly after that, I discovered the woman who would become my wife. One proved far more patient with me than the other.",
+    "uk": "Тож я покинув дім і мандрував Богемією. Десь дорогою я відкрив для себе пивоваріння. Невдовзі після того — і жінку, що стала моєю дружиною. Одне з двох виявилося куди терплячішим до мене, ніж інше."
+  },
+  "Onboarding_ProfessionTraining_Description_02": {
+    "en": "Loving a trade, however, does not make it yours. Before I could keep an inn, I had to present myself to the Innkeepers' Guild and learn the profession properly.",
+    "uk": "Та любов до ремесла ще не робить його твоїм. Перш ніж тримати шинок, мені довелося стати перед Гільдією шинкарів і як слід опанувати професію."
+  },
+  "Onboarding_ProfessionTraining_Description_03": {
+    "en": "The guilds are the place to go when you wish to take up a new profession. They also offer professional training, which can bring you closer to the rank of master in your trade.",
+    "uk": "Гільдії — ось куди варто йти, якщо хочете взятися за нову професію. Там також пропонують фахове навчання, що наближає Вас до звання майстра у Вашому ремеслі."
+  },
+  "Onboarding_ProfessionTraining_Description_04": {
+    "en": "Changing one's path is not always easy. Still, I have found it preferable to spending a lifetime walking in the wrong direction.",
+    "uk": "Змінити шлях не завжди легко. Та як на мене, це краще, ніж ціле життя йти не в той бік."
+  },
+  "Onboarding_Purge_A_Description_00": {
+    "en": "What happened last night? While you slept, the whole city seems to have gone mad, and now no one remembers a thing.",
+    "uk": "Що сталося минулої ночі? Поки Ви спали, усе місто наче збожеволіло, а тепер ніхто нічого не пам’ятає."
+  },
+  "Onboarding_Purge_A_Description_01": {
+    "en": "Fabian's pilgrim badges were stolen, fires were set, and moustaches were painted on every noble portrait in the town hall.",
+    "uk": "У Фабіана вкрали паломницькі значки, то тут, то там спалахували пожежі, а всім шляхетним портретам у ратуші домалювали вуса."
+  },
+  "Onboarding_Purge_A_Description_02": {
+    "en": "Was it some kind of purge? What on earth happened?",
+    "uk": "Невже це була якась судна ніч? Що ж це, в ім’я всього святого, сталося?"
+  },
+  "Onboarding_Purge_A_Description_03": {
+    "en": "Evidence is everywhere, and some of your own memories already contain it. The only question is who will make use of it first.",
+    "uk": "Докази всюди, і дещо з них уже зберігається у Ваших власних спогадах. Питання лише в тому, хто скористається ними першим."
+  },
+  "Onboarding_Purge_A_Name": {
+    "en": "The Purge",
+    "uk": "Судна ніч"
+  },
+  "Onboarding_Purge_B1_Description_00": {
+    "en": "What has come over everyone? The townsfolk are seized by an itching need to cause trouble, as though a little destruction were necessary to endure another day.",
+    "uk": "Що це на всіх найшло? Городян охопила свербляча жага до бешкету, наче без дрібного погрому не пережити й дня."
+  },
+  "Onboarding_Purge_B1_Description_01": {
+    "en": "The town crier has announced the Purge. By decree of the highest officials, one day of disorder shall preserve order for all the rest.",
+    "uk": "Міський глашатай оголосив Чистку. За указом найвищих урядників один день безладу має зберегти лад на всі інші."
+  },
+  "Onboarding_Purge_B1_Description_02": {
+    "en": "Goodwife Gertrud was seen beating the man who trampled her flowers last week. Children are vandalizing buildings, politicians are telling the truth, and Ruprecht, the robber, has somehow got his hands on a very dangerous book.",
+    "uk": "Бачили, як пані Гертруда лупцювала чоловіка, що минулого тижня потоптав її квіти. Діти псують будівлі, урядники кажуть правду, а розбійник Рупрехт якимось дивом роздобув дуже небезпечну книгу."
+  },
+  "Onboarding_Purge_B1_Description_03": {
+    "en": "Today, no one is afraid.",
+    "uk": "Сьогодні ніхто не боїться."
+  },
+  "Onboarding_Purge_B1_Name": {
+    "en": "The Purge",
+    "uk": "Судна ніч"
+  },
+  "Onboarding_Purge_B2_Description_00": {
+    "en": "Unfortunately, it was all a misunderstanding. The officials have withdrawn the decree and insist that everyone may still be prosecuted for their crimes.",
+    "uk": "На жаль, усе це було непорозумінням. Урядники скасували указ і наполягають, що кожного досі можна притягнути до суду за його злочини."
+  },
+  "Onboarding_Purge_B2_Description_01": {
+    "en": "There is now an impressive amount of evidence documenting the town's misconduct.",
+    "uk": "Тепер назбиралося чимало доказів, що засвідчують неподобства всього міста."
+  },
+  "Onboarding_Purge_B2_Description_02": {
+    "en": "The only question is who will take advantage of it first.",
+    "uk": "Питання лише в тому, хто скористається ними першим."
+  },
+  "Onboarding_Purge_B2_Name": {
+    "en": "The Aftermath",
+    "uk": "Наслідки"
+  },
+  "Onboarding_RepairBuilding_Description_00": {
+    "en": "I was passing by when your building caught my eye. It is wearing in several places, though not enough for most people to notice. That is how damage likes to begin — quietly.",
+    "uk": "Я проходив повз, коли мені впала в око Ваша будівля. Де-не-де вона вже зношується, хоч більшість людей цього й не помітить. Саме так шкода любить починатися — тихо."
+  },
+  "Onboarding_RepairBuilding_Description_01": {
+    "en": "The mortar is loosening, and one of the cracks has already begun to spread. Leave it much longer, and the repair will become a far larger job.",
+    "uk": "Розчин кришиться, а одна з тріщин уже почала розповзатися. Зволікайте ще — і ремонт стане куди більшою морокою."
+  },
+  "Onboarding_RepairBuilding_Description_02": {
+    "en": "Were it mine, I would repair it now. A poorly maintained building affects every part of a business — customer appeal, productivity, sanitation, and safety. Neglect has a way of making itself expensive.",
+    "uk": "Якби будівля була моя, я б полагодив її вже зараз. Занедбана будівля шкодить усій справі — привабливості для покупців, продуктивності, санітарії й безпеці. Недбальство має звичку дорого обходитися."
+  },
+  "Onboarding_RepairBuilding_Description_03": {
+    "en": "Marta says I worry too much about cracks. Marta works with wood.",
+    "uk": "Марта каже, що я надто переймаюся тріщинами. Ну так Марта працює з деревом."
+  },
+  "Onboarding_SalaryAndTreatment_Description_00": {
+    "en": "Certain things are told to a priest because they cannot be safely told to a master. I will not say who spoke to me, nor repeat what was said.",
+    "uk": "Дещо розповідають священникові саме тому, що майстрові це розповісти небезпечно. Я не скажу, хто зі мною говорив, і не переказуватиму почутого."
+  },
+  "Onboarding_SalaryAndTreatment_Description_01": {
+    "en": "But you should know this: a generous wage does not excuse poor treatment, and kind words do not make up for an empty purse. Your workers care about both how they are paid and how they are treated.",
+    "uk": "Але знайте: щедра платня не виправдовує поганого ставлення, а добрі слова не наповнять порожнього гаманця. Вашим працівникам важливо і те, як їм платять, і те, як із ними поводяться."
+  },
+  "Onboarding_SalaryAndTreatment_Description_02": {
+    "en": "See to one, and they may tolerate you. See to both, and they may remain loyal.",
+    "uk": "Подбайте про одне — і Вас, можливо, терпітимуть. Подбайте про обидва — і вони, можливо, лишаться Вам вірні."
+  },
+  "Onboarding_SocializeAtInn_Description_00": {
+    "en": "Ah! A face I don't know! That does not happen often in my inn. I'm Hendrik Bloudil. You must be the new smith.",
+    "uk": "О! Незнайоме обличчя! У моєму шинку таке нечасто трапляється. Я Гендрик Блоуділ. Ви, мабуть, новий коваль."
+  },
+  "Onboarding_SocializeAtInn_Description_01": {
+    "en": "I hope you have a better head for business than the last one. He was too fond of his cups and not fond enough of his accounts.",
+    "uk": "Сподіваюся, у справах Ви тямите більше за попереднього. Той надто любив свій кухоль і надто мало — свої рахунки."
+  },
+  "Onboarding_SocializeAtInn_Description_02": {
+    "en": "Still, as we say: the inn fills the cup, and the church empties the conscience. Drink tonight, pray tomorrow, and wake as good as new.",
+    "uk": "Та, як у нас кажуть: шинок наповнює кухоль, а церква спорожнює сумління. Пийте ввечері, моліться зранку — і прокинетеся як новенький."
+  },
+  "Onboarding_SocializeAtInn_Description_03": {
+    "en": "I admit, I do not follow the second half as faithfully as I once did. In Prague, I heard a preacher speak as though a man's faith should be measured by how he lives, not by how often he crosses a church threshold. I found some sense in that.",
+    "uk": "Зізнаюся, другу половину я вже не дотримую так сумлінно, як колись. У Празі я чув проповідника, який казав, що віру людини слід міряти тим, як вона живе, а не тим, як часто переступає церковний поріг. Я знайшов у цьому певний сенс."
+  },
+  "Onboarding_SocializeAtInn_Description_04": {
+    "en": "Even so, you should pay the church a visit. You can hardly claim to know Herle until you have stood beneath its tower.",
+    "uk": "І все ж церкву Вам варто відвідати. Навряд чи можна сказати, що знаєш Герле, доки не постояв під її вежею."
+  },
+  "Onboarding_StorefrontAndEscort_Description_00": {
+    "en": "You will not believe what happened on my way here.",
+    "uk": "Ви не повірите, що зі мною сталося дорогою сюди."
+  },
+  "Onboarding_StorefrontAndEscort_Description_01": {
+    "en": "Robbers ambushed my cart and took an entire cartload of crossbows. Crossbows! So now I have lost a fortune, and the local criminals are considerably better armed.",
+    "uk": "Розбійники влаштували засідку на мій віз і забрали цілий віз арбалетів. Арбалетів! Тепер я втратив цілий статок, а місцеві лиходії озброєні значно краще."
+  },
+  "Onboarding_StorefrontAndEscort_Description_02": {
+    "en": "I should have hired escorts. I knew that, of course.",
+    "uk": "Треба було найняти супровід. Я це, звісно, знав."
+  },
+  "Onboarding_StorefrontAndEscort_Description_03": {
+    "en": "Do be careful inside the walls as well, especially when carrying anything valuable. You can sell goods from your storefront, naturally, but the Marketplace is much faster. Though speed loses some of its charm when your cart never arrives.",
+    "uk": "Будьте обережні й у міських стінах, надто коли везете щось цінне. Звісно, товар можна продавати і з власної крамниці, але на ринку це значно швидше. Хоча швидкість трохи втрачає свою принадність, коли віз так і не доїжджає."
+  },
+  "Onboarding_StorefrontAndEscort_Description_04": {
+    "en": "For the moment, I think I shall trust my storefront. I am still one step ahead of those robbers. They will see.",
+    "uk": "Поки що я, мабуть, покладуся на свою крамницю. Я все ще на крок попереду тих розбійників. Вони ще побачать."
+  },
+  "Onboarding_Title01_Description_00": {
+    "en": "A de Rochefort has nothing to discuss with a mere commoner.",
+    "uk": "Де Рошфорові нема про що говорити з якимсь простолюдином."
+  },
+  "Onboarding_Title01_Description_01": {
+    "en": "I value my time. You should learn to value yours.",
+    "uk": "Я ціную свій час. Навчіться цінувати й свій."
+  },
+  "Onboarding_Title01_Description_02": {
+    "en": "Claim the title of Burgher, and perhaps then we shall have business together. Until that day, do not waste either.",
+    "uk": "Здобудьте титул міщанина — тоді, можливо, у нас знайдуться спільні справи. А до того дня не марнуйте ні мого часу, ні свого."
+  },
+  "Onboarding_UnpauseAndEnter_Description_00": {
+    "en": "God be praised, the smithy has a smith again! You must be the newcomer. Welcome to town. I'm Marta, the town's joiner — and, before you ask, yes, I already have work in mind for you.",
+    "uk": "Слава Богу, у кузні знову є коваль! Ви, мабуть, новоприбулий. Ласкаво просимо до міста. Я Марта, міська столярка, і, поки Ви не спитали, — так, я вже маю для Вас роботу."
+  },
+  "Onboarding_UnpauseAndEnter_Description_01": {
+    "en": "My twin sister, Elsbeth, is the town's mason. You'll likely meet her soon enough. She is something of a collector, though she can be rather particular about what deserves keeping. She asks unusual questions, too, and has an uncanny habit of already knowing half the answer.",
+    "uk": "Моя сестра-близнючка Ельсбет — міська каменярка. Ви, певно, скоро з нею познайомитеся. Вона щось на кшталт збирачки, хоча доволі перебірлива щодо того, що варто зберігати. А ще вона ставить дивні запитання і має моторошну звичку заздалегідь знати половину відповіді."
+  },
+  "Onboarding_UnpauseAndEnter_Description_02": {
+    "en": "Pay it no mind. Elsbeth may be peculiar company, but she is good company. Between her curiosity and my need for hinges, I doubt we shall leave you lonely for long.",
+    "uk": "Не зважайте. Ельсбет, може, й дивакувата, але з нею добре. Між її цікавістю та моєю потребою в завісах, гадаю, самотньо Вам тут довго не буде."
+  },
+  "Onboarding_UnpauseAndEnter_Description_03": {
+    "en": "Still, if you wish to meet more of the town, visit the Inn. Hendrik keeps the place, and he is one of the kindest men you are likely to meet.",
+    "uk": "А якщо хочете познайомитися з містом ближче, зайдіть до шинку. Його тримає Гендрик — один із найдобріших людей, яких Ви тут зустрінете."
+  },
+  "Onboarding_UnpauseAndEnter_Description_04": {
+    "en": "For now, acquaint yourself with your new workshop. I'll give you a little time before I begin arriving with requests.",
+    "uk": "А поки що обживайтеся у своїй новій майстерні. Дам Вам трохи часу, перш ніж почну приходити із замовленнями."
+  },
+  "OpponentConvicted_Description": {
+    "en": "A Dynasty Head has been convicted of a notorious crime. \n\nYou may spend your energy to voice an opinion — or mind your own business. \n\nRemember: the enemy of my enemy is my friend.",
+    "uk": "Голову династії засуджено за ганебний злочин. \n\nВи можете витратити енергію, щоб висловити свою думку, — або не пхати носа в чужі справи. \n\nПам’ятайте: ворог мого ворога — мій друг."
+  },
+  "OpponentConvicted_Description_0": {
+    "en": "A Dynasty Head has been convicted of a notorious crime. Shocking, really. They seemed like such a fine citizen: Sunday prayers, taxes paid on time, always ready to help others — well, as long as those others could offer something in return. But then again, God made hierarchy for a reason.",
+    "uk": "Голову династії засуджено за ганебний злочин. Просто жах. А здавався таким порядним міщанином: недільні молитви, податки вчасно, завжди готовий допомогти іншим — ну, якщо ті інші могли чимось віддячити. Та зрештою, Бог недарма створив ієрархію."
+  },
+  "OpponentConvicted_Description_1": {
+    "en": "Well, it is the talk of the town, and this is your chance to take part. You may spend your energy to voice an opinion or save it for worthier pursuits. ",
+    "uk": "Що ж, про це гомонить усе місто, і Ви маєте нагоду долучитися. Можете витратити енергію, щоб висловити свою думку, або зберегти її для гідніших справ. "
+  },
+  "OpponentConvicted_Description_2": {
+    "en": "Some people make friends by hating the same person, or you could try to defend them instead — extra points if they can return the favor later.",
+    "uk": "Дехто заводить друзів, ненавидячи ту саму людину. А можна спробувати її захистити — ще краще, якщо згодом вона зможе віддячити."
+  },
+  "OpponentConvicted_Name": {
+    "en": "Justice Served",
+    "uk": "Правосуддя звершилося"
+  },
+  "OpponentConvicted_Option_01": {
+    "en": "Speak for",
+    "uk": "Заступитися"
+  },
+  "OpponentConvicted_Option_01_Result_01": {
+    "en": "You have befriended someone with a stained reputation. May their friendship prove more useful than their name.",
+    "uk": "Ви здружилися з людиною з заплямованою репутацією. Хай її дружба стане в пригоді більше, ніж її ім’я."
+  },
+  "OpponentConvicted_Option_02": {
+    "en": "Speak against",
+    "uk": "Засудити"
+  },
+  "OpponentConvicted_Option_02_Result_01": {
+    "en": "The enemy of my enemy is my friend.",
+    "uk": "Ворог мого ворога — мій друг."
+  },
+  "OpponentConvicted_Option_03": {
+    "en": "Ignore",
+    "uk": "Не зважати"
+  },
+  "OpponentConvicted_Option_03_Result_01": {
+    "en": "Inane chatter is for those with empty hands.",
+    "uk": "Пусті балачки — для тих, у кого порожні руки."
+  },
+  "OpponentDied_Description": {
+    "en": "Another dynasty head has passed away this year. \n\nYou may seize the opportunity to offer condolences — and a sum of money — to the new heir. \n\nIn showing respect, you may also find a stronger ally in the next generation.",
+    "uk": "Цього року помер ще один голова династії. \n\nВи можете скористатися нагодою і висловити співчуття — разом із певною сумою грошей — новому спадкоємцеві. \n\nВиявивши повагу, Ви, можливо, знайдете міцнішого союзника в новому поколінні."
+  },
+  "OpponentDied_Description_0": {
+    "en": "The bells announce the death of a Dynasty Head.",
+    "uk": "Дзвони сповіщають про смерть голови династії."
+  },
+  "OpponentDied_Description_1": {
+    "en": "Rumor says there will be a grand procession to the church, with heraldry, priests, candles, and enough solemn dignity to bankrupt a smaller household. Naturally, it is not only a funeral. It is a declaration. The old head may be gone, but the dynasty, in case anyone was wondering, remains terribly alive.",
+    "uk": "Кажуть, до церкви рушить велика процесія — з гербами, священниками, свічками й такою урочистою гідністю, що менший дім від неї збанкрутував би. Звісно, це не лише похорон. Це заява. Старого голови, може, й не стало, але династія, якщо хтось раптом сумнівався, живіша за всіх живих."
+  },
+  "OpponentDied_Description_2": {
+    "en": "The chapel will be packed with family, servants, and mourners. Even the poor may try to squeeze inside for a glimpse of grief dressed in its finest clothes.",
+    "uk": "Каплиця буде вщерть набита родиною, челяддю й жалобниками. Навіть бідняки спробують протиснутися всередину, аби глянути на горе, вбране в найкращі шати."
+  },
+  "OpponentDied_Description_3": {
+    "en": "Still, beneath all the velvet and candlelight, the family stands at a delicate hour. Becoming the heir is one thing; being accepted and respected by the other families is another.",
+    "uk": "Та під усім тим оксамитом і світлом свічок родина переживає непросту годину. Стати спадкоємцем — одне, а здобути визнання й повагу інших родин — зовсім інше."
+  },
+  "OpponentDied_Description_4": {
+    "en": "Show respect at the right moment, and you may find a stronger ally in the next generation.",
+    "uk": "Виявіть повагу в слушну мить — і, можливо, знайдете міцнішого союзника в новому поколінні."
+  },
+  "OpponentDied_Name": {
+    "en": "A Dynasty in Mourning",
+    "uk": "Династія в жалобі"
+  },
+  "OpponentDied_Option_01": {
+    "en": "You offer a generous funeral gift and pay your respects to the new heir. Grief is costly, but gratitude can be worth more than coin.",
+    "uk": "Ви підносите щедрий похоронний дар і вшановуєте нового спадкоємця. Жалоба коштує дорого, але вдячність буває ціннішою за монети."
+  },
+  "OpponentDied_Option_01_Result_01": {
+    "en": "Pay Respects",
+    "uk": "Віддати шану"
+  },
+  "OpponentDied_Option_02": {
+    "en": "Ignore",
+    "uk": "Не зважати"
+  },
+  "OpponentDied_Option_02_Result_01": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "OpponentElected_Description": {
+    "en": "A dynasty head has been elected to an office. \n\nYou may spend your energy to voice your thoughts — or keep your envy to yourself.\n\nSpeak, and you might find more than a few who agree with you.",
+    "uk": "Голову династії обрано на посаду. \n\nВи можете витратити енергію, щоб висловити свої думки, — або тримати заздрість при собі.\n\nЗаговоріть — і, можливо, знайдете чимало однодумців."
+  },
+  "OpponentElected_Description_0": {
+    "en": "A dynasty head has been elected to office.",
+    "uk": "Голову династії обрано на посаду."
+  },
+  "OpponentElected_Description_1": {
+    "en": "You may spend your energy to voice your thoughts — or keep your envy to yourself.",
+    "uk": "Ви можете витратити енергію, щоб висловити свої думки, — або тримати заздрість при собі."
+  },
+  "OpponentElected_Description_2": {
+    "en": "Speak, and you might find more than a few who agree with you.",
+    "uk": "Заговоріть — і, можливо, знайдете чимало однодумців."
+  },
+  "OpponentElected_Name": {
+    "en": "An Office Position Claimed",
+    "uk": "Посаду зайнято"
+  },
+  "OpponentElected_Option_01": {
+    "en": "Praise",
+    "uk": "Похвалити"
+  },
+  "OpponentElected_Option_02": {
+    "en": "Criticize",
+    "uk": "Розкритикувати"
+  },
+  "OpponentElected_Option_03": {
+    "en": "Ignore",
+    "uk": "Не зважати"
+  },
+  "OpponentHadChild_Description": {
+    "en": "A child has been born into another dynasty. They will surely expect a word or gesture from you.",
+    "uk": "В іншій династії народилася дитина. Від Вас, безперечно, чекатимуть слова чи жесту."
+  },
+  "OpponentHadChild_Name": {
+    "en": "Born to Another House",
+    "uk": "Народжене в чужому домі"
+  },
+  "OpponentHadChild_Option_01": {
+    "en": "Congratulate",
+    "uk": "Привітати"
+  },
+  "OpponentHadChild_Option_02": {
+    "en": "Send a gift",
+    "uk": "Надіслати подарунок"
+  },
+  "OpponentHadChild_Option_03": {
+    "en": "Ignore though it may strain relations",
+    "uk": "Не зважати, хоч це може зіпсувати стосунки"
+  },
+  "OpponentMarried_Description": {
+    "en": "A marriage has been celebrated in another dynasty. They will surely expect a word or gesture from you.",
+    "uk": "В іншій династії відгуляли весілля. Від Вас, безперечно, чекатимуть слова чи жесту."
+  },
+  "OpponentMarried_Name": {
+    "en": "A Match in Another House",
+    "uk": "Шлюб у чужому домі"
+  },
+  "OpponentMarried_Option_01": {
+    "en": "Congratulate",
+    "uk": "Привітати"
+  },
+  "OpponentMarried_Option_02": {
+    "en": "Send a gift",
+    "uk": "Надіслати подарунок"
+  },
+  "OpponentMarried_Option_03": {
+    "en": "Ignore and it may strain relations",
+    "uk": "Не зважати — це може зіпсувати стосунки"
+  },
+  "OrphanFound_Description_0": {
+    "en": "You come across a small orphaned child, born to a humble worker. With no soul left to care, they are at the mercy of strangers. Some give food, some merely a dismissive look. And you?",
+    "uk": "Ви натрапляєте на маленьку сироту, дитину простого працівника. Нікому більше про неї дбати, тож вона віддана на ласку чужих людей. Хтось дає їжу, хтось лише зневажливо зиркає. А Ви?"
+  },
+  "OrphanFound_Description_1": {
+    "en": "Consider how grateful this poor orphan would be to take your name and follow in your footsteps. Perhaps even more grateful than children born of your own body. Then again, you know nothing about this child.",
+    "uk": "Подумайте, як вдячна була б ця бідолашна сирота, якби отримала Ваше ім’я і пішла Вашими слідами. Можливо, навіть вдячніша за Ваших рідних дітей. З іншого боку, Ви нічого не знаєте про цю дитину."
+  },
+  "OrphanFound_Description_2": {
+    "en": "Consider also how other members of your family may see such an addition. And consider the judgement of noblemen and other high-class citizens whose favor you seek.",
+    "uk": "Подумайте також, як таке поповнення сприймуть інші члени Вашої родини. І як поставляться до нього дворяни та інші поважні міщани, чиєї прихильності Ви шукаєте."
+  },
+  "OrphanFound_Name": {
+    "en": "Lost and Alone",
+    "uk": "Самотнє й покинуте"
+  },
+  "OrphanFound_Option_Adopt": {
+    "en": "Adopt the child",
+    "uk": "Всиновити дитину"
+  },
+  "OrphanFound_Option_Adopt_Result_Instigator": {
+    "en": "You extend your hand and the child's eyes widen as understanding sets in. This bold move will strengthen your dynasty, though some may raise concerns about inheritance when the time comes.",
+    "uk": "Ви простягаєте руку, і очі дитини розширюються, коли вона розуміє, що відбувається. Цей сміливий крок зміцнить Вашу династію, хоча дехто, коли прийде час, може засумніватися щодо спадщини."
+  },
+  "OrphanFound_Option_DoNothing": {
+    "en": "Turn away",
+    "uk": "Відвернутися"
+  },
+  "OrphanFound_Option_DoNothing_Result_Instigator": {
+    "en": "You pass the child by and mind your own business. You are not to blame for everyone's misfortunes, and you are not responsible for fixing them. Sad but true.",
+    "uk": "Ви проходите повз дитину і займаєтеся своїми справами. Ви не винні в усіх чужих бідах і не мусите їх виправляти. Сумно, але правда."
+  },
+  "OrphanFound_Option_Help": {
+    "en": "Offer help",
+    "uk": "Запропонувати допомогу"
+  },
+  "OrphanFound_Option_Help_Result_Instigator": {
+    "en": "You hand out what you feel is appropriate. The child seems a bit disappointed, but surely something is better than nothing. Your generosity is appreciated by the downtrodden.",
+    "uk": "Ви даєте стільки, скільки вважаєте доречним. Дитина трохи розчарована, але щось таки краще, ніж нічого. Знедолені цінують Вашу щедрість."
+  },
+  "Preacher_Description_0": {
+    "en": "Even kings bow to the church, as the church speaks with the authority of God. However, it is no secret that some eminent {O_CHA_CHUAUT_C}church authorities{##} use this situation as an opportunity to further their own interests.",
+    "uk": "Навіть королі схиляються перед церквою, бо церква говорить від імені Бога. Проте ні для кого не секрет, що деякі високі представники {O_CHA_CHUAUT_C}церковної влади{##} користаються з цього, щоб просувати власні інтереси."
+  },
+  "Preacher_Description_1": {
+    "en": "A new preacher has arrived in our city. Pious citizens who have heard him speak have nothing but respect for this person, whereas more secular citizens remain skeptical.",
+    "uk": "До нашого міста прибув новий проповідник. Побожні міщани, що чули його слово, відгукуються про нього лише з повагою, тоді як світськіші міщани ставляться до нього з недовірою."
+  },
+  "Preacher_Description_2": {
+    "en": "If you aspire to some day rise among the clerical ranks, go search the city streets for this preacher and engage in theological debate. Hopefully, that will steer public opinion towards your views.",
+    "uk": "Якщо колись прагнете піднятися в духовному стані, пошукайте цього проповідника на міських вулицях і вступіть із ним у богословський диспут. Якщо пощастить, громада схилиться на Ваш бік."
+  },
+  "Preacher_Name": {
+    "en": "A Church Emissary in Our City",
+    "uk": "Посланець церкви в нашому місті"
+  },
+  "PurseFound_Description": {
+    "en": "You find a half-open purse lying suspiciously in the middle of the street, heavy with coin.\n\nNo one is around.\n\nYou remember last week when Hans was caught in the same situation, except it was a scam, and thugs came out of nowhere to beat him. \n\nBut perhaps today is truly your lucky day.",
+    "uk": "Посеред вулиці підозріло лежить напіврозкритий гаманець, важкий від монет.\n\nДовкола — ні душі.\n\nВи пригадуєте, як минулого тижня Ганс натрапив на таке саме, от тільки то була пастка: невідь-звідки вискочили головорізи й добряче його відлупцювали. \n\nА може, сьогодні й справді Ваш щасливий день."
+  },
+  "PurseFound_Description_0": {
+    "en": "You find a half-open purse lying suspiciously in the middle of the street, heavy with coin.",
+    "uk": "Посеред вулиці підозріло лежить напіврозкритий гаманець, важкий від монет."
+  },
+  "PurseFound_Description_1": {
+    "en": "No one is around.",
+    "uk": "Довкола — ні душі."
+  },
+  "PurseFound_Description_2": {
+    "en": "You remember last week when Hans was caught in the same situation, except it was a scam, and thugs came out of nowhere to beat him. ",
+    "uk": "Ви пригадуєте, як минулого тижня Ганс натрапив на таке саме, от тільки то була пастка: невідь-звідки вискочили головорізи й добряче його відлупцювали. "
+  },
+  "PurseFound_Description_3": {
+    "en": "But perhaps today is truly your lucky day.",
+    "uk": "А може, сьогодні й справді Ваш щасливий день."
+  },
+  "PurseFound_Name": {
+    "en": "Too Good to Be True",
+    "uk": "Надто добре, щоб бути правдою"
+  },
+  "PurseFound_Option_01": {
+    "en": "Grab it",
+    "uk": "Підібрати"
+  },
+  "PurseFound_Option_01_Result_01": {
+    "en": "The purse is heavy with coin.",
+    "uk": "Гаманець важкий від монет."
+  },
+  "PurseFound_Option_01_Result_02": {
+    "en": "A circle of rough men stepped out of the dark. What felt like fortune was nothing but a trap.",
+    "uk": "Із темряви виступило коло кремезних молодиків. Те, що здавалося удачею, виявилося пасткою."
+  },
+  "PurseFound_Option_02": {
+    "en": "Ignore it",
+    "uk": "Пройти повз"
+  },
+  "PurseFound_Option_02_Result_01": {
+    "en": "Not every coin is worth the effort.",
+    "uk": "Не кожна монета варта клопоту."
+  },
+  "RelicAcquisition_Description_0": {
+    "en": "A weary pilgrim collapses near your house. Between ragged breaths, he whispers that he has carried a holy relic across half of Christendom to deliver it to a monastery far away.",
+    "uk": "Біля Вашого дому падає знесилений прочанин. Ледве зводячи дух, він шепоче, що проніс святу реліквію через пів християнського світу, аби доставити її до далекого монастиря."
+  },
+  "RelicAcquisition_Description_1": {
+    "en": "Bandits pursue him, he claims, and he fears the relic will be lost before reaching its destination, which would greatly anger the Almighty.",
+    "uk": "За ним женуться розбійники, каже він, і він боїться, що реліквія пропаде, так і не діставшись мети, а це неабияк розгнівало б Всевишнього."
+  },
+  "RelicAcquisition_Description_2": {
+    "en": "Before giving his last breath, he begs you to help safeguard the relic, and, if it is in your power, deliver it to its fated location.",
+    "uk": "Із останнім подихом він благає Вас уберегти реліквію і, якщо зможете, доправити її туди, де їй судилося бути."
+  },
+  "RelicAcquisition_Name": {
+    "en": "The Pilgrim's Dying Wish",
+    "uk": "Остання воля прочанина"
+  },
+  "RelicAcquisition_Option_Deliver": {
+    "en": "Deliver the relic",
+    "uk": "Доправити реліквію"
+  },
+  "RelicAcquisition_Option_Deliver_Result_Instigator": {
+    "en": "Your piousness got the best of you.",
+    "uk": "Ваша побожність узяла гору."
+  },
+  "RelicAcquisition_Option_Deliver_Result_Target": {
+    "en": "A pious soul found a holy relic and delivered it to a monastery. A miracle!",
+    "uk": "Благочестива душа знайшла святу реліквію й доправила її до монастиря. Диво!"
+  },
+  "RelicAcquisition_Option_Keep": {
+    "en": "Keep the relic",
+    "uk": "Залишити реліквію собі"
+  },
+  "RelicAcquisition_Option_Keep_Result_Instigator": {
+    "en": "Your eccentricity got the best of you.",
+    "uk": "Ваша дивакуватість узяла гору."
+  },
+  "RelicAcquisition_Option_Keep_Result_Target": {
+    "en": "Some heretic found a holy relic and kept it. Blasphemy!",
+    "uk": "Якийсь єретик знайшов святу реліквію й привласнив її. Блюзнірство!"
+  },
+  "RelicAcquisition_Option_Sell": {
+    "en": "Sell the relic",
+    "uk": "Продати реліквію"
+  },
+  "RelicAcquisition_Option_Sell_Result_Instigator": {
+    "en": "Your greed got the best of you.",
+    "uk": "Ваша жадібність узяла гору."
+  },
+  "RelicAcquisition_Option_Sell_Result_Target": {
+    "en": "Some ignoramus found a holy relic and sold it. A shame!",
+    "uk": "Якийсь невіглас знайшов святу реліквію й продав її. Ганьба!"
+  },
+  "RelicDiscovery_Description_0": {
+    "en": "A loose wooden board moves under your foot. Beneath it, tucked into a shallow hollow, lies a metal box wrapped in rotting cloth.",
+    "uk": "Під ногою хитається дошка. Під нею, у неглибокій ямці, лежить металева скринька, загорнута в зотліле полотно."
+  },
+  "RelicDiscovery_Description_1": {
+    "en": "Oh? Hidden treasure? Coin, perhaps?",
+    "uk": "О? Схований скарб? Може, монети?"
+  },
+  "RelicDiscovery_Description_2": {
+    "en": "You brush away the dust and uncover a reliquary, marked with a cross.",
+    "uk": "Ви змітаєте пил і бачите ковчежець із хрестом на віку."
+  },
+  "RelicDiscovery_Description_3": {
+    "en": "Ah. Religious.",
+    "uk": "А. Щось церковне."
+  },
+  "RelicDiscovery_Description_4": {
+    "en": "You hesitate.",
+    "uk": "Ви вагаєтеся."
+  },
+  "RelicDiscovery_Description_5": {
+    "en": "...Religious things aren't cursed, are they?",
+    "uk": "…Церковні речі ж не бувають прокляті, правда?"
+  },
+  "RelicDiscovery_Description_6": {
+    "en": "Probably not.",
+    "uk": "Мабуть, ні."
+  },
+  "RelicDiscovery_Name": {
+    "en": "The Forgotten Relic",
+    "uk": "Забута реліквія"
+  },
+  "RelicDiscovery_Option_Keep": {
+    "en": "Keep the Relic",
+    "uk": "Залишити реліквію собі"
+  },
+  "RelicDiscovery_Option_Keep_Result_Instigator": {
+    "en": "You keep the reliquary for yourself. Saint, fraud, or curiosity—whatever it is, it belongs to you now.",
+    "uk": "Ви залишаєте ковчежець собі. Святиня, підробка чи дивовижа — хай там що, тепер воно Ваше."
+  },
+  "RelicDiscovery_Option_LeaveIt": {
+    "en": "Admire It But Leave It Where It Belongs",
+    "uk": "Помилуватися й залишити на місці"
+  },
+  "RelicDiscovery_Option_LeaveIt_Result_Instigator": {
+    "en": "Some things survive for centuries precisely because no one meddles with them. You put the relic back in its hiding place.",
+    "uk": "Деякі речі вціліли за віки саме тому, що ніхто їх не чіпав. Ви кладете реліквію назад у схованку."
+  },
+  "RelicDiscovery_Option_Sell": {
+    "en": "Find It a New Home",
+    "uk": "Знайти їй новий дім"
+  },
+  "RelicDiscovery_Option_Sell_Result_Instigator": {
+    "en": "You offer the relic to the Church, and the reaction is immediate: astonishment, prayers, excitement. A relic thought lost has been found again. God works in mysterious ways—it seems to have found its way home, whether anyone involved intended it or not.",
+    "uk": "Ви пропонуєте реліквію Церкві, і відгук миттєвий: подив, молитви, радісне збудження. Реліквію, яку вважали втраченою, знайдено! Незбагненні шляхи Господні — схоже, вона повернулася додому, хоч би що там собі замишляли причетні."
+  },
+  "RelicDiscovery_Option_Sell_Result_Target": {
+    "en": "A lost holy relic has been returned to the Church. Some are already calling it a miracle—and its retriever must surely have been guided by God.",
+    "uk": "Втрачену святу реліквію повернуто Церкві. Дехто вже називає це дивом — а того, хто її знайшов, напевно, вела рука Господня."
+  },
+  "RelicDreams_Description_0": {
+    "en": "It's the seventh night in a row that you wake drenched in sweat. Another crazy dream.",
+    "uk": "Уже сьома ніч поспіль, як Ви прокидаєтеся в холодному поті. Знову якийсь божевільний сон."
+  },
+  "RelicDreams_Description_1": {
+    "en": "As you grasp at the fading pieces, a few images remain: grapes, a stag, and… the relic. That relic again!",
+    "uk": "Ви хапаєтеся за уривки, що тануть, і в пам’яті лишається кілька образів: виноград, олень і… реліквія. Знову ця реліквія!"
+  },
+  "RelicDreams_Description_2": {
+    "en": "You get up and go to where you left it. It's still there, exactly as before. What will you do with it?",
+    "uk": "Ви встаєте й ідете туди, де її залишили. Вона досі там, точнісінько як і була. Що ж із нею робити?"
+  },
+  "RelicDreams_Name": {
+    "en": "The Relic Calls",
+    "uk": "Поклик реліквії"
+  },
+  "RelicDreams_Option_ForgetIt": {
+    "en": "Seal It Forever and Never Look Back",
+    "uk": "Замурувати навіки й не озиратися"
+  },
+  "RelicDreams_Option_ForgetIt_Result_Instigator": {
+    "en": "You seal the relic for good. The dreams stop. You hid it so seamlessly that even you could not find it again without tearing the whole place apart.",
+    "uk": "Ви назавжди замуровуєте реліквію. Сни припиняються. Сховали Ви її так ретельно, що й самі не знайшли б, не розібравши все по камінчику."
+  },
+  "RelicDreams_Option_Keep": {
+    "en": "Keep It",
+    "uk": "Залишити"
+  },
+  "RelicDreams_Option_Keep_Result_Instigator": {
+    "en": "You tried not to meddle, but perhaps this was fate. That relic wanted to be found—and it chose you.",
+    "uk": "Ви намагалися не втручатися, та, може, це доля. Ця реліквія хотіла, щоб її знайшли, — і обрала Вас."
+  },
+  "Riot_Description_0": {
+    "en": "Rabbles of grumbling citizens are rioting in the streets, and they can't even agree on their demands. Have our esteemed officials truly been so blind to the {QUA_UNR_C}unrest{##} troubling our fair city?",
+    "uk": "Юрби буркотливих міщан бешкетують на вулицях, хоча й самі не можуть домовитися, чого вимагають. Невже наші шановні урядники справді не помічали {QUA_UNR_C}заворушень{##}, що тривожать наше славне місто?"
+  },
+  "Riot_Description_1": {
+    "en": "Due to the violence, all buildings in the affected {C_QUA_C}city quarter{##} have been damaged:",
+    "uk": "Через насильство всі будівлі в ураженому {C_QUA_C}кварталі{##} пошкоджено:"
+  },
+  "Riot_Description_2": {
+    "en": "If the buildings are not repaired, they will become unsafe, increasing the chance of work accidents and overall {QUA_DEV_C}devastation{##} in the area. Our city's {QUA_REP_C}reputation{##} will drop and the empire will hesitate to fill the city treasury, which will only make things worse.",
+    "uk": "Якщо будівлі не відремонтувати, вони стануть небезпечними: частішатимуть нещасні випадки на роботі, а в околиці ширитимуться {QUA_DEV_C}занепад і бруд{##}. {QUA_REP_C}Репутація{##} нашого міста впаде, й імперія не поспішатиме поповнювати міську скарбницю, — а від цього стане тільки гірше."
+  },
+  "Riot_Name": {
+    "en": "Pitchforks and Torches",
+    "uk": "Вила й смолоскипи"
+  },
+  "RobberStoleYourPurse_Description": {
+    "en": "In the busy street, a nimble hand slipped your coin purse off your waist. By the time you noticed, the thief was already weaving into the crowd.",
+    "uk": "У вуличній штовханині спритна рука зняла гаманець із Вашого пояса. Коли Ви помітили, злодій уже петляв у натовпі."
+  },
+  "RobberStoleYourPurse_Name": {
+    "en": "The Cutpurse",
+    "uk": "Кишеньковий злодій"
+  },
+  "RobberStoleYourPurse_Option_01": {
+    "en": "Try to reclaim your money",
+    "uk": "Спробувати повернути гроші"
+  },
+  "RobberStoleYourPurse_Option_01_Result_01": {
+    "en": "At the last moment you seized his sleeve. He tore free, leaving your purse — and every coin — behind.",
+    "uk": "В останню мить Ви вхопили його за рукав. Він вирвався, але залишив Ваш гаманець — з усіма монетами до одної."
+  },
+  "RobberStoleYourPurse_Option_02": {
+    "en": "Do nothing",
+    "uk": "Нічого не робити"
+  },
+  "RobberStoleYourPurse_Option_02_Result_01": {
+    "en": "The thief vanished into the crowd with your money.",
+    "uk": "Злодій зник у натовпі разом із Вашими грошима."
+  },
+  "SabotageVictim_Description": {
+    "en": "That will be costly! Someone has despoiled your premises, as if trying to ruin it outright.\n\n…If only the guild offered vandalism insurance.",
+    "uk": "Це влетить у копієчку! Хтось сплюндрував Ваше обійстя, наче хотів геть його знищити.\n\n…Якби ж то гільдія страхувала від бешкетників."
+  },
+  "SabotageVictim_Name": {
+    "en": "Sabotaged!",
+    "uk": "Саботаж!"
+  },
+  "SabotageVictim_Option_01": {
+    "en": "Accept the losses",
+    "uk": "Змиритися зі збитками"
+  },
+  "ShadyCharacter_Description_0": {
+    "en": "The city guards were overheard joking about some suspicious fellows hanging around the city, looking like the saddest criminals in history.",
+    "uk": "Хтось підслухав, як міські вартові жартували про підозрілих типів, що тиняються містом і скидаються на найжалюгідніших злочинців в історії."
+  },
+  "ShadyCharacter_Description_1": {
+    "en": "Perhaps the guards are too quick to judge. What if these shady-looking fellows are not criminals, but simply businessmen with loose morals and unusual offers?",
+    "uk": "А може, вартові поспішають із висновками? Що, як ці сумнівні на вигляд типи — не злочинці, а просто ділки з гнучкою мораллю та незвичайними пропозиціями?"
+  },
+  "ShadyCharacter_Description_2": {
+    "en": "If you seek them out, you may discover interesting opportunities.",
+    "uk": "Якщо Ви їх розшукаєте, то, можливо, натрапите на цікаві нагоди."
+  },
+  "ShadyCharacter_Name": {
+    "en": "Everything Is Worth Something to Someone",
+    "uk": "Кожна річ комусь та й знадобиться"
+  },
+  "StrangeItemFound_Description_0": {
+    "en": "In your wanderings about the city outskirts, you spot a green stone with strange rings. Its rare beauty is mesmerising.",
+    "uk": "Блукаючи околицями міста, Ви помічаєте зелений камінь із дивними кільцями. Його рідкісна краса зачаровує."
+  },
+  "StrangeItemFound_Description_1": {
+    "en": "Surely, owning such a precious stone will make you and your dynasty the envy of the entire city.",
+    "uk": "Певно ж, володіння таким коштовним каменем зробить Вас і Вашу династію предметом заздрощів усього міста."
+  },
+  "StrangeItemFound_Description_2": {
+    "en": "Then again, something inside you wonders if it could be dangerous. Perhaps donating it will bring other gains.",
+    "uk": "Та водночас щось усередині Вас підказує, що він може бути небезпечним. Може, пожертвувавши його, Ви здобудете щось інше."
+  },
+  "StrangeItemFound_Name": {
+    "en": "The Greenstone",
+    "uk": "Зелений камінь"
+  },
+  "StrangeItemFound_Option_DonateChurch": {
+    "en": "Donate it to the church",
+    "uk": "Пожертвувати церкві"
+  },
+  "StrangeItemFound_Option_DonateChurch_Result_Instigator": {
+    "en": "Your piousness got the best of you. The members of the {O_CHA_CHUAUT_C}Church Authority{##} are pleased.",
+    "uk": "Ваша побожність узяла гору. Члени {O_CHA_CHUAUT_C}церковної влади{##} задоволені."
+  },
+  "StrangeItemFound_Option_DonateChurch_Result_Target": {
+    "en": "A pious soul has donated a precious stone of rare beauty to our church. Blessed be!",
+    "uk": "Благочестива душа пожертвувала нашій церкві коштовний камінь рідкісної краси. Благословенна будь!"
+  },
+  "StrangeItemFound_Option_DonateCity": {
+    "en": "Donate it to the city",
+    "uk": "Пожертвувати місту"
+  },
+  "StrangeItemFound_Option_DonateCity_Result_Instigator": {
+    "en": "Your civic duty got the best of you. The members of the {O_CHA_TOWCOU_C}Town Council{##} are pleased.",
+    "uk": "Почуття громадянського обов’язку взяло гору. Члени {O_CHA_TOWCOU_C}міської ради{##} задоволені."
+  },
+  "StrangeItemFound_Option_DonateCity_Result_Target": {
+    "en": "An upstanding citizen has donated a precious stone of rare beauty to our city. We shall be the envy of the Empire!",
+    "uk": "Шановний міщанин пожертвував нашому місту коштовний камінь рідкісної краси. Уся імперія нам заздритиме!"
+  },
+  "StrangeItemFound_Option_Keep": {
+    "en": "Keep it",
+    "uk": "Залишити"
+  },
+  "StrangeItemFound_Option_Keep_Result_Instigator": {
+    "en": "Your kin gathered to marvel, calling it a blessing. Yet with time you grew pale and weary, as though its beauty carried a hidden cost.",
+    "uk": "Рідня збиралася помилуватися ним і називала його благословенням. Та з часом Ви зблідли й знесиліли, наче за його красу довелося платити потай."
+  },
+  "StrangeItemFound_Option_Keep_Result_Target": {
+    "en": "One of your kin has found a precious stone of rare beauty. Your dynasty's {CHAR_REN_C}renown{##} has surely increased.",
+    "uk": "Хтось із Вашої рідні знайшов коштовний камінь рідкісної краси. {CHAR_REN_C}Слава{##} Вашої династії напевно зросла."
+  },
+  "StrangeVegetable_Description": {
+    "en": "You notice a fruit unlike any other for sale. The merchant calls it rare, yet no one dares touch it. \n\nTry it! Fruits are healthy… right? It could restore your energy — or leave you with food poisoning.",
+    "uk": "Ви помічаєте на продажу плід, не схожий ні на що інше. Торговець каже, що це рідкість, та ніхто не наважується його торкнутися. \n\nСкуштуйте! Плоди ж корисні… правда? Він може відновити Вам енергію — або ж обернутися харчовим отруєнням."
+  },
+  "StrangeVegetable_Name": {
+    "en": "The Forbidden Fruit",
+    "uk": "Заборонений плід"
+  },
+  "StrangeVegetable_Option_01": {
+    "en": "Taste it",
+    "uk": "Скуштувати"
+  },
+  "StrangeVegetable_Option_01_Result_01": {
+    "en": "A burning twist grips your stomach, and the taste turns to bile.",
+    "uk": "Шлунок скручує пекучим болем, а смак обертається жовчю."
+  },
+  "StrangeVegetable_Option_01_Result_02": {
+    "en": "The taste was strange, but it left you feeling younger, stronger, alive.",
+    "uk": "Смак був дивний, але Ви відчули себе молодшим, сильнішим, живим."
+  },
+  "StrangeVegetable_Option_02": {
+    "en": "Steal it and risk angering the Town Bailiffs",
+    "uk": "Вкрасти й ризикнути розгнівати міських бейліфів"
+  },
+  "StrangeVegetable_Option_02_Result_01": {
+    "en": "The merchant caught you in the act but let you go with a warning.",
+    "uk": "Торговець упіймав Вас на гарячому, але відпустив із попередженням."
+  },
+  "StrangeVegetable_Option_02_Result_02": {
+    "en": "You slipped away with the fruit. Whether it was the taste or the thrill, you felt younger, alive.",
+    "uk": "Ви вислизнули з плодом. Чи то від смаку, чи від збудження, але Ви відчули себе молодшим, живим."
+  },
+  "StrangeVegetable_Option_03": {
+    "en": "Ignore it",
+    "uk": "Пройти повз"
+  },
+  "StrangeVegetable_Option_03_Result_01": {
+    "en": "The fruit stayed where it was.",
+    "uk": "Плід лишився там, де й був."
+  },
+  "StreetBrawl_Description_0": {
+    "en": "What began as boasting and shouting in the tavern ended as a drunken brawl in the city streets, all shaky punches and sloppy slashes.",
+    "uk": "Те, що почалося з вихвалянь і галасу в шинку, скінчилося п’яною бійкою на міських вулицях — хиткими ударами й незграбними замахами."
+  },
+  "StreetBrawl_Description_1": {
+    "en": "Some {CHAR_CITVSWOR_C}workers{##} were caught up in the fighting:",
+    "uk": "Деякі {CHAR_CITVSWOR_C}працівники{##} потрапили в бійку:"
+  },
+  "StreetBrawl_Description_2": {
+    "en": "The {CHAR_PRO_C}productivity{##} of workers who got {ST_CHR_KNODOW_C}tired{##} or {ST_INJ_C}hurt{##} is sure to plummet, as is the profitability of their employers. No need to worry though, as surely you've employed only upstanding members of society's lower ranks.",
+    "uk": "{CHAR_PRO_C}Продуктивність{##} працівників, які були {ST_CHR_KNODOW_C}збиті з ніг{##} чи {ST_INJ_C}поранені{##}, неодмінно різко впаде, а з нею й прибутки їхніх наймачів. Та не хвилюйтеся: Ви ж, певно, наймаєте лише найпорядніших представників нижчих верств."
+  },
+  "StreetBrawl_Name": {
+    "en": "Ale and Anger",
+    "uk": "Пиво і гнів"
+  },
+  "StreetBrawl_Result_01": {
+    "en": "Some workers were caught up in the fighting, leaving them tired and hurt.",
+    "uk": "Деякі працівники потрапили в бійку й тепер утомлені та поранені."
+  },
+  "SuppliesSpoiled_Description": {
+    "en": "The city granary was found spoiled from end to end, every sack ruined. Not a kernel spared for bread or porridge.",
+    "uk": "Міську комору знайшли зіпсованою від краю до краю, кожен мішок пропав. Ані зернини на хліб чи кашу."
+  },
+  "SuppliesSpoiled_Name": {
+    "en": "The Last Supper",
+    "uk": "Остання вечеря"
+  },
+  "SuppliesSpoiled_Result_01": {
+    "en": "Prices climb, and the town must endure lean days ahead.",
+    "uk": "Ціни ростуть, і місто чекають голодні дні."
+  },
+  "SupportLetter_Description": {
+    "en": "Ah, coin and kind words — not a bad surprise at all.\n\nSomeone decided to extend a hand to you by sending a courier with a supportive letter and a substantial amount of money!\n\nGood to be remembered… and better still to be supported.",
+    "uk": "О, монети й добре слово — непоганий сюрприз!\n\nХтось вирішив простягнути Вам руку допомоги й надіслав гінця з листом підтримки та чималою сумою грошей!\n\nПриємно, коли тебе пам’ятають… а ще приємніше, коли підтримують."
+  },
+  "SupportLetter_Description_0": {
+    "en": "Ah, coin and kind words — not a bad surprise at all.",
+    "uk": "О, монети й добре слово — непоганий сюрприз!"
+  },
+  "SupportLetter_Description_1": {
+    "en": "Someone decided to extend a hand to you by sending a courier with a supportive letter and a substantial amount of money!",
+    "uk": "Хтось вирішив простягнути Вам руку допомоги й надіслав гінця з листом підтримки та чималою сумою грошей!"
+  },
+  "SupportLetter_Description_2": {
+    "en": "Good to be remembered… and better still to be supported.",
+    "uk": "Приємно, коли тебе пам’ятають… а ще приємніше, коли підтримують."
+  },
+  "SupportLetter_Name": {
+    "en": "A Hand Extended",
+    "uk": "Руку подано"
+  },
+  "SupportLetter_Option_01": {
+    "en": "Accept gift",
+    "uk": "Прийняти дарунок"
+  },
+  "ThugsVandalizingYourHouse_Description": {
+    "en": "On your way back, you found your own door defaced. Crude signs and shameful words were smeared across the walls, left by thugs who had already fled.",
+    "uk": "Повернувшись додому, Ви побачили, що Ваші двері сплюндровано. Стіни вкривають грубі знаки й ганебні слова — робота головорізів, яких уже й слід простиг."
+  },
+  "ThugsVandalizingYourHouse_Name": {
+    "en": "Redecoration",
+    "uk": "Новий розпис"
+  },
+  "ThugsVandalizingYourHouse_Option_01": {
+    "en": "Seek revenge",
+    "uk": "Помститися"
+  },
+  "ThugsVandalizingYourHouse_Option_01_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ThugsVandalizingYourHouse_Option_02": {
+    "en": "Do nothing",
+    "uk": "Нічого не робити"
+  },
+  "ThugsVandalizingYourHouse_Option_02_Result_01": {
+    "en": "The marks stayed on your walls, and the sight lowered respect in the eyes of those around you.",
+    "uk": "Мазанина лишилася на Ваших стінах, і люди довкола стали шанувати Вас менше."
+  },
+  "TreasureFound_Description": {
+    "en": "You stumble upon hidden treasure — a stroke of luck! \n\nKeep it to enrich your dynasty, or donate it to earn respect from poor workers or city officials.",
+    "uk": "Ви натрапили на прихований скарб — от так пощастило!\n\nЗалиште його, щоб збагатити свою династію, або пожертвуйте, щоб здобути шану бідних працівників чи міських урядників."
+  },
+  "TreasureFound_Description_0": {
+    "en": "You stumble upon hidden treasure — a stroke of luck! ",
+    "uk": "Ви натрапили на прихований скарб — от так пощастило! "
+  },
+  "TreasureFound_Description_1": {
+    "en": "Keep it to enrich your dynasty, or donate it to earn respect from poor workers or city officials.",
+    "uk": "Залиште його, щоб збагатити свою династію, або пожертвуйте, щоб здобути шану бідних працівників чи міських урядників."
+  },
+  "TreasureFound_Name": {
+    "en": "Your Lucky Day",
+    "uk": "Ваш щасливий день"
+  },
+  "TreasureFound_Option_01": {
+    "en": "Donate to the city",
+    "uk": "Пожертвувати місту"
+  },
+  "TreasureFound_Option_01_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "TreasureFound_Option_02": {
+    "en": "Donate to the poor",
+    "uk": "Пожертвувати бідним"
+  },
+  "TreasureFound_Option_02_Result_01": {
+    "en": "workers are impressed by your generosity",
+    "uk": "працівники вражені Вашою щедрістю"
+  },
+  "TreasureFound_Option_03": {
+    "en": "Keep it",
+    "uk": "Залишити"
+  },
+  "TreasureFound_Option_03_Result_01": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "TutorialBusiness_Description_0": {
+    "en": "Welcome to our beautiful city! A person of your {P_C}Profession{##} will find no shortage of opportunities here. Do it well to earn {CHAR_MON_C}Money{##}, professional {P_MASGRA_C}Mastery{##}, {CHAR_WEA_C}Wealth{##}, and {CHAR_REN_C}Renown{##}, so you can climb the {T_C}ranks of society{##}.",
+    "uk": "Ласкаво просимо до нашого прекрасного міста! Людина Вашої {P_C}професії{##} знайде тут безліч можливостей. Працюйте сумлінно, щоб здобути {CHAR_MON_C}гроші{##}, {P_MASGRA_C}ступінь майстерності{##}, {CHAR_WEA_C}статки{##} і {CHAR_REN_C}славу{##} та здобути вищий {T_C}титул{##}."
+  },
+  "TutorialBusiness_Description_1": {
+    "en": "Assign your {CHAR_CITVSWOR_C}Workers{##} to {A_ACT_CRA_C}craft{##} products from various materials that you purchase or gather. Hire more workers as needed and watch their {CHAR_ENE_C}Energy{##} — it affects {CHAR_PRO_C}Productivity{##}.",
+    "uk": "Доручайте {CHAR_CITVSWOR_C}працівникам{##} {A_ACT_CRA_C}виготовлення{##} виробів із придбаної чи зібраної сировини. За потреби наймайте ще людей і стежте за їхньою {CHAR_ENE_C}енергією{##} — від неї залежить {CHAR_PRO_C}продуктивність{##}."
+  },
+  "TutorialBusiness_Description_2": {
+    "en": "{A_OVEPRO_C}Oversee Work{##} to motivate your employees to work faster. If their {CHAR_STA_C}Opinion{##} of you is too low, they may leave; if overworked, they will be prone to {B_PARAM_ACCPRO_ACC}Accidents{##}.",
+    "uk": "{A_OVEPRO_C}Наглядайте за роботою{##}, щоб наймити працювали швидше. Якщо їхня {CHAR_STA_C}прихильність{##} до Вас надто низька, вони можуть піти; а перевтомлені частіше потрапляють у {B_PARAM_ACCPRO_ACC}нещасні випадки{##}."
+  },
+  "TutorialBusiness_Description_3": {
+    "en": "Visit a {B_GUILD_C}Guild House{##} if you'd like to expedite your {A_TRAPRO_C}training{##} or unlock a new profession. You can then switch between {A_ACTPRO_C}active professions{##}, mixing business with pleasure as you see fit.",
+    "uk": "Відвідайте {B_GUILD_C}гільдію{##}, якщо хочете пришвидшити {A_TRAPRO_C}фахове навчання{##} або опанувати нову професію. Тоді зможете перемикатися між професіями, обираючи {A_ACTPRO_C}основну професію{##} і поєднуючи приємне з корисним на власний розсуд."
+  },
+  "TutorialBusiness_Description_4": {
+    "en": "The {B_HP_C}Integrity{##} of a building affects {B_PARAM_ACCPRO_C}safety{##} and {B_PARAM_PROBON_C}productivity{##}, so don't skimp out on repairs. Rooms and Improvements in your building help your business and unlock {A_ACT_C}tasks for your workers{##}, as well as new actions for you or your clients.",
+    "uk": "{B_HP_C}Цілісність{##} будівлі впливає на {B_PARAM_ACCPRO_C}захист від нещасних випадків{##} і {B_PARAM_PROBON_C}продуктивність{##}, тож не скупіться на ремонт. Кімнати й покращення будівлі допомагають справі й відкривають нові {A_ACT_C}завдання для працівників{##}, а також нові дії для Вас і Ваших покупців."
+  },
+  "TutorialBusiness_Description_5": {
+    "en": "Sell your products to turn a profit. Move them from your {B_STOROO_C}Storeroom{##} to your {B_STOFRO_C}Storefront{##}, or load them in {CAR_C}Carts{##} and send them to the {B_PUB_MKT_C}Marketplace{##}. Repair your carts or buy carts with more slots, better integrity, and more speed.",
+    "uk": "Продавайте вироби, щоб мати зиск. Переносьте їх із {B_STOROO_C}комори{##} до {B_STOFRO_C}крамниці{##} або вантажте на {CAR_C}вози{##} й відправляйте на {B_PUB_MKT_C}ринок{##}. Лагодьте вози чи купуйте нові — місткіші, міцніші та швидші."
+  },
+  "TutorialBusiness_Description_6": {
+    "en": "Before sending out a cart, consider {A_HIRESC_C}hiring an escort{##} to defend against waylaying bandits. However, even strong escorts won't fend off all attacks if your carts carry very tempting riches, especially if some corrupt city official {CR_CRI_C}decriminalizes{##} such activities.",
+    "uk": "Перш ніж відправити віз, подумайте, чи не {A_HIRESC_C}найняти супровід{##} для захисту від розбійників на дорогах. Утім, навіть сильний супровід не відіб’є всіх нападів, якщо віз везе надто спокусливі багатства, — особливо коли якийсь продажний урядник перестане вважати такі розбої {CR_CRI_C}злочином{##}."
+  },
+  "TutorialBusiness_Name": {
+    "en": "Running Your Business",
+    "uk": "Ведення справи"
+  },
+  "TutorialCrime_Description_0": {
+    "en": "City {L_LAW_C}Laws{##} affect how you conduct business and interact with {CHAR_CITVSWOR_C}Citizens{##}. The Lawbook indicates which actions are considered {CR_CRI_C}Crimes{##} under current laws, though we all know that laws can be bent.",
+    "uk": "Міські {L_LAW_C}закони{##} впливають на те, як Ви ведете справи і взаємодієте з {CHAR_CITVSWOR_C}працівниками{##}. Кодекс законів визначає, які дії за чинними законами вважаються {CR_CRI_C}злочинами{##}, хоча всі ми знаємо, що закон — що дишло."
+  },
+  "TutorialCrime_Description_1": {
+    "en": "From petty crimes to despicable acts, you can be sure that your political opponents are doing it. {A_SPY_C}Spy{##} on them often or trade for {CR_EVI_C}Evidence{##} that you can use to {A_PRECHA_C}press charges{##} or gain leverage.",
+    "uk": "Від дрібних капостей до мерзенних учинків — будьте певні, що Ваші політичні суперники цим не гребують. Частіше {A_SPY_C}шпигуйте{##} за ними або вимінюйте {CR_EVI_C}докази{##}, щоб {A_PRECHA_C}висунути звинувачення{##} чи мати на них важіль."
+  },
+  "TutorialCrime_Description_2": {
+    "en": "If you are accused of a crime, real or fabricated, your fate will be decided by {CR_TRI_C}Trial{##}, so try to ensure that the members of the {CR_TRI_JUR_C}Jury{##} have a good {CHAR_STA_C}Opinion{##} of you. If the carrot doesn't work, try the stick.",
+    "uk": "Якщо Вас звинуватять у злочині, справжньому чи вигаданому, Вашу долю вирішить {CR_TRI_C}суд{##}, тож подбайте, щоб здобути {CHAR_STA_C}прихильність{##} {CR_TRI_JUR_C}присяжних{##}. Не допоможе пряник — беріться за батіг."
+  },
+  "TutorialCrime_Description_3": {
+    "en": "When found guilty, you will be punished according to the {CR_SEV_C}Severity{##} of your crime. You may be forced to pay a hefty fine, but you may also get {ST_CHR_IMP_C}imprisoned{##} or even sentenced to death. Hard to say which of these would bring more shame to your good name.",
+    "uk": "Якщо Вас визнають винним, покарання залежатиме від {CR_SEV_C}тяжкості злочину{##}. Можуть присудити чималий штраф, а можуть і {ST_CHR_IMP_C}ув’язнити{##} чи навіть стратити. Важко сказати, що з цього більше зганьбить Ваше добре ім’я."
+  },
+  "TutorialCrime_Description_4": {
+    "en": "Then again, people who say that crime doesn't pay are probably just not very {S_STE_C}skilled{##} at it. Sometimes, one's livelihood depends on being a successful criminal. And since politics and crime have always gone hand in hand, why not apply for an office position that can decriminalize your favorite activity?",
+    "uk": "Утім, ті, хто каже, що злочин не окупається, мабуть, просто не надто вправні в {S_STE_C}шахрайстві{##}. Буває, що саме злочинний промисел годує родину. А що політика і злочин здавна ходять пліч-о-пліч, чом би не подати заявку на посаду, яка дозволить узаконити Ваше улюблене заняття?"
+  },
+  "TutorialCrime_Name": {
+    "en": "Obeying the Law",
+    "uk": "Шануючи закон"
+  },
+  "TutorialEconomy_Description_Buy": {
+    "en": "If looking to buy, the {B_PUB_MKT_C}marketplace{##} may provide the widest range of offers, but it's often best to purchase {I_TYP_RAWMAT_C}raw materials{##} from {B_TYP_EXTFAC_C}Resource Sites{##}on the city outskirts, and artisanal goods and {I_TYP_INTPRO_C}intermediate wares{##} from the {B_STOFRO_C}storefronts{##} of other businesses.",
+    "uk": "Хочете купити — на {B_PUB_MKT_C}ринку{##} найширший вибір, але {I_TYP_RAWMAT_C}сировину{##} часто вигідніше брати в {B_TYP_EXTFAC_C}ресурсних угіддях{##} на околицях міста, а ремісничі вироби й {I_TYP_INTPRO_C}напівфабрикати{##} — у {B_STOFRO_C}крамницях{##} інших справ."
+  },
+  "TutorialEconomy_Description_Items": {
+    "en": "Regardless of your craft, you will have to manage many types of goods. You can only use or equip items placed in your personal inventory, but beware that such {I_TYP_INVITE_C}items{##} cannot be moved or sold, though they can be discarded or given to others.",
+    "uk": "Хай яким ремеслом Ви займаєтеся, доведеться мати справу з усяким крамом. Використовувати чи спорядити можна лише речі з особистого інвентарю, але зважте: такі {I_TYP_INVITE_C}предмети інвентарю{##} не можна переміщати чи продавати — лише викинути або подарувати комусь."
+  },
+  "TutorialEconomy_Description_Prices": {
+    "en": "The price and availability of goods are affected by the balance of supply and demand, as well as by seasons, city {L_LAW_C}laws{##}, and even world events such as wars. If you are looking for truly special items, keep an eye out for time-limited events such as fairs or visiting merchants.",
+    "uk": "Ціни та наявність товару залежать від попиту й пропозиції, а також від сезону, міських {L_LAW_C}законів{##} і навіть світових подій, як-от воєн. Шукаєте щось справді особливе — стежте за нетривалими подіями на кшталт ярмарків чи прибуття заїжджих купців."
+  },
+  "TutorialEconomy_Description_Sell": {
+    "en": "If looking to sell, sooner or later someone at the marketplace typically pays good money for your wares, unless prohibited by law. You can also sell your wares from your storefront, where you can earn a premium for {B_PARAM_ATT_C}good service{##}, scarce goods, and contraband.",
+    "uk": "Хочете продати — рано чи пізно хтось на ринку добре заплатить за Ваш товар, якщо тільки закон не забороняє. Можна продавати й у власній крамниці, де вдасться взяти більше завдяки {B_PARAM_ATT_C}привабливості для покупців{##}, рідкісному краму та контрабанді."
+  },
+  "TutorialEconomy_Description_Taxes_0": {
+    "en": "Always remember: the only certainties in life are death and taxes, and death only comes once. Taxes come, or rather go, at the end of every year. If you can't pay, you better hope that you can make up for it while {ST_CHR_IMP_C}imprisoned{##}.",
+    "uk": "Пам’ятайте: у житті певні лише смерть і податки, та смерть приходить лише раз. А податки приходять — чи радше йдуть — наприкінці кожного року. Не можете сплатити — сподівайтеся, що надолужите це під час {ST_CHR_IMP_C}ув’язнення{##}."
+  },
+  "TutorialEconomy_Description_Taxes_1": {
+    "en": "Check your end-of-year balance for {L_SALTAX_C}sales tax{##}, church tithe, inheritance tax, and other law-mandated benefits of city dwelling. No excuses, no exceptions. If you don't like it, get into {O_TYP_CIVOFF_C}politics{##} and change it.",
+    "uk": "Перевіряйте річний баланс: {L_SALTAX_C}податок з продажу{##}, церковна десятина, податок на спадок та інші законні блага міського життя. Жодних відмовок, жодних винятків. Не подобається — ідіть на {O_TYP_CIVOFF_C}посаду{##} і змініть це."
+  },
+  "TutorialEconomy_Name": {
+    "en": "Economy",
+    "uk": "Господарство"
+  },
+  "TutorialFamily_Description_0": {
+    "en": "To ensure that your {CHAR_DYN_C}Dynasty{##} can endure after you die, you must build a family, which means finding a spouse and producing offspring worthy of carrying your {T_C}title{##} and taking over your {P_C}business{##}.",
+    "uk": "Щоб Ваша {CHAR_DYN_C}династія{##} пережила Вас, треба створити родину: знайти подружжя й народити нащадків, гідних носити Ваш {T_C}титул{##} і перейняти Вашу {P_C}професію{##}."
+  },
+  "TutorialFamily_Description_1": {
+    "en": "{CHAR_COU_C}Start courting{##} the most suitable candidate based on their age, {CHAR_HP_C}Health{##}, {CHAR_WEA_C}Wealth{##}, {S_C}Skills{##}, and other desirable characteristics. {A_SENGIF_C}Send gifts{##} to your love interest and {A_SWETAL_C}sweet-talk{##} them into getting engaged with you sooner, or you might lose out to more persuasive suitors.",
+    "uk": "{CHAR_COU_C}Почніть залицяння{##} до найкращої партії з огляду на вік, {CHAR_HP_C}здоров’я{##}, {CHAR_WEA_C}статки{##}, {S_C}навички{##} та інші бажані риси. {A_SENGIF_C}Надсилайте подарунки{##} своїй симпатії та {A_SWETAL_C}лестіть{##}, щоб швидше дійти до заручин, бо інакше Вас обійдуть спритніші залицяльники."
+  },
+  "TutorialFamily_Description_2": {
+    "en": "The wedding ceremony will take place the {C_TRN_C}turn{##} following your successful engagement. Thereafter, children may be born to you depending on your {CHAR_FER_C}fertility{##}, your {A_PRITIM_C}marital efforts{##}, and focus diverted to {A_SPOHEL_C}other engagements{##}. Perhaps consider adopting an orphan or two, just to be sure.",
+    "uk": "Весілля відбудеться наступного {C_TRN_C}ходу{##} після вдалих заручин. Відтак у Вас можуть народитися діти — залежно від {CHAR_FER_C}плідності{##}, {A_PRITIM_C}часу наодинці{##} та того, наскільки Вас відволікають {A_SPOHEL_C}інші заручини{##}. Може, про всяк випадок всиновити сироту-другу?"
+  },
+  "TutorialFamily_Description_3": {
+    "en": "To avoid losing your empire upon your untimely death, your spouse and later your eldest adult child, meaning aged at least {heir_min_age} years, will be set to inherit your fortune. You can always {A_CHOHEI_C}name a different heir{##} from among eligible family members, if only to keep them on their toes.",
+    "uk": "Щоб не втратити свою імперію через передчасну смерть, спадкоємцем Ваших статків стане подружжя, а згодом — найстарша доросла дитина, тобто віком щонайменше {heir_min_age} років. Ви завжди можете {A_CHOHEI_C}призначити іншого спадкоємця{##} з-поміж відповідних членів родини — хоча б для того, щоб рідні не розслаблялися."
+  },
+  "TutorialFamily_Description_4": {
+    "en": "Don't forget to invest in your chosen {CHAR_HEI_C}heir{##}, to make sure that they are indeed ready to perform their duties and will not bring shame and ruin to your dynasty when the time comes for you to pass the mantle, willingly or otherwise. Start {A_TRACHI_C}training{##} your first born early, as you never know how much time you have left.",
+    "uk": "Не забувайте вкладатися в обраного {CHAR_HEI_C}спадкоємця{##}, щоб він справді був готовий до своїх обов’язків і не приніс ганьби та руїни династії, коли настане час передати мантію — з доброї волі чи ні. Починайте {A_TRACHI_C}навчання дитини{##} з первістка якомога раніше, бо ніхто не знає, скільки часу йому лишилося."
+  },
+  "TutorialFamily_Name": {
+    "en": "Growing Your Dynasty",
+    "uk": "Розбудова династії"
+  },
+  "TutorialGoToHerleTutorial_Description_0": {
+    "en": "The city officials recommend that all newcomers direct their first efforts to establishing a business in Herle before moving to the big city and becoming entangled in the many demands of business, influence, and personal affairs.",
+    "uk": "Міська влада радить усім новоприбулим спершу взятися до справи в Герле, а вже потім перебиратися до великого міста й заплутуватися в безлічі клопотів — торгових, політичних і особистих."
+  },
+  "TutorialGoToHerleTutorial_Description_1": {
+    "en": "Herle offers more than an introduction to the controls. You will receive useful advice on how the game's systems work, along with goals to guide you. And you are still free to pursue them however you wish or ignore them entirely.",
+    "uk": "Герле — це не лише знайомство з керуванням. Ви отримаєте слушні поради про те, як працюють ігрові механіки, а також цілі, що вкажуть Вам шлях. Проте Ви вільні досягати їх як завгодно або й зовсім на них не зважати."
+  },
+  "TutorialGoToHerleTutorial_Description_2": {
+    "en": "And, between us, Herle is a rather charming town. You may even come to prefer it to this one.",
+    "uk": "І, між нами кажучи, Герле — доволі чарівне містечко. Може статися, що воно припаде Вам до душі більше за це."
+  },
+  "TutorialGoToHerleTutorial_Description_3": {
+    "en": "But should you wish to go into politics and intrigue without learning the ropes, the choice is yours. You will find everything you need in the City Archives.",
+    "uk": "Та якщо Ви бажаєте поринути в політику й інтриги, не опанувавши ази, — вибір за Вами. Усе необхідне знайдете в Міському архіві."
+  },
+  "TutorialGoToHerleTutorial_Description_4": {
+    "en": "May your trade prosper!",
+    "uk": "Хай процвітає Ваша торгівля!"
+  },
+  "TutorialGoToHerleTutorial_Description_5": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "TutorialGoToHerleTutorial_Name": {
+    "en": "New to Europa 1410?\nBegin with the tutorial in Herle!",
+    "uk": "Уперше в Europa 1410?\nПочніть із навчання в Герле!"
+  },
+  "TutorialOffice_Description_0": {
+    "en": "{O_TYP_CIVOFF_C}Political offices{##} can grant incredible power to drive the city's development, as well as unofficial perks afforded by the natural desire of citizens to seek the good graces of city officials.",
+    "uk": "{O_TYP_CIVOFF_C}Політичні посади{##} дають неабияку владу над розвитком міста, а ще — неофіційні вигоди, адже міщани цілком природно прагнуть здобути ласку урядників."
+  },
+  "TutorialOffice_Description_1": {
+    "en": "Understandably, regular people with no notable {CHAR_WEA_C}Wealth{##} or {T_C}Title{##} are ineligible for such honor. Once you amass sufficient wealth, go to the {B_PUB_TOWHAL_C}Town Hall{##} and apply for the title of {T_FULCIT_C}Burgher{##}; then, apply for an open position in any low-level office such as {O_CHA_TOWSER_C}Town Servant{##}.",
+    "uk": "Звісно ж, простий люд без помітних {CHAR_WEA_C}статків{##} чи {T_C}титулу{##} такої честі не удостоюється. Щойно накопичите достатньо статків, вирушайте до {B_PUB_TOWHAL_C}ратуші{##} й подайте прохання про титул {T_FULCIT_C}міщанина{##}, а тоді претендуйте на вільне місце на будь-якій нижчій посаді, як-от {O_CHA_TOWSER_C}міського служителя{##}."
+  },
+  "TutorialOffice_Description_2": {
+    "en": "Every application is judged by certain appointers, who can be swayed. As you wait for the {O_ELE_C}elections{##}, try to improve your {S_RHE_C}Rhetoric skill{##} and use Actions and Items to boost the appointers' {CHAR_STA_C}Opinion{##} of you, as well as to {A_BLANAM_C}undermine{##} your competitors.",
+    "uk": "Кожне прохання розглядають певні виборці, і на них можна вплинути. Чекаючи на {O_ELE_C}вибори{##}, розвивайте навичку {S_RHE_C}красномовства{##} й використовуйте дії та предмети, щоб підвищити {CHAR_STA_C}прихильність{##} виборців до Вас, а також {A_BLANAM_C}зганьбити ім’я{##} суперників."
+  },
+  "TutorialOffice_Description_3": {
+    "en": "While in office, you receive a hefty salary and can use the city treasury to improve the city {C_DIS_C}Districts{##} and {C_QUA_C}Quarters{##}.",
+    "uk": "Обіймаючи посаду, Ви отримуєте щедру платню і можете витрачати гроші з міської скарбниці на поліпшення {C_DIS_C}районів{##} і {C_QUA_C}кварталів{##} міста."
+  },
+  "TutorialOffice_Description_4": {
+    "en": "You may also change {L_LAW_C}laws{##}, especially those regulating which behaviors are {CR_CRI_C}criminalized{##} and how severely the perpetrators should be punished. After all, reading the wrong books can often be more damaging than robbing carts, which helps with distributing wealth more equally across our fair city.",
+    "uk": "Також Ви можете змінювати {L_LAW_C}закони{##}, особливо ті, що визначають, яка поведінка вважається {CR_CRI_C}злочином{##} і наскільки суворо слід карати винних. Зрештою, читання не тих книг нерідко шкодить більше, ніж грабування возів, яке бодай допомагає рівніше розподіляти статки нашим славним містом."
+  },
+  "TutorialOffice_Name": {
+    "en": "Success in Politics",
+    "uk": "Успіх у політиці"
+  },
+  "TutorialUX_Description_0": {
+    "en": "No problem! We know that our game can be a bit much, so we've prepared a few tips to get you around the most common hurdles.",
+    "uk": "Нічого страшного! Ми знаємо, що наша гра може трохи приголомшити, тож підготували кілька порад, які допоможуть здолати найпоширеніші труднощі."
+  },
+  "TutorialUX_Description_1": {
+    "en": "Try hovering over {TUT_TOO_1_C}highlighted text{##} or any icon to reveal a tooltip that provides detailed information.",
+    "uk": "Наведіть курсор на {TUT_TOO_1_C}виділений текст{##} чи будь-яку піктограму, щоб побачити підказку з докладними відомостями."
+  },
+  "TutorialUX_Description_10": {
+    "en": "Left-click an item icon to pick up one unit. Keep clicking with a pause between clicks to add more units one at a time.",
+    "uk": "Клацніть лівою кнопкою на піктограму предмета, щоб узяти одну одиницю. Клацайте далі з паузою між клацаннями, щоб додавати по одній."
+  },
+  "TutorialUX_Description_11": {
+    "en": "Double-click to pick up the entire stack at once.",
+    "uk": "Двічі клацніть, щоб узяти весь стос одразу."
+  },
+  "TutorialUX_Description_12": {
+    "en": "Alternatively, click and hold, then drag left or right to select the exact amount on a slider.",
+    "uk": "Або натисніть і утримуйте кнопку, а тоді тягніть ліворуч чи праворуч, щоб вибрати точну кількість повзунком."
+  },
+  "TutorialUX_Description_2": {
+    "en": "Lock the tooltip in place by pressing the middle mouse button.",
+    "uk": "Закріпіть підказку на місці, натиснувши середню кнопку миші."
+  },
+  "TutorialUX_Description_3": {
+    "en": "Locked tooltips are interactive, so hover over highlighted terms or icons to open additional tooltips and dive deeper into game mechanics.",
+    "uk": "Із закріпленими підказками можна взаємодіяти: наводьте курсор на виділені терміни чи піктограми, щоб відкривати нові підказки й глибше пізнавати ігрові механіки."
+  },
+  "TutorialUX_Description_4": {
+    "en": "Dismiss all locked tooltips by pressing the left mouse button (left click).",
+    "uk": "Щоб закрити всі закріплені підказки, натисніть ліву кнопку миші (ЛКМ)."
+  },
+  "TutorialUX_Description_5": {
+    "en": "Left-click an item icon to pick up that item. There is no need to hold, as the item attaches to your cursor and can be moved freely.",
+    "uk": "Клацніть лівою кнопкою миші на піктограму предмета, щоб узяти його. Утримувати кнопку не потрібно: предмет прикріплюється до курсора, і його можна вільно переміщати."
+  },
+  "TutorialUX_Description_6": {
+    "en": "Left-click again to place the item in the desired inventory, or to trade it at the marketplace.",
+    "uk": "Клацніть лівою кнопкою ще раз, щоб покласти предмет у потрібний інвентар або продати його на ринку."
+  },
+  "TutorialUX_Description_7": {
+    "en": "The same when managing your business: left-click to select a worker from the resting bench, then left-click again to assign them to a task; or left-click to select a worker from a task, then left-click on the resting bench to unassign them and thus allow them to rest.",
+    "uk": "Так само й у керуванні справою: клацніть лівою кнопкою, щоб вибрати працівника з лави відпочинку, а потім ще раз — щоб доручити йому завдання. Або виберіть працівника із завдання й клацніть на лаві відпочинку, щоб зняти його із завдання й дати відпочити."
+  },
+  "TutorialUX_Description_8": {
+    "en": "If needed, right-click to cancel the operation, and the item or worker will be returned to the original location.",
+    "uk": "За потреби клацніть правою кнопкою, щоб скасувати дію, — предмет або працівник повернеться на своє місце."
+  },
+  "TutorialUX_Description_9": {
+    "en": "Items can be stacked, so you can pick up as many or as few as needed.",
+    "uk": "Предмети складаються в стоси, тож можна взяти стільки, скільки потрібно, — хоч багато, хоч мало."
+  },
+  "TutorialUX_Name_0": {
+    "en": "First Time?",
+    "uk": "Уперше тут?"
+  },
+  "TutorialUX_Name_1": {
+    "en": "Click-to-Pick, Click-to-Place",
+    "uk": "Клацнув — узяв, клацнув — поклав"
+  },
+  "TutorialUX_Name_2": {
+    "en": "Picking Up Multiple Units",
+    "uk": "Як узяти кілька одиниць"
+  },
+  "TutorialUX_NestedTooltip_1": {
+    "en": "Good. Now click the middle mouse button to lock this tooltip, and then hover over this {TUT_TOO_2_C}highlighted text{##}.",
+    "uk": "Добре. Тепер натисніть середню кнопку миші, щоб закріпити цю підказку, а потім наведіть курсор на цей {TUT_TOO_2_C}виділений текст{##}."
+  },
+  "TutorialUX_NestedTooltip_2": {
+    "en": "That's it. Our game holds no more secrets for you. Go play!",
+    "uk": "От і все. Відтепер наша гра не має від Вас таємниць. Грайте!"
+  },
+  "UnderWaylayingAttackNoEscort_Option_Denounce": {
+    "en": "Denounce",
+    "uk": "Викрити"
+  },
+  "UnderWaylayingAttackNoEscort_Option_Denounce_Outcome_Instigator": {
+    "en": "But it was not in vain. Justice shall come for all.",
+    "uk": "Та це було не марно. Правосуддя наздожене кожного."
+  },
+  "UnderWaylayingAttackNoEscort_Option_Denounce_Outcome_Targets": {
+    "en": "Unfortunately, they did not take the evidence with them, and now your misdeeds shall be known by all.",
+    "uk": "На жаль, докази вони з собою не забрали, і тепер про Ваші лихі справи дізнаються всі."
+  },
+  "UnderWaylayingAttackNoEscort_Option_SurrenderGoods_Outcome_Instigator": {
+    "en": "Better to lose some than to lose it all. And no one got hurt. You find yourself approving of robberies conducted in such a civil manner.",
+    "uk": "Краще втратити частину, ніж усе. До того ж ніхто не постраждав. Ви ловите себе на думці, що такі чемні пограбування Вам навіть до вподоби."
+  },
+  "UnderWaylayingAttack_Description_0": {
+    "en": "Some lowlifes have decided that they can lay claim to the fruit of your hard labor, so they have waylaid your cart.",
+    "uk": "Якісь пройдисвіти вирішили, що мають право на плоди Вашої тяжкої праці, і влаштували засідку на Ваш віз."
+  },
+  "UnderWaylayingAttack_Description_1": {
+    "en": "Sadly, the {P_GUA_C}guards{##} aren't what they used to be, so you should always consider {A_HIRESC_C}hiring an escort{##} for your cart if you are transporting valuable goods.",
+    "uk": "На жаль, {P_GUA_C}вартові{##} вже не ті, що колись, тож коли везете цінний товар, завжди варто {A_HIRESC_C}найняти супровід{##} для воза."
+  },
+  "UnderWaylayingAttack_Description_1_WithEscort": {
+    "en": "Sadly, the {P_GUA_C}guards{##} aren't what they used to be, so {A_HIRESC_C}hiring an escort{##} for your cart was a fortunate decision, as you are transporting valuable goods.",
+    "uk": "На жаль, {P_GUA_C}вартові{##} вже не ті, що колись, тож {A_HIRESC_C}найняти супровід{##} для воза було щасливим рішенням — адже Ви везете цінний товар."
+  },
+  "UnderWaylayingAttack_Description_1_WithoutEscort": {
+    "en": "Sadly, the {P_GUA_C}guards{##} aren't what they used to be, and you did not {A_HIRESC_C}hire an escort{##} to protect the valuable goods you are transporting, so you find yourself in a dilemma.",
+    "uk": "На жаль, {P_GUA_C}вартові{##} вже не ті, що колись, а Ви не {A_HIRESC_C}найняли супровід{##} для цінного товару, який везете, тож тепер маєте непростий вибір."
+  },
+  "UnderWaylayingAttack_Description_2": {
+    "en": "If you haven't invested in an escort, you can try to negotiate your way out of it and save part of your goods. But if you've spent your money's worth on defenders, let them fight it out.",
+    "uk": "Якщо Ви не подбали про супровід, можна спробувати домовитися й урятувати бодай частину товару. А якщо вже витратилися на захисників — хай вони й б’ються."
+  },
+  "UnderWaylayingAttack_Description_2_WithEscort": {
+    "en": "You could try to negotiate your way out of it and save part of your goods. But if you've spent your money's worth on defenders, let them fight it out.",
+    "uk": "Можна спробувати домовитися й урятувати бодай частину товару. А якщо вже витратилися на захисників — хай вони й б’ються."
+  },
+  "UnderWaylayingAttack_Description_2_WithoutEscort": {
+    "en": "You could try to quietly negotiate your way out of it and save part of your goods, or denounce this heinous act publicly and lose all your goods but gain evidence against the perpetrator.",
+    "uk": "Можна тихцем домовитися й урятувати бодай частину товару — або ж прилюдно викрити цей підлий вчинок: утратите весь товар, зате здобудете докази проти кривдника."
+  },
+  "UnderWaylayingAttack_Description_3": {
+    "en": "As the waylaying of carts is generally frowned upon and often illegal, you may obtain {CR_EVI_C}evidence{##}. You could {A_SPY_C}spy{##} on the perpetrator, convince witnesses to speak up, or just {A_SNI_C}spread the rumor{##} yourself.",
+    "uk": "Оскільки засідки на вози зазвичай засуджують, а часто й карають законом, Ви можете здобути {CR_EVI_C}докази{##}. Можна {A_SPY_C}шпигувати{##} за кривдником, умовити свідків заговорити або просто самому {A_SNI_C}донести про чутки{##}."
+  },
+  "UnderWaylayingAttack_Name": {
+    "en": "Your Cart Has Been Intercepted",
+    "uk": "На Ваш віз напали"
+  },
+  "UnderWaylayingAttack_Option_FightBack": {
+    "en": "Fight!",
+    "uk": "До бою!"
+  },
+  "UnderWaylayingAttack_Option_FightBack_Outcome_Instigator": {
+    "en": "You've chosen to fight to defend your cart and goods. Better be worth it.",
+    "uk": "Ви вирішили битися за свій віз і товар. Сподіваймося, воно того варте."
+  },
+  "UnderWaylayingAttack_Option_FightBack_Outcome_Targets": {
+    "en": "The poor fellow whose cart you're trying to rob has decided to fight back. Your goons better be prepared.",
+    "uk": "Бідолаха, чий віз Ви намагаєтеся пограбувати, вирішив дати відсіч. Хай Ваші головорізи будуть напоготові."
+  },
+  "UnderWaylayingAttack_Option_Flight": {
+    "en": "Pay robbers",
+    "uk": "Відкупитися"
+  },
+  "UnderWaylayingAttack_Option_Flight_Outcome_Instigator": {
+    "en": "You've spent some money but got away with your life and goods.",
+    "uk": "Ви втратили трохи грошей, зате вціліли самі й зберегли товар."
+  },
+  "UnderWaylayingAttack_Option_Flight_Outcome_Targets": {
+    "en": "The goons you've hired to attack a cart have turned up empty handed. Are you sure they're not scamming you?",
+    "uk": "Головорізи, яких Ви найняли для нападу на віз, повернулися з порожніми руками. А Ви певні, що вони Вас не дурять?"
+  },
+  "UnderWaylayingAttack_Option_SurrenderGoods": {
+    "en": "Negotiate",
+    "uk": "Домовитися"
+  },
+  "UnderWaylayingAttack_Option_SurrenderGoods_Outcome_Instigator": {
+    "en": "You've lost the contents of your cart, however much or little that may have been.",
+    "uk": "Ви втратили весь вантаж воза — хай скільки його там було."
+  },
+  "UnderWaylayingAttack_Option_SurrenderGoods_Outcome_Targets": {
+    "en": "The goons you've hired to attack a cart have sold the plunder and returned the profits to you.",
+    "uk": "Головорізи, яких Ви найняли для нападу на віз, продали здобич і принесли Вам виторг."
+  },
+  "WaylayingIntercepted_Description_0": {
+    "en": "Your henchmen have managed to waylay the cart of an unsuspecting business owner. Hopefully, the cart is not {A_HIRESC_C}escorted{##} by capable defenders who would give trouble to your well trained thugs.",
+    "uk": "Вашим поплічникам вдалося влаштувати засідку на віз якогось безтурботного ремісника. Сподіваймося, віз не має {A_HIRESC_C}супроводу{##} з вправних захисників, які завдали б клопоту Вашим добре вишколеним головорізам."
+  },
+  "WaylayingIntercepted_Description_1": {
+    "en": "If, by some divine revelation, you decide not to attack this cart, your restraint should be respected. Still, the criminal world is a competitive one: if you do not rob it, some other less spiritually conflicted lowlife probably will.",
+    "uk": "Якщо з волі Божого одкровення Ви вирішите не нападати на цей віз, Ваша стриманість гідна поваги. Та в злочинному світі конкуренція жорстка: не пограбуєте Ви — пограбує якийсь інший пройдисвіт, менш обтяжений душевними муками."
+  },
+  "WaylayingIntercepted_Description_2": {
+    "en": "Would you like to proceed with the attack, or would you rather be merciful?",
+    "uk": "Нападете чи змилуєтеся?"
+  },
+  "WaylayingIntercepted_Name": {
+    "en": "You Have Intercepted a Cart",
+    "uk": "Ви перехопили віз"
+  },
+  "WaylayingIntercepted_Option_Attack": {
+    "en": "Attack the cart. Robbers gonna rob.",
+    "uk": "Напасти на віз. Розбійник на те й розбійник."
+  },
+  "WaylayingIntercepted_Option_Attack_Outcome_Instigator": {
+    "en": "You've chosen to attack the waylaid cart. Your henchmen better be well trained, well rested, and well equipped.",
+    "uk": "Ви вирішили напасти на віз. Хай Ваші поплічники будуть добре вишколені, відпочилі й озброєні."
+  },
+  "WaylayingIntercepted_Option_Attack_Outcome_Targets": {
+    "en": "Some lowlifes are attacking your cart in an attempt to make off with your goods. Have you {A_HIRESC_C}hired an escort{##}?",
+    "uk": "Якісь пройдисвіти нападають на Ваш віз, щоб поживитися Вашим товаром. Ви {A_HIRESC_C}найняли супровід{##}?"
+  },
+  "WaylayingIntercepted_Option_LetPass": {
+    "en": "Let the cart pass for now. Sometimes, less is more.",
+    "uk": "Поки що пропустити віз. Іноді менше означає більше."
+  },
+  "WaylayingIntercepted_Option_LetPass_Outcome_Instigator": {
+    "en": "You've decided to not attack the waylaid cart. Very forward-thinking of you.",
+    "uk": "Ви вирішили не нападати на віз. Дуже далекоглядно."
+  },
+  "WaylayingIntercepted_Option_LetPass_Outcome_Targets": {
+    "en": "Some goons had waylaid your cart but in the end decided to just let it go. Someone must be looking out for you.",
+    "uk": "Якісь головорізи влаштували засідку на Ваш віз, але зрештою просто його відпустили. Видно, хтось Вас оберігає."
+  },
+  "WorkerAccident_Description_0": {
+    "en": "One of your workers has collapsed. As they are no longer at their post, production is stalling.",
+    "uk": "Один із Ваших працівників знепритомнів. Його місце порожнє, тож робота стоїть."
+  },
+  "WorkerAccident_Description_1": {
+    "en": "Was it misfortune made worse by abusive working conditions and lack of {B_PARAM_ACCPRO_C}accident protection{##} at the workplace? Or perhaps the tasks have been so enjoyable that the worker simply forgot to take rest?",
+    "uk": "Чи то була лиха доля, якій допомогли тяжкі умови праці та брак {B_PARAM_ACCPRO_C}захисту від нещасних випадків{##} у майстерні? А може, робота була така приємна, що бідолаха просто забув відпочити?"
+  },
+  "WorkerAccident_Description_2": {
+    "en": "Either way, what is to be done? Even if you help them, they will still need to rest before they can be productive.",
+    "uk": "Хай там як, що ж робити? Навіть якщо Ви йому допоможете, йому все одно треба відпочити, перш ніж він знову зможе працювати."
+  },
+  "WorkerAccident_Name": {
+    "en": "Exhaustion Plagues Your Business",
+    "uk": "Виснаження косить Вашу справу"
+  },
+  "WorkerAccident_Option_01": {
+    "en": "Cover medical costs",
+    "uk": "Оплатити лікування"
+  },
+  "WorkerAccident_Option_01_Result_Instigator": {
+    "en": "Your kind gesture is highly appreciated. Hopefully, this also means your workers will be more dedicated.",
+    "uk": "Вашу щедрість дуже цінують. Сподіваймося, тепер і працівники старатимуться більше."
+  },
+  "WorkerAccident_Option_02": {
+    "en": "Punish the worker",
+    "uk": "Покарати працівника"
+  },
+  "WorkerAccident_Option_02_Result_Instigator": {
+    "en": "Your harsh treatment is received with gasps of outrage, but everyone quickly goes back to their workstations.",
+    "uk": "Вашу суворість зустрічають обуреними вигуками, але всі швидко повертаються до роботи."
+  },
+  "WorkerAccident_Option_03_Result_Instigator": {
+    "en": "Your workers' faces are blank as they put their heads down and return to their workstations.",
+    "uk": "Ваші працівники мовчки опускають голови й повертаються до роботи з незворушними обличчями."
+  },
+  "WorkerDeath_Description_0": {
+    "en": "Unfortunately, one of your workers has passed away.",
+    "uk": "На жаль, один із Ваших працівників помер."
+  },
+  "WorkerDeath_Description_1": {
+    "en": "It remains unclear how long it takes for the body to stop working after death, but tasks still need to be done.",
+    "uk": "Досі незрозуміло, скільки часу тілу треба після смерті, щоб перестати працювати, але робота сама себе не зробить."
+  },
+  "WorkerDeath_Description_2": {
+    "en": "A funeral may drain your coin and your workers' energy, but all will know you cared.",
+    "uk": "Похорон спустошить Ваш гаманець і забере в працівників сили, зате всі знатимуть, що Вам не байдуже."
+  },
+  "WorkerDeath_Name": {
+    "en": "Even Death Visits Your Business",
+    "uk": "Навіть смерть завітала до Вашої справи"
+  },
+  "WorkerDeath_Option_Mourn": {
+    "en": "Arrange funeral",
+    "uk": "Влаштувати похорон"
+  },
+  "WorkerDeath_Option_Mourn_Result_Instigator": {
+    "en": "Your empathy and generosity stir nothing but admiration among your workers.",
+    "uk": "Ваші співчуття й щедрість викликають у працівників лише захват."
+  },
+  "WreckedCaravan_Description_0": {
+    "en": "You hear whispers that a rich merchant's caravan met with misfortune while passing through our city. The thought of valuables spilling out on the side of the road is unbearable.",
+    "uk": "Ходять чутки, що караван багатого купця спіткало лихо, коли він проїздив нашим містом. Сама думка про коштовності, розсипані на узбіччі, нестерпна."
+  },
+  "WreckedCaravan_Description_1": {
+    "en": "Rumor has it that the caravan is filled to the brim with gold and extravagant goods, though it may not be for much longer, as many of our fair citizens are likely headed that way to… lend a hand and reduce waste.",
+    "uk": "Кажуть, караван аж по вінця набитий золотом і розкішним крамом, хоча, мабуть, ненадовго: чимало наших шановних міщан, певно, вже поспішають туди… подати руку допомоги, щоб добро не пропало."
+  },
+  "WreckedCaravan_Description_2": {
+    "en": "Go search in and around the city for the wrecked caravan and try to salvage what you can. It may be more than you expect.",
+    "uk": "Пошукайте розбитий караван у місті та на околицях і спробуйте врятувати що зможете. Можливо, там більше, ніж Ви гадаєте."
+  },
+  "WreckedCaravan_Name": {
+    "en": "One Man's Misery Could Be Your Fortune",
+    "uk": "Кому лихо, а кому й зиск"
+  }
+}

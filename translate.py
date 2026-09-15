@@ -121,7 +121,7 @@ def call_claude(system_file, prompt, payload, schema, model, effort, tag):
     if not CLAUDE:
         sys.exit('`claude` CLI not found in PATH')
     cmd = [CLAUDE, '-p', '--model', MODELS.get(model, model), '--tools', '', '--effort', effort,
-           '--output-format', 'json', '--max-turns', '1', '--system-prompt-file', str(system_file),
+           '--output-format', 'json', '--max-turns', '3', '--system-prompt-file', str(system_file),
            '--json-schema', json.dumps(schema), prompt]
     # 5-minute cache: the shared system prompt is re-read within minutes anyway, and the per-call payload
     # (never re-read) is written at 1.25x instead of the 1-hour tier's 2x.
@@ -133,6 +133,9 @@ def call_claude(system_file, prompt, payload, schema, model, effort, tag):
         out = json.loads(proc.stdout)
         rec.update(cost=out.get('total_cost_usd', 0), usage=out.get('usage'), error=out.get('is_error'))
         result = out.get('structured_output')
+        if out.get('is_error'):
+            rec['error'] = f"{out.get('subtype')}: {str(out.get('result'))[:300]}"
+            result = None
     except json.JSONDecodeError:
         rec.update(cost=0, error=(proc.stderr or proc.stdout)[-500:])
         result = None
@@ -327,7 +330,7 @@ def cmd_review(args):
         'required': ['id', 'category', 'problem', 'fix'], 'additionalProperties': False}}},
         'required': ['issues'], 'additionalProperties': False}
     budget = Budget(args.max_cost)
-    issues = []
+    issues, failed = [], []
 
     def work(chunk):
         prompt = ('Review the Ukrainian translations ("uk") of the rows on stdin against "en". '
@@ -337,6 +340,11 @@ def cmd_review(args):
         result, cost = call_claude(sysfile, prompt, {'namespace': args.namespace, 'rows': chunk}, schema,
                                    args.model, args.effort, tag)
         budget.add(cost)
+        if result is None:
+            with _lock:
+                failed.append(tag)
+            print(f'  {tag}: FAILED, ${cost:.3f} (run total ${budget.spent:.2f})')
+            return
         by_id = {u['id']: u for u in chunk}
         found = [{**i, 'key': by_id[i['id']]['key'], 'en': by_id[i['id']]['en'], 'uk': by_id[i['id']]['uk']}
                  for i in (result or {}).get('issues', []) if i.get('id') in by_id]
@@ -357,6 +365,10 @@ def cmd_review(args):
         for f in futures:
             f.result()
     dst = WORK / 'review' / target / f'{ns or "_default"}.json'
+    if failed:
+        print(f'WARNING: {len(failed)} review call(s) failed, their rows were NOT reviewed: {failed}', file=sys.stderr)
+    if not issues and failed:
+        sys.exit(f'no successful review calls; {dst} left untouched')
     save_json(dst, sorted(issues, key=lambda i: i['key']))
     counts = collections.Counter(i['category'] for i in issues)
     print(f'{len(issues)} issues -> {dst}  {dict(counts)}\nspent ${budget.spent:.2f}')

@@ -1,0 +1,710 @@
+{
+  "General_Action_Do": {
+    "en": "Do {action}",
+    "uk": "Виконати: {action}"
+  },
+  "General_Action_Do_Success": {
+    "en": "Succeed in {action}",
+    "uk": "Успішно виконати: {action}"
+  },
+  "General_Building_Enter": {
+    "en": "Enter {building}",
+    "uk": "Зайти: {building}"
+  },
+  "General_Building_Enter_LongDescription": {
+    "en": "Left-click a building in the map view, then click the door handle {doorhandleicon} to step inside.",
+    "uk": "Клацніть лівою кнопкою на будівлю на мапі, а тоді на ручку дверей {doorhandleicon}, щоб зайти всередину."
+  },
+  "General_Building_Enter_LongDescription_extra1": {
+    "en": "Some buildings have opening hours or are not accessible to everyone. In those cases, the door handle will not be available.",
+    "uk": "Деякі будівлі відчинені лише в певні години або пускають не всіх. Тоді ручки дверей не буде."
+  },
+  "General_Building_Improvement_Build": {
+    "en": "Build {improvement}",
+    "uk": "Побудувати: {improvement}"
+  },
+  "General_Building_Own": {
+    "en": "Own {building_lvl}",
+    "uk": "Володіти: {building_lvl}"
+  },
+  "General_Cart_SendTo": {
+    "en": "Send cart to {building}",
+    "uk": "Відправити віз: {building}"
+  },
+  "General_Child_Number": {
+    "en": "Have {number} {number}|plural(one=child,other=children)",
+    "uk": "Мати {number} {number}|plural(one=дитину,few=дитини,many=дітей,other=дитини)"
+  },
+  "General_Item_Buy": {
+    "en": "Buy {item}",
+    "uk": "Купити: {item}"
+  },
+  "General_Item_Buy_LongDescription": {
+    "en": "Visit the Marketplace, you can do so by using the red buttons {marketplaceicon} on the left. To buy an item for personal use, left-click it, then left-click an empty slot in your {inventoryicon} personal inventory.",
+    "uk": "Навідайтеся на ринок — туди ведуть червоні кнопки {marketplaceicon} ліворуч. Щоб купити щось для себе, клацніть лівою кнопкою на товар, а тоді — на вільну комірку Вашого {inventoryicon} особистого інвентарю."
+  },
+  "General_Item_Buy_LongDescription_extra1": {
+    "en": "To buy crafting materials for your business, send your cart to the Marketplace and place the purchased materials in one of the cart's slots instead.",
+    "uk": "Щоб купити матеріали для своєї справи, відправте віз на ринок і покладіть куплене в одну з комірок воза."
+  },
+  "General_Item_Buy_LongDescription_extra2": {
+    "en": "You can also visit other workshops. Any items they have for sale in their storefront can be loaded directly into your cart.",
+    "uk": "Можна також навідатися до інших майстерень: усе, що лежить у їхній крамниці на продаж, можна вантажити просто на Ваш віз."
+  },
+  "General_Item_Craft": {
+    "en": "Craft {item}",
+    "uk": "Виготовити: {item}"
+  },
+  "General_Item_Craft_LongDescription": {
+    "en": "At your business, left-click a worker portrait. Once attached to the cursor, left-click the activity you want to assign them to.",
+    "uk": "У своїй справі клацніть лівою кнопкою на портрет працівника. Коли він прилипне до курсора, клацніть лівою кнопкою на завдання, яке хочете йому доручити."
+  },
+  "General_Item_Craft_LongDescription_extra1": {
+    "en": "Make sure you have the materials they need in the storeroom.",
+    "uk": "Подбайте, щоб у коморі були потрібні матеріали."
+  },
+  "General_Item_Have_Inventory": {
+    "en": "Have {number} {item} in inventory",
+    "uk": "Мати в інвентарі: {item} ({number})"
+  },
+  "General_Item_Have_Inventory_LongDescription": {
+    "en": "You can load {I_TYP_INVITE_C}inventory items{##} into your personal inventory, either from the Marketplace or from your own business.",
+    "uk": "{I_TYP_INVITE_C}Предмети інвентарю{##} можна класти до особистого інвентарю — з ринку або з власної справи."
+  },
+  "General_Item_Have_Inventory_LongDescription_extra1": {
+    "en": "Your personal inventory is the coin purse {inventoryicon} beside your character portrait in the bottom-left corner.",
+    "uk": "Ваш особистий інвентар — це гаманець {inventoryicon} біля портрета персонажа в нижньому лівому куті."
+  },
+  "General_Item_Sell": {
+    "en": "Sell {item}",
+    "uk": "Продати: {item}"
+  },
+  "General_Item_Sell_LongDescription_extra1": {
+    "en": "At your business, load the cart by left-clicking an item, then left-clicking a cart slot. You can then send the cart to the {marketplaceicon} Marketplace. Once it arrives, left-click an item in the cart, then left-click the highlighted area to immediatly sell it.",
+    "uk": "У своїй справі завантажте віз: клацніть лівою кнопкою на предмет, а тоді — на комірку воза. Потім відправте віз на {marketplaceicon} ринок. Коли він прибуде, клацніть лівою кнопкою на предмет у возі, а тоді — на підсвічену ділянку, щоб одразу його продати."
+  },
+  "General_Item_Sell_LongDescription_extra2": {
+    "en": "You can also sell items directly from your business by moving them from the storeroom to the storefront and waiting for a customer to purchase them.",
+    "uk": "Продавати можна й просто зі своєї справи: перенесіть вироби з комори до крамниці й дочекайтеся покупця."
+  },
+  "General_Item_Sell_Value": {
+    "en": "Sell {value} worth of items",
+    "uk": "Продати товару на {value}"
+  },
+  "General_Item_Sell_Value_Marketplace": {
+    "en": "Sell {value} worth of items at the marketplace",
+    "uk": "Продати товару на {value} на ринку"
+  },
+  "General_Item_Sell_Value_Specific": {
+    "en": "Sell {value} worth of {item}",
+    "uk": "Продати на {value}: {item}"
+  },
+  "General_Item_Sell_Value_Storefront": {
+    "en": "Sell {value} worth of items from the storefront",
+    "uk": "Продати товару на {value} з крамниці"
+  },
+  "General_Item_Use": {
+    "en": "Use {item}",
+    "uk": "Використати: {item}"
+  },
+  "General_Item_Use_LongDescription": {
+    "en": "To use an item, it must be in your {inventoryicon}personal inventory. Right-click the item to open its context menu, then select Use. Finally, confirm who or what you want to use the item on.",
+    "uk": "Щоб використати предмет, він має лежати у Вашому {inventoryicon}особистому інвентарі. Клацніть на предмет правою кнопкою, щоб відкрити контекстне меню, і виберіть «Використати». Наостанок підтвердьте, на кому чи на чому його застосувати."
+  },
+  "General_Office": {
+    "en": "Get {office}",
+    "uk": "Обійняти посаду: {office}"
+  },
+  "General_Office_level": {
+    "en": "Get {office_lvl}",
+    "uk": "Обійняти посаду: {office_lvl}"
+  },
+  "General_Profession_level": {
+    "en": "Achieve {profession_lvl}",
+    "uk": "Досягти рівня: {profession_lvl}"
+  },
+  "General_Renown": {
+    "en": "Achieve {value} renown",
+    "uk": "Здобути {value} слави"
+  },
+  "General_Title": {
+    "en": "Achieve {title}",
+    "uk": "Здобути титул: {title}"
+  },
+  "General_Wealth": {
+    "en": "Achieve {value} wealth",
+    "uk": "Нажити статків на {value}"
+  },
+  "General_WorkerActivity_Finish": {
+    "en": "Have a worker do {task}",
+    "uk": "Доручити працівникові виконати: {task}"
+  },
+  "General_WorkerActivity_Start": {
+    "en": "Assign a worker to {task}",
+    "uk": "Призначити працівника на завдання: {task}"
+  },
+  "Onboarding_AdjustWorkerSalary_Description": {
+    "en": "Change your workers' salary",
+    "uk": "Змініть платню своїх працівників"
+  },
+  "Onboarding_AdjustWorkerSalary_DisplayName": {
+    "en": "Pay Day",
+    "uk": "День платні"
+  },
+  "Onboarding_AdjustWorkerSalary_LongDescription": {
+    "en": "Open your business and select the Business tab. Use the {WOR_SAL_C}Salary{##} and {WOR_TRE_C}Treatment{##} sliders to decide how much your workers earn and how well they are treated.",
+    "uk": "Відкрийте свою справу й перейдіть на вкладку «Справа». Повзунками {WOR_SAL_C}платні{##} та {WOR_TRE_C}ставлення{##} визначте, скільки заробляють Ваші працівники і як із ними поводяться."
+  },
+  "Onboarding_AdjustWorkerTreatment_Description": {
+    "en": "Define the treatment you want to give your workers",
+    "uk": "Визначте, як Ви ставитиметеся до своїх працівників"
+  },
+  "Onboarding_AdjustWorkerTreatment_DisplayName": {
+    "en": "Fair Treatment",
+    "uk": "Чесне ставлення"
+  },
+  "Onboarding_AdjustWorkerTreatment_LongDescription": {
+    "en": "Open your business and select the Business tab. Use the {WOR_SAL_C}Salary{##} and {WOR_TRE_C}Treatment{##} sliders to decide how much your workers earn and how well they are treated.",
+    "uk": "Відкрийте свою справу й перейдіть на вкладку «Справа». Повзунками {WOR_SAL_C}платні{##} та {WOR_TRE_C}ставлення{##} визначте, скільки заробляють Ваші працівники і як із ними поводяться."
+  },
+  "Onboarding_ApplyForOffice_Description": {
+    "en": "Apply for office",
+    "uk": "Подати заявку на посаду"
+  },
+  "Onboarding_ApplyForOffice_DisplayName": {
+    "en": "Enter the Race",
+    "uk": "Вступити в перегони"
+  },
+  "Onboarding_ApplyForOffice_LongDescription": {
+    "en": "Prove yourself worthy of being heard and start climbing the political ladder.\n\nIn the left sidebar, click {HB_POL} Politics to view the {O_TYP_CIVOFF_C}office{##} hierarchy. Choose a position for which you meet the requirements, then {O_ELE_C}apply for office{##}.",
+    "uk": "Доведіть, що Ваше слово варте уваги, і почніть сходження політичною драбиною.\n\nНа лівій бічній панелі натисніть {HB_POL} «Політика», щоб побачити ієрархію {O_TYP_CIVOFF_C}посад{##}. Виберіть посаду, вимогам якої Ви відповідаєте, і висуньте свою кандидатуру на {O_ELE_C}вибори{##}."
+  },
+  "Onboarding_AssignWorker_Description": {
+    "en": "Assign a worker to a task",
+    "uk": "Доручіть працівникові завдання"
+  },
+  "Onboarding_AssignWorker_DisplayName": {
+    "en": "Hands to Work",
+    "uk": "До роботи!"
+  },
+  "Onboarding_AssignWorker_LongDescription": {
+    "en": "You use your workers to provide services and craft goods in exchange for a salary at the end of each turn. Keep them busy — idle workers still expect to be paid.\n\nAt your business, {CC_LMB} left-click a worker portrait. Once attached to the cursor, {CC_LMB} left-click the {A_ACT_C}task{##} you want to assign them to.\n\nWorkers perform assigned tasks during their {WORHOU_C}working hours{##}, but you can assign a task before they arrive so they begin as soon as their shift starts.",
+    "uk": "Працівники надають послуги й виготовляють вироби, а наприкінці кожного ходу чекають на платню. Не давайте їм сидіти без діла — неробам теж треба платити.\n\nУ своїй справі {CC_LMB} клацніть лівою кнопкою на портрет працівника. Коли він прилипне до курсора, {CC_LMB} клацніть лівою кнопкою на {A_ACT_C}завдання{##}, яке хочете йому доручити.\n\nПрацівники виконують доручене у свої {WORHOU_C}робочі години{##}, але завдання можна призначити й заздалегідь — тоді вони візьмуться до діла, щойно почнеться зміна."
+  },
+  "Onboarding_Bribe1_Description": {
+    "en": "Get a purse of persuasion in your house",
+    "uk": "Облаштуйте в домі гаманець переконання"
+  },
+  "Onboarding_Bribe1_DisplayName": {
+    "en": "The Ends Justify the Means",
+    "uk": "Мета виправдовує засоби"
+  },
+  "Onboarding_Bribe1_LongDescription": {
+    "en": "Inside your house, find the {B_IMP_icon} {B_IMP_BRI_C}Purse of Persuasion{##} improvement and build it.",
+    "uk": "У своєму домі знайдіть покращення {B_IMP_icon} {B_IMP_BRI_C}«Гаманець переконання»{##} і побудуйте його."
+  },
+  "Onboarding_Bribe2_Description": {
+    "en": "Bribe someone",
+    "uk": "Підкупіть когось"
+  },
+  "Onboarding_Bribe2_DisplayName": {
+    "en": "Palm-Greasing",
+    "uk": "Позолотити ручку"
+  },
+  "Onboarding_Bribe2_LongDescription": {
+    "en": "On the left, open {HB_ALLCHA} Townsfolk and locate your target. {CC_RMB} Right-click their portrait and select {A_BRI_C}Bribe{##}. You can also access their portrait through their character details and, in some cases, from other places such as Politics.",
+    "uk": "Ліворуч відкрийте {HB_ALLCHA} «Городяни» й знайдіть свою ціль. {CC_RMB} Клацніть правою кнопкою на портрет і виберіть {A_BRI_C}«Підкупити»{##}. До портрета можна дістатися й через відомості про персонажа, а подекуди й з інших місць, як-от «Політика»."
+  },
+  "Onboarding_BuildBeeHive1_Description": {
+    "en": "Get a queen bee in the timberlands",
+    "uk": "Знайдіть бджолину матку в лісових угіддях"
+  },
+  "Onboarding_BuildBeeHive1_DisplayName": {
+    "en": "On the Honey Trail",
+    "uk": "Медовим слідом"
+  },
+  "Onboarding_BuildBeeHive1_LongDescription": {
+    "en": "On the map, find the {B_EXTFAC_WOOARE_C}Timberlands{##}. Use {HB_FIL} Filters to highlight {B_TYP_EXTFAC_C}Resource Sites{##}, then select the Timberlands and choose {A_CATBEE_C}Hunt for Queen Bee{##}.",
+    "uk": "Знайдіть на мапі {B_EXTFAC_WOOARE_C}лісові угіддя{##}. Скористайтеся {HB_FIL} фільтрами, щоб підсвітити {B_TYP_EXTFAC_C}ресурсні угіддя{##}, виберіть лісові угіддя, а тоді — {A_CATBEE_C}«Полювання на бджолину матку»{##}."
+  },
+  "Onboarding_BuildBeeHive2_Description": {
+    "en": "Build a beehive",
+    "uk": "Збудуйте вулик"
+  },
+  "Onboarding_BuildBeeHive2_DisplayName": {
+    "en": "Honey Talks",
+    "uk": "Медове слово"
+  },
+  "Onboarding_BuildBeeHive2_LongDescription": {
+    "en": "With the {I_BEEQUE_C}Queen Bee{##} in your {HB_INV} {CHAR_PERINV_C}Personal Inventory{##}, open {HB_CONMEN} Construction Menu  on the left. In the Personal tab, choose the {B_PER_BEEHIV_C}Beehive{##} you want to build and select where to place it. The Queen Bee will be used automatically when construction begins.",
+    "uk": "Коли {I_BEEQUE_C}бджолина матка{##} лежатиме у Вашому {HB_INV} {CHAR_PERINV_C}особистому інвентарі{##}, відкрийте ліворуч {HB_CONMEN} «Меню будівництва». На вкладці «Особисте» виберіть {B_PER_BEEHIV_C}вулик{##}, який хочете збудувати, і вкажіть місце для нього. Бджолину матку буде використано автоматично, щойно почнеться будівництво."
+  },
+  "Onboarding_BuildBusinessImprovement_Description": {
+    "en": "Build an improvement in your smithy",
+    "uk": "Збудуйте покращення у своїй кузні"
+  },
+  "Onboarding_BuildBusinessImprovement_DisplayName": {
+    "en": "Business Investment",
+    "uk": "Вклад у справу"
+  },
+  "Onboarding_BuildBusinessImprovement_LongDescription": {
+    "en": "When you build improvements, you pay a small upfront cost in exchange for benefits over time. Sometimes, you will have to choose between two or more types of improvement.\n\nInside your smithy, select an {B_IMP_icon} Improvement of your choice and build it.",
+    "uk": "Покращення коштують трохи грошей одразу, зате віддячують згодом. Іноді доведеться обирати між двома чи більше видами покращень.\n\nУ своїй кузні виберіть {B_IMP_icon} покращення до смаку й побудуйте його."
+  },
+  "Onboarding_BuildImprovement_Description": {
+    "en": "Build an improvement",
+    "uk": "Збудуйте покращення"
+  },
+  "Onboarding_BuildImprovement_DisplayName": {
+    "en": "Under Improvement",
+    "uk": "Кращому — краще"
+  },
+  "Onboarding_BuildImprovement_LongDescription": {
+    "en": "When you build improvements, you pay a small upfront cost in exchange for benefits over time. Sometimes, you will have to choose between two or more types of improvement.\n\nEnter either your house or your business and choose an {B_IMP_icon} improvement to build.",
+    "uk": "Покращення коштують трохи грошей одразу, зате віддячують згодом. Іноді доведеться обирати між двома чи більше видами покращень.\n\nЗайдіть до свого дому або справи й виберіть {B_IMP_icon} покращення, яке хочете побудувати."
+  },
+  "Onboarding_BuyInventoryItem_Description": {
+    "en": "Buy an inventory item",
+    "uk": "Купіть предмет інвентарю"
+  },
+  "Onboarding_BuyInventoryItem_DisplayName": {
+    "en": "A Useful Purchase",
+    "uk": "Корисна покупка"
+  },
+  "Onboarding_BuyInventoryItem_LongDescription": {
+    "en": "On the left, click {HB_MKT} Marketplace to open the market. To buy an item for yourself, {CC_LMB} left-click it, then {CC_LMB} left-click an empty slot in your {HB_INV} {CHAR_PERINV_C}Personal Inventory{##}.",
+    "uk": "Ліворуч натисніть {HB_MKT} «Ринок», щоб відкрити ринок. Щоб купити щось для себе, {CC_LMB} клацніть лівою кнопкою на товар, а тоді {CC_LMB} — на вільну комірку Вашого {HB_INV} {CHAR_PERINV_C}особистого інвентарю{##}."
+  },
+  "Onboarding_BuyMaterials_Description": {
+    "en": "Buy something, preferably crafting materials",
+    "uk": "Купіть щось — найкраще матеріали для виготовлення"
+  },
+  "Onboarding_BuyMaterials_Description_alt": {
+    "en": "Buy an item",
+    "uk": "Купіть предмет"
+  },
+  "Onboarding_BuyMaterials_DisplayName": {
+    "en": "Stock Up",
+    "uk": "Запастися"
+  },
+  "Onboarding_BuyMaterials_DisplayName_alt": {
+    "en": "A Market Spree",
+    "uk": "Ринкові закупи"
+  },
+  "Onboarding_BuyMaterials_LongDescription": {
+    "en": "Nothing comes from nothing, so make sure your workers have what they need.\n\nPrices rise and fall with supply and demand, so keep an eye on the marketplace and have a cart ready whenever a good deal appears.\n\nTo buy {I_TYP_RAWMAT_C}crafting materials{##}, send your {CAR_C}cart{##} to the {B_PUB_MKT_C}Marketplace{##}, place the purchased items in its slots, then send the cart back to your smithy. Make sure to keep your carts in good {B_HP_C}repair{##} so they don't break down.",
+    "uk": "З нічого нічого й не буде, тож подбайте, щоб працівники мали все потрібне.\n\nЦіни ростуть і падають разом із попитом і пропозицією, тож пильнуйте ринок і тримайте віз напоготові, щойно трапиться вигідна оборудка.\n\nЩоб купити {I_TYP_RAWMAT_C}сировину{##}, відправте свій {CAR_C}віз{##} на {B_PUB_MKT_C}ринок{##}, покладіть куплене в його комірки й відправте віз назад до кузні. Стежте за {B_HP_C}цілісністю{##} возів, щоб вони не зламалися дорогою."
+  },
+  "Onboarding_BuyMaterials_LongDescription_alt": {
+    "en": "tbd",
+    "uk": "tbd"
+  },
+  "Onboarding_ChallengeCompleted_Notification": {
+    "en": "Well done! You've achieved a goal:\n • {description}",
+    "uk": "Чудово! Ви досягли мети:\n • {description}"
+  },
+  "Onboarding_ClaimTitle_Description": {
+    "en": "Claim your next title",
+    "uk": "Здобудьте наступний титул"
+  },
+  "Onboarding_ClaimTitle_DisplayName": {
+    "en": "Climb The Social Ladder",
+    "uk": "Угору суспільною драбиною"
+  },
+  "Onboarding_ClaimTitle_LongDescription": {
+    "en": "Humans have invented many ways to order society and rank one another's worth. In this society, {T_C}titles{##} come before names and define your rights.\n\nAs soon as you have acquired enough {CHAR_WEA_C}wealth{##} to be considered a {T_FULCIT_C}burgher{##}, make it official by claiming the title at the town hall.\n\nIn the left sidebar, click {HB_TOWHAL} {B_PUB_TOWHAL_C}Town Hall{##}, or open {HB_PERACT} Personal Actions, and select {T_C}Claim Next Title{##}.",
+    "uk": "Люди вигадали чимало способів упорядкувати суспільство й поміряти, хто чого вартий. Тут {T_C}титул{##} стоїть перед іменем і визначає Ваші права.\n\nЩойно Ваші {CHAR_WEA_C}статки{##} зростуть настільки, щоб Вас вважали {T_FULCIT_C}міщанином{##}, закріпіть це офіційно — здобудьте титул у ратуші.\n\nНа лівій бічній панелі натисніть {HB_TOWHAL} {B_PUB_TOWHAL_C}«Ратуша»{##} або відкрийте {HB_PERACT} «Особисті дії» й виберіть {T_C}«Здобути наступний титул»{##}."
+  },
+  "Onboarding_Courtship1_Description": {
+    "en": "Start courting a love interest",
+    "uk": "Почніть залицятися до обраниці чи обранця"
+  },
+  "Onboarding_Courtship1_DisplayName": {
+    "en": "Make Your Move",
+    "uk": "Зробіть перший крок"
+  },
+  "Onboarding_Courtship1_LongDescription": {
+    "en": "No one lives forever, and more important than being remembered well is ensuring that your legacy endures for generations. To have legitimate children who will carry on your name, you must marry — and before you can marry, you must court.\n\nNext to your portrait in the bottom-left corner, click your dynasty banner to open your family tree. From there, click {A_COU_C}Begin Courtship{##}, choose someone to court, and begin the path toward marriage.",
+    "uk": "Ніхто не живе вічно, і важливіше за добру пам’ять про себе — подбати, щоб Ваш спадок жив у поколіннях. Щоб мати законних дітей, які понесуть Ваше ім’я далі, треба одружитися, а перш ніж одружитися — позалицятися.\n\nБіля свого портрета в нижньому лівому куті клацніть на прапор династії, щоб відкрити родовід. Там натисніть {A_COU_C}«Почати залицятися»{##}, виберіть, до кого залицятися, і рушайте стежкою до шлюбу."
+  },
+  "Onboarding_Courtship2_Description": {
+    "en": "Sweet-talk the person you are courting",
+    "uk": "Полестіть тому, до кого залицяєтеся"
+  },
+  "Onboarding_Courtship2_DisplayName": {
+    "en": "Sweet Words",
+    "uk": "Солодкі слова"
+  },
+  "Onboarding_Courtship2_LongDescription": {
+    "en": "After choosing someone to {A_COU_C}court{##}, {CC_RMB} right-click their portrait and select {A_SWETAL_C}Sweet-talk Love Interest{##}. This may impress them and help you win their hand sooner.",
+    "uk": "Коли оберете, до кого {A_COU_C}залицятися{##}, клацніть {CC_RMB} правою кнопкою по портрету цієї особи й виберіть {A_SWETAL_C}Лестити{##}. Це може справити враження й допомогти швидше здобути її руку."
+  },
+  "Onboarding_CraftItem_Description": {
+    "en": "Craft an item",
+    "uk": "Виготовте предмет"
+  },
+  "Onboarding_CraftItem_DisplayName": {
+    "en": "Work, Work, Work",
+    "uk": "Робота не вовк"
+  },
+  "Onboarding_CraftItem_LongDescription": {
+    "en": "Once you have assigned a worker to a crafting task, make sure you have the materials they need in the {B_STOROO_C}storeroom{##}.\n\nWorkers only perform assigned tasks during their {WORHOU_C}working hours{##}, so don't expect anything to be produced before their shift starts.",
+    "uk": "Коли доручите працівникові виготовлення, подбайте, щоб у {B_STOROO_C}коморі{##} була потрібна йому сировина.\n\nПрацівники виконують доручене лише в {WORHOU_C}робочі години{##}, тож не чекайте жодних виробів, поки не почалася їхня зміна."
+  },
+  "Onboarding_EnterBusiness_Description": {
+    "en": "Enter your smithy",
+    "uk": "Зайдіть у свою кузню"
+  },
+  "Onboarding_EnterBusiness_DisplayName": {
+    "en": "Step Inside",
+    "uk": "Зайти всередину"
+  },
+  "Onboarding_EnterBusiness_LongDescription": {
+    "en": "In the left sidebar, click {HB_MYBUS} My Business to center the camera on your {B_OCC_SMI_C}smithy{##}. Then click the door handle to step inside, or zoom in for a better look and double-click the building to enter.",
+    "uk": "На лівій панелі натисніть {HB_MYBUS} «Моя справа», щоб навести камеру на Вашу {B_OCC_SMI_C}кузню{##}. Потім клацніть по дверній ручці, щоб зайти, або наблизьте камеру й двічі клацніть по будівлі."
+  },
+  "Onboarding_EnterHouse_Description": {
+    "en": "Enter your house",
+    "uk": "Зайдіть у свій дім"
+  },
+  "Onboarding_EnterHouse_DisplayName": {
+    "en": "Home Sweet Home",
+    "uk": "Мій дім — моя фортеця"
+  },
+  "Onboarding_EnterHouse_LongDescription": {
+    "en": "From learning new skills, to interacting with your family, to plotting and scheming, there's no place better for it than the intimacy of your home.\n\nIn the left sidebar, click {HB_MYHOU} My Property to center camera on your house. Then click the door handle or double-click on the house to step inside.",
+    "uk": "Опанувати нові навички, побути з родиною чи виплекати підступний задум — для всього цього немає кращого місця, ніж затишок власного дому.\n\nНа лівій панелі натисніть {HB_MYHOU} «Моє майно», щоб навести камеру на Ваш дім. Потім клацніть по дверній ручці або двічі клацніть по дому, щоб зайти."
+  },
+  "Onboarding_GainMasteryGrade_Description": {
+    "en": "Gain a mastery grade",
+    "uk": "Підвищте ступінь майстерності"
+  },
+  "Onboarding_GainMasteryGrade_DisplayName": {
+    "en": "Master the Craft",
+    "uk": "Майстер своєї справи"
+  },
+  "Onboarding_GainMasteryGrade_LongDescription": {
+    "en": "Competence comes with a certificate, or so they say. If you want to advance as a {P_C}smith{##}, you must earn a {A_MASGRA_C}Mastery Grade{##}. It will increase your {CHAR_REN_C}renown{##} and allow you to upgrade to a larger smithy, where you can craft more goods and provide more services.\n\nIn the left sidebar, open {HB_PERACT} Personal Actions and select {A_MASGRA_C}Gain Mastery Grade{##}.",
+    "uk": "Кажуть, уміння без грамоти не варте й шеляга. Якщо хочете зростати як {P_C}коваль{##}, здобудьте вищий {A_MASGRA_C}ступінь майстерності{##}. Це додасть Вам {CHAR_REN_C}слави{##} й дозволить розширити кузню, щоб виготовляти більше виробів і надавати більше послуг.\n\nНа лівій панелі відкрийте {HB_PERACT} «Особисті дії» й виберіть {A_MASGRA_C}Підвищити ступінь майстерності{##}."
+  },
+  "Onboarding_GuardService_Description": {
+    "en": "Visit the Prison and serve as a guard",
+    "uk": "Відвідайте в’язницю й відслужіть у варті"
+  },
+  "Onboarding_GuardService_DisplayName": {
+    "en": "On Watch",
+    "uk": "На варті"
+  },
+  "Onboarding_GuardService_LongDescription": {
+    "en": "You have done your part: paid your taxes and followed the rules. Sadly, criminals rarely do the same. If you want safer streets, volunteer as a guard for a short time. You'll earn some money while reminding wrongdoers that someone is watching.\n\nOn the map, find a {B_PUB_PRI_C}Prison{##}. Use {HB_FIL} Filters to highlight {B_TYP_PUBBUI_C}City Infrastructure{##}, then select a Prison and choose {A_GUASER_C}Sign Up for Guard Service{##}.",
+    "uk": "Ви своє зробили: сплатили податки й шанували закон. На жаль, лиходії рідко роблять те саме. Хочете спокійніших вулиць — запишіться на якийсь час до варти. Заробите трохи монет і нагадаєте кривдникам, що за ними пильнують.\n\nЗнайдіть на мапі {B_PUB_PRI_C}в’язницю{##}. За допомогою {HB_FIL} «Фільтрів» виділіть {B_TYP_PUBBUI_C}міську інфраструктуру{##}, потім виберіть в’язницю й натисніть {A_GUASER_C}Записатися до варти{##}."
+  },
+  "Onboarding_HaveChild_Description": {
+    "en": "Have a child",
+    "uk": "Народіть дитину"
+  },
+  "Onboarding_HaveChild_DisplayName": {
+    "en": "Family Matters",
+    "uk": "Родинні справи"
+  },
+  "Onboarding_HaveChild_LongDescription": {
+    "en": "Once you are married, you may have a {CHAR_HEI_C}child{##}. The {CHAR_CHABABY_C}chance{##} depends on both spouses' {CHAR_HP_C}health{##}, age, and {CHAR_STA_C}opinion{##} of each other. Using {A_PRITIM_C}Spend Private Time{##} can improve the chances, but it is neither required nor a guarantee.",
+    "uk": "Коли Ви одружитеся, у Вас може народитися {CHAR_HEI_C}спадкоємець{##}. {CHAR_CHABABY_C}Шанс народження спадкоємця{##} залежить від {CHAR_HP_C}здоров’я{##} й віку подружжя та від їхньої взаємної {CHAR_STA_C}прихильності{##}. Дія {A_PRITIM_C}Провести час наодинці{##} може підвищити шанси, але вона не обов’язкова й нічого не гарантує."
+  },
+  "Onboarding_HireEscort_Description": {
+    "en": "Hire escorts to protect your cart on the road",
+    "uk": "Найміть супровід, щоб захистити віз у дорозі"
+  },
+  "Onboarding_HireEscort_DisplayName": {
+    "en": "Safe Passage",
+    "uk": "Безпечна дорога"
+  },
+  "Onboarding_HireEscort_LongDescription": {
+    "en": "The road may be long and full of perils. Your cart may be attacked, so if you are transporting valuable goods best to hire an escort.\n\nClick your cart and select {A_HIRESC_C}Hire Escort{##}. Then choose the level of protection and how many {C_TRN_C}turns{##} you want the escort to remain hired.",
+    "uk": "Дорога буває довгою й небезпечною. На Ваш віз можуть напасти, тож якщо везете цінний крам, краще найняти супровід.\n\nКлацніть по возу й виберіть {A_HIRESC_C}Найняти супровід{##}. Потім оберіть рівень захисту й на скільки {C_TRN_C}ходів{##} наймаєте супровід."
+  },
+  "Onboarding_HireWorker_Description": {
+    "en": "Hire a worker",
+    "uk": "Найміть працівника"
+  },
+  "Onboarding_HireWorker_DisplayName": {
+    "en": "More Hands",
+    "uk": "Більше рук"
+  },
+  "Onboarding_HireWorker_LongDescription": {
+    "en": "More hands get more done.\n\nAt your business, open the Activities tab. Under Workers, click the + icon in an available slot to hire an additional worker. You can also build the Workforce improvement to unlock one more worker slot.",
+    "uk": "Більше рук — більше зробиш.\n\nУ своїй справі відкрийте вкладку «Заняття». У розділі «Працівники» натисніть + у вільній комірці, щоб найняти ще одного працівника. Також можна збудувати покращення «Робоча сила», щоб відкрити ще одну комірку для працівника."
+  },
+  "Onboarding_ImproveSkill1_Description": {
+    "en": "Get an Artisan's Toolbox for your house",
+    "uk": "Придбайте для дому скриньку ремісника"
+  },
+  "Onboarding_ImproveSkill1_DisplayName": {
+    "en": "Homework",
+    "uk": "Домашнє завдання"
+  },
+  "Onboarding_ImproveSkill1_LongDescription": {
+    "en": "Inside your house, build the {B_IMP_icon} {B_IMP_IMPHAN_C}Artisan's Toolbox{##} improvement.",
+    "uk": "У своєму домі збудуйте покращення {B_IMP_icon} {B_IMP_IMPHAN_C}Скринька ремісника{##}."
+  },
+  "Onboarding_ImproveSkill2_Description": {
+    "en": "Go to your house and improve handicraft",
+    "uk": "Вирушайте додому й поліпшіть ремесло"
+  },
+  "Onboarding_ImproveSkill2_DisplayName": {
+    "en": "Self-Improvement",
+    "uk": "Самовдосконалення"
+  },
+  "Onboarding_ImproveSkill2_LongDescription": {
+    "en": "Different skills for different jobs. As a smith, handicraft affects {CHAR_PRO_C}productivity{##} at your smithy, so best to improve it.\n\nAt your house, after acquiring the {B_IMP_IMPHAN_C}Artisan's Toolbox{##}, select the action {A_IMPSKI_C}Improve Skills{##}, then choose {S_HAN_C}Handicraft{##}.",
+    "uk": "Кожній справі — своя навичка. Ковалеві ремесло визначає {CHAR_PRO_C}продуктивність{##} у кузні, тож його варто поліпшити.\n\nУ своєму домі, придбавши {B_IMP_IMPHAN_C}скриньку ремісника{##}, виберіть дію {A_IMPSKI_C}Покращити навички{##}, а тоді — {S_HAN_C}Ремесло{##}."
+  },
+  "Onboarding_ImproveSkill_generic_Description": {
+    "en": "Improve a Skill",
+    "uk": "Поліпшіть навичку"
+  },
+  "Onboarding_ImproveSkill_generic_DisplayName": {
+    "en": "A Better You",
+    "uk": "Кращий за себе"
+  },
+  "Onboarding_ImproveSkill_generic_LongDescription": {
+    "en": "At your house, after acquiring the necessary improvements, select {A_IMPSKI_C}Improve Skills{##}, then choose a skill to improve.",
+    "uk": "У своєму домі, придбавши потрібні покращення, виберіть {A_IMPSKI_C}Покращити навички{##}, а тоді — навичку, яку хочете поліпшити."
+  },
+  "Onboarding_IncreaseWorkerExpertise_Description": {
+    "en": "Mentor a worker",
+    "uk": "Наставляйте працівника"
+  },
+  "Onboarding_IncreaseWorkerExpertise_DisplayName": {
+    "en": "Promotion Training",
+    "uk": "Шлях до підмайстра"
+  },
+  "Onboarding_IncreaseWorkerExpertise_LongDescription": {
+    "en": "Apprentices gain {CHAR_XP_C}experience{##} over time. Once they have gained enough, you can {A_PROWOR_C}promote{##} them to journeymen, making them more {CHAR_PRO_C}productive{##} and less prone to accidents. This takes time, but you can hasten their progress by mentoring them yourself.\n\nAt your business, {CC_RMB} right-click a worker's portrait and select {A_TRAWOREXP_C}Mentor{##}.",
+    "uk": "Учні з часом набираються {CHAR_XP_C}досвіду{##}. Коли його стане досить, Ви зможете {A_PROWOR_C}підвищити{##} їх до підмайстрів: вони працюватимуть із вищою {CHAR_PRO_C}продуктивністю{##} й рідше потраплятимуть у нещасні випадки. Це потребує часу, але Ви можете пришвидшити справу, наставляючи їх особисто.\n\nУ своїй справі клацніть {CC_RMB} правою кнопкою по портрету працівника й виберіть {A_TRAWOREXP_C}Наставництво{##}."
+  },
+  "Onboarding_IncreaseWorkerSkill_Description": {
+    "en": "Train your worker",
+    "uk": "Навчіть свого працівника"
+  },
+  "Onboarding_IncreaseWorkerSkill_DisplayName": {
+    "en": "Practice Makes Perfect",
+    "uk": "Повторення — мати навчання"
+  },
+  "Onboarding_IncreaseWorkerSkill_LongDescription": {
+    "en": "At your business, {CC_RMB} right-click a worker's portrait and select {A_TRAWORSKI_C}Train Skill{##}. Smithy workers with greater {S_HAN_C}Handicraft{##} skill will be more {CHAR_PRO_C}productive{##}.",
+    "uk": "У своїй справі клацніть {CC_RMB} правою кнопкою по портрету працівника й виберіть {A_TRAWORSKI_C}Тренувати навички{##}. Працівники кузні з кращою навичкою {S_HAN_C}ремесла{##} мають вищу {CHAR_PRO_C}продуктивність{##}."
+  },
+  "Onboarding_Marriage_Description": {
+    "en": "Get married",
+    "uk": "Одружіться"
+  },
+  "Onboarding_Marriage_DisplayName": {
+    "en": "Tie the Knot",
+    "uk": "Під вінець"
+  },
+  "Onboarding_Marriage_LongDescription": {
+    "en": "After choosing someone to {A_COU_C}court{##}, your relationship will naturally grow over the years until you marry. You can speed things up by {A_SWETAL_C}sweet-talking{##} them and {A_SENGIF_C}sending gifts{##}. And if they have other suitors, consider {A_SMEREP_C}sabotaging the competition{##}.",
+    "uk": "Коли оберете, до кого {A_COU_C}залицятися{##}, Ваші стосунки з роками міцнітимуть самі, аж поки не дійде до весілля. Пришвидшити справу можна, якщо {A_SWETAL_C}лестити{##} обранцеві та {A_SENGIF_C}надсилати подарунки{##}. А якщо є інші залицяльники, спробуйте {A_SMEREP_C}очорнити репутацію{##} суперників."
+  },
+  "Onboarding_OverseeWork_Description": {
+    "en": "Go to your smithy and oversee work",
+    "uk": "Вирушайте до кузні й наглядайте за роботою"
+  },
+  "Onboarding_OverseeWork_DisplayName": {
+    "en": "Raise Productivity",
+    "uk": "Підняти продуктивність"
+  },
+  "Onboarding_OverseeWork_LongDescription": {
+    "en": "At your smithy, open the Actions tab and select {A_OVEPRO_C}Oversee Work{##}.",
+    "uk": "У своїй кузні відкрийте вкладку «Дії» й виберіть {A_OVEPRO_C}Наглядати за роботою{##}."
+  },
+  "Onboarding_PressCharges_Description": {
+    "en": "Obtain evidence and press charges",
+    "uk": "Здобудьте докази й висуньте звинувачення"
+  },
+  "Onboarding_PressCharges_Description_alt": {
+    "en": "Press Charges",
+    "uk": "Висунути звинувачення"
+  },
+  "Onboarding_PressCharges_DisplayName": {
+    "en": "Law and Order",
+    "uk": "Закон і порядок"
+  },
+  "Onboarding_PressCharges_LongDescription": {
+    "en": "You can obtain {CR_EVI_C}evidence{##} by {A_SPY_C}spying{##} on others, though you will need a {B_IMP_SPY_C}spyglass{##} to do so. Alternatively, you can {A_SNI_C}report rumors{##} to {O_CHA_INF_C}informants{##}. While closely observing the people around you and earning some money in the process, you may uncover evidence of crimes!\n\nOnce you have obtained evidence, open {HB_CRIEVI} Crime and Evidence on the left and select {A_PRECHA_C}Press Charges{##}.",
+    "uk": "{CR_EVI_C}Докази{##} можна здобути, якщо {A_SPY_C}шпигувати{##} за іншими, але для цього знадобиться {B_IMP_SPY_C}підзорна труба{##}. Або ж можна {A_SNI_C}доносити про чутки{##} {O_CHA_INF_C}інформаторам{##}. Пильно стежачи за людьми довкола й заробляючи на цьому трохи монет, Ви можете натрапити на докази злочинів!\n\nЗдобувши докази, відкрийте ліворуч {HB_CRIEVI} «Злочини й докази» й виберіть {A_PRECHA_C}Висунути звинувачення{##}."
+  },
+  "Onboarding_PressCharges_LongDescription_alt": {
+    "en": "Once you have obtained {CR_EVI_C}evidence{##}, use it to gain advantage over your opponents. Open {HB_CRIEVI} Crime and Evidence in the left sidebar, select {A_PRECHA_C}Press Charges{##}, and wait for the accused to go to trial.",
+    "uk": "Здобувши {CR_EVI_C}докази{##}, використайте їх, щоб узяти гору над суперниками. На лівій панелі відкрийте {HB_CRIEVI} «Злочини й докази», виберіть {A_PRECHA_C}Висунути звинувачення{##} й чекайте, поки звинуваченого поставлять перед судом."
+  },
+  "Onboarding_PrivateTime_Description": {
+    "en": "Spend private time with your spouse",
+    "uk": "Проведіть час наодинці з чоловіком чи дружиною"
+  },
+  "Onboarding_PrivateTime_DisplayName": {
+    "en": "Behind Closed Doors",
+    "uk": "За зачиненими дверима"
+  },
+  "Onboarding_PrivateTime_LongDescription": {
+    "en": "After getting married, {CC_RMB} right-click your spouse's portrait and select {A_PRITIM_C}Spend Private Time{##}. You can also find this action under {HB_PERACT} Personal Actions.",
+    "uk": "Після весілля клацніть {CC_RMB} правою кнопкою по портрету чоловіка чи дружини й виберіть {A_PRITIM_C}Провести час наодинці{##}. Цю дію також можна знайти в {HB_PERACT} «Особистих діях»."
+  },
+  "Onboarding_PromoteWorker_Description": {
+    "en": "Promote a worker",
+    "uk": "Підвищте працівника"
+  },
+  "Onboarding_PromoteWorker_DisplayName": {
+    "en": "Grant Promotion",
+    "uk": "Заслужене підвищення"
+  },
+  "Onboarding_PromoteWorker_LongDescription": {
+    "en": "After a worker has gained enough {CHAR_XP_C}experience{##}, {CC_RMB} right-click their portrait at your business and select {A_PROWOR_C}Promote Worker{##}.",
+    "uk": "Коли працівник набереться досить {CHAR_XP_C}досвіду{##}, клацніть {CC_RMB} правою кнопкою по його портрету у Вашій справі й виберіть {A_PROWOR_C}Підвищити працівника{##}."
+  },
+  "Onboarding_RepairBuilding_Description": {
+    "en": "Repair your building",
+    "uk": "Відремонтуйте свою будівлю"
+  },
+  "Onboarding_RepairBuilding_DisplayName": {
+    "en": "Patch Things Up",
+    "uk": "Залатати дірки"
+  },
+  "Onboarding_RepairBuilding_LongDescription": {
+    "en": "Your building's {B_HP_C}integrity{##} affects its value, and if {ST_STR_BADMAI_C}neglected{##}, the damage will affect almost every aspect of it. Your workers will become less {CHAR_PRO_C}productive{##} and more prone to accidents, so don't let your building fall into disrepair.\n\nAt one of your buildings, click {IC_REP} Repair near the integrity bar.",
+    "uk": "Від {B_HP_C}цілісності{##} будівлі залежить її вартість, а коли будівля {ST_STR_BADMAI_C}занедбана{##}, шкода позначається майже на всьому. Ваші працівники втрачають {CHAR_PRO_C}продуктивність{##} і частіше потрапляють у нещасні випадки, тож не доводьте будівлю до руїни.\n\nУ будь-якій своїй будівлі натисніть {IC_REP} «Ремонт» біля смуги цілісності."
+  },
+  "Onboarding_SellFromStorefront_Description": {
+    "en": "Place item in storefront and wait for purchase",
+    "uk": "Покладіть предмет у крамницю й зачекайте на покупця"
+  },
+  "Onboarding_SellFromStorefront_DisplayName": {
+    "en": "Let Them Come to You",
+    "uk": "Хай самі прийдуть"
+  },
+  "Onboarding_SellFromStorefront_LongDescription": {
+    "en": "At your business, {CC_LMB} left-click an item in the {B_STOROO_C}storeroom{##}, then {CC_LMB} left-click an empty {B_STOFRO_C}storefront{##} slot to place it there. \n\nYour smithy's {B_PARAM_ATT_C}appeal{##} periodically draws in customers to buy items from your storefront, so just make sure they have something to buy.",
+    "uk": "У своїй справі клацніть {CC_LMB} лівою кнопкою по предмету в {B_STOROO_C}коморі{##}, а тоді {CC_LMB} лівою кнопкою по вільній комірці {B_STOFRO_C}крамниці{##}, щоб покласти його туди. \n\n{B_PARAM_ATT_C}Привабливість для покупців{##} Вашої кузні час від часу приваблює люд, що купує вироби у Вашій крамниці, тож подбайте, щоб там було що купити."
+  },
+  "Onboarding_SellToMarketplace_Description": {
+    "en": "Sell at the marketplace",
+    "uk": "Продайте на ринку"
+  },
+  "Onboarding_SellToMarketplace_DisplayName": {
+    "en": "Profit!",
+    "uk": "Зиск!"
+  },
+  "Onboarding_SellToMarketplace_LongDescription": {
+    "en": "Once the loaded {CAR_C}cart{##} arrives at the {B_PUB_MKT_C}marketplace{##}, {CC_LMB} left-click an item in the cart, then {CC_LMB} left-click the highlighted area to sell it immediately.",
+    "uk": "Щойно навантажений {CAR_C}віз{##} прибуде на {B_PUB_MKT_C}ринок{##}, клацніть {CC_LMB} лівою кнопкою по предмету у возі, а тоді {CC_LMB} лівою кнопкою по виділеній області, щоб одразу його продати."
+  },
+  "Onboarding_SendCartToMarketplace_Description": {
+    "en": "Send your cart to the marketplace",
+    "uk": "Відправте віз на ринок"
+  },
+  "Onboarding_SendCartToMarketplace_DisplayName": {
+    "en": "Off to Market",
+    "uk": "Гайда на торг"
+  },
+  "Onboarding_SendCartToMarketplace_LongDescription": {
+    "en": "Use {CAR_C}carts{##} to purchase materials and deliver finished products to various locations. \n\nIf you are ready to sell your crafted goods, load the cart at your business by {CC_LMB} left-clicking an item, then {CC_LMB} left-clicking a cart slot; select the {B_PUB_MKT_C}marketplace{##} from the map or from the list of buildings, and send the cart off.\n\nIf you prefer to craft and stock your goods while waiting to make a good deal from market fluctuations, you can send an empty cart to the marketplace to buy materials so your workers can keep crafting.",
+    "uk": "{CAR_C}Вози{##} потрібні, щоб купувати сировину й доставляти готові вироби в різні місця. \n\nЯкщо готові продати свої вироби, навантажте віз у своїй справі: клацніть {CC_LMB} лівою кнопкою по предмету, а тоді {CC_LMB} лівою кнопкою по комірці воза; виберіть {B_PUB_MKT_C}ринок{##} на мапі або в списку будівель і відправте віз.\n\nА якщо волієте виготовляти й складати вироби про запас, вичікуючи вигідних цін на ринку, можете відправити на ринок порожній віз по сировину, щоб Ваші працівники не сиділи без діла."
+  },
+  "Onboarding_UnpauseGame_Description": {
+    "en": "Unpause the game",
+    "uk": "Зніміть гру з паузи"
+  },
+  "Onboarding_UnpauseGame_DisplayName": {
+    "en": "First Things First",
+    "uk": "Спершу головне"
+  },
+  "Onboarding_UnpauseGame_LongDescription": {
+    "en": "In the speed controls at the top of the screen, use a button or a key such as Space bar to resume the game at a speed that feels comfortable for you.\n\nAlways keep an eye on the timeline and {HB_UPCOMEVE}Upcoming Events to stay informed about your workers' {WORHOU_C}working hours{##} and never miss an election.",
+    "uk": "На панелі швидкості вгорі екрана натисніть кнопку або клавішу (наприклад, Пробіл), щоб продовжити гру у зручному для Вас темпі.\n\nЗавжди стежте за часовою шкалою та {HB_UPCOMEVE}«Найближчими подіями», щоб знати {WORHOU_C}робочі години{##} своїх працівників і не проґавити жодних виборів."
+  },
+  "Onboarding_UpgradeBusiness_Description": {
+    "en": "Upgrade your business",
+    "uk": "Розширте свою справу"
+  },
+  "Onboarding_UpgradeBusiness_DisplayName": {
+    "en": "Time to Expand",
+    "uk": "Час рости"
+  },
+  "Onboarding_UpgradeBusiness_LongDescription": {
+    "en": "Once you have reached the required {A_MASGRA_C}Mastery Grade{##} and saved enough money, you can upgrade your business. This unlocks more {A_ACT_C}tasks{##} for your workers and may also grant you new {A_C}actions{##}.",
+    "uk": "Коли досягнете потрібного {A_MASGRA_C}ступеня майстерності{##} й відкладете досить грошей, зможете розширити свою справу. Це відкриє Вашим працівникам нові {A_ACT_C}завдання{##}, а Вам, можливо, — нові {A_C}дії{##}."
+  },
+  "Onboarding_UseItem_Description": {
+    "en": "Use an item",
+    "uk": "Використайте предмет"
+  },
+  "Onboarding_UseItem_DisplayName": {
+    "en": "Justify the Purchase",
+    "uk": "Не даремно ж купували"
+  },
+  "Onboarding_UseItem_LongDescription": {
+    "en": "To use an item, it must be in your {HB_INV} {CHAR_PERINV_C}Personal Inventory{##}. {CC_RMB} Right-click the item to open its context menu, then select Use. Finally, confirm who or what you want to use the item on.",
+    "uk": "Щоб використати предмет, він має лежати у Вашому {HB_INV} {CHAR_PERINV_C}особистому інвентарі{##}. Клацніть {CC_RMB} правою кнопкою по предмету, щоб відкрити його меню, і виберіть «Використати». Наостанок підтвердьте, на кому чи на чому хочете його використати."
+  },
+  "Onboarding_VisitChurch_Description": {
+    "en": "Visit the church and pray",
+    "uk": "Відвідайте церкву й помоліться"
+  },
+  "Onboarding_VisitChurch_DisplayName": {
+    "en": "Say a Little Prayer",
+    "uk": "Коротка молитва"
+  },
+  "Onboarding_VisitChurch_LongDescription": {
+    "en": "On the map, find a {B_OCC_PRE_C}Church{##}. Use {HB_FIL} Filters to highlight {B_TYP_OCCBUI_C}Profession Buildings{##}, then select a Church and choose {A_PRA_C}Pray{##}.",
+    "uk": "Знайдіть на мапі {B_OCC_PRE_C}церкву{##}. За допомогою {HB_FIL} фільтрів виділіть {B_TYP_OCCBUI_C}фахові будівлі{##}, потім виберіть церкву і дію {A_PRA_C}«Помолитися»{##}."
+  },
+  "Onboarding_VisitGuildHouse_Description": {
+    "en": "Visit a guild house and train your profession",
+    "uk": "Відвідайте дім гільдії та вдоскональтеся у професії"
+  },
+  "Onboarding_VisitGuildHouse_DisplayName": {
+    "en": "Guild Business",
+    "uk": "Справи гільдії"
+  },
+  "Onboarding_VisitGuildHouse_LongDescription": {
+    "en": "On the map, find the {B_GUILD_C}guild house{##} for your {P_C}profession{##}. Use {HB_FIL} Filters to highlight {B_TYP_PUBBUI_C}City Infrastructure{##}, then select your guild house and choose {A_TRAPRO_C}Train in Profession{##}.",
+    "uk": "Знайдіть на мапі дім {B_GUILD_C}гільдії{##} Вашої {P_C}професії{##}. За допомогою {HB_FIL} фільтрів виділіть {B_TYP_PUBBUI_C}міську інфраструктуру{##}, потім виберіть дім своєї гільдії і дію {A_TRAPRO_C}«Фахове навчання»{##}."
+  },
+  "Onboarding_VisitInn_Description": {
+    "en": "Visit the inn and socialize",
+    "uk": "Відвідайте заїзд і поспілкуйтеся з людом"
+  },
+  "Onboarding_VisitInn_DisplayName": {
+    "en": "Raise a Cup",
+    "uk": "Підніміть кухоль"
+  },
+  "Onboarding_VisitInn_LongDescription": {
+    "en": "On the map, find an {B_OCC_INN_C}Inn{##}. Use {HB_FIL} Filters to highlight {B_TYP_OCCBUI_C}Profession Buildings{##}, then select an Inn and choose {A_SOCATINN_C}Socialize{##}.",
+    "uk": "Знайдіть на мапі {B_OCC_INN_C}заїзд{##}. За допомогою {HB_FIL} фільтрів виділіть {B_TYP_OCCBUI_C}фахові будівлі{##}, потім виберіть заїзд і дію {A_SOCATINN_C}«Поспілкуватися»{##}."
+  },
+  "Onboarding_VisitTownHall_Description": {
+    "en": "Visit the Town Hall and report rumors",
+    "uk": "Відвідайте ратушу й донесіть про чутки"
+  },
+  "Onboarding_VisitTownHall_DisplayName": {
+    "en": "Snitches Get Riches",
+    "uk": "Язик до грошей доведе"
+  },
+  "Onboarding_VisitTownHall_LongDescription": {
+    "en": "You can obtain {CR_EVI_C}evidence{##} by {A_SPY_C}spying{##} on others, though you will need to get a {B_IMP_SPY_C}spyglass{##} at your house to do so. Alternatively, you can {A_SNI_C}report rumors{##} to {O_CHA_INF_C}informants{##}, from whom you can earn some money while also having the chance to uncover evidence of crimes!\n\nIn the left sidebar, click {HB_TOWHAL} {B_PUB_TOWHAL_C}Town Hall{##} and select {A_SNI_C}Report Rumors{##}.",
+    "uk": "{CR_EVI_C}Докази{##} можна здобути, коли {A_SPY_C}шпигуватимете{##} за іншими, але для цього Вашому дому знадобиться {B_IMP_SPY_C}підзорна труба{##}. А можна {A_SNI_C}донести про чутки{##} {O_CHA_INF_C}інформаторам{##} — так Ви трохи заробите, а заразом, можливо, натрапите на докази чиїхось злочинів!\n\nНа лівій бічній панелі натисніть {HB_TOWHAL} {B_PUB_TOWHAL_C}«Ратуша»{##} і виберіть {A_SNI_C}«Донести про чутки»{##}."
+  },
+  "Onboarding_WinElection_Description": {
+    "en": "Win an election",
+    "uk": "Виграйте вибори"
+  },
+  "Onboarding_WinElection_DisplayName": {
+    "en": "Claim the Seat",
+    "uk": "Посада Ваша"
+  },
+  "Onboarding_WinElection_LongDescription": {
+    "en": "After applying for {O_TYP_CIVOFF_C}office{##}, check {HB_UPCOMEVE} Upcoming Events to see when the {O_ELE_C}election{##} will take place. Improve your {S_RHE_C}Rhetoric{##} or raise the appointers' {CHAR_STA_C}opinion{##} of you to increase your chances against the other candidates.",
+    "uk": "Подавши заявку на {O_TYP_CIVOFF_C}посаду{##}, перегляньте {HB_UPCOMEVE} «Найближчі події», щоб дізнатися, коли відбудуться {O_ELE_C}вибори{##}. Щоб мати більше шансів проти інших кандидатів, розвиньте {S_RHE_C}красномовство{##} або завоюйте {CHAR_STA_C}прихильність{##} виборців."
+  }
+}

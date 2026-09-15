@@ -1,0 +1,422 @@
+{
+  "Ashborne_Description": {
+    "en": "Hello! We are the developers of this game. A small team with plenty of passion for history, strategy, and management... And cheese toast!",
+    "uk": "Вітаємо! Ми — розробники цієї гри. Невелика команда з великою любов’ю до історії, стратегій і управління… та грінок із сиром!"
+  },
+  "Ashborne_DisplayName": {
+    "en": "Ashborne Games",
+    "uk": "Ashborne Games"
+  },
+  "Ashborne_Subtitle": {
+    "en": "Czech Game Developer",
+    "uk": "Чеський розробник ігор"
+  },
+  "BattleOfGrunwald_Description": {
+    "en": "A great battle fought on 15 July 1410 in Prussia, where Poland and Lithuania crushed the army of the Teutonic Order, breaking the Order's power on the Baltic.",
+    "uk": "Велика битва 15 липня 1410 року в Пруссії, де Польща й Литва вщент розбили військо Тевтонського ордену, зламавши владу ордену на Балтиці."
+  },
+  "BattleOfGrunwald_DisplayName": {
+    "en": "Battle Of Grunwald",
+    "uk": "Ґрюнвальдська битва"
+  },
+  "BattleOfLipany_Description": {
+    "en": "The final battle of the {H_HUS_C}Hussite{##} Wars, fought on 30 May 1434 near the village of Lipany, east of {H_PRA_C}Prague{##}. Utraquists, a moderate faction of the Hussites, and their Catholic allies destroyed the radical Taborites and Orphans of {H_PROTHEGRE_C}Prokop the Great{##}, ending fifteen years of war and opening the way to {H_SIG_C}Sigismund's{##} late acceptance as King of {H_BOH_C}Bohemia{##}.",
+    "uk": "Остання битва {H_HUS_C}гуситських{##} війн, що відбулася 30 травня 1434 року біля села Ліпани, на схід від {H_PRA_C}Праги{##}. Утраквісти — помірковане крило гуситів — разом зі своїми католицькими союзниками розгромили радикальних таборитів і «сиріток» {H_PROTHEGRE_C}Прокопа Великого{##}. Так скінчилася п’ятнадцятирічна війна, і відкрився шлях до запізнілого визнання {H_SIG_C}Сигізмунда{##} королем {H_BOH_C}Богемії{##}."
+  },
+  "BattleOfLipany_DisplayName": {
+    "en": "Battle Of Lipany",
+    "uk": "Битва під Ліпанами"
+  },
+  "Bohemia_Description": {
+    "en": "A kingdom in Central Europe and a powerful part of the {H_EMP_C}Empire{##}. Ruled during the early 15th century by the {H_HOUOFLUX_C}House of Luxembourg{##} from its capital at {H_PRA_C}Prague{##}. The king of Bohemia held one of the seven {H_ELE_C}electoral votes{##} in the Empire.",
+    "uk": "Королівство в Центральній Європі й могутня частина {H_EMP_C}Священної Римської імперії{##}. На початку XV століття ним правив {H_HOUOFLUX_C}Люксембурзький дім{##} зі столиці в {H_PRA_C}Празі{##}. Король Богемії мав один із семи голосів {H_ELE_C}курфюрстів{##} в Імперії."
+  },
+  "Bohemia_DisplayName": {
+    "en": "Bohemia",
+    "uk": "Богемія"
+  },
+  "Brno_Description": {
+    "en": "Brno was the principal city of the Margraviate of {H_MOR_C}Moravia{##}, set in southern Moravia. Granted royal town rights by King Wenceslaus I of Bohemia in 1243, it served as the seat of the Margraves of Moravia, including {H_JOBOFMOR_C}Jobst of Moravia{##}, who died here in 1411. Dominated by Špilberk Castle on the hill above, the city remained a German Catholic stronghold throughout the {H_HUS_C}Hussite{##} Wars, withstanding multiple sieges without ever falling.",
+    "uk": "Брно було головним містом Моравського маркграфства в південній {H_MOR_C}Моравії{##}. Отримавши королівські міські права від короля Вацлава I Богемського 1243 року, воно слугувало осідком моравських маркграфів, зокрема {H_JOBOFMOR_C}Йобста Моравського{##}, який помер тут 1411 року. Над містом височів замок Шпілберк, а саме Брно лишалося німецько-католицькою твердинею протягом усіх {H_HUS_C}гуситських{##} воєн, витримавши численні облоги й жодного разу не впавши."
+  },
+  "Brno_Description_extra1": {
+    "en": "Brno is also home to {H_ABG_C}Ashborne Games{##}!",
+    "uk": "А ще в Брні живе {H_ABG_C}Ashborne Games{##}!"
+  },
+  "Brno_DisplayName": {
+    "en": "Brno",
+    "uk": "Брно"
+  },
+  "CharlesIV_Description": {
+    "en": "14 May 1316 – 29 November 1378",
+    "uk": "14 травня 1316 — 29 листопада 1378"
+  },
+  "CharlesIV_Description_extra1": {
+    "en": "Charles IV, King of Bohemia and Holy Roman Emperor, had a long and successful reign. The Empire he ruled from Prague expanded, and his subjects lived in peace and prosperity.",
+    "uk": "Карл IV, король Богемії та імператор Священної Римської імперії, правив довго й успішно. Імперія, якою він керував із Праги, розширювалася, а його піддані жили в мирі та достатку."
+  },
+  "CharlesIV_DisplayName": {
+    "en": "Emperor Charles IV",
+    "uk": "Імператор Карл IV"
+  },
+  "CompactsOfBasel_Description": {
+    "en": "An agreement of 1436 between the Catholic Church and the moderate {H_HUS_C}Hussites{##}, granting partial recognition of Hussite religious practice and allowing {H_SIG_C}Sigismund{##} to be accepted at last as King of {H_BOH_C}Bohemia{##}.",
+    "uk": "Угода 1436 року між католицькою церквою та поміркованими {H_HUS_C}гуситами{##}, що частково визнавала гуситську релігійну практику й дозволила нарешті визнати {H_SIG_C}Сигізмунда{##} королем {H_BOH_C}Богемії{##}."
+  },
+  "CompactsOfBasel_DisplayName": {
+    "en": "Compacts Of Basel",
+    "uk": "Базельські компакти"
+  },
+  "CouncilOfConstance_Description": {
+    "en": "A great council of the Catholic Church held in the Imperial city of Constance from 1414 to 1418, convened at {H_SIG_C}Sigismund's{##} urging. It ended the Western Schism by electing Pope Martin V in 1417 and condemned {H_JANHUS_C}Jan Hus{##} as a heretic in 1415, and had him burned at the stake.",
+    "uk": "Великий собор католицької церкви, що відбувся в імперському місті Констанці від 1414 до 1418 року, скликаний на наполягання {H_SIG_C}Сигізмунда{##}. Він поклав край Великій західній схизмі, обравши 1417 року папу Мартина V, а 1415 року засудив {H_JANHUS_C}Яна Гуса{##} як єретика й спалив його на вогнищі."
+  },
+  "CouncilOfConstance_DisplayName": {
+    "en": "Council Of Constance",
+    "uk": "Констанцький собор"
+  },
+  "Electors_Description": {
+    "en": "Seven of the Empire's greatest rulers hold the privilege of electing the {H_KINOFROM_C}King of the Romans{##}. Established by the Golden Bull of 1356, the electoral college consists of the archbishops of Mainz, Cologne, and Trier, as well as four secular lords: the King of Bohemia, the Count Palatine of the Rhine, the Duke of Saxony, and the Margrave of Brandenburg. ",
+    "uk": "Семеро наймогутніших володарів Імперії мають привілей обирати {H_KINOFROM_C}короля римлян{##}. Заснована Золотою буллою 1356 року колегія курфюрстів складається з архієпископів Майнца, Кельна й Трира, а також чотирьох світських володарів: короля Богемії, пфальцграфа Рейнського, герцога Саксонського та маркграфа Бранденбурзького. "
+  },
+  "Electors_DisplayName": {
+    "en": "Prince Elector",
+    "uk": "Курфюрст"
+  },
+  "Emperor_Description": {
+    "en": "Holder of the highest title in the {H_EMP_C}Holy Roman Empire{##}, crowned by the Pope himself. After the death of {H_CHA4_C}Emperor Charles IV{##} in 1378, the throne stood vacant for fifty-five years, until {H_SIG_C}Sigismund{##} was finally crowned in 1433.",
+    "uk": "Носій найвищого титулу у {H_EMP_C}Священній Римській імперії{##}, коронований самим папою. Після смерті {H_CHA4_C}імператора Карла IV{##} 1378 року престол пустував п’ятдесят п’ять років, доки 1433 року нарешті не коронували {H_SIG_C}Сигізмунда{##}."
+  },
+  "Emperor_DisplayName": {
+    "en": "The Emperor",
+    "uk": "Імператор"
+  },
+  "Empire_Description": {
+    "en": "Founded by Charlemagne in 800 and restored by Otto the Great in 962, the Holy Roman Empire is the largest political entity in Central Europe. By the 15th century it stretches from the Low Countries (today's Netherlands and Belgium) in the west to the borders of Poland and Hungary in the east, and from the Baltic and North Seas down through the German lands, Austria, and Bohemia, with nominal authority over Northern Italy as well. ",
+    "uk": "Заснована Карлом Великим 800 року й відновлена Оттоном I Великим 962 року, Священна Римська імперія — найбільше політичне утворення Центральної Європи. У XV столітті вона простягається від Нижніх земель (сучасних Нідерландів і Бельгії) на заході до кордонів Польщі й Угорщини на сході, від Балтійського й Північного морів через німецькі землі, Австрію та Богемію, маючи номінальну владу й над Північною Італією. "
+  },
+  "Empire_Description_extra1": {
+    "en": "The Holy Roman Empire is ruled by the {H_EMPROR_C}Holy Roman Emperor{##}, the foremost among Catholic monarchs, crowned by the Pope himself. The throne has stood vacant since the death of {H_CHA4_C}Emperor Charles IV{##} in 1378, with the {H_KINOFROM_C}King of the Romans{##} holding power in the Emperor's stead.",
+    "uk": "Священною Римською імперією править {H_EMPROR_C}імператор Священної Римської імперії{##}, перший серед католицьких монархів, коронований самим папою. Престол пустує від смерті {H_CHA4_C}імператора Карла IV{##} 1378 року, а владу замість імператора тримає {H_KINOFROM_C}король римлян{##}."
+  },
+  "Empire_DisplayName": {
+    "en": "The Holy Roman Empire",
+    "uk": "Священна Римська імперія"
+  },
+  "Herle_DemoEnd_Description": {
+    "en": "This is the final year of the demo, but your journey in Europa 1410 is just getting started.",
+    "uk": "Це останній рік демоверсії, але Ваша подорож в Europa 1410 лише починається."
+  },
+  "Herle_DemoEnd_Description_extra1": {
+    "en": "Now that you have proven yourself a successful Master Smith in this town, why not try your hand at building a business empire in {H_KUT_C}Kuttenberg{##}, the silver crown of {H_BOH_C}Bohemia{##}.",
+    "uk": "Тепер, коли Ви довели, що здатні бути успішним майстром-ковалем у цьому місті, чому б не спробувати збудувати торговельну імперію в {H_KUT_C}Куттенберзі{##}, срібній короні {H_BOH_C}Богемії{##}?"
+  },
+  "Herle_DemoEnd_Description_extra2": {
+    "en": "You will get the chance to peek into Bohemia's turbulent history and understand the role of the {H_BATOFLIP_C}Hussite Wars{##} in shaping the history of the Catholic Church and the {H_EMPROR_C}Holy Roman Empire{##}.",
+    "uk": "Ви матимете нагоду зазирнути в бурхливу історію Богемії та зрозуміти, яку роль гуситські війни, що завершилися {H_BATOFLIP_C}битвою під Ліпанами{##}, відіграли в долі католицької церкви та {H_EMPROR_C}Священної Римської імперії{##}."
+  },
+  "Herle_DemoEnd_Name": {
+    "en": "The End Is Only the Beginning",
+    "uk": "Кінець — це лише початок"
+  },
+  "HouseOfLuxembourg_Description": {
+    "en": "A noble dynasty from the County of Luxembourg that rose to rule {H_BOH_C}Bohemia{##}, Hungary, and the {H_EMP_C}Empire{##} in the 14th and early 15th centuries, ending with {H_SIG_C}Sigismund's{##} death in 1437.",
+    "uk": "Шляхетна династія з графства Люксембург, що піднеслася до влади над {H_BOH_C}Богемією{##}, Угорщиною та {H_EMP_C}Священною Римською імперією{##} у XIV — на початку XV століття й згасла зі смертю {H_SIG_C}Сигізмунда{##} 1437 року."
+  },
+  "HouseOfLuxembourg_DisplayName": {
+    "en": "House of Luxembourg",
+    "uk": "Люксембурзький дім"
+  },
+  "HouseOfLuxembourg_Subtitle": {
+    "en": "Noble House",
+    "uk": "Шляхетний рід"
+  },
+  "Hussites_Description": {
+    "en": "A {H_BOH_C}Bohemian{##} religious reform movement that rose in rebellion after the burning of {H_JANHUS_C}Jan Hus{##} at the {H_COUOFCON_C}Council of Constance{##} in 1415. They rejected {H_SIG_C}Sigismund's{##} claim to the Bohemian crown and successfully fought off five crusades over the next two decades, winning partial recognition of their faith in 1436.",
+    "uk": "{H_BOH_C}Богемський{##} релігійний реформаційний рух, що повстав після спалення {H_JANHUS_C}Яна Гуса{##} на {H_COUOFCON_C}Констанцькому соборі{##} 1415 року. Гусити відкинули претензії {H_SIG_C}Сигізмунда{##} на богемську корону й упродовж двох десятиліть успішно відбили п’ять хрестових походів, здобувши 1436 року часткове визнання своєї віри."
+  },
+  "Hussites_DisplayName": {
+    "en": "Hussites",
+    "uk": "Гусити"
+  },
+  "Hussites_SubTitle": {
+    "en": "Religious Movement",
+    "uk": "Релігійний рух"
+  },
+  "JanHus_Description": {
+    "en": "c. 1370 – 6 July 1415",
+    "uk": "бл. 1370 — 6 липня 1415"
+  },
+  "JanHus_Description_extra1": {
+    "en": "{H_BOH_C}Bohemian{##} priest, scholar, and rector of the University of {H_PRA_C}Prague{##}. At the beginning of the 15th century, he became a popular preacher in Bohemia, known for delivering his sermons in Czech and condemning the wealth and corruption of the Catholic Church. Excommunicated in 1411, he was burned at the stake at the {H_COUOFCON_C}Council of Constance{##} in 1415 despite {H_SIG_C}King Sigismund's{##} promise of safe-conduct, sparking the {H_HUS_C}Hussite{##} revolt.",
+    "uk": "{H_BOH_C}Богемський{##} священник, учений і ректор {H_PRA_C}Празького{##} університету. На початку XV століття став улюбленим проповідником у Богемії, відомим тим, що виголошував проповіді чеською та картав багатство й розбещеність католицької церкви. Відлучений від церкви 1411 року, він був спалений на вогнищі на {H_COUOFCON_C}Констанцькому соборі{##} 1415 року, попри обіцяну {H_SIG_C}королем Сигізмундом{##} охоронну грамоту, що й розпалило повстання {H_HUS_C}гуситів{##}."
+  },
+  "JanHus_DisplayName": {
+    "en": "Jan Hus",
+    "uk": "Ян Гус"
+  },
+  "JanZizka_Description": {
+    "en": "c. 1360 – 11 October 1424",
+    "uk": "бл. 1360 — 11 жовтня 1424"
+  },
+  "JanZizka_Description_extra1": {
+    "en": "A one-eyed {H_BOH_C}Bohemian{##} nobleman and veteran of the {H_BATOFGRU_C}Battle of Grunwald{##} (1410) against the Teutonic Order. He rose to fame after the burning of {H_JANHUS_C}Jan Hus{##} as the foremost {H_HUS_C}Hussite{##} military leader, employing unorthodox tactics like the wagon fort (Wagenburg) and handgunners. He lost his second eye during the siege of {H_RAB_C}Rabí{##} in 1421, but, now fully blind, continued to defeat {H_SIG_C}King Sigismund's{##} armies. He died of the plague in 1424, undefeated in battle.",
+    "uk": "Одноокий {H_BOH_C}богемський{##} шляхтич і ветеран {H_BATOFGRU_C}Ґрюнвальдської битви{##} (1410) проти Тевтонського ордену. Після спалення {H_JANHUS_C}Яна Гуса{##} він прославився як найвидатніший воєначальник {H_HUS_C}гуситів{##}, що застосовував незвичну тактику — вагенбург і загони з ручними гарматами. Під час облоги {H_RAB_C}Рабі{##} 1421 року втратив і друге око, але, вже цілком сліпий, і далі громив війська {H_SIG_C}короля Сигізмунда{##}. Помер від чуми 1424 року, не зазнавши жодної поразки в бою."
+  },
+  "JanZizka_DisplayName": {
+    "en": "Jan Žižka",
+    "uk": "Ян Жижка"
+  },
+  "JobstOfMoravia_Description": {
+    "en": "1354 – 18 January 1411",
+    "uk": "1354 — 18 січня 1411"
+  },
+  "JobstOfMoravia_Description_extra1": {
+    "en": "Margrave of Moravia and Brandenburg, elected {H_KINOFROM_C}King of the Romans{##} in 1410. Cousin of {H_SIG_C}Sigismund of Luxembourg{##}. Died in {H_BRN_C}Brno{##} under suspicious circumstances only three months after his election.",
+    "uk": "Маркграф Моравії та Бранденбургу, обраний {H_KINOFROM_C}королем римлян{##} 1410 року. Двоюрідний брат {H_SIG_C}Сигізмунда Люксембурзького{##}. Помер у {H_BRN_C}Брні{##} за підозрілих обставин лише через три місяці після обрання."
+  },
+  "JobstOfMoravia_DisplayName": {
+    "en": "Jobst of Moravia",
+    "uk": "Йобст Моравський"
+  },
+  "KingOfRomans_Description": {
+    "en": "The title held by the elected ruler of the {H_EMP_C}Holy Roman Empire{##}. Not to be confused with the Emperor — a higher dignity requiring papal coronation in Rome, which many Kings of the Romans never received. The King was chosen by the seven {H_ELE_C}prince-electors{##} and held formal authority across the entire Empire, though in practice his power was strongest in the German lands and weakest in Bohemia and Italy.",
+    "uk": "Титул обраного володаря {H_EMP_C}Священної Римської імперії{##}. Не плутати з імператором — вищою гідністю, що потребує папської коронації в Римі, якої багато королів римлян так і не дістали. Короля обирали семеро {H_ELE_C}курфюрстів{##}, і він мав формальну владу над усією Імперією, хоч на ділі вона була наймічнішою в німецьких землях і найслабшою в Богемії та Італії."
+  },
+  "KingOfRomans_DisplayName": {
+    "en": "King of the Romans",
+    "uk": "Король римлян"
+  },
+  "Kuttenberg_1411_Description": {
+    "en": "Word spreads like wildfire across the {H_EMP_C}Empire{##}: {H_JOBOFMOR_C}Jobst of Moravia{##}, the {H_KINOFROM_C}King of the Romans{##}, is dead. Mere months after his election to the crown. The official word speaks of illness, but this is an explanation too convenient for many. They whisper of poison, for his cousin and bitter rival {H_SIG_C}Sigismund{##} now stands without challenger, after being denied the throne at the last election. ",
+    "uk": "Звістка шириться {H_EMP_C}Священною Римською імперією{##} мов пожежа: {H_JOBOFMOR_C}Йобст Моравський{##}, {H_KINOFROM_C}король римлян{##}, помер. Лише за кілька місяців після обрання на престол. Офіційно мовиться про хворобу, та багатьом це пояснення видається надто зручним. Шепочуть про отруту, бо його двоюрідний брат і затятий суперник {H_SIG_C}Сигізмунд{##}, якому на минулих виборах відмовили в престолі, тепер лишився без жодного суперника. "
+  },
+  "Kuttenberg_1411_Description_extra1": {
+    "en": "The {H_ELE_C}electors{##} are gathering again, and there is little doubt whom they will choose this time.",
+    "uk": "{H_ELE_C}Курфюрсти{##} знову збираються, і мало хто сумнівається, кого вони оберуть цього разу."
+  },
+  "Kuttenberg_1411_Name": {
+    "en": "The King is dead; long live the King!",
+    "uk": "Король помер — хай живе король!"
+  },
+  "Kuttenberg_1415_Description": {
+    "en": "Anger spreads across {H_BOH_C}Bohemia{##}: {H_JANHUS_C}Jan Hus{##}, lured to attend the {H_COUOFCON_C}Council of Constance{##} under {H_SIG_C}Sigismund's{##} promise of safe-conduct, has been tried and condemned by the Catholic Church. Offered his life if he recanted, he stayed faithful, even in the face of certain death. ",
+    "uk": "{H_BOH_C}Богемією{##} шириться гнів: {H_JANHUS_C}Яна Гуса{##}, заманеного на {H_COUOFCON_C}Констанцький собор{##} обіцянкою охоронної грамоти від {H_SIG_C}Сигізмунда{##}, судила й засудила католицька церква. Йому обіцяли життя в обмін на зречення, та він лишився вірним навіть перед лицем певної смерті. "
+  },
+  "Kuttenberg_1415_Description_extra1": {
+    "en": "The people of Bohemia, outraged by Sigismund's betrayal and the branding of their faith as heresy, are turning even further from Rome, and voices of rebellion grow louder every day.",
+    "uk": "Люд Богемії, обурений зрадою Сигізмунда й тим, що їхню віру затаврували як єресь, відвертається від Рима ще далі, і голоси бунту щодня гучнішають."
+  },
+  "Kuttenberg_1415_Name": {
+    "en": "Jan Hus Burned at the Stake",
+    "uk": "Яна Гуса спалено на вогнищі"
+  },
+  "Kuttenberg_1419_Description": {
+    "en": "The faith wages war against itself. {H_WEN_C}King Wenceslaus{##}, pressured by his brother {H_SIG_C}King Sigismund{##} and the pope, ordered Catholic priests restored to {H_HUS_C}Hussite{##} parishes. In response, a great procession of Hussites stormed the New Town Hall in {H_PRA_C}Prague{##} and hurled the burgomaster and his Catholic councillors onto the spears of the crowd below. Tens of thousands are in uproar across the kingdom!",
+    "uk": "Віра пішла війною сама на себе. {H_WEN_C}Король Вацлав IV{##} під тиском свого брата {H_SIG_C}короля Сигізмунда{##} й папи наказав повернути католицьких священників до парафій {H_HUS_C}гуситів{##}. У відповідь велика процесія гуситів узяла штурмом ратушу Нового міста в {H_PRA_C}Празі{##} й скинула бургомістра та його католицьких радників на списи юрби внизу. Десятки тисяч по всьому королівству повстали!"
+  },
+  "Kuttenberg_1419_Description_extra1": {
+    "en": "Now word comes that King Wenceslaus himself is dead, some even say the shock of the news struck him down. Sigismund alone stands to inherit the crown, but the Hussites have not forgotten his betrayal of {H_HUS_C}Jan Hus{##} to the flames and would rather see the kingdom burn than bow to him.",
+    "uk": "А тепер надходить звістка, що й сам король Вацлав помер — дехто каже, що його звалив шок від цієї новини. Успадкувати корону може тільки Сигізмунд, але {H_HUS_C}гусити{##} не забули, як він віддав Яна Гуса на вогнище, і радше побачать королівство в полум’ї, ніж схилять перед ним голови."
+  },
+  "Kuttenberg_1419_Name": {
+    "en": "Bohemia in Flames",
+    "uk": "Богемія у вогні"
+  },
+  "Kuttenberg_1420_Description": {
+    "en": "Following Pope Martin V's call for a crusade, {H_SIG_C}King Sigismund{##} marched into {H_BOH_C}Bohemia{##} at the head of a large crusader army, intent on taking his crown by force and driving out the {H_HUS_C}Hussites{##} once and for all. ",
+    "uk": "Після заклику папи Мартина V до хрестового походу {H_SIG_C}король Сигізмунд{##} на чолі великого хрестоносного війська рушив у {H_BOH_C}Богемію{##}, налаштований узяти свою корону силою і раз і назавжди вигнати {H_HUS_C}гуситів{##}. "
+  },
+  "Kuttenberg_1420_Description_extra1": {
+    "en": "At Vítkov Hill just outside {H_PRA_C}Prague{##}, his army met a small force of defending Bohemians. Peasants, townsfolk, and some say even women stood against the overwhelming force of the King. They were led by {H_JANZIZ_C}Jan Žižka{##}, a one-eyed Bohemian nobleman and veteran captain who once fought against the Teutonic Knights at the famous {H_BATOFGRU_C}battle of Grunwald{##}. Against all odds, the defenders successfully held against thousands of Sigismund's soldiers and broke the crusaders' assault.",
+    "uk": "На Вітковій горі під {H_PRA_C}Прагою{##} його військо зустрів невеликий загін богемських захисників. Селяни, міщани, а дехто каже, що й жінки, стали проти нездоланної сили короля. Вів їх {H_JANZIZ_C}Ян Жижка{##}, одноокий богемський шляхтич і бувалий гетьман, що колись бився з тевтонськими рицарями у славетній {H_BATOFGRU_C}Ґрюнвальдській битві{##}. Усупереч усьому захисники вистояли проти тисяч Сигізмундових вояків і зламали наступ хрестоносців."
+  },
+  "Kuttenberg_1420_Description_extra2": {
+    "en": "This marks a turning point in the conflict between the Hussites and Sigismund, who, it seems, cannot win his crown by force alone.",
+    "uk": "Це стало переломом у протистоянні гуситів і Сигізмунда, якому, схоже, не здобути корони самою лише силою."
+  },
+  "Kuttenberg_1420_Name": {
+    "en": "Battle of Vítkov Hill",
+    "uk": "Битва на Вітковій горі"
+  },
+  "Kuttenberg_1422_Description": {
+    "en": "Two years after the Battle of Vítkov Hill, {H_JANZIZ_C}Jan Žižka{##} is a name spoken either in awe or in fear. He defeated {H_SIG_C}Sigismund{##} at {H_VYS_C}Vyšehrad{##} and even after losing his remaining eye to an arrow at {H_RAB_C}Rábí{##}, he still commands the {H_HUS_C}Hussites{##} of {H_BOH_C}Bohemia{##}. ",
+    "uk": "Через два роки після битви на Вітковій горі ім’я {H_JANZIZ_C}Яна Жижки{##} вимовляють або з благоговінням, або зі страхом. Він розбив {H_SIG_C}Сигізмунда{##} під {H_VYS_C}Вишеградом{##} і, навіть утративши останнє око від стріли під {H_RAB_C}Рабі{##}, далі веде {H_HUS_C}гуситів{##} {H_BOH_C}Богемії{##}. "
+  },
+  "Kuttenberg_1422_Description_extra1": {
+    "en": "Said to be guided by the voice of God himself, Žižka remains undefeated. Earlier this year, he destroyed a second crusader army at {H_NEM_C}Německý Brod{##}, not far from {H_KUT_C}Kuttenberg!{##} King Sigismund fled the field and his men drowned by the hundreds while crossing the frozen river.",
+    "uk": "Кажуть, Жижку веде сам голос Божий — і він досі не знав поразки. На початку цього року він знищив друге хрестоносне військо під {H_NEM_C}Нємецьким Бродом{##}, неподалік від {H_KUT_C}Куттенберга{##}! Король Сигізмунд утік із поля бою, а його люди сотнями тонули, переходячи замерзлу річку."
+  },
+  "Kuttenberg_1422_Description_extra2": {
+    "en": "The second crusade is broken and the war has come to our very doorstep.",
+    "uk": "Другий хрестовий похід зламано, і війна підступила до самого нашого порога."
+  },
+  "Kuttenberg_1422_Name": {
+    "en": "Žižka the Blind",
+    "uk": "Жижка Сліпий"
+  },
+  "Kuttenberg_1424_Description": {
+    "en": "{H_JANZIZ_C}Jan Žižka{##}, the hope of {H_BOH_C}Bohemia's{##}, is dead — killed not by the sword but by the plague, while besieging the Catholic town of {H_PRI_C}Přibyslav{##} in {H_MOR_C}Moravia{##}. His followers are devastated. They now call themselves the Orphans, declaring their father has died.",
+    "uk": "{H_JANZIZ_C}Ян Жижка{##}, надія {H_BOH_C}Богемії{##}, помер — здолав його не меч, а чума, коли він облягав католицьке місто {H_PRI_C}Пршибислав{##} у {H_MOR_C}Моравії{##}. Його прибічники розчавлені горем. Тепер вони звуть себе «сирітками», бо їхній батько помер."
+  },
+  "Kuttenberg_1424_Description_extra1": {
+    "en": "{H_PROTHEGRE_C}Prokop the Great{##} now leads the {H_HUS_C}Hussites{##}, but he is only a priest. Can he fill the role left by Žižka — or is this the end of their cause?",
+    "uk": "Тепер {H_HUS_C}гуситів{##} веде {H_PROTHEGRE_C}Прокоп Великий{##}, але він лише священник. Чи зможе він заступити Жижку — чи це кінець їхньої справи?"
+  },
+  "Kuttenberg_1424_Name": {
+    "en": "Death of a Legend",
+    "uk": "Смерть легенди"
+  },
+  "Kuttenberg_1426_Description": {
+    "en": "This is the final year of the demo, but {H_BOH_C}Bohemia's{##} turbulent history continues for many more years.",
+    "uk": "Це останній рік демоверсії, але бурхлива історія {H_BOH_C}Богемії{##} триває ще багато років."
+  },
+  "Kuttenberg_1426_Description_extra1": {
+    "en": "{H_JANZIZ_C}Žižka's{##} followers will continue the fight, but internal division will ultimately lead to the {H_BATOFLIP_C}end of the Hussite Wars{##} in 1434, and in 1436 the Catholic Church will accept some of the {H_HUS_C}Hussites'{##} religious practices.",
+    "uk": "Прибічники {H_JANZIZ_C}Яна Жижки{##} продовжать боротьбу, та внутрішній розбрат зрештою призведе до {H_BATOFLIP_C}битви під Ліпанами{##} 1434 року, що покладе край гуситським війнам, а 1436 року католицька церква визнає частину релігійних обрядів {H_HUS_C}гуситів{##}."
+  },
+  "Kuttenberg_1426_Description_extra2": {
+    "en": "King {H_SIG_C}Sigismund{##} will be crowned {H_EMPROR_C}Holy Roman Emperor{##} in 1433, only to die in 1437. His reign will be remembered as one of great ambition and bitter cost, condemned in {H_BOH_C}Bohemia{##} for the burning of {H_JANHUS_C}Jan Hus{##}, the very kingdom his father {H_CHA4_C}Charles IV{##} had made the heart of the {H_EMP_C}Empire{##}.",
+    "uk": "Король {H_SIG_C}Сигізмунд{##} 1433 року стане {H_EMPROR_C}імператором Священної Римської імперії{##}, але помре вже 1437-го. Його правління запам’ятають як час великих задумів і гіркої ціни: у {H_BOH_C}Богемії{##} його проклинали за спалення {H_JANHUS_C}Яна Гуса{##} — саме в тому королівстві, яке його батько {H_CHA4_C}Карл IV{##} зробив серцем {H_EMP_C}Священної Римської імперії{##}."
+  },
+  "Kuttenberg_1426_Description_extra3": {
+    "en": "The final version of The Guild 1 Remake: Europa 1410 will carry you through all of these historic milestones, and many more, that will change how you experience the game.",
+    "uk": "Повна версія The Guild 1 Remake: Europa 1410 проведе Вас через усі ці історичні віхи й багато інших, що змінять Ваше відчуття гри."
+  },
+  "Kuttenberg_1426_Name": {
+    "en": "The End is Near",
+    "uk": "Кінець близько"
+  },
+  "Kuttenberg_1428_Description": {
+    "en": "Well, well. You found your way around our sophisticated demo limitations. Carry on if you like, but be warned: the game is still in development, and the further past 1426 you go, the more rough spots you might encounter. Now enjoy the chaos.",
+    "uk": "Так-так. Ви обійшли наші вигадливі обмеження демоверсії. Ідіть далі, якщо хочете, але зважте: гра ще в розробці, і що далі за 1426 рік Ви зайдете, то більше шорсткостей трапиться. А тепер тіштеся хаосом."
+  },
+  "Kuttenberg_1428_Name": {
+    "en": "You should not be here",
+    "uk": "Вам тут бути не слід"
+  },
+  "Kuttenberg_Description": {
+    "en": "A wealthy royal silver-mining town in central {H_BOH_C}Bohemia{##}, founded around 1300 after the discovery of vast silver deposits. Home of the royal mint that struck the famous Prague groschen, it became one of the richest cities of the {H_EMP_C}Empire{##}. With a large German-speaking, Catholic population, Kuttenberg was contested fiercely and suffered heavy destruction during the {H_HUS_C}Hussite{##} Wars.",
+    "uk": "Заможне королівське срібнодобувне місто в центральній {H_BOH_C}Богемії{##}, засноване близько 1300 року після відкриття величезних покладів срібла. Тут була королівська монетарня, що карбувала славетний празький гріш, і місто стало одним із найбагатших у {H_EMP_C}Священній Римській імперії{##}. Через велику німецькомовну католицьку громаду за Куттенберг точилася запекла боротьба, і під час {H_HUS_C}гуситських{##} воєн він зазнав тяжких руйнувань."
+  },
+  "Kuttenberg_DisplayName": {
+    "en": "Kutná Hora",
+    "uk": "Куттенберг"
+  },
+  "Moravia_Description": {
+    "en": "A margraviate east of Bohemia, part of the {H_BOH_C}Bohemian Crown{##}, with its principal city at {H_BRN_C}Brno{##}.",
+    "uk": "Маркграфство на схід від Богемії, частина {H_BOH_C}Богемської корони{##}, з головним містом {H_BRN_C}Брно{##}."
+  },
+  "Moravia_DisplayName": {
+    "en": "Moravia",
+    "uk": "Моравія"
+  },
+  "NemeckyBrod_Description": {
+    "en": "A German-founded mining town in eastern {H_BOH_C}Bohemia{##}, on the Sázava River.",
+    "uk": "Засноване німцями гірниче місто на сході {H_BOH_C}Богемії{##}, на річці Сазава."
+  },
+  "NemeckyBrod_DisplayName": {
+    "en": "Německý Brod",
+    "uk": "Нємецький Брод"
+  },
+  "Prague_Description": {
+    "en": "Capital of the Kingdom of {H_BOH_C}Bohemia{##} and one of the largest cities in the {H_EMP_C}Empire{##}. The Imperial capital under {H_CHA4_C}Charles IV{##} in the 14th century, it became the centre of the {H_HUS_C}Hussite{##} movement after the burning of {H_JANHUS_C}Jan Hus{##}.",
+    "uk": "Столиця Королівства {H_BOH_C}Богемії{##} і одне з найбільших міст {H_EMP_C}Священної Римської імперії{##}. У 14 столітті, за {H_CHA4_C}Карла IV{##}, — імперська столиця, а після спалення {H_JANHUS_C}Яна Гуса{##} місто стало осередком руху {H_HUS_C}гуситів{##}."
+  },
+  "Prague_DisplayName": {
+    "en": "Prague",
+    "uk": "Прага"
+  },
+  "Pribyslav_Description": {
+    "en": "A small Catholic town on the border of {H_BOH_C}Bohemia{##} and {H_MOR_C}Moravia{##}.",
+    "uk": "Невелике католицьке містечко на межі {H_BOH_C}Богемії{##} і {H_MOR_C}Моравії{##}."
+  },
+  "Pribyslav_DisplayName": {
+    "en": "Přibyslav",
+    "uk": "Пршибислав"
+  },
+  "ProkopTheGreat_Description": {
+    "en": "c. 1380 – 30 May 1434",
+    "uk": "бл. 1380 — 30 травня 1434"
+  },
+  "ProkopTheGreat_Description_extra1": {
+    "en": "A {H_HUS_C}Hussite{##} priest who succeeded {H_JANZIZ_C}Jan Žižka{##} as the military leader of the Hussites in 1424. He crushed three more crusader armies and led devastating raids deep into the {H_EMP_C}Empire{##} before falling at the {H_BATOFLIP_C}Battle of Lipany{##} in 1434.",
+    "uk": "{H_HUS_C}Гуситський{##} священник, який 1424 року змінив {H_JANZIZ_C}Яна Жижку{##} на чолі гуситського війська. Він розгромив ще три хрестоносні армії та очолив спустошливі набіги вглиб {H_EMP_C}Священної Римської імперії{##}, а 1434 року поліг у {H_BATOFLIP_C}битві під Ліпанами{##}."
+  },
+  "ProkopTheGreat_DisplayName": {
+    "en": "Prokop the Great",
+    "uk": "Прокоп Великий"
+  },
+  "Rabi_Description": {
+    "en": "A great castle in southwestern {H_BOH_C}Bohemia{##}.",
+    "uk": "Великий замок на південному заході {H_BOH_C}Богемії{##}."
+  },
+  "Rabi_DisplayName": {
+    "en": "Rabí",
+    "uk": "Рабі"
+  },
+  "Sigismund_Description": {
+    "en": "14 February 1368 – 9 December 1437",
+    "uk": "14 лютого 1368 — 9 грудня 1437"
+  },
+  "Sigismund_Description_extra1": {
+    "en": "Younger son of {H_CHA4_C}Emperor Charles IV{##} and brother of {H_WEN_C}King Wenceslaus IV{##} of {H_BOH_C}Bohemia{##}. King of Hungary from 1387, elected {H_KINOFROM_C}King of the Romans{##} in 1411 after the death of his rival {H_JOBOFMOR_C}Jobst of Moravia{##}, and finally crowned {H_EMPROR_C}Holy Roman Emperor{##} in Rome in 1433.",
+    "uk": "Молодший син {H_CHA4_C}імператора Карла IV{##} і брат {H_WEN_C}короля Вацлава IV{##}, що правив {H_BOH_C}Богемією{##}. Король Угорщини з 1387 року; 1411 року, після смерті свого суперника {H_JOBOFMOR_C}Йобста Моравського{##}, обраний {H_KINOFROM_C}королем римлян{##}, а 1433 року в Римі нарешті коронований {H_EMPROR_C}імператором Священної Римської імперії{##}."
+  },
+  "Sigismund_Description_extra2": {
+    "en": "Sigismund was a multilingual and charismatic leader. He summoned the {H_COUOFCON_C}Council of Constance (1414–1418){##} to end the Western Schism that had divided the Church for forty years. He allowed the burning of {H_JANHUS_C}Jan Hus{##} at the same council despite his own promise of safe-conduct. The {H_HUS_C}Hussites{##} took this as an act of betrayal, and it cost him the Bohemian crown for more than two decades. Only in 1436, a year before his death, did the Hussites finally accept him as King of Bohemia, and only after the {H_COMOFBAS_C}Compacts of Basel{##} granted their faith partial recognition.",
+    "uk": "Сигізмунд знав багато мов і вмів вести за собою людей. Він скликав {H_COUOFCON_C}Констанцький собор (1414–1418){##}, щоб покласти край Великій західній схизмі, яка сорок років розколювала Церкву. На тому ж соборі він допустив спалення {H_JANHUS_C}Яна Гуса{##}, хоча сам обіцяв йому охоронну грамоту. {H_HUS_C}Гусити{##} вважали це зрадою, і вона коштувала Сигізмундові богемської корони на понад двадцять років. Лише 1436 року, за рік до його смерті, гусити нарешті визнали його королем Богемії — і то тільки після того, як {H_COMOFBAS_C}Базельські компакти{##} частково визнали їхню віру."
+  },
+  "Sigismund_Description_extra3": {
+    "en": "He died in {H_ZNO_C}Znojmo{##} in {H_MOR_C}Moravia{##} in 1437, leaving no male heir. With him the {H_HOUOFLUX_C}House of Luxembourg{##} ended its century on the Imperial throne; his crowns passed to his son-in-law Albert of Habsburg, beginning the Habsburg ascendancy that would shape Central Europe for the next five hundred years.",
+    "uk": "Помер 1437 року в {H_ZNO_C}Зноймі{##} в {H_MOR_C}Моравії{##}, не залишивши спадкоємця чоловічої статі. З ним завершилося столітнє панування {H_HOUOFLUX_C}Люксембурзького дому{##} на імператорському престолі; його корони перейшли до зятя, Альбрехта Габсбурга, і так почалося піднесення Габсбургів, які визначатимуть долю Центральної Європи наступні п’ятсот років."
+  },
+  "Sigismund_DisplayName": {
+    "en": "Sigismund of Luxembourg",
+    "uk": "Сигізмунд Люксембурзький"
+  },
+  "Subtitle_Event": {
+    "en": "Historic Event",
+    "uk": "Історична подія"
+  },
+  "Subtitle_Figure": {
+    "en": "Historic Figure",
+    "uk": "Історична постать"
+  },
+  "Subtitle_Place": {
+    "en": "Historic Place or Region",
+    "uk": "Історичне місце чи край"
+  },
+  "Subtitle_Title": {
+    "en": "Historic Title",
+    "uk": "Історичний титул"
+  },
+  "Vysehrad_Description": {
+    "en": "A fortified hill and former royal seat just south of Prague, legendary cradle of the {H_BOH_C}Bohemian{##} state.",
+    "uk": "Укріплений пагорб і колишня королівська резиденція трохи на південь від Праги, легендарна колиска {H_BOH_C}богемської{##} держави."
+  },
+  "Vysehrad_DisplayName": {
+    "en": "Vyšehrad",
+    "uk": "Вишеград"
+  },
+  "Wenceslaus_Description": {
+    "en": "26 February 1361 – 16 August 1419",
+    "uk": "26 лютого 1361 — 16 серпня 1419"
+  },
+  "Wenceslaus_Description_extra1": {
+    "en": "Eldest son of {H_CHA4_C}Emperor Charles IV{##} and brother of {H_SIG_C}Sigismund{##}. Crowned King of {H_BOH_C}Bohemia{##} at the age of two and elected {H_KINOFROM_C}King of the Romans{##} in 1376, until deposed in 1400 for neglecting Imperial duties. His later reign in Bohemia was troubled by conflict with the nobility and the Church, and his death in 1419 opened the way for his brother Sigismund's contested claim.",
+    "uk": "Старший син {H_CHA4_C}імператора Карла IV{##} і брат {H_SIG_C}Сигізмунда{##}. Коронований королем {H_BOH_C}Богемії{##} у дворічному віці, 1376 року обраний {H_KINOFROM_C}королем римлян{##}, а 1400 року скинутий за нехтування імперськими обов’язками. Подальше його правління в Богемії затьмарили чвари зі шляхтою та Церквою, а його смерть 1419 року відкрила шлях спірним претензіям його брата Сигізмунда на престол."
+  },
+  "Wenceslaus_DisplayName": {
+    "en": "Wenceslaus IV of Luxembourg",
+    "uk": "Вацлав IV Люксембурзький"
+  },
+  "Znojmo_Description": {
+    "en": "A royal town in southern {H_MOR_C}Moravia{##} near the Austrian border.",
+    "uk": "Королівське місто на півдні {H_MOR_C}Моравії{##}, неподалік австрійського кордону."
+  },
+  "Znojmo_DisplayName": {
+    "en": "Znojmo",
+    "uk": "Зноймо"
+  }
+}

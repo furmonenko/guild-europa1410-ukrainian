@@ -1,0 +1,138 @@
+{
+  "Backstory_Description": {
+    "en": "What are your origins? What do you carry with you, and what are you here to prove?",
+    "uk": "Звідки Ви родом? Що несете із собою і що прагнете довести?"
+  },
+  "Backstory_Description_extra1": {
+    "en": "The past might pay you a visit, but your choices remain your own.",
+    "uk": "Минуле може нагадати про себе, але вибір завжди лишається за Вами."
+  },
+  "Backstory_DisplayName": {
+    "en": "Dynasty Backstory",
+    "uk": "Історія династії"
+  },
+  "Backstory_DisplayName_alt": {
+    "en": "Backstory",
+    "uk": "Передісторія"
+  },
+  "Backstory_DisplayName_plural": {
+    "en": "Dynasty Backstories",
+    "uk": "Історії династій"
+  },
+  "Backstory_StartingProfession_Warning": {
+    "en": "Your backstory may limit which starting professions are available, as well as other characteristics such as gender, portrait, and name.",
+    "uk": "Передісторія може обмежити вибір початкової професії, а також інших рис: статі, портрета й імені."
+  },
+  "BloodFeud_Description": {
+    "en": "Your dynasty has been at odds with other families for longer than anyone can properly remember. Insults became grudges, grudges became retaliation, and somewhere along the way the feud became tradition. Whatever started it hardly matters now. What matters is making sure your side comes out on top.",
+    "uk": "Ваша династія ворогує з іншими родинами так давно, що ніхто вже толком і не пам’ятає, відколи. Образи переростали в давні кривди, кривди — у помсту, а десь по дорозі ворожнеча стала родинною традицією. З чого все почалося, тепер байдуже. Важливо, щоб гору взяла Ваша сторона."
+  },
+  "BloodFeud_DisplayName": {
+    "en": "House of Old Grudges",
+    "uk": "Дім старих образ"
+  },
+  "BornPerformers_Description": {
+    "en": "Your dynasty has spent generations entertaining crowded taverns, market squares, and anyone willing to stop and listen. Its members know how to hold an audience, read a room, and make strangers feel like old friends. Respectability may come and go, but a good crowd is rarely far away.",
+    "uk": "Ваша династія поколіннями розважала повні шинки, ринкові площі й усіх, хто готовий був зупинитися й послухати. Її члени вміють заволодіти увагою юрби, відчути настрій товариства й обернути чужинців на давніх друзів. Шанованість приходить і минає, а вдячні слухачі завжди десь поруч."
+  },
+  "BornPerformers_DisplayName": {
+    "en": "Free Spirits",
+    "uk": "Вільні душі"
+  },
+  "FallenHouse_Description": {
+    "en": "Your dynasty remembers grander days — fuller coffers, finer company, and a name that carried further than it does now. Much has been lost, but not forgotten. The family still knows how the world of influence works, and perhaps it is only a matter of time before others remember too.",
+    "uk": "Ваша династія пам’ятає кращі часи: повнішу скарбницю, шляхетніше товариство й ім’я, що лунало далі, ніж тепер. Багато втрачено, та не забуто. Родина досі знає, як влаштований світ впливу, — і, можливо, незабаром про неї згадають і інші."
+  },
+  "FallenHouse_DisplayName": {
+    "en": "Fallen House",
+    "uk": "Занепалий дім"
+  },
+  "FamilyCraft_Description": {
+    "en": "For generations, your dynasty has lived by the same trade, its craft passed from parent to child and refined with every hand. The family name is trusted in the workshop, where skill speaks louder than words and results need little persuasion.",
+    "uk": "Поколіннями Ваша династія живе одним ремеслом: майстерність переходить від батьків до дітей і шліфується кожною новою рукою. У майстерні ім’я родини мають за поруку — тут уміння важить більше за слова, а добра робота сама себе хвалить."
+  },
+  "FamilyCraft_DisplayName": {
+    "en": "Family Craft",
+    "uk": "Родинне ремесло"
+  },
+  "GoodChristians_Description": {
+    "en": "Your dynasty has long been known for its devotion and close ties to the Church. Its faith has earned trust in the streets, respect in respectable circles, and a reputation few would question lightly. In a city where everyone has something to hide, being thought virtuous can be remarkably useful.",
+    "uk": "Ваша династія здавна славиться побожністю й тісними зв’язками з Церквою. Віра принесла їй довіру на вулицях, пошану в поважних колах і добре ім’я, яке мало хто наважиться легковажно ставити під сумнів. А в місті, де кожному є що приховати, слава доброчесних буває напрочуд корисною."
+  },
+  "GoodChristians_DisplayName": {
+    "en": "Good Christians",
+    "uk": "Добрі християни"
+  },
+  "HouseOfScholars_Description": {
+    "en": "Books, tutors, and inconvenient questions have always found a place in your dynasty. Its members are encouraged to study what others overlook and ask what others would rather leave unanswered. It has earned the family considerable knowledge — and a reputation for knowing when not to stop digging.",
+    "uk": "Книги, наставники й незручні запитання завжди мали місце у Вашій династії. Її членів заохочують вивчати те, що інші не помічають, і питати про те, про що інші воліли б змовчати. Це принесло родині чимало знань — і славу тих, хто не знає, коли вже годі копати."
+  },
+  "HouseOfScholars_DisplayName": {
+    "en": "House of Scholars",
+    "uk": "Дім учених"
+  },
+  "MarriageStrategists_Description": {
+    "en": "Generations of carefully arranged marriages have connected the dynasty to merchants, officials, clergy, and craftsmen throughout the city.",
+    "uk": "Поколіннями ретельно влаштовувані шлюби поріднили династію з купцями, урядниками, духовенством і ремісниками по всьому місту."
+  },
+  "MarriageStrategists_DisplayName": {
+    "en": "Marriage Strategists",
+    "uk": "Майстри шлюбних союзів"
+  },
+  "MartialTradition_Description": {
+    "en": "For generations, your dynasty has answered calls to war and returned with stories, scars, and a reputation for being difficult to break. Peace may suit them well enough, but discipline and battle-readiness are habits the family has never quite managed to leave behind.",
+    "uk": "Поколіннями Ваша династія відгукувалася на поклик до зброї й поверталася з оповідками, шрамами та славою тих, кого так просто не зламаєш. Мирне життя їм цілком до смаку, але від звички до порядку й бойової готовності родина так і не змогла відвикнути."
+  },
+  "MartialTradition_DisplayName": {
+    "en": "Martial Tradition",
+    "uk": "Бойова традиція"
+  },
+  "NewMoney_Description": {
+    "en": "Your dynasty has no ancient fortune to inherit and no famous name to lean on. What it has, it earned — through work, nerve, and a keen eye for opportunity. The wealth may be new, but its ambitions are not small, and the city's established families are beginning to take notice.",
+    "uk": "Ваша династія не має ні давніх статків у спадок, ні гучного імені, на яке можна спертися. Усе, що в неї є, вона здобула сама — працею, сміливістю й гострим нюхом на нагоду. Багатство, може, й нове, але амбіції аж ніяк не скромні, і старі родини міста вже починають це помічати."
+  },
+  "NewMoney_DisplayName": {
+    "en": "New Money",
+    "uk": "Нові гроші"
+  },
+  "None_Description": {
+    "en": "No past defines you, and no old reputation follows in your wake. Whatever story you leave behind begins here.",
+    "uk": "Вас не визначає минуле, і жодна давня слава не тягнеться слідом. Хай яку історію Ви по собі залишите — вона починається тут."
+  },
+  "None_DisplayName": {
+    "en": "No Backstory",
+    "uk": "Без передісторії"
+  },
+  "OldBlood_Description": {
+    "en": "Your dynasty has long stood among the city's most respected families. Its name still opens doors, commands attention, and carries expectations. Generations of comfort may have softened its descendants, but prestige has a strength of its own.",
+    "uk": "Ваша династія здавна належить до найшанованіших родин міста. Її ім’я досі відчиняє двері, привертає увагу й покладає сподівання. Покоління достатку, може, й розніжили нащадків, але слава має власну силу."
+  },
+  "OldBlood_DisplayName": {
+    "en": "Old Blood",
+    "uk": "Давня кров"
+  },
+  "Opportunists_Description": {
+    "en": "The family has never been particularly noble, religious, or principled. They survived generations by knowing when to change allies.",
+    "uk": "Родина ніколи не вирізнялася ні шляхетністю, ні побожністю, ні принциповістю. Поколіннями вона виживала, бо знала, коли час міняти союзників."
+  },
+  "Opportunists_DisplayName": {
+    "en": "Opportunists",
+    "uk": "Пристосуванці"
+  },
+  "OutlawBlood_Description": {
+    "en": "Your dynasty carries a name respectable company prefers not to mention too loudly. Scandals, accusations, and questionable associations have followed it for years, leaving few illusions about its reputation. But a bad name has its uses — especially among people who know the value of discretion.",
+    "uk": "Ім’я Вашої династії поважне товариство воліє не згадувати надто голосно. Скандали, звинувачення й сумнівні знайомства супроводжують її роками, тож ілюзій щодо її репутації ні в кого не лишилося. Та й погане ім’я має свою користь — особливо серед людей, які знають ціну мовчанню."
+  },
+  "OutlawBlood_DisplayName": {
+    "en": "Outlaw Blood",
+    "uk": "Кров розбійників"
+  },
+  "SurvivorsBlood_Description": {
+    "en": "Your dynasty has outlived plagues, fires, bitter winters, and more than a few funerals meant for someone else. Whatever hardship comes, its members have a stubborn habit of surviving it. Some call it strong blood. Others wonder whether so much survival is really luck at all.",
+    "uk": "Ваша династія пережила пошесті, пожежі, люті зими й чимало похоронів, що готувалися для когось іншого. Хай яке лихо спіткає, її члени вперто виживають. Хтось каже — міцна кров. Інші ж гадають, чи стільки виживання взагалі можна списати на везіння."
+  },
+  "SurvivorsBlood_DisplayName": {
+    "en": "Survivor's Blood",
+    "uk": "Кров тих, хто вижив"
+  }
+}
