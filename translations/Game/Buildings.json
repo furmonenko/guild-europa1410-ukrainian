@@ -245,7 +245,7 @@
   },
   "ExtractionFacility_Quarry_Description": {
     "en": "A rugged site where slate, brick, and granite are extracted for construction and crafting projects.",
-    "uk": "Кам'яниста ділянка, де видобувають сланець, цеглу й граніт для будівництва й ремесел."
+    "uk": "Кам’яниста ділянка, де видобувають сланець, цеглу й граніт для будівництва й ремесел."
   },
   "ExtractionFacility_Quarry_DisplayName": {
     "en": "Quarry",
@@ -509,7 +509,7 @@
   },
   "Guild_SmithsGuild_Description": {
     "en": "Give us fire and iron — we will give you the tools to shape the world.",
-    "uk": "Дайте нам вогонь і залізо — ми дамо вам знаряддя, щоб надати світові форми."
+    "uk": "Дайте нам вогонь і залізо — ми дамо Вам знаряддя, щоб надати світові форми."
   },
   "Guild_SmithsGuild_DisplayName": {
     "en": "Smiths' Guild",
@@ -1277,7 +1277,7 @@
   },
   "PersonalBuilding_Statue_Description": {
     "en": "Nothing says modesty like a giant stone version of yourself.",
-    "uk": "Ніщо не свідчить про скромність краще за велетенську кам'яну статую самого себе."
+    "uk": "Ніщо не свідчить про скромність краще за велетенську кам’яну статую самого себе."
   },
   "PersonalBuilding_Statue_DisplayName": {
     "en": "Statue",
@@ -1489,23 +1489,23 @@
   },
   "PublicBuilding_Prison_DisplayName": {
     "en": "Prison",
-    "uk": "В'язниця"
+    "uk": "В’язниця"
   },
   "PublicBuilding_Prison_DisplayName_plural": {
     "en": "Prisons",
-    "uk": "В'язниці"
+    "uk": "В’язниці"
   },
   "PublicBuilding_Prison_III_DisplayName": {
     "en": "City Prison",
-    "uk": "Міська в'язниця"
+    "uk": "Міська в’язниця"
   },
   "PublicBuilding_Prison_II_DisplayName": {
     "en": "Prison",
-    "uk": "В'язниця"
+    "uk": "В’язниця"
   },
   "PublicBuilding_Prison_I_DisplayName": {
     "en": "Gaol",
-    "uk": "В'язниця"
+    "uk": "В’язниця"
   },
   "PublicBuilding_PublicBathhouse_Description": {
     "en": "TBD",
@@ -1669,7 +1669,7 @@
   },
   "PublicBuilding_Well_II_DisplayName": {
     "en": "Stone Well",
-    "uk": "Кам'яний колодязь"
+    "uk": "Кам’яний колодязь"
   },
   "PublicBuilding_Well_I_DisplayName": {
     "en": "Simple Well",

@@ -25,7 +25,7 @@
   },
   "Video_Display_Resolution_Scale_Description": {
     "en": "3D resolution determines the resolution that objects are rendered in game, but does not affect the main menu. Lower resolutions can significantly increase frame rate.",
-    "uk": "3D-роздільна здатність визначає, з якою роздільною здатністю рендеряться об'єкти в грі, але не впливає на головне меню. Нижчі значення можуть суттєво підвищити частоту кадрів."
+    "uk": "3D-роздільна здатність визначає, з якою роздільною здатністю рендеряться об’єкти в грі, але не впливає на головне меню. Нижчі значення можуть суттєво підвищити частоту кадрів."
   },
   "Speed_Normal": {
     "en": "4 (Normal)",
@@ -201,7 +201,7 @@
   },
   "GuildInputDefaults": {
     "en": "Default Experiences",
-    "uk": "Типові прив'язки"
+    "uk": "Типові налаштування вводу"
   },
   "Audio_DefaultAudioOutputDevice": {
     "en": "Default Output - {0}",
@@ -241,7 +241,7 @@
   },
   "Audio_HeadphoneMode_Description": {
     "en": "Enable binaural audio. Provides 3D audio spatialization, so you can hear the location of sounds more precisely, including above, below, and behind you. Recommended for use with stereo headphones only.",
-    "uk": "Увімкнути бінауральний звук. Забезпечує просторове 3D-звучання, завдяки чому ви точніше чуєте розташування джерел звуку, зокрема зверху, знизу та позаду. Рекомендується використовувати лише зі стереонавушниками."
+    "uk": "Увімкнути бінауральний звук. Забезпечує просторове 3D-звучання, завдяки чому Ви точніше чуєте розташування джерел звуку, зокрема зверху, знизу та позаду. Рекомендується використовувати лише зі стереонавушниками."
   },
   "Audio_HDRAudioMode_Description": {
     "en": "Enable high dynamic range audio. Changes the runtime processing chain to increase the dynamic range of the audio mixdown, appropriate for theater or more cinematic experiences.",
@@ -369,15 +369,15 @@
   },
   "Video_WindowMode_Description": {
     "en": "In Windowed mode you can interact with other windows more easily, and drag the edges of the window to set the size. In Windowed Fullscreen mode you can easily switch between applications. In Fullscreen mode you cannot interact with other windows as easily, but the game will run slightly faster.",
-    "uk": "У режимі вікна ви можете простіше взаємодіяти з іншими вікнами та змінювати розмір вікна, перетягуючи його краї. У режимі без рамки можна легко перемикатися між застосунками. У повноекранному режимі взаємодіяти з іншими вікнами складніше, зате гра працює трохи швидше."
+    "uk": "У режимі вікна Ви можете простіше взаємодіяти з іншими вікнами та змінювати розмір вікна, перетягуючи його краї. У режимі без рамки можна легко перемикатися між застосунками. У повноекранному режимі взаємодіяти з іншими вікнами складніше, зате гра працює трохи швидше."
   },
   "Control_LookStickDeadZone_Description": {
     "en": "Increase or decrease the area surrounding the stick that we ignore input from. Setting this value too low may result in the camera continuing to move even after removing your finger from the stick.",
-    "uk": "Збільшує або зменшує область навколо стіка, в якій вводи ігноруються. Якщо встановити занадто низьке значення, камера може продовжувати рухатися навіть після того, як ви відпустите стік."
+    "uk": "Збільшує або зменшує область навколо стіка, введення з якої ігнорується. Якщо встановити занадто низьке значення, камера може продовжувати рухатися навіть після того, як Ви відпустите стік."
   },
   "Control_MoveStickDeadZone_Description": {
     "en": "Increase or decrease the area surrounding the stick that we ignore input from. Setting this value too low may result in the character continuing to move even after removing your finger from the stick.",
-    "uk": "Збільшує або зменшує область навколо стіка, в якій вводи ігноруються. Якщо встановити занадто низьке значення, персонаж може продовжувати рухатися навіть після того, як ви відпустите стік."
+    "uk": "Збільшує або зменшує область навколо стіка, введення з якої ігнорується. Якщо встановити занадто низьке значення, персонаж може продовжувати рухатися навіть після того, як Ви відпустите стік."
   },
   "Control_InputInfo_Collection_Name": {
     "en": "Interaction Guide",
@@ -545,7 +545,7 @@
   },
   "Video_PostProcessingQuality_Description": {
     "en": "Post Processing effects include Motion Blur, Depth of Field and Bloom. Increasing this setting improves the quality of post process effects, but can reduce performance.",
-    "uk": "Ефекти постобробки включають розмиття руху, глибину різкості та світлове сяйво (Bloom). Збільшення цього параметра покращує якість ефектів постобробки, але може знизити продуктивність."
+    "uk": "Ефекти постобробки охоплюють розмиття руху, глибину різкості та світлове сяйво (Bloom). Збільшення цього параметра покращує якість ефектів постобробки, але може знизити продуктивність."
   },
   "Control_KeyBinding_AssignKey": {
     "en": "Press any key to assign it to the selected action.",
@@ -565,7 +565,7 @@
   },
   "Video_GraphicsQualityPresets_Description": {
     "en": "Quality Preset allows you to adjust multiple video options at once. Try a few options to see what fits your preference and device's performance.",
-    "uk": "Пресет якості дає змогу одночасно налаштувати кілька параметрів відео. Спробуйте різні варіанти, щоб визначити, що найкраще підходить для ваших уподобань і продуктивності пристрою."
+    "uk": "Пресет якості дає змогу одночасно налаштувати кілька параметрів відео. Спробуйте різні варіанти, щоб визначити, що найкраще підходить для Ваших уподобань і продуктивності пристрою."
   },
   "Video_GraphicsQualityPresets_Name": {
     "en": "Quality Presets",
@@ -709,7 +709,7 @@
   },
   "Video_TextureQuality_Description": {
     "en": "Texture quality determines the resolution of textures in game. Increasing this setting will make objects more detailed, but can reduce performance.",
-    "uk": "Якість текстур визначає роздільну здатність текстур у грі. Збільшення цього параметра робить об'єкти детальнішими, але може знизити продуктивність."
+    "uk": "Якість текстур визначає роздільну здатність текстур у грі. Збільшення цього параметра робить об’єкти детальнішими, але може знизити продуктивність."
   },
   "Video_TextureQuality_Name": {
     "en": "Textures",
@@ -733,11 +733,11 @@
   },
   "Control_ControllerHardware_Description": {
     "en": "The type of controller you're using.",
-    "uk": "Тип контролера, яким ви користуєтеся."
+    "uk": "Тип контролера, яким Ви користуєтеся."
   },
   "Video_VerticalSync_FullscreenNeededForVSync": {
     "en": "This feature only works if 'Window Mode' is set to 'Fullscreen'.",
-    "uk": "Ця функція працює лише тоді, коли «Режим вікна» встановлено на «Повноекранний»."
+    "uk": "Ця функція працює лише тоді, коли для параметра «Режим вікна» встановлено значення «Повноекранний»."
   },
   "Control_KeyBinding_TogglePause_Name": {
     "en": "Toggle Pause",
@@ -777,7 +777,7 @@
   },
   "Video_UpscalingMode_UltraPerformance": {
     "en": "Ultra performance",
-    "uk": "Ультра-продуктивність"
+    "uk": "Ультрапродуктивність"
   },
   "Control_KeyBinding_Unbind": {
     "en": "Unbind Keys",
@@ -809,7 +809,7 @@
   },
   "Video_SafeZone_ActionInstructions": {
     "en": "Use <text color=\\\"FFFFFFFF\\\" fontface=\\\"black\\\">{0}</> to adjust the corners so it lines up with the edges of your display.",
-    "uk": "За допомогою <text color=\\\"FFFFFFFF\\\" fontface=\\\"black\\\">{0}</> вирівняйте кути так, щоб вони збігалися з краями вашого екрана."
+    "uk": "За допомогою <text color=\\\"FFFFFFFF\\\" fontface=\\\"black\\\">{0}</> вирівняйте кути так, щоб вони збігалися з краями Вашого екрана."
   },
   "UserInterface_Collection_Name": {
     "en": "User Interface",
@@ -817,11 +817,11 @@
   },
   "ColorBlindMode_Description": {
     "en": "Using the provided images, test out the different color blind modes to find a color correction that works best for you.",
-    "uk": "За допомогою наданих зображень випробуйте різні режими для дальтоніків, щоб знайти корекцію кольору, яка підходить вам найкраще."
+    "uk": "За допомогою наданих зображень випробуйте різні режими для дальтоніків, щоб знайти корекцію кольору, яка підходить Вам найкраще."
   },
   "ColorBlindStrength_Description": {
     "en": "Using the provided images, test out the different strengths to find a color correction that works best for you.",
-    "uk": "За допомогою наданих зображень випробуйте різні рівні сили, щоб знайти корекцію кольору, яка підходить вам найкраще."
+    "uk": "За допомогою наданих зображень випробуйте різні рівні сили, щоб знайти корекцію кольору, яка підходить Вам найкраще."
   },
   "Video_VerticalSync_Name": {
     "en": "Vertical Sync",
@@ -841,7 +841,7 @@
   },
   "Video_ViewDistance_Description": {
     "en": "View distance determines how far away objects remain visible. Lower settings may improve performance.",
-    "uk": "Дальність огляду визначає, на якій відстані об'єкти залишаються видимими. Нижчі значення можуть покращити продуктивність."
+    "uk": "Дальність огляду визначає, на якій відстані об’єкти залишаються видимими. Нижчі значення можуть покращити продуктивність."
   },
   "Audio_Volume_Collection_Name": {
     "en": "Volume",

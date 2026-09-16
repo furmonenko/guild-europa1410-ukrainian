@@ -21,7 +21,7 @@
   },
   "AccidentChance_Effect_QuarterAccidentChance_DisplayName": {
     "en": "Quarter Accident Risk",
-    "uk": "Ризик у кварталі"
+    "uk": "Ризик нещасних випадків"
   },
   "AccidentChance_Effect_WorkLocation_Description": {
     "en": "Within your walls, {B_IMP_OCCBUI_ACCPRO_C}safety measures{##} protect your workers. ",
@@ -161,7 +161,7 @@
   },
   "Employment_Innkeeper_Description": {
     "en": "Serves guests and tends duties within an {B_OCC_INN_C}Inn{##}.",
-    "uk": "Обслуговує гостей і виконує обов'язки в {B_OCC_INN_C}заїзді{##}."
+    "uk": "Обслуговує гостей і виконує обов’язки в {B_OCC_INN_C}заїзді{##}."
   },
   "Employment_Innkeeper_Journeyman_DisplayName": {
     "en": "Innkeeper Journeyman",
@@ -173,7 +173,7 @@
   },
   "Employment_Joiner_Description": {
     "en": "Crafts wooden items, and rebuilds carts in a {B_OCC_JOI_C}Joiner's Workshop{##}.",
-    "uk": "Виготовляє дерев'яні вироби та лагодить вози в {B_OCC_JOI_C}столярні{##}."
+    "uk": "Виготовляє дерев’яні вироби та лагодить вози в {B_OCC_JOI_C}столярні{##}."
   },
   "Employment_Joiner_Journeyman_DisplayName": {
     "en": "Joiner Journeyman",

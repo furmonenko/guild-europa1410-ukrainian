@@ -109,7 +109,7 @@
   },
   "Female_Germanic_Pool008": {
     "en": "Brigitte",
-    "uk": "Бриґітте"
+    "uk": "Бріґітте"
   },
   "Female_Germanic_Pool009": {
     "en": "Clara",
@@ -309,7 +309,7 @@
   },
   "Female_Germanic_Pool058": {
     "en": "Anneliese",
-    "uk": "Аннеліза"
+    "uk": "Аннелізе"
   },
   "Female_Germanic_Pool059": {
     "en": "Wilhelmina",
@@ -1009,7 +1009,7 @@
   },
   "Male_Slavic_Pool013": {
     "en": "Matěj",
-    "uk": "Матєй"
+    "uk": "Матей"
   },
   "Male_Slavic_Pool014": {
     "en": "Milan",
@@ -1037,7 +1037,7 @@
   },
   "Male_Slavic_Pool020": {
     "en": "Zdeněk",
-    "uk": "Зденєк"
+    "uk": "Зденек"
   },
   "Male_Slavic_Pool021": {
     "en": "Jindřich",
@@ -1093,7 +1093,7 @@
   },
   "Male_Slavic_Pool073": {
     "en": "Matěj",
-    "uk": "Матєй"
+    "uk": "Матей"
   },
   "Male_Slavic_Pool074": {
     "en": "Milan",
@@ -1121,7 +1121,7 @@
   },
   "Male_Slavic_Pool080": {
     "en": "Zdeněk",
-    "uk": "Зденєк"
+    "uk": "Зденек"
   },
   "Surname_DutchFlemish_Pool001": {
     "en": "van Aken",
@@ -1349,7 +1349,7 @@
   },
   "Surname_Germanic_Pool017": {
     "en": "Fleischer",
-    "uk": "Фляйшер"
+    "uk": "Флайшер"
   },
   "Surname_Germanic_Pool018": {
     "en": "Forstner",
@@ -1501,7 +1501,7 @@
   },
   "Surname_Germanic_Pool055": {
     "en": "Schilling",
-    "uk": "Шиллінґ"
+    "uk": "Шіллінґ"
   },
   "Surname_Germanic_Pool056": {
     "en": "Schreiber",
@@ -1725,7 +1725,7 @@
   },
   "Surname_Slavic_Pool011": {
     "en": "{Gender}|gender(Král,Králová)",
-    "uk": "{Gender}|gender(Краль,Кралова)"
+    "uk": "{Gender}|gender(Крал,Кралова)"
   },
   "Surname_Slavic_Pool012": {
     "en": "{Gender}|gender(Kyselý,Kyselá)",
@@ -1845,7 +1845,7 @@
   },
   "Surname_Slavic_Pool071": {
     "en": "{Gender}|gender(Král,Králová)",
-    "uk": "{Gender}|gender(Краль,Кралова)"
+    "uk": "{Gender}|gender(Крал,Кралова)"
   },
   "Surname_Slavic_Pool072": {
     "en": "{Gender}|gender(Kyselý,Kyselá)",
@@ -1993,7 +1993,7 @@
   },
   "Surname_Workers_Pool128": {
     "en": "Polter",
-    "uk": "Польтер"
+    "uk": "Полтер"
   },
   "Surname_Workers_Pool129": {
     "en": "Rissig",

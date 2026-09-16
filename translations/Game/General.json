@@ -21,7 +21,7 @@
   },
   "MaintenancePhase_BalancePersonal_Description_extra1": {
     "en": "A negative balance for too long will result in being {ST_CHR_IMP_C}imprisoned{##}.",
-    "uk": "Надто тривалий від'ємний баланс призведе до {ST_CHR_IMP_C}ув'язнення{##}."
+    "uk": "Надто тривалий від’ємний баланс призведе до {ST_CHR_IMP_C}ув’язнення{##}."
   },
   "General_Button_Accept": {
     "en": "Accept",
@@ -49,7 +49,7 @@
   },
   "ComingSoon_Warning_Description_Item": {
     "en": "All items can be traded, but some cannot be used yet. In some cases, their effects may represent only a small part of what we ultimately have planned for them.",
-    "uk": "Усіма товарами можна торгувати, але деякі поки не можна використати. У деяких випадках їхні ефекти відображають лише невелику частину того, що ми зрештою для них запланували."
+    "uk": "Усіма предметами можна торгувати, але деякі з них поки не можна використати. У деяких випадках їхні ефекти відображають лише невелику частину того, що ми зрештою для них запланували."
   },
   "ComingSoon_Warning_Description_Law": {
     "en": "All laws can be changed once you obtain the office position that grants the necessary authority. Some laws, however, are still awaiting the supporting systems that bring them to life, while others may not yet influence the world to their full intended extent.",
@@ -73,7 +73,7 @@
   },
   "VictoryCondition_Wealth_Description": {
     "en": "Amass {value} {CHAR_WEA_C}wealth{##}",
-    "uk": "Накопичте {CHAR_WEA_C}багатство{##} на суму {value}"
+    "uk": "Накопичте {value} {CHAR_WEA_C}статків{##}"
   },
   "EveryTurn_Label_alt": {
     "en": "Annually",
@@ -125,7 +125,7 @@
   },
   "Parameter_Integrity_Description": {
     "en": "Buildings and carts wear down over time. Lost integrity means lost {B_PARAM_VAL_C}value{##}. Since your {CHAR_WEA_C}wealth{##} is measured by what you own, every crack and splinter lowers it.",
-    "uk": "Будівлі та вози зношуються з часом. Втрачена цілісність означає втрачену {B_PARAM_VAL_C}вартість{##}. Оскільки Ваше {CHAR_WEA_C}багатство{##} вимірюється тим, чим Ви володієте, кожна тріщина й скалка його зменшує."
+    "uk": "Будівлі та вози зношуються з часом. Втрачена цілісність означає втрачену {B_PARAM_VAL_C}вартість{##}. Оскільки Ваші {CHAR_WEA_C}статки{##} вимірюються тим, чим Ви володієте, кожна тріщина й скалка їх зменшує."
   },
   "Guildopedia_Buildings_Description": {
     "en": "Buildings each serve a role in the city. Some support {P_C}professions{##}, others serve the public. Most can be upgraded and fitted with improvements.",
@@ -225,7 +225,7 @@
   },
   "PriceModifier_SrorefrontRevenue_DisplayName": {
     "en": "Coin of Appreciation",
-    "uk": "Чайові"
+    "uk": "Монета вдячності"
   },
   "Demo_Multiplayer_DisplayName": {
     "en": "Coming soon!",
@@ -293,7 +293,7 @@
   },
   "MaintenancePhase_CityQuarterReputationEndOfTurn_DisplayName": {
     "en": "Crown Funding",
-    "uk": "Фінансування від Корони"
+    "uk": "Гроші від Корони"
   },
   "Price_BuyingCurrent_Title": {
     "en": "Current Prices to Buy",
@@ -329,7 +329,7 @@
   },
   "VictoryCondition_Renown_Description": {
     "en": "Earn {value} {CHAR_REN_C}renown{##}",
-    "uk": "Здобудьте {CHAR_REN_C}славу{##} на суму {value}"
+    "uk": "Здобудьте {value} {CHAR_REN_C}слави{##}"
   },
   "MaintenancePhase_BusinessesRevenue_Description": {
     "en": "Earnings from selling goods and services, reduced by the cost of materials, improvements, upgrades and repairs.",
@@ -441,7 +441,7 @@
   },
   "HighlightInteractiveObjects_Instruction": {
     "en": "Hold Alt to temporarily highlight all interactive objects.",
-    "uk": "Утримуйте Alt, щоб тимчасово підсвітити всі інтерактивні об'єкти."
+    "uk": "Утримуйте Alt, щоб тимчасово підсвітити всі інтерактивні об’єкти."
   },
   "General_Button_HostGame": {
     "en": "Host Game",
@@ -593,7 +593,7 @@
   },
   "MaintenancePhase_CityQuarterReputationEndOfTurn_Description": {
     "en": "Money granted by the Crown. The higher the city's reputation, the more funding it receives.",
-    "uk": "Кошти, надані Короною. Що вища репутація міста, то більше фінансування воно отримує."
+    "uk": "Гроші, які надає Корона. Що вища репутація міста, то більше воно отримує."
   },
   "GameModeMultiplayer_Label": {
     "en": "Multiplayer",
@@ -633,7 +633,7 @@
   },
   "Parameter_IntegrityMax_Description": {
     "en": "Not all things are built alike. Maximum Integrity determines how much {B_HP_DEC_C}damage{##} a building or cart can endure before it fully deteriorates.",
-    "uk": "Не все збудовано однаково міцно. Максимальна цілісність визначає, скільки {B_HP_DEC_C}пошкоджень{##} витримає будівля чи віз, перш ніж повністю прийде в непридатність."
+    "uk": "Не все збудовано однаково міцно. Максимальна цілісність визначає, скільки {B_HP_DEC_C}зносу{##} витримає будівля чи віз, перш ніж повністю прийде в непридатність."
   },
   "Demo_FullGameRequirement_Warning": {
     "en": "Not available in the demo",
@@ -657,7 +657,7 @@
   },
   "Demo_FullGameRequirement_Description": {
     "en": "Oh, you want that too? Yeah… not in the demo, sadly. You'll find it in the full game.",
-    "uk": "О, і це також хочете? Так… на жаль, недоступно в демо. Це є в повній версії гри."
+    "uk": "О, і це Вам подавай? Так… на жаль, у демо цього немає. Шукайте в повній версії гри."
   },
   "UpcomingEventsScreen_OnTheNextNumberTurns": {
     "en": "On the next {NumTurns} {NumTurns}|plural(one=turn,other=turns)",
@@ -865,7 +865,7 @@
   },
   "MaintenancePhase_PersonnelCosts_Description": {
     "en": "Salaries, hiring fees, and bonuses paid to workers.",
-    "uk": "Зарплати, витрати на найм і премії, виплачені працівникам."
+    "uk": "Платня, витрати на найм і премії, виплачені працівникам."
   },
   "PriceModifier_Skill_Negotiation_DisplayName": {
     "en": "Salesmanship",
@@ -997,7 +997,7 @@
   },
   "ComingSoon_Warning_Description_Activity": {
     "en": "Some activities may not yet produce all of the effects we have planned for them. We're developing additional features and clearer information as these systems continue to grow.",
-    "uk": "Деякі заняття поки не мають усіх ефектів, які ми для них запланували. Ми розробляємо додаткові функції та точнішу інформацію в міру розвитку цих систем."
+    "uk": "Деякі завдання поки не мають усіх ефектів, які ми для них запланували. Ми розробляємо додаткові функції та точнішу інформацію в міру розвитку цих систем."
   },
   "Parameter_IntegrityDecay_Description_extra2": {
     "en": "Some effects can make your buildings and carts more durable — or more fragile. Still, the safest choice is to buy {B_HP_MAX_C}sturdy{##} things to begin with.",
@@ -1049,7 +1049,7 @@
   },
   "Price_Breakdown_Description": {
     "en": "Supply, demand and your {S_NEG_C}negotiation skill{##} push an item's price above or below its base value. Sales from your {B_STOFRO_C}storefront{##} benefit from the building's {B_HP_C}condition{##} and {B_PARAM_ATT_C}customer appeal{##}. Seasons and events can also affect prices.",
-    "uk": "Пропозиція, попит і Ваше {S_NEG_C}уміння вести перемовини{##} підвищують або знижують ціну товару відносно базової вартості. Продажі у Вашій {B_STOFRO_C}крамниці{##} виграють від {B_HP_C}стану{##} будівлі та її {B_PARAM_ATT_C}привабливості для покупців{##}. Пори року та події також можуть впливати на ціни."
+    "uk": "Пропозиція, попит і Ваше {S_NEG_C}вміння торгуватися{##} підвищують або знижують ціну товару відносно базової вартості. Продажі у Вашій {B_STOFRO_C}крамниці{##} виграють від {B_HP_C}цілісності{##} будівлі та її {B_PARAM_ATT_C}привабливості для покупців{##}. Пори року та події також можуть впливати на ціни."
   },
   "Guildopedia_General_Description": {
     "en": "TBD",
@@ -1077,7 +1077,7 @@
   },
   "MaintenancePhase_BalanceCity_Description": {
     "en": "The city's total funds after revenue and expenses.",
-    "uk": "Загальні кошти міста після доходів і витрат."
+    "uk": "Стан міської скарбниці після надходжень і витрат."
   },
   "MaintenancePhase_HouseExpenses_Description": {
     "en": "The cost of keeping the house standing — from fixes to improvements and upgrades.",
@@ -1245,7 +1245,7 @@
   },
   "HUD_Timeline_Description": {
     "en": "Watch the flow of time, track business hours, and prepare for what's to come this turn.",
-    "uk": "Стежте за плином часу, відстежуйте робочі години та готуйтеся до подій цього ходу."
+    "uk": "Стежте за плином часу, звіряйтеся з робочими годинами та готуйтеся до подій цього ходу."
   },
   "VictoryCondition_Challenge_General_CongratulationText": {
     "en": "Well done! You've completed a challenge.",
@@ -1253,7 +1253,7 @@
   },
   "VictoryCondition_Renown_CongratulationText": {
     "en": "Well done! Your dynasty will outlast you. Honor, reputation, the respect of the public... these are harder to build than any fortune, and you built them.",
-    "uk": "Чудова робота! Ваша династія переживе Вас. Честь, репутація, повага людей... здобути їх складніше, ніж будь-яке багатство, а Ви це зробили."
+    "uk": "Чудова робота! Ваша династія переживе Вас. Честь, репутація, повага людей… здобути їх складніше, ніж будь-яке багатство, а Ви це зробили."
   },
   "Demo_MaxTurns_Header": {
     "en": "Well played! You've reached the end of the demo.",
@@ -1281,7 +1281,7 @@
   },
   "GameOver_NoHeir_Description": {
     "en": "With no heir to bear it, your name is buried with you. Time remembers what it chooses. Will it remember you?",
-    "uk": "Без спадкоємця, який продовжив би рід, Ваше ім'я згасне разом із Вами. Час пам'ятає лише те, що сам обирає. Чи запам'ятає він Вас?"
+    "uk": "Без спадкоємця, який продовжив би рід, Ваше ім’я згасне разом із Вами. Час пам’ятає лише те, що сам обирає. Чи запам’ятає він Вас?"
   },
   "MaintenancePhase_PersonnelCosts_DisplayName": {
     "en": "Workforce",
@@ -1297,7 +1297,7 @@
   },
   "Warning_SaveLimit_Message": {
     "en": "You can keep up to {NumManual} {NumManual}|plural(one=manual save,other=manual saves) and {NumAuto} {NumAuto}|plural(one=autosave,other=autosaves) — tracked separately for singleplayer and multiplayer. Once you hit the limit, saving again will overwrite the oldest slot.",
-    "uk": "Ви можете мати щонайбільше {NumManual} {NumManual}|plural(one=ручне збереження,few=ручні збереження,many=ручних збережень,other=ручних збережень) та {NumAuto} {NumAuto}|plural(one=автозбереження,few=автозбереження,many=автозбережень,other=автозбережень) — окремо для одиночної та мережевої гри. Після досягнення ліміту нове збереження перезапише найстаріший слот."
+    "uk": "Ви можете мати щонайбільше {NumManual} {NumManual}|plural(one=ручне збереження,few=ручні збереження,many=ручних збережень,other=ручних збережень) та {NumAuto} {NumAuto}|plural(one=автозбереження,few=автозбереження,many=автозбережень,other=автозбережень) — окремо для одиночної гри та мультиплеєра. Після досягнення ліміту нове збереження перезапише найстаріший слот."
   },
   "Benefits_Office_None": {
     "en": "You currently hold no office position.",
@@ -1389,11 +1389,11 @@
   },
   "MaintenancePhase_Personal_BuyFinishedProducts_DisplayName": {
     "en": "{I_TYP_INVITE_C}Inventory Items{##} (Marketplace)",
-    "uk": "{I_TYP_INVITE_C}Товари з інвентарю{##} (ринок)"
+    "uk": "{I_TYP_INVITE_C}Предмети інвентарю{##} (ринок)"
   },
   "MaintenancePhase_Personal_BuyFinishedProductsStorefront_DisplayName": {
     "en": "{I_TYP_INVITE_C}Inventory Items{##} (Storefront)",
-    "uk": "{I_TYP_INVITE_C}Товари з інвентарю{##} (крамниця)"
+    "uk": "{I_TYP_INVITE_C}Предмети інвентарю{##} (крамниця)"
   },
   "Turn_NumberOfTurnsRemaining": {
     "en": "{NumTurns} remaining",
@@ -1413,7 +1413,7 @@
   },
   "PriceModifier_Skill_Negotiation_Description": {
     "en": "{S_NEG_C}Negotiation{##} can shift prices in your favor — securing discounts when buying or better offers when selling.",
-    "uk": "{S_NEG_C}Уміння перемовин{##} може змінювати ціни на Вашу користь — забезпечувати знижки під час купівлі або вигідніші пропозиції під час продажу."
+    "uk": "{S_NEG_C}Торг{##} може змінювати ціни на Вашу користь — забезпечувати знижки під час купівлі або вигідніші пропозиції під час продажу."
   },
   "UpcomingEventsScreen_Wedding": {
     "en": "{bride} and {groom}",
@@ -1433,7 +1433,7 @@
   },
   "UpcomingEventsScreen_Elections_Appointer": {
     "en": "{officeposition} (Appointing Official)",
-    "uk": "{officeposition} (посадовець, що призначає)"
+    "uk": "{officeposition} (урядник, що призначає)"
   },
   "UpcomingEventsScreen_Elections_Candiate": {
     "en": "{officeposition} (Candidate)",

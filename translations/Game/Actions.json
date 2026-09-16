@@ -197,7 +197,7 @@
   },
   "BanditContract02_Description": {
     "en": "Present yourself before the Robber Baron and request a dependable crew from their ranks. With respectable coin and reliable steel set forth, you will be granted a {I_ROBCON_02_C}contract{##} binding seasoned outlaws to your cause.",
-    "uk": "З'явіться перед розбійним бароном і попросіть надійний загін з його лав. Виклавши пристойну суму й надійну сталь, Ви отримаєте {I_ROBCON_02_C}контракт{##}, що прив'яже до Вашої справи бувалих розбійників."
+    "uk": "З’явіться перед розбійним бароном і попросіть надійний загін з його лав. Виклавши пристойну суму й надійну сталь, Ви отримаєте {I_ROBCON_02_C}контракт{##}, що прив’яже до Вашої справи бувалих розбійників."
   },
   "BanditContract02_Description_extra1": {
     "en": "They know their trade and move with purpose, well suited to {A_ATKCAR_C}attack{##} most carts and handle {A_HIRESC_C}moderate resistance{##} without hesitation.",
@@ -241,7 +241,7 @@
   },
   "BlackenSomeonesName_DisplayName": {
     "en": "Blacken Someone's Name",
-    "uk": "Зганьбити чиєсь ім'я"
+    "uk": "Зганьбити чиєсь ім’я"
   },
   "Blackmail_Money_Description": {
     "en": "Use {CR_EVI_C}evidence{##} to demand payment in exchange for silence. {CR_EVISTR_C}Greater proof{##} demands greater payment.",
@@ -261,7 +261,7 @@
   },
   "Blackmail_Standing_Description": {
     "en": "{CR_EVI_C}Leverage{##} ensures their agreement in all matters — for now. They stand with you, bound by circumstance rather than belief.",
-    "uk": "{CR_EVI_C}Докази{##} забезпечують їхню згоду в усіх справах — наразі. Вони на Вашому боці, зв'язані обставинами, а не переконаннями."
+    "uk": "{CR_EVI_C}Докази{##} забезпечують їхню згоду в усіх справах — наразі. Вони на Вашому боці, зв’язані обставинами, а не переконаннями."
   },
   "Blackmail_Standing_DisplayName": {
     "en": "Blackmail for Allegiance",
@@ -441,11 +441,11 @@
   },
   "Courting_Description_extra1": {
     "en": "A partner with a {TR_STRBLO_C}strong{##} or {TR_EXCBLO_C}exceptional bloodline{##} is more likely to produce {S_C}skilled{##} {CHAR_HEI_C}heirs{##}, while a {CHAR_HP_C}healthier{##} one will prove more {CHAR_FER_C}fertile{##}.",
-    "uk": "Партнер із {TR_STRBLO_C}міцною{##} чи {TR_EXCBLO_C}винятковою кров'ю{##} радше подарує {S_C}вправних{##} {CHAR_HEI_C}спадкоємців{##}, а {CHAR_HP_C}здоровіший{##} виявиться більш {CHAR_FER_C}плідним{##}."
+    "uk": "Партнер із {TR_STRBLO_C}міцною{##} чи {TR_EXCBLO_C}винятковою кров’ю{##} радше подарує {S_C}вправних{##} {CHAR_HEI_C}спадкоємців{##}, а {CHAR_HP_C}здоровіший{##} виявиться більш {CHAR_FER_C}плідним{##}."
   },
   "Courting_Description_extra2": {
     "en": "Wooing someone who {CHAR_STA_C}thinks little of you{##} is harder — but not impossible. And remember: courting is a race. The best candidates rarely have only one suitor.",
-    "uk": "Залицятися до того, хто {CHAR_STA_C}не надто прихильний{##} до Вас, важче — та не неможливо. І пам'ятайте: залицяння — це перегони. У найкращих кандидатів рідко буває лише один залицяльник."
+    "uk": "Залицятися до того, хто {CHAR_STA_C}не надто прихильний{##} до Вас, важче — та не неможливо. І пам’ятайте: залицяння — це перегони. У найкращих кандидатів рідко буває лише один залицяльник."
   },
   "Courting_DisplayName": {
     "en": "Court",
@@ -1021,7 +1021,7 @@
   },
   "HireManager_Family_Description_extra1": {
     "en": "It's a fine way to prepare the next generation for the day you're... no longer available for consultation.",
-    "uk": "Це чудовий спосіб підготувати наступне покоління до дня, коли Ви... вже не зможете дати пораду."
+    "uk": "Це чудовий спосіб підготувати наступне покоління до дня, коли Ви… вже не зможете дати пораду."
   },
   "HireManager_Family_Description_extra2": {
     "en": "They'll learn the trade, handle the day-to-day business, and keep things running automatically while you put your feet up and collect the profits. Everyone wins.",
@@ -1137,7 +1137,7 @@
   },
   "ImproveSkill_DisplayName": {
     "en": "Improve Skill",
-    "uk": "Поліпшити навичку"
+    "uk": "Покращити навичку"
   },
   "ImproveSkill_Handicraft_Button": {
     "en": "Improve Handicraft",
@@ -1697,7 +1697,7 @@
   },
   "ResignDynasty_Description_extra1": {
     "en": "Gameplay continues with your {CHAR_HEI_C}heir{##} as the active character. No heir means game over.",
-    "uk": "Гра продовжиться з вашим {CHAR_HEI_C}спадкоємцем{##} як активним персонажем. Відсутність спадкоємця означає кінець гри."
+    "uk": "Гра продовжиться з Вашим {CHAR_HEI_C}спадкоємцем{##} як активним персонажем. Відсутність спадкоємця означає кінець гри."
   },
   "ResignDynasty_DisplayName": {
     "en": "Pass the Mantle",
@@ -1885,7 +1885,7 @@
   },
   "SewClothes_Description": {
     "en": "Send your workers to someone's home to take their measurements and craft a personalized style. \n\nWith skilled {S_HAN_C}handicraft{##}, that touch of refinement can lift their {CHAR_STA_C}reputation{##} in the eyes of the town.",
-    "uk": "Відправте своїх працівників до чиєгось дому зняти мірки й пошити персональне вбрання.\n\nЗ вправним {S_HAN_C}ремеслом{##} такий вишуканий штрих може підняти {CHAR_STA_C}прихильність{##} міста до цієї людини."
+    "uk": "Відправте своїх працівників до чиєгось дому зняти мірки й пошити вбрання на замовлення.\n\nЗ вправним {S_HAN_C}ремеслом{##} такий вишуканий штрих може підняти {CHAR_STA_C}прихильність{##} міста до цієї людини."
   },
   "SewClothes_DisplayName": {
     "en": "Refine Their Attire",
@@ -1957,7 +1957,7 @@
   },
   "SignUpForGuardService_Description": {
     "en": "A dangerous guard duty, brief but {CHAR_ENE_C}demanding{##}.\nPay scales with {S_COM_C}martial{##} skill, and reducing {QUA_CRI_C}crime{##} may earn you {CHAR_STA_C}favor{##} among the {O_CHA_TOWBAI_C}Town Bailiffs{##}.",
-    "uk": "Небезпечна варта, коротка, але {CHAR_ENE_C}виснажлива{##}.\nПлатня залежить від {S_COM_C}бойових навичок{##}, а зниження {QUA_CRI_C}злочинності{##} може здобути вам {CHAR_STA_C}прихильність{##} серед {O_CHA_TOWBAI_C}міських бейліфів{##}."
+    "uk": "Небезпечна варта, коротка, але {CHAR_ENE_C}виснажлива{##}.\nПлатня залежить від {S_COM_C}бойових навичок{##}, а зниження {QUA_CRI_C}злочинності{##} може здобути Вам {CHAR_STA_C}прихильність{##} серед {O_CHA_TOWBAI_C}міських приставів{##}."
   },
   "SignUpForGuardService_DisplayName": {
     "en": "Sign Up for Guard Service",
@@ -1965,7 +1965,7 @@
   },
   "SitAtRegularsTable_Description": {
     "en": "A seat among the regulars buys more than company — it buys the kind of information only ale can loosen. Stay long enough and someone will spill more than their drink.",
-    "uk": "Місце за столом завсідників купує більше, ніж компанію, — воно купує ті відомості, які розв’язує лише пиво. Затримайтеся достатньо довго, і хтось видасть більше, ніж прольє з кухля."
+    "uk": "Місце за столом завсідників купує більше, ніж товариство, — воно купує ті відомості, які розв’язує лише пиво. Затримайтеся достатньо довго, і хтось видасть більше, ніж прольє з кухля."
   },
   "SitAtRegularsTable_DisplayName": {
     "en": "Join the Regulars' Table",
