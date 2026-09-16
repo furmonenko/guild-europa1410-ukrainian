@@ -37,7 +37,7 @@
   },
   "CombatEquipment_Armor_LeatherArmor_Description": {
     "en": "Light, quiet, and built for those who strike first.",
-    "uk": "Легкий, безшумний і створений для тих, хто б'є першим."
+    "uk": "Легкий, безшумний і створений для тих, хто б’є першим."
   },
   "CombatEquipment_Armor_LeatherArmor_DisplayName": {
     "en": "Leather Armor",
@@ -85,7 +85,7 @@
   },
   "CombatEquipment_Weapon_Crossbow_Description": {
     "en": "Power locked and loaded — takes time to ready, but hits hard with a steady hand.",
-    "uk": "Сила напоготові — потребує часу на підготовку, але б'є нещадно за твердої руки."
+    "uk": "Сила напоготові — потребує часу на підготовку, але б’є нещадно за твердої руки."
   },
   "CombatEquipment_Weapon_Crossbow_DisplayName": {
     "en": "Crossbow",
@@ -169,7 +169,7 @@
   },
   "IntermediateProduct_Ectoplasm_Description": {
     "en": "A viscous substance from spirits, feared as much as it is revered.",
-    "uk": "В'язка субстанція, яку лишають по собі духи: її бояться не менше, ніж шанують."
+    "uk": "В’язка субстанція, яку лишають по собі духи: її бояться не менше, ніж шанують."
   },
   "IntermediateProduct_Ectoplasm_DisplayName": {
     "en": "Ectoplasm",
@@ -213,7 +213,7 @@
   },
   "IntermediateProduct_JoiningMaterial_DisplayName": {
     "en": "Joining Material",
-    "uk": "З'єднувальний матеріал"
+    "uk": "З’єднувальний матеріал"
   },
   "IntermediateProduct_Leather_Description": {
     "en": "A skin that outlives its owner. Yesterday's beast, tomorrow's fashion statement.",
@@ -233,7 +233,7 @@
   },
   "IntermediateProduct_Paper_Description": {
     "en": "Just paper... nothing to write home about.",
-    "uk": "Просто папір... і написати про нього нічого."
+    "uk": "Просто папір… і написати про нього нічого."
   },
   "IntermediateProduct_Paper_DisplayName": {
     "en": "Paper",
@@ -265,11 +265,11 @@
   },
   "IntermediateProduct_WoodenSpigots_Description": {
     "en": "They are like nails. But wooden.",
-    "uk": "Вони як цвяхи. Тільки дерев'яні."
+    "uk": "Вони як цвяхи. Тільки дерев’яні."
   },
   "IntermediateProduct_WoodenSpigots_DisplayName": {
     "en": "Wooden Nails",
-    "uk": "Дерев'яні цвяхи"
+    "uk": "Дерев’яні цвяхи"
   },
   "InventoryItem_BanditContract01_Description": {
     "en": "A few of the Baron's roughest blades. Cheap, loud, and dangerous enough for easy prey.",
@@ -381,7 +381,7 @@
   },
   "InventoryItem_DArtagnansScent_DisplayName": {
     "en": "D'Artagnan's Scent",
-    "uk": "Аромат Д'Артаньяна"
+    "uk": "Аромат Д’Артаньяна"
   },
   "InventoryItem_DecorativeBust_Description": {
     "en": "Reminds everyone who they work for.",
@@ -401,11 +401,11 @@
   },
   "InventoryItem_DrunkardBrewBeer_Description": {
     "en": "You'll reek of booze, mumbling like a drunken wretch. Even vultures will keep their distance.",
-    "uk": "Ви смердітимете спиртним і мурмотітимете, як п'яний нещасник. Навіть стерв'ятники триматимуться подалі."
+    "uk": "Ви смердітимете спиртним і мурмотітимете, як п’яний нещасник. Навіть стерв’ятники триматимуться подалі."
   },
   "InventoryItem_DrunkardBrewBeer_DisplayName": {
     "en": "Drunkard Brew Beer",
-    "uk": "Пиво «П'яничне варево»"
+    "uk": "Пиво «П’яничне варево»"
   },
   "InventoryItem_EnduranceDrink_Description": {
     "en": "A strange, bubbling brew that tingles on the tongue, leaving you feeling strangely alert.",
@@ -493,7 +493,7 @@
   },
   "InventoryItem_HerbalLiqueur_DisplayName": {
     "en": "Herbal Liqueur",
-    "uk": "Трав'яний лікер"
+    "uk": "Трав’яний лікер"
   },
   "InventoryItem_HolyRelic_Description": {
     "en": "A plank from Noah's Ark, a stone from Golgotha, Lazarus' shroud, or a fragment of Moses' tablets.",
@@ -525,7 +525,7 @@
   },
   "InventoryItem_LeatherDoublet_Description": {
     "en": "Tailored for those who seek style but are wary of the dangers lurking in the city's streets.",
-    "uk": "Пошитий для тих, хто цінує стиль, але пам'ятає про небезпеки міських вулиць."
+    "uk": "Пошитий для тих, хто цінує стиль, але пам’ятає про небезпеки міських вулиць."
   },
   "InventoryItem_LeatherDoublet_DisplayName": {
     "en": "Leather Doublet",
@@ -557,7 +557,7 @@
   },
   "InventoryItem_LuxuryFood_Description": {
     "en": "Slow-cooked tender cuts of meat, their juices mingling with fragrant herbs and velvety sauces.",
-    "uk": "Ніжне м'ясо повільного тушкування, чиї соки змішуються з ароматними травами й оксамитовими соусами."
+    "uk": "Ніжне м’ясо повільного тушкування, чиї соки змішуються з ароматними травами й оксамитовими соусами."
   },
   "InventoryItem_LuxuryFood_DisplayName": {
     "en": "Heroes' Feast",
@@ -565,7 +565,7 @@
   },
   "InventoryItem_MagicHat_Description": {
     "en": "The oddest things can happen to the wearer of a magic hat...",
-    "uk": "Найдивовижніші речі можуть трапитися з тим, хто носить чарівний капелюх..."
+    "uk": "Найдивовижніші речі можуть трапитися з тим, хто носить чарівний капелюх…"
   },
   "InventoryItem_MagicHat_DisplayName": {
     "en": "Magic Hat",
@@ -725,7 +725,7 @@
   },
   "InventoryItem_SkullCandle_Description": {
     "en": "A candle of eerie flame, burning itself — and half your misdeeds — from official records and witnesses' memory.",
-    "uk": "Свічка з моторошним полум'ям, що спалює саму себе — а разом і половину Ваших прогріхів — з офіційних записів і пам'яті свідків."
+    "uk": "Свічка з моторошним полум’ям, що спалює саму себе — а разом і половину Ваших прогріхів — з офіційних записів і пам’яті свідків."
   },
   "InventoryItem_SkullCandle_DisplayName": {
     "en": "Skull Candle",
@@ -809,11 +809,11 @@
   },
   "InventoryItem_StoneChest_DisplayName": {
     "en": "Stone Chest",
-    "uk": "Кам'яна скриня"
+    "uk": "Кам’яна скриня"
   },
   "InventoryItem_StrongBeer_Description": {
     "en": "Offered with a smile to hide its true intent, this potent ale turns a “friend” into a stumbling fool with dulled reflexes.",
-    "uk": "Піднесене з усмішкою, щоб приховати справжній намір, це міцне пиво перетворює «друга» на п'яного дурня з притупленими рефлексами."
+    "uk": "Піднесене з усмішкою, щоб приховати справжній намір, це міцне пиво перетворює «друга» на п’яного дурня з притупленими рефлексами."
   },
   "InventoryItem_StrongBeer_DisplayName": {
     "en": "Strong Beer",
@@ -821,7 +821,7 @@
   },
   "InventoryItem_TiradeOfHatred_Description": {
     "en": "Sign this distasteful letter with someone else's name, and watch as it sets the stage for mistrust and betrayal among them.",
-    "uk": "Підпишіть цей огидний лист чужим ім'ям — і подивіться, як він сіє недовіру й зраду між ними."
+    "uk": "Підпишіть цей огидний лист чужим ім’ям — і подивіться, як він сіє недовіру й зраду між ними."
   },
   "InventoryItem_TiradeOfHatred_DisplayName": {
     "en": "Tirade of Hatred",
@@ -833,7 +833,7 @@
   },
   "InventoryItem_ToadSlime_DisplayName": {
     "en": "Toad Slime",
-    "uk": "Жаб'яча слизь"
+    "uk": "Жаб’яча слизь"
   },
   "InventoryItem_ToySword_Description": {
     "en": "A child's first step toward knighthood.",
@@ -845,7 +845,7 @@
   },
   "InventoryItem_Tunic_Description": {
     "en": "Worn close to the skin, it absorbs the impact of what's to come.",
-    "uk": "Носиться близько до тіла й пом'якшує удари, що чекають попереду."
+    "uk": "Носиться близько до тіла й пом’якшує удари, що чекають попереду."
   },
   "InventoryItem_Tunic_DisplayName": {
     "en": "Tunic",
@@ -877,7 +877,7 @@
   },
   "InventoryItem_WeakBeer_Description": {
     "en": "A brew so mild, you'll hardly notice... until you're ordering a second round.",
-    "uk": "Такий м'який напій, що його майже не відчуваєш... поки не замовиш другу порцію."
+    "uk": "Такий м’який напій, що його майже не відчуваєш… поки не замовиш другу порцію."
   },
   "InventoryItem_WeakBeer_DisplayName": {
     "en": "Weak Beer",
@@ -1025,7 +1025,7 @@
   },
   "Potion_FumeOfForgetfulness_Description": {
     "en": "One whiff and skill itself begins to wither, as if the body forgets what it once knew.",
-    "uk": "Один подих — і самі навички починають в'янути, наче тіло забуває те, що колись уміло."
+    "uk": "Один подих — і самі навички починають в’янути, наче тіло забуває те, що колись уміло."
   },
   "Potion_FumeOfForgetfulness_DisplayName": {
     "en": "Fume of Forgetfulness",
@@ -1049,7 +1049,7 @@
   },
   "Potion_PerfumeOfRomance_Description": {
     "en": "Fragrant, intoxicating — hearts warm, reason chills. Few resist, fewer should.",
-    "uk": "Пахуче, п'янке — серця палають, розум холоне. Мало хто встоїть, і не варто."
+    "uk": "Пахуче, п’янке — серця палають, розум холоне. Мало хто встоїть, і не варто."
   },
   "Potion_PerfumeOfRomance_DisplayName": {
     "en": "Perfume of Romance",
@@ -1065,7 +1065,7 @@
   },
   "Potion_PoisonOfAnxiety_Description": {
     "en": "It crawls under the skin, draining vigor and binding the victim tighter than chains.",
-    "uk": "Воно повзе під шкірою, виснажуючи сили й зв'язуючи жертву міцніше за кайдани."
+    "uk": "Воно повзе під шкірою, виснажуючи сили й зв’язуючи жертву міцніше за кайдани."
   },
   "Potion_PoisonOfAnxiety_DisplayName": {
     "en": "Poison of Anxiety",
@@ -1197,7 +1197,7 @@
   },
   "RawMaterial_Hare_Description": {
     "en": "Swift forest creature valued for both meat and fur.",
-    "uk": "Прудка лісова тваринка, цінна і м'ясом, і хутром."
+    "uk": "Прудка лісова тваринка, цінна і м’ясом, і хутром."
   },
   "RawMaterial_Hare_DisplayName": {
     "en": "Hare",
@@ -1337,7 +1337,7 @@
   },
   "RawMaterial_ToadsEyes_DisplayName": {
     "en": "Toad's Eyes",
-    "uk": "Жаб'ячі очі"
+    "uk": "Жаб’ячі очі"
   },
   "RawMaterial_VegetableDye_Description": {
     "en": "Natural coloring extracted from plants and roots.",

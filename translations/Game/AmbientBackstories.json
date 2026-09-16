@@ -69,7 +69,7 @@
   },
   "Alchemist_018": {
     "en": "Claims to Have Made Gold",
-    "uk": "Хвалиться, що вмів робити золото"
+    "uk": "Хвалиться, що колись зробив золото"
   },
   "Alchemist_019": {
     "en": "Never Reveals the Recipe",
@@ -153,7 +153,7 @@
   },
   "Blacksmith_017": {
     "en": "Once Ruined a Nobleman's Sword",
-    "uk": "Якось зіпсував меч шляхтичеві"
+    "uk": "Якось зіпсував меч дворянинові"
   },
   "Blacksmith_018": {
     "en": "Claims to Know the Best Ore",
@@ -309,7 +309,7 @@
   },
   "Entertainer_011": {
     "en": "Better on Stage than Off",
-    "uk": "На сцені приємніше, ніж у житті"
+    "uk": "На сцені кращий, ніж у житті"
   },
   "Entertainer_012": {
     "en": "Famous in Three Taverns",
@@ -981,7 +981,7 @@
   },
   "Perfumer_017": {
     "en": "Supplies Wealthy Clients",
-    "uk": "Постачає заможним клієнтам"
+    "uk": "Постачає заможним покупцям"
   },
   "Perfumer_018": {
     "en": "Knows What Nobles Wear",
@@ -1257,7 +1257,7 @@
   },
   "QuarryWorker_009": {
     "en": "Has Survived a Rockfall",
-    "uk": "Пережив камнепад"
+    "uk": "Пережив каменепад"
   },
   "QuarryWorker_010": {
     "en": "Always Watching for Loose Stone",
@@ -1269,7 +1269,7 @@
   },
   "QuarryWorker_012": {
     "en": "Former Mason",
-    "uk": "Колишній муляр"
+    "uk": "Колишній каменяр"
   },
   "QuarryWorker_013": {
     "en": "Knows Every Kind of Stone",
@@ -1357,7 +1357,7 @@
   },
   "StoneMason_002": {
     "en": "Raised in the Mason's Yard",
-    "uk": "Виріс на мулярському дворі"
+    "uk": "Виріс на каменярському дворі"
   },
   "StoneMason_003": {
     "en": "Knows Good Stone at a Glance",
@@ -1405,11 +1405,11 @@
   },
   "StoneMason_014": {
     "en": "Former Quarry Worker",
-    "uk": "Колишній каменотес"
+    "uk": "Колишній робітник кар’єру"
   },
   "StoneMason_015": {
     "en": "Trained under a Master Mason",
-    "uk": "Навчався в майстра-муляра"
+    "uk": "Навчався в майстра-каменяра"
   },
   "StoneMason_016": {
     "en": "Has Built Half the Quarter",
@@ -1441,7 +1441,7 @@
   },
   "Tailor_007": {
     "en": "Works for Wealthy Clients",
-    "uk": "Працює на заможних клієнтів"
+    "uk": "Шиє для заможних замовників"
   },
   "Tailor_008": {
     "en": "Specializes in Fine Garments",
@@ -1489,7 +1489,7 @@
   },
   "Thief_003": {
     "en": "Housebreaker",
-    "uk": "Нічний злодій"
+    "uk": "Вламується до осель"
   },
   "Thief_004": {
     "en": "Purse Snatcher",
@@ -1653,7 +1653,7 @@
   },
   "Trader_012": {
     "en": "Sells at a Profit",
-    "uk": "Продає з зиском"
+    "uk": "Продає зі зиском"
   },
   "Trader_013": {
     "en": "Knows the Trade Routes",

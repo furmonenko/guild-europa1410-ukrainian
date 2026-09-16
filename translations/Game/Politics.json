@@ -89,7 +89,7 @@
   },
   "CivicOffice_Informants_DisplayName": {
     "en": "Informants",
-    "uk": "Донощики"
+    "uk": "Інформатори"
   },
   "CivicOffice_Informants_Informer_Description": {
     "en": "TBD",
@@ -109,7 +109,7 @@
   },
   "CivicOffice_LowRankingOfficials_Description": {
     "en": "Handle the lowest tiers of political authority, occupying ranks {icon_01} to {icon_03}.\nThey are {O_CHA_TOWSER_C}Town Servants{##}, {O_CHA_TOWBAI_C}Town Bailiffs{##}, and {O_CHA_INF_C}Informants{##}.",
-    "uk": "Обіймають найнижчі щаблі політичної влади, ранги {icon_01}–{icon_03}.\nЦе {O_CHA_TOWSER_C}міські служителі{##}, {O_CHA_TOWBAI_C}міські бейліфи{##} та {O_CHA_INF_C}донощики{##}."
+    "uk": "Обіймають найнижчі щаблі політичної влади, ранги {icon_01}–{icon_03}.\nЦе {O_CHA_TOWSER_C}міські служителі{##}, {O_CHA_TOWBAI_C}міські пристави{##} та {O_CHA_INF_C}інформатори{##}."
   },
   "CivicOffice_LowRankingOfficials_DisplayName": {
     "en": "Low-Ranking Officials",
@@ -197,7 +197,7 @@
   },
   "CivicOffice_TownBailiffs_DisplayName": {
     "en": "Town Bailiffs",
-    "uk": "Міські бейліфи"
+    "uk": "Міські пристави"
   },
   "CivicOffice_TownBailiffs_FencingMaster_Description": {
     "en": "TBD",
@@ -513,7 +513,7 @@
   },
   "EmpireAuthority_DisplayName": {
     "en": "Empire Authority",
-    "uk": "Влада Імперії"
+    "uk": "Імперська влада"
   },
   "EmpireAuthority_Emperor_Description": {
     "en": "TBD",
@@ -797,7 +797,7 @@
   },
   "Law_IncomeLevel_Description": {
     "en": "Sets the salaries of all public officials. A convenient combination of civic duty and personal interest.",
-    "uk": "Встановлює платню всім урядникам. Зручне поєднання громадянського обов'язку й особистої вигоди."
+    "uk": "Встановлює платню всім урядникам. Зручне поєднання громадянського обов’язку й особистої вигоди."
   },
   "Law_IncomeLevel_DisplayName": {
     "en": "Income Level",
@@ -845,11 +845,11 @@
   },
   "Law_MandatoryGuildMembership_Description": {
     "en": "Determines whether practicing certain professions requires compulsory guild membership.",
-    "uk": "Визначає, чи вимагає заняття певними професіями обов'язкового членства в гільдії."
+    "uk": "Визначає, чи вимагає заняття певними професіями обов’язкового членства в гільдії."
   },
   "Law_MandatoryGuildMembership_DisplayName": {
     "en": "Mandatory Guild Membership",
-    "uk": "Обов'язкове членство в гільдії"
+    "uk": "Обов’язкове членство в гільдії"
   },
   "Law_Necromancy_Description": {
     "en": "Regulates the practice of necromancy, including the raising of the dead or communicating with spirits.",
@@ -1009,7 +1009,7 @@
   },
   "Law_UseOfPerfume_Description": {
     "en": "Perfumes, often associated with vanity and moral decay, may be banned for personal use.",
-    "uk": "Парфуми, часто пов'язані з марнославством і моральним занепадом, можуть бути заборонені для особистого вжитку."
+    "uk": "Парфуми, часто пов’язані з марнославством і моральним занепадом, можуть бути заборонені для особистого вжитку."
   },
   "Law_UseOfPerfume_DisplayName": {
     "en": "Use of Perfumes",

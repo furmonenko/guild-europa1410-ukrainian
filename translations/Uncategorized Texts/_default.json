@@ -1,7 +1,7 @@
 {
   "33B997714A2746970BFCAD85EF585D24": {
     "en": "(W.I.P.) Elections",
-    "uk": "(В розробці) Вибори"
+    "uk": "(У розробці) Вибори"
   },
   "0691BB6D47702F278F75C4A5803C7105": {
     "en": "A Cursed Life",
@@ -101,11 +101,11 @@
   },
   "FD471F6246C6AECE56C1369B306C3650": {
     "en": "Bone Spa",
-    "uk": "Кістяний спа"
+    "uk": "Кістяне спа"
   },
   "94DFF99E43C023F398CEBEB741CA539B": {
     "en": "Bourgeois Homestead",
-    "uk": "Буржуазна садиба"
+    "uk": "Міщанська садиба"
   },
   "1A663D244FD75EEFFF942E98D28CF2D5": {
     "en": "Božena",
@@ -145,7 +145,7 @@
   },
   "10B523B64E23DECBA6E42AB814A7419A": {
     "en": "Carts can be bought or sold at Marketplace. Joiners can improve carts to avoid deterioration.",
-    "uk": "Вози можна купити або продати на ринку. Столярі можуть покращувати вози, щоб запобігти їхньому зношенню."
+    "uk": "Вози можна купити або продати на ринку. Столярі можуть поліпшувати вози, щоб запобігти їхньому зношенню."
   },
   "215D335F40FF8497DD262BBFDFDBF379": {
     "en": "Castle",
@@ -529,7 +529,7 @@
   },
   "00E9BD624BEBCAF730262FB09DE51D90": {
     "en": "Gain master grade",
-    "uk": "Отримати звання майстра"
+    "uk": "Отримати ступінь майстерності"
   },
   "33FD34384184E98DE28091BECAACCCC6": {
     "en": "Game Rules",
@@ -573,7 +573,7 @@
   },
   "AEB50ABE4AEE3FC0BD5B2EB96D5955CE": {
     "en": "Good Wood Construction",
-    "uk": "Добротна дерев'яна конструкція"
+    "uk": "Добротна дерев’яна конструкція"
   },
   "EE1F3FEC4EAE6C8F70E1C6BBB546A763": {
     "en": "Grass",
@@ -881,7 +881,7 @@
   },
   "50C14DC34B09C65E86C1A792F7A5D678": {
     "en": "Name: ",
-    "uk": "Ім'я: "
+    "uk": "Ім’я: "
   },
   "12F9A88245BC283C6F650CACD08E4913": {
     "en": "Natálie",
@@ -1029,7 +1029,7 @@
   },
   "439F0F2E432705FAEAE8159F6F1B0A2D": {
     "en": "Prison",
-    "uk": "В'язниця"
+    "uk": "В’язниця"
   },
   "C31CDED74C76225317252FA19B0CFB69": {
     "en": "Productivity",
@@ -1141,7 +1141,7 @@
   },
   "175CFA164F03A7B1E411CC95EEFAD526": {
     "en": "Select profession",
-    "uk": "Оберіть професію"
+    "uk": "Виберіть професію"
   },
   "ACF1E8C342F59014FA9BA6B70809C96A": {
     "en": "Select profession\r\nfrom list of available",
@@ -1149,7 +1149,7 @@
   },
   "53A4534844AF72B9A9E1CFB7E0702447": {
     "en": "Select skill to improve by one point",
-    "uk": "Оберіть навичку, яку покращити на один пункт"
+    "uk": "Виберіть навичку, яку покращити на один пункт"
   },
   "9BE404CD4FB4338790EE3091272D183E": {
     "en": "Serfs' Home",
@@ -1261,11 +1261,11 @@
   },
   "93C4097744F2CF0D5A5FB3AD4DE996E9": {
     "en": "The 5 Apostles",
-    "uk": "П'ять апостолів"
+    "uk": "П’ять апостолів"
   },
   "A4DC3B484295E9B6128A43950A9950F6": {
     "en": "The Bed of Straw",
-    "uk": "Солом'яне ложе"
+    "uk": "Солом’яне ложе"
   },
   "C7C6C03E435737CBB16195A101761898": {
     "en": "The Creaking Gates",
@@ -1325,7 +1325,7 @@
   },
   "530249E843201EBCEFCB06B85A144228": {
     "en": "Town Servants",
-    "uk": "Міські слуги"
+    "uk": "Міські служителі"
   },
   "D855AD8A4594C0516C2EFFBD435353EE": {
     "en": "TownWatch",
@@ -1473,7 +1473,7 @@
   },
   "285224544A81F6C9C571D7A475B29502": {
     "en": "Wooden Decorations",
-    "uk": "Дерев'яні прикраси"
+    "uk": "Дерев’яні прикраси"
   },
   "92961D7B4F024C7A04B30E84723FDA43": {
     "en": "WoodlandArea",
@@ -1533,7 +1533,7 @@
   },
   "D306EA714B0593968E50DAA93A3A833C": {
     "en": "citizen",
-    "uk": "громадянин"
+    "uk": "міщанин"
   },
   "BDCEBBE04D532D9807BEE0908345E2EA": {
     "en": "cut parts",
@@ -1721,7 +1721,7 @@
   },
   "CDAA6132460109C0FF3246BE5965B6C8": {
     "en": "you",
-    "uk": "ви"
+    "uk": "Ви"
   },
   "FF7BCAD74359FB1762975C8308ABE521": {
     "en": "{Season} {Year} ended",

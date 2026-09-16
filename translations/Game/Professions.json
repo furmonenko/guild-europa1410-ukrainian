@@ -9,7 +9,7 @@
   },
   "ActiveProfession_Description_extra2": {
     "en": "{CHAR_XP_C}Experience{##} is earned exclusively in your Active Profession and used to advance its {P_MASGRA_C}Mastery Grades{##}.",
-    "uk": "{CHAR_XP_C}Досвід{##} здобувається виключно в основній професії і йде на просування по {P_MASGRA_C}ступенях майстерності{##}."
+    "uk": "{CHAR_XP_C}Досвід{##} здобувається лише в основній професії і йде на просування по {P_MASGRA_C}ступенях майстерності{##}."
   },
   "ActiveProfession_DisplayName": {
     "en": "Active Profession",

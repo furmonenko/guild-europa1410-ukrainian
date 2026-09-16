@@ -113,7 +113,7 @@
   },
   "BetterBedsForWorkers_DisplayName": {
     "en": "Straw Mattresses",
-    "uk": "Солом'яні матраци"
+    "uk": "Солом’яні матраци"
   },
   "BetterBeds_Description": {
     "en": "{CV_({Value})} {CHAR_ENE_C}Energy{##} at the start of the turn",

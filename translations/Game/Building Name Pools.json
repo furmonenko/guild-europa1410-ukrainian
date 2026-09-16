@@ -745,7 +745,7 @@
   },
   "Guild_SmithsGuild_Pool001": {
     "en": "The Grind Will Fix It Brotherhood",
-    "uk": "Братство «Шліфовка виправить»"
+    "uk": "Братство «Шліфування виправить»"
   },
   "Guild_SmithsGuild_Pool002": {
     "en": "The Forged Brotherhood",
@@ -1429,7 +1429,7 @@
   },
   "OccupationBuilding_Smithy_Pool008": {
     "en": "Hot from the Forge",
-    "uk": "З пилу, з жару"
+    "uk": "Гаряченьке з горна"
   },
   "OccupationBuilding_Smithy_Pool009": {
     "en": "Nails Here!",
@@ -2313,7 +2313,7 @@
   },
   "PublicBuilding_WorkersAccommodation_Pool001": {
     "en": "Workers' Rest",
-    "uk": "Робітничий спочинок"
+    "uk": "Спочинок працівників"
   },
   "PublicBuilding_WorkersAccommodation_Pool002": {
     "en": "Cold Storeroom",
@@ -2325,7 +2325,7 @@
   },
   "PublicBuilding_WorkersAccommodation_Pool004": {
     "en": "Workers' Peace",
-    "uk": "Спокій робітника"
+    "uk": "Спокій працівника"
   },
   "PublicBuilding_WorkersAccommodation_Pool005": {
     "en": "The Bed of Straw",
