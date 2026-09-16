@@ -17,7 +17,7 @@
 | Події (`Game/Events`) | 589 | ✅ |
 | Історичні події, виклики, передісторії | 316 | ✅ |
 | Озвучені репліки (`Game_VO/Dialogue`) | 331 | ✅ |
-| Імена, назви будівель, «ambient backstories» | ~1570 | ⬜ план у `docs/plan.md` |
+| Імена, назви будівель, «ambient backstories» | 1567 | ✅ |
 
 Актуальні цифри: `python uk.py status --all`.
 

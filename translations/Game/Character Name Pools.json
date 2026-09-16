@@ -1,0 +1,2086 @@
+{
+  "Female_DutchFlemish_Pool001": {
+    "en": "Aleta",
+    "uk": "Алета"
+  },
+  "Female_DutchFlemish_Pool002": {
+    "en": "Anneken",
+    "uk": "Аннекен"
+  },
+  "Female_DutchFlemish_Pool003": {
+    "en": "Beatrijs",
+    "uk": "Беатрейс"
+  },
+  "Female_DutchFlemish_Pool004": {
+    "en": "Lina",
+    "uk": "Ліна"
+  },
+  "Female_DutchFlemish_Pool005": {
+    "en": "Grietje",
+    "uk": "Грітьє"
+  },
+  "Female_DutchFlemish_Pool006": {
+    "en": "Hillegonda",
+    "uk": "Гіллегонда"
+  },
+  "Female_DutchFlemish_Pool007": {
+    "en": "Katelijne",
+    "uk": "Кателейне"
+  },
+  "Female_DutchFlemish_Pool008": {
+    "en": "Liesbeth",
+    "uk": "Лісбет"
+  },
+  "Female_DutchFlemish_Pool009": {
+    "en": "Mariken",
+    "uk": "Марікен"
+  },
+  "Female_DutchFlemish_Pool010": {
+    "en": "Tanneke",
+    "uk": "Таннеке"
+  },
+  "Female_DutchFlemish_Pool091": {
+    "en": "Aleta",
+    "uk": "Алета"
+  },
+  "Female_DutchFlemish_Pool092": {
+    "en": "Anneken",
+    "uk": "Аннекен"
+  },
+  "Female_DutchFlemish_Pool093": {
+    "en": "Beatrijs",
+    "uk": "Беатрейс"
+  },
+  "Female_DutchFlemish_Pool094": {
+    "en": "Lina",
+    "uk": "Ліна"
+  },
+  "Female_DutchFlemish_Pool095": {
+    "en": "Grietje",
+    "uk": "Грітьє"
+  },
+  "Female_DutchFlemish_Pool096": {
+    "en": "Hillegonda",
+    "uk": "Гіллегонда"
+  },
+  "Female_DutchFlemish_Pool097": {
+    "en": "Katelijne",
+    "uk": "Кателейне"
+  },
+  "Female_DutchFlemish_Pool098": {
+    "en": "Liesbeth",
+    "uk": "Лісбет"
+  },
+  "Female_DutchFlemish_Pool099": {
+    "en": "Mariken",
+    "uk": "Марікен"
+  },
+  "Female_DutchFlemish_Pool100": {
+    "en": "Tanneke",
+    "uk": "Таннеке"
+  },
+  "Female_Germanic_Pool001": {
+    "en": "Adelheid",
+    "uk": "Адельгайд"
+  },
+  "Female_Germanic_Pool002": {
+    "en": "Agnes",
+    "uk": "Аґнес"
+  },
+  "Female_Germanic_Pool003": {
+    "en": "Almut",
+    "uk": "Альмут"
+  },
+  "Female_Germanic_Pool004": {
+    "en": "Anna",
+    "uk": "Анна"
+  },
+  "Female_Germanic_Pool005": {
+    "en": "Barbara",
+    "uk": "Барбара"
+  },
+  "Female_Germanic_Pool006": {
+    "en": "Beatrix",
+    "uk": "Беатрікс"
+  },
+  "Female_Germanic_Pool007": {
+    "en": "Berta",
+    "uk": "Берта"
+  },
+  "Female_Germanic_Pool008": {
+    "en": "Brigitte",
+    "uk": "Бриґітте"
+  },
+  "Female_Germanic_Pool009": {
+    "en": "Clara",
+    "uk": "Клара"
+  },
+  "Female_Germanic_Pool010": {
+    "en": "Dorothea",
+    "uk": "Доротея"
+  },
+  "Female_Germanic_Pool011": {
+    "en": "Edelgard",
+    "uk": "Едельґард"
+  },
+  "Female_Germanic_Pool012": {
+    "en": "Elisabeth",
+    "uk": "Елізабет"
+  },
+  "Female_Germanic_Pool013": {
+    "en": "Else",
+    "uk": "Ельзе"
+  },
+  "Female_Germanic_Pool014": {
+    "en": "Elsa",
+    "uk": "Ельза"
+  },
+  "Female_Germanic_Pool015": {
+    "en": "Emilia",
+    "uk": "Емілія"
+  },
+  "Female_Germanic_Pool016": {
+    "en": "Helena",
+    "uk": "Гелена"
+  },
+  "Female_Germanic_Pool017": {
+    "en": "Erna",
+    "uk": "Ерна"
+  },
+  "Female_Germanic_Pool018": {
+    "en": "Eva",
+    "uk": "Єва"
+  },
+  "Female_Germanic_Pool019": {
+    "en": "Frida",
+    "uk": "Фріда"
+  },
+  "Female_Germanic_Pool020": {
+    "en": "Gertrud",
+    "uk": "Ґертруд"
+  },
+  "Female_Germanic_Pool021": {
+    "en": "Greta",
+    "uk": "Ґрета"
+  },
+  "Female_Germanic_Pool022": {
+    "en": "Edith",
+    "uk": "Едіт"
+  },
+  "Female_Germanic_Pool023": {
+    "en": "Gudrun",
+    "uk": "Ґудрун"
+  },
+  "Female_Germanic_Pool024": {
+    "en": "Mathilde",
+    "uk": "Матільде"
+  },
+  "Female_Germanic_Pool025": {
+    "en": "Hedwig",
+    "uk": "Гедвіґ"
+  },
+  "Female_Germanic_Pool026": {
+    "en": "Sabine",
+    "uk": "Сабіне"
+  },
+  "Female_Germanic_Pool027": {
+    "en": "Hilda",
+    "uk": "Гільда"
+  },
+  "Female_Germanic_Pool028": {
+    "en": "Ida",
+    "uk": "Іда"
+  },
+  "Female_Germanic_Pool029": {
+    "en": "Ilse",
+    "uk": "Ільзе"
+  },
+  "Female_Germanic_Pool030": {
+    "en": "Irmgard",
+    "uk": "Ірмґард"
+  },
+  "Female_Germanic_Pool031": {
+    "en": "Annika",
+    "uk": "Анніка"
+  },
+  "Female_Germanic_Pool032": {
+    "en": "Johanna",
+    "uk": "Йоганна"
+  },
+  "Female_Germanic_Pool033": {
+    "en": "Judit",
+    "uk": "Юдіт"
+  },
+  "Female_Germanic_Pool034": {
+    "en": "Juliana",
+    "uk": "Юліана"
+  },
+  "Female_Germanic_Pool035": {
+    "en": "Katherina",
+    "uk": "Катеріна"
+  },
+  "Female_Germanic_Pool036": {
+    "en": "Kunigunde",
+    "uk": "Куніґунде"
+  },
+  "Female_Germanic_Pool037": {
+    "en": "Hanna",
+    "uk": "Ганна"
+  },
+  "Female_Germanic_Pool038": {
+    "en": "Gisela",
+    "uk": "Ґізела"
+  },
+  "Female_Germanic_Pool039": {
+    "en": "Ingrid",
+    "uk": "Інґрід"
+  },
+  "Female_Germanic_Pool040": {
+    "en": "Erika ",
+    "uk": "Еріка "
+  },
+  "Female_Germanic_Pool041": {
+    "en": "Margaretha",
+    "uk": "Марґарета"
+  },
+  "Female_Germanic_Pool042": {
+    "en": "Margrit",
+    "uk": "Марґріт"
+  },
+  "Female_Germanic_Pool043": {
+    "en": "Maria",
+    "uk": "Марія"
+  },
+  "Female_Germanic_Pool044": {
+    "en": "Melisende",
+    "uk": "Мелізенде"
+  },
+  "Female_Germanic_Pool045": {
+    "en": "Minna",
+    "uk": "Мінна"
+  },
+  "Female_Germanic_Pool046": {
+    "en": "Ottilie",
+    "uk": "Оттіліє"
+  },
+  "Female_Germanic_Pool047": {
+    "en": "Regina",
+    "uk": "Реґіна"
+  },
+  "Female_Germanic_Pool048": {
+    "en": "Rosamund",
+    "uk": "Розамунд"
+  },
+  "Female_Germanic_Pool049": {
+    "en": "Rosina",
+    "uk": "Розіна"
+  },
+  "Female_Germanic_Pool050": {
+    "en": "Sibylla",
+    "uk": "Сибілла"
+  },
+  "Female_Germanic_Pool051": {
+    "en": "Sigrid",
+    "uk": "Сіґрід"
+  },
+  "Female_Germanic_Pool052": {
+    "en": "Thekla",
+    "uk": "Текла"
+  },
+  "Female_Germanic_Pool053": {
+    "en": "Theodora",
+    "uk": "Теодора"
+  },
+  "Female_Germanic_Pool054": {
+    "en": "Theresia",
+    "uk": "Терезія"
+  },
+  "Female_Germanic_Pool055": {
+    "en": "Ursula",
+    "uk": "Урсула"
+  },
+  "Female_Germanic_Pool056": {
+    "en": "Verena",
+    "uk": "Верена"
+  },
+  "Female_Germanic_Pool057": {
+    "en": "Hannelore",
+    "uk": "Ганнелоре"
+  },
+  "Female_Germanic_Pool058": {
+    "en": "Anneliese",
+    "uk": "Аннеліза"
+  },
+  "Female_Germanic_Pool059": {
+    "en": "Wilhelmina",
+    "uk": "Вільгельміна"
+  },
+  "Female_Germanic_Pool060": {
+    "en": "Karla",
+    "uk": "Карла"
+  },
+  "Female_Romance_Pool001": {
+    "en": "Agnese",
+    "uk": "Аньєзе"
+  },
+  "Female_Romance_Pool002": {
+    "en": "Alessandra",
+    "uk": "Алессандра"
+  },
+  "Female_Romance_Pool003": {
+    "en": "Angelica",
+    "uk": "Анджеліка"
+  },
+  "Female_Romance_Pool004": {
+    "en": "Bianca",
+    "uk": "Б’янка"
+  },
+  "Female_Romance_Pool005": {
+    "en": "Caterina",
+    "uk": "Катерина"
+  },
+  "Female_Romance_Pool006": {
+    "en": "Chiara",
+    "uk": "К’яра"
+  },
+  "Female_Romance_Pool007": {
+    "en": "Isabella",
+    "uk": "Ізабелла"
+  },
+  "Female_Romance_Pool008": {
+    "en": "Clarisse",
+    "uk": "Кларісса"
+  },
+  "Female_Romance_Pool009": {
+    "en": "Marguerite",
+    "uk": "Марґеріт"
+  },
+  "Female_Romance_Pool010": {
+    "en": "Serafina",
+    "uk": "Серафіна"
+  },
+  "Female_Romance_Pool081": {
+    "en": "Agnese",
+    "uk": "Аньєзе"
+  },
+  "Female_Romance_Pool082": {
+    "en": "Alessandra",
+    "uk": "Алессандра"
+  },
+  "Female_Romance_Pool083": {
+    "en": "Angelica",
+    "uk": "Анджеліка"
+  },
+  "Female_Romance_Pool084": {
+    "en": "Bianca",
+    "uk": "Б’янка"
+  },
+  "Female_Romance_Pool085": {
+    "en": "Caterina",
+    "uk": "Катерина"
+  },
+  "Female_Romance_Pool086": {
+    "en": "Chiara",
+    "uk": "К’яра"
+  },
+  "Female_Romance_Pool087": {
+    "en": "Isabella",
+    "uk": "Ізабелла"
+  },
+  "Female_Romance_Pool088": {
+    "en": "Clarisse",
+    "uk": "Кларісса"
+  },
+  "Female_Romance_Pool089": {
+    "en": "Marguerite",
+    "uk": "Марґеріт"
+  },
+  "Female_Romance_Pool090": {
+    "en": "Serafina",
+    "uk": "Серафіна"
+  },
+  "Female_Slavic_Pool001": {
+    "en": "Alena",
+    "uk": "Алена"
+  },
+  "Female_Slavic_Pool002": {
+    "en": "Barbora",
+    "uk": "Барбора"
+  },
+  "Female_Slavic_Pool003": {
+    "en": "Božena",
+    "uk": "Божена"
+  },
+  "Female_Slavic_Pool004": {
+    "en": "Darie",
+    "uk": "Даріє"
+  },
+  "Female_Slavic_Pool005": {
+    "en": "Nina",
+    "uk": "Ніна"
+  },
+  "Female_Slavic_Pool006": {
+    "en": "Tereza",
+    "uk": "Тереза"
+  },
+  "Female_Slavic_Pool007": {
+    "en": "Eliška",
+    "uk": "Елішка"
+  },
+  "Female_Slavic_Pool008": {
+    "en": "Alžběta",
+    "uk": "Альжбета"
+  },
+  "Female_Slavic_Pool009": {
+    "en": "Ivana",
+    "uk": "Івана"
+  },
+  "Female_Slavic_Pool010": {
+    "en": "Jarmila",
+    "uk": "Ярміла"
+  },
+  "Female_Slavic_Pool011": {
+    "en": "Vera",
+    "uk": "Вера"
+  },
+  "Female_Slavic_Pool012": {
+    "en": "Katarzyna",
+    "uk": "Катажина"
+  },
+  "Female_Slavic_Pool013": {
+    "en": "Kristýna",
+    "uk": "Крістина"
+  },
+  "Female_Slavic_Pool014": {
+    "en": "Ludmila",
+    "uk": "Людмила"
+  },
+  "Female_Slavic_Pool015": {
+    "en": "Magdalena",
+    "uk": "Магдалена"
+  },
+  "Female_Slavic_Pool016": {
+    "en": "Marketa",
+    "uk": "Маркета"
+  },
+  "Female_Slavic_Pool017": {
+    "en": "Milena",
+    "uk": "Мілена"
+  },
+  "Female_Slavic_Pool018": {
+    "en": "Radka",
+    "uk": "Радка"
+  },
+  "Female_Slavic_Pool019": {
+    "en": "Mira",
+    "uk": "Міра"
+  },
+  "Female_Slavic_Pool020": {
+    "en": "Zuzana",
+    "uk": "Зузана"
+  },
+  "Female_Slavic_Pool061": {
+    "en": "Alena",
+    "uk": "Алена"
+  },
+  "Female_Slavic_Pool062": {
+    "en": "Barbora",
+    "uk": "Барбора"
+  },
+  "Female_Slavic_Pool063": {
+    "en": "Božena",
+    "uk": "Божена"
+  },
+  "Female_Slavic_Pool064": {
+    "en": "Darie",
+    "uk": "Даріє"
+  },
+  "Female_Slavic_Pool065": {
+    "en": "Nina",
+    "uk": "Ніна"
+  },
+  "Female_Slavic_Pool066": {
+    "en": "Tereza",
+    "uk": "Тереза"
+  },
+  "Female_Slavic_Pool067": {
+    "en": "Eliska",
+    "uk": "Елішка"
+  },
+  "Female_Slavic_Pool068": {
+    "en": "Alžběta",
+    "uk": "Альжбета"
+  },
+  "Female_Slavic_Pool069": {
+    "en": "Ivana",
+    "uk": "Івана"
+  },
+  "Female_Slavic_Pool070": {
+    "en": "Jarmila",
+    "uk": "Ярміла"
+  },
+  "Female_Slavic_Pool071": {
+    "en": "Vera",
+    "uk": "Вера"
+  },
+  "Female_Slavic_Pool072": {
+    "en": "Katarzyna",
+    "uk": "Катажина"
+  },
+  "Female_Slavic_Pool073": {
+    "en": "Kristýna",
+    "uk": "Крістина"
+  },
+  "Female_Slavic_Pool074": {
+    "en": "Ludmila",
+    "uk": "Людмила"
+  },
+  "Female_Slavic_Pool075": {
+    "en": "Magdalena",
+    "uk": "Магдалена"
+  },
+  "Female_Slavic_Pool076": {
+    "en": "Marketa",
+    "uk": "Маркета"
+  },
+  "Female_Slavic_Pool077": {
+    "en": "Milena",
+    "uk": "Мілена"
+  },
+  "Female_Slavic_Pool078": {
+    "en": "Radka",
+    "uk": "Радка"
+  },
+  "Female_Slavic_Pool079": {
+    "en": "Mira",
+    "uk": "Міра"
+  },
+  "Female_Slavic_Pool080": {
+    "en": "Zuzana",
+    "uk": "Зузана"
+  },
+  "Male_DutchFlemish_Pool001": {
+    "en": "Adriaen",
+    "uk": "Адріан"
+  },
+  "Male_DutchFlemish_Pool002": {
+    "en": "Barent",
+    "uk": "Барент"
+  },
+  "Male_DutchFlemish_Pool003": {
+    "en": "Cornelis",
+    "uk": "Корнеліс"
+  },
+  "Male_DutchFlemish_Pool004": {
+    "en": "Dirk",
+    "uk": "Дірк"
+  },
+  "Male_DutchFlemish_Pool005": {
+    "en": "Geert",
+    "uk": "Герт"
+  },
+  "Male_DutchFlemish_Pool006": {
+    "en": "Hendrik",
+    "uk": "Гендрік"
+  },
+  "Male_DutchFlemish_Pool007": {
+    "en": "Jan",
+    "uk": "Ян"
+  },
+  "Male_DutchFlemish_Pool008": {
+    "en": "Maarten",
+    "uk": "Мартен"
+  },
+  "Male_DutchFlemish_Pool009": {
+    "en": "Pieter",
+    "uk": "Пітер"
+  },
+  "Male_DutchFlemish_Pool010": {
+    "en": "Willem",
+    "uk": "Віллем"
+  },
+  "Male_DutchFlemish_Pool091": {
+    "en": "Adriaen",
+    "uk": "Адріан"
+  },
+  "Male_DutchFlemish_Pool092": {
+    "en": "Barent",
+    "uk": "Барент"
+  },
+  "Male_DutchFlemish_Pool093": {
+    "en": "Cornelis",
+    "uk": "Корнеліс"
+  },
+  "Male_DutchFlemish_Pool094": {
+    "en": "Dirk",
+    "uk": "Дірк"
+  },
+  "Male_DutchFlemish_Pool095": {
+    "en": "Geert",
+    "uk": "Герт"
+  },
+  "Male_DutchFlemish_Pool096": {
+    "en": "Hendrik",
+    "uk": "Гендрік"
+  },
+  "Male_DutchFlemish_Pool097": {
+    "en": "Jan",
+    "uk": "Ян"
+  },
+  "Male_DutchFlemish_Pool098": {
+    "en": "Maarten",
+    "uk": "Мартен"
+  },
+  "Male_DutchFlemish_Pool099": {
+    "en": "Pieter",
+    "uk": "Пітер"
+  },
+  "Male_DutchFlemish_Pool100": {
+    "en": "Willem",
+    "uk": "Віллем"
+  },
+  "Male_Germanic_Pool001": {
+    "en": "Albrecht",
+    "uk": "Альбрехт"
+  },
+  "Male_Germanic_Pool002": {
+    "en": "Andreas",
+    "uk": "Андреас"
+  },
+  "Male_Germanic_Pool003": {
+    "en": "Anselm",
+    "uk": "Ансельм"
+  },
+  "Male_Germanic_Pool004": {
+    "en": "Arnold",
+    "uk": "Арнольд"
+  },
+  "Male_Germanic_Pool005": {
+    "en": "August",
+    "uk": "Авґуст"
+  },
+  "Male_Germanic_Pool006": {
+    "en": "Baldur",
+    "uk": "Бальдур"
+  },
+  "Male_Germanic_Pool007": {
+    "en": "Benedikt",
+    "uk": "Бенедикт"
+  },
+  "Male_Germanic_Pool008": {
+    "en": "Bernd",
+    "uk": "Бернд"
+  },
+  "Male_Germanic_Pool009": {
+    "en": "Bruno",
+    "uk": "Бруно"
+  },
+  "Male_Germanic_Pool010": {
+    "en": "Christoph",
+    "uk": "Крістоф"
+  },
+  "Male_Germanic_Pool011": {
+    "en": "Conrad",
+    "uk": "Конрад"
+  },
+  "Male_Germanic_Pool012": {
+    "en": "Dietmar",
+    "uk": "Дітмар"
+  },
+  "Male_Germanic_Pool013": {
+    "en": "Dietrich",
+    "uk": "Дітріх"
+  },
+  "Male_Germanic_Pool014": {
+    "en": "Eberhard",
+    "uk": "Ебергард"
+  },
+  "Male_Germanic_Pool015": {
+    "en": "Eckhard",
+    "uk": "Екгард"
+  },
+  "Male_Germanic_Pool016": {
+    "en": "Elias",
+    "uk": "Еліас"
+  },
+  "Male_Germanic_Pool017": {
+    "en": "Bertold",
+    "uk": "Бертольд"
+  },
+  "Male_Germanic_Pool018": {
+    "en": "Engelbert",
+    "uk": "Енґельберт"
+  },
+  "Male_Germanic_Pool019": {
+    "en": "Ernst",
+    "uk": "Ернст"
+  },
+  "Male_Germanic_Pool020": {
+    "en": "Fabian",
+    "uk": "Фабіан"
+  },
+  "Male_Germanic_Pool021": {
+    "en": "Falk",
+    "uk": "Фальк"
+  },
+  "Male_Germanic_Pool022": {
+    "en": "Franz",
+    "uk": "Франц"
+  },
+  "Male_Germanic_Pool023": {
+    "en": "Friedrich",
+    "uk": "Фрідріх"
+  },
+  "Male_Germanic_Pool024": {
+    "en": "Georg",
+    "uk": "Ґеорґ"
+  },
+  "Male_Germanic_Pool025": {
+    "en": "Gerhard",
+    "uk": "Ґергард"
+  },
+  "Male_Germanic_Pool026": {
+    "en": "Gottfried",
+    "uk": "Ґотфрід"
+  },
+  "Male_Germanic_Pool027": {
+    "en": "Günther",
+    "uk": "Ґюнтер"
+  },
+  "Male_Germanic_Pool028": {
+    "en": "Hagen",
+    "uk": "Гаґен"
+  },
+  "Male_Germanic_Pool029": {
+    "en": "Hans",
+    "uk": "Ганс"
+  },
+  "Male_Germanic_Pool030": {
+    "en": "Heinrich",
+    "uk": "Гайнріх"
+  },
+  "Male_Germanic_Pool031": {
+    "en": "Hermann",
+    "uk": "Герман"
+  },
+  "Male_Germanic_Pool032": {
+    "en": "Hildebrand",
+    "uk": "Гільдебранд"
+  },
+  "Male_Germanic_Pool033": {
+    "en": "Hugo",
+    "uk": "Гуґо"
+  },
+  "Male_Germanic_Pool034": {
+    "en": "Jakob",
+    "uk": "Якоб"
+  },
+  "Male_Germanic_Pool035": {
+    "en": "Joachim",
+    "uk": "Йоахім"
+  },
+  "Male_Germanic_Pool036": {
+    "en": "Johann",
+    "uk": "Йоганн"
+  },
+  "Male_Germanic_Pool037": {
+    "en": "Jörg",
+    "uk": "Єрґ"
+  },
+  "Male_Germanic_Pool038": {
+    "en": "Kaspar",
+    "uk": "Каспар"
+  },
+  "Male_Germanic_Pool039": {
+    "en": "Klaus",
+    "uk": "Клаус"
+  },
+  "Male_Germanic_Pool040": {
+    "en": "Konrad",
+    "uk": "Конрад"
+  },
+  "Male_Germanic_Pool041": {
+    "en": "Lambert",
+    "uk": "Ламберт"
+  },
+  "Male_Germanic_Pool042": {
+    "en": "Leonhard",
+    "uk": "Леонгард"
+  },
+  "Male_Germanic_Pool043": {
+    "en": "Lorenz",
+    "uk": "Лоренц"
+  },
+  "Male_Germanic_Pool044": {
+    "en": "Ludwig",
+    "uk": "Людвіґ"
+  },
+  "Male_Germanic_Pool045": {
+    "en": "Manfred",
+    "uk": "Манфред"
+  },
+  "Male_Germanic_Pool046": {
+    "en": "Markus",
+    "uk": "Маркус"
+  },
+  "Male_Germanic_Pool047": {
+    "en": "Martin",
+    "uk": "Мартін"
+  },
+  "Male_Germanic_Pool048": {
+    "en": "Matthias",
+    "uk": "Маттіас"
+  },
+  "Male_Germanic_Pool049": {
+    "en": "Michael",
+    "uk": "Міхаель"
+  },
+  "Male_Germanic_Pool050": {
+    "en": "Nikolaus",
+    "uk": "Ніколаус"
+  },
+  "Male_Germanic_Pool051": {
+    "en": "Norbert",
+    "uk": "Норберт"
+  },
+  "Male_Germanic_Pool052": {
+    "en": "Otto",
+    "uk": "Отто"
+  },
+  "Male_Germanic_Pool053": {
+    "en": "Paul",
+    "uk": "Пауль"
+  },
+  "Male_Germanic_Pool054": {
+    "en": "Peter",
+    "uk": "Петер"
+  },
+  "Male_Germanic_Pool055": {
+    "en": "Raimund",
+    "uk": "Раймунд"
+  },
+  "Male_Germanic_Pool056": {
+    "en": "Rainer",
+    "uk": "Райнер"
+  },
+  "Male_Germanic_Pool057": {
+    "en": "Rudolf",
+    "uk": "Рудольф"
+  },
+  "Male_Germanic_Pool058": {
+    "en": "Siegfried",
+    "uk": "Зіґфрід"
+  },
+  "Male_Germanic_Pool059": {
+    "en": "Ulrich",
+    "uk": "Ульріх"
+  },
+  "Male_Germanic_Pool060": {
+    "en": "Wilhelm",
+    "uk": "Вільгельм"
+  },
+  "Male_Romance_Pool001": {
+    "en": "Alessandro",
+    "uk": "Алессандро"
+  },
+  "Male_Romance_Pool002": {
+    "en": "Antonio",
+    "uk": "Антоніо"
+  },
+  "Male_Romance_Pool003": {
+    "en": "Carlo",
+    "uk": "Карло"
+  },
+  "Male_Romance_Pool004": {
+    "en": "Domenico",
+    "uk": "Доменіко"
+  },
+  "Male_Romance_Pool005": {
+    "en": "Enrico",
+    "uk": "Енріко"
+  },
+  "Male_Romance_Pool006": {
+    "en": "Filippo",
+    "uk": "Філіппо"
+  },
+  "Male_Romance_Pool007": {
+    "en": "Giuliano",
+    "uk": "Джуліано"
+  },
+  "Male_Romance_Pool008": {
+    "en": "Leonardo",
+    "uk": "Леонардо"
+  },
+  "Male_Romance_Pool009": {
+    "en": "Lorenzo",
+    "uk": "Лоренцо"
+  },
+  "Male_Romance_Pool010": {
+    "en": "Matteo",
+    "uk": "Маттео"
+  },
+  "Male_Romance_Pool081": {
+    "en": "Alessandro",
+    "uk": "Алессандро"
+  },
+  "Male_Romance_Pool082": {
+    "en": "Antonio",
+    "uk": "Антоніо"
+  },
+  "Male_Romance_Pool083": {
+    "en": "Carlo",
+    "uk": "Карло"
+  },
+  "Male_Romance_Pool084": {
+    "en": "Domenico",
+    "uk": "Доменіко"
+  },
+  "Male_Romance_Pool085": {
+    "en": "Enrico",
+    "uk": "Енріко"
+  },
+  "Male_Romance_Pool086": {
+    "en": "Filippo",
+    "uk": "Філіппо"
+  },
+  "Male_Romance_Pool087": {
+    "en": "Giuliano",
+    "uk": "Джуліано"
+  },
+  "Male_Romance_Pool088": {
+    "en": "Leonardo",
+    "uk": "Леонардо"
+  },
+  "Male_Romance_Pool089": {
+    "en": "Lorenzo",
+    "uk": "Лоренцо"
+  },
+  "Male_Romance_Pool090": {
+    "en": "Matteo",
+    "uk": "Маттео"
+  },
+  "Male_Slavic_Pool001": {
+    "en": "Aleš",
+    "uk": "Алеш"
+  },
+  "Male_Slavic_Pool002": {
+    "en": "Boleslav",
+    "uk": "Болеслав"
+  },
+  "Male_Slavic_Pool003": {
+    "en": "Dalibor",
+    "uk": "Далібор"
+  },
+  "Male_Slavic_Pool004": {
+    "en": "Dušan",
+    "uk": "Душан"
+  },
+  "Male_Slavic_Pool005": {
+    "en": "František",
+    "uk": "Франтішек"
+  },
+  "Male_Slavic_Pool006": {
+    "en": "Ivan",
+    "uk": "Іван"
+  },
+  "Male_Slavic_Pool007": {
+    "en": "Janek",
+    "uk": "Янек"
+  },
+  "Male_Slavic_Pool008": {
+    "en": "Jaromír",
+    "uk": "Яромир"
+  },
+  "Male_Slavic_Pool009": {
+    "en": "Jiří",
+    "uk": "Їржі"
+  },
+  "Male_Slavic_Pool010": {
+    "en": "Kazimir",
+    "uk": "Казимир"
+  },
+  "Male_Slavic_Pool011": {
+    "en": "Lubomír",
+    "uk": "Любомир"
+  },
+  "Male_Slavic_Pool012": {
+    "en": "Marek",
+    "uk": "Марек"
+  },
+  "Male_Slavic_Pool013": {
+    "en": "Matěj",
+    "uk": "Матєй"
+  },
+  "Male_Slavic_Pool014": {
+    "en": "Milan",
+    "uk": "Мілан"
+  },
+  "Male_Slavic_Pool015": {
+    "en": "Miroslav",
+    "uk": "Мирослав"
+  },
+  "Male_Slavic_Pool016": {
+    "en": "Ondřej",
+    "uk": "Ондржей"
+  },
+  "Male_Slavic_Pool017": {
+    "en": "Radek",
+    "uk": "Радек"
+  },
+  "Male_Slavic_Pool018": {
+    "en": "Stanislav",
+    "uk": "Станіслав"
+  },
+  "Male_Slavic_Pool019": {
+    "en": "Václav",
+    "uk": "Вацлав"
+  },
+  "Male_Slavic_Pool020": {
+    "en": "Zdeněk",
+    "uk": "Зденєк"
+  },
+  "Male_Slavic_Pool021": {
+    "en": "Jindřich",
+    "uk": "Їндржих"
+  },
+  "Male_Slavic_Pool061": {
+    "en": "Aleš",
+    "uk": "Алеш"
+  },
+  "Male_Slavic_Pool062": {
+    "en": "Boleslav",
+    "uk": "Болеслав"
+  },
+  "Male_Slavic_Pool063": {
+    "en": "Dalibor",
+    "uk": "Далібор"
+  },
+  "Male_Slavic_Pool064": {
+    "en": "Dušan",
+    "uk": "Душан"
+  },
+  "Male_Slavic_Pool065": {
+    "en": "František",
+    "uk": "Франтішек"
+  },
+  "Male_Slavic_Pool066": {
+    "en": "Ivan",
+    "uk": "Іван"
+  },
+  "Male_Slavic_Pool067": {
+    "en": "Janek",
+    "uk": "Янек"
+  },
+  "Male_Slavic_Pool068": {
+    "en": "Jaromír",
+    "uk": "Яромир"
+  },
+  "Male_Slavic_Pool069": {
+    "en": "Jiří",
+    "uk": "Їржі"
+  },
+  "Male_Slavic_Pool070": {
+    "en": "Kazimir",
+    "uk": "Казимир"
+  },
+  "Male_Slavic_Pool071": {
+    "en": "Lubomír",
+    "uk": "Любомир"
+  },
+  "Male_Slavic_Pool072": {
+    "en": "Marek",
+    "uk": "Марек"
+  },
+  "Male_Slavic_Pool073": {
+    "en": "Matěj",
+    "uk": "Матєй"
+  },
+  "Male_Slavic_Pool074": {
+    "en": "Milan",
+    "uk": "Мілан"
+  },
+  "Male_Slavic_Pool075": {
+    "en": "Miroslav",
+    "uk": "Мирослав"
+  },
+  "Male_Slavic_Pool076": {
+    "en": "Ondřej",
+    "uk": "Ондржей"
+  },
+  "Male_Slavic_Pool077": {
+    "en": "Radek",
+    "uk": "Радек"
+  },
+  "Male_Slavic_Pool078": {
+    "en": "Stanislav",
+    "uk": "Станіслав"
+  },
+  "Male_Slavic_Pool079": {
+    "en": "Václav",
+    "uk": "Вацлав"
+  },
+  "Male_Slavic_Pool080": {
+    "en": "Zdeněk",
+    "uk": "Зденєк"
+  },
+  "Surname_DutchFlemish_Pool001": {
+    "en": "van Aken",
+    "uk": "ван Акен"
+  },
+  "Surname_DutchFlemish_Pool002": {
+    "en": "van der Meer",
+    "uk": "ван дер Мер"
+  },
+  "Surname_DutchFlemish_Pool003": {
+    "en": "van den Berghe",
+    "uk": "ван ден Берге"
+  },
+  "Surname_DutchFlemish_Pool004": {
+    "en": "van Leeuwen",
+    "uk": "ван Леувен"
+  },
+  "Surname_DutchFlemish_Pool005": {
+    "en": "Claeszoon",
+    "uk": "Класзон"
+  },
+  "Surname_DutchFlemish_Pool006": {
+    "en": "van Diest",
+    "uk": "ван Діст"
+  },
+  "Surname_DutchFlemish_Pool007": {
+    "en": "de Vries",
+    "uk": "де Фріс"
+  },
+  "Surname_DutchFlemish_Pool008": {
+    "en": "Goossens",
+    "uk": "Госсенс"
+  },
+  "Surname_DutchFlemish_Pool009": {
+    "en": "van den Bossche",
+    "uk": "ван ден Боссе"
+  },
+  "Surname_DutchFlemish_Pool010": {
+    "en": "van Breda",
+    "uk": "ван Бреда"
+  },
+  "Surname_DutchFlemish_Pool011": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool012": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool013": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool014": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool015": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool016": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool017": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool018": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool019": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool020": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool021": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool022": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool023": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool024": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool025": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool026": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool027": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool028": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool029": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool030": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_DutchFlemish_Pool091": {
+    "en": "van Aken",
+    "uk": "ван Акен"
+  },
+  "Surname_DutchFlemish_Pool092": {
+    "en": "van der Meer",
+    "uk": "ван дер Мер"
+  },
+  "Surname_DutchFlemish_Pool093": {
+    "en": "van den Berghe",
+    "uk": "ван ден Берге"
+  },
+  "Surname_DutchFlemish_Pool094": {
+    "en": "van Leeuwen",
+    "uk": "ван Леувен"
+  },
+  "Surname_DutchFlemish_Pool095": {
+    "en": "Claeszoon",
+    "uk": "Класзон"
+  },
+  "Surname_DutchFlemish_Pool096": {
+    "en": "van Diest",
+    "uk": "ван Діст"
+  },
+  "Surname_DutchFlemish_Pool097": {
+    "en": "de Vries",
+    "uk": "де Фріс"
+  },
+  "Surname_DutchFlemish_Pool098": {
+    "en": "Goossens",
+    "uk": "Госсенс"
+  },
+  "Surname_DutchFlemish_Pool099": {
+    "en": "van den Bossche",
+    "uk": "ван ден Боссе"
+  },
+  "Surname_DutchFlemish_Pool100": {
+    "en": "van Breda",
+    "uk": "ван Бреда"
+  },
+  "Surname_Germanic_Pool001": {
+    "en": "Adler",
+    "uk": "Адлер"
+  },
+  "Surname_Germanic_Pool002": {
+    "en": "Altenburg",
+    "uk": "Альтенбурґ"
+  },
+  "Surname_Germanic_Pool003": {
+    "en": "Baumgartner",
+    "uk": "Баумґартнер"
+  },
+  "Surname_Germanic_Pool004": {
+    "en": "Beckmann",
+    "uk": "Бекман"
+  },
+  "Surname_Germanic_Pool005": {
+    "en": "Bernauer",
+    "uk": "Бернауер"
+  },
+  "Surname_Germanic_Pool006": {
+    "en": "Biberstein",
+    "uk": "Біберштайн"
+  },
+  "Surname_Germanic_Pool007": {
+    "en": "Bockler",
+    "uk": "Боклер"
+  },
+  "Surname_Germanic_Pool008": {
+    "en": "Braunfels",
+    "uk": "Браунфельс"
+  },
+  "Surname_Germanic_Pool009": {
+    "en": "Buchwald",
+    "uk": "Бухвальд"
+  },
+  "Surname_Germanic_Pool010": {
+    "en": "Degenhardt",
+    "uk": "Деґенгардт"
+  },
+  "Surname_Germanic_Pool011": {
+    "en": "Dürer",
+    "uk": "Дюрер"
+  },
+  "Surname_Germanic_Pool012": {
+    "en": "Eberlin",
+    "uk": "Еберлін"
+  },
+  "Surname_Germanic_Pool013": {
+    "en": "Eichenlaub",
+    "uk": "Айхенлауб"
+  },
+  "Surname_Germanic_Pool014": {
+    "en": "Falkenstein",
+    "uk": "Фалькенштайн"
+  },
+  "Surname_Germanic_Pool015": {
+    "en": "Faust",
+    "uk": "Фауст"
+  },
+  "Surname_Germanic_Pool016": {
+    "en": "Feuerbach",
+    "uk": "Фоєрбах"
+  },
+  "Surname_Germanic_Pool017": {
+    "en": "Fleischer",
+    "uk": "Фляйшер"
+  },
+  "Surname_Germanic_Pool018": {
+    "en": "Forstner",
+    "uk": "Форстнер"
+  },
+  "Surname_Germanic_Pool019": {
+    "en": "Fröhlich",
+    "uk": "Фреліх"
+  },
+  "Surname_Germanic_Pool020": {
+    "en": "Handel",
+    "uk": "Гандель"
+  },
+  "Surname_Germanic_Pool021": {
+    "en": "Geisler",
+    "uk": "Ґайслер"
+  },
+  "Surname_Germanic_Pool022": {
+    "en": "Goldmann",
+    "uk": "Ґольдман"
+  },
+  "Surname_Germanic_Pool023": {
+    "en": "Gottlieb",
+    "uk": "Ґотліб"
+  },
+  "Surname_Germanic_Pool024": {
+    "en": "Gruber",
+    "uk": "Ґрубер"
+  },
+  "Surname_Germanic_Pool025": {
+    "en": "Gutenberg",
+    "uk": "Ґутенберґ"
+  },
+  "Surname_Germanic_Pool026": {
+    "en": "Habicht",
+    "uk": "Габіхт"
+  },
+  "Surname_Germanic_Pool027": {
+    "en": "Hagenau",
+    "uk": "Гаґенау"
+  },
+  "Surname_Germanic_Pool028": {
+    "en": "Heller",
+    "uk": "Геллер"
+  },
+  "Surname_Germanic_Pool029": {
+    "en": "Hirschfeld",
+    "uk": "Гіршфельд"
+  },
+  "Surname_Germanic_Pool030": {
+    "en": "Hochberg",
+    "uk": "Гохберґ"
+  },
+  "Surname_Germanic_Pool031": {
+    "en": "Hohenzollern",
+    "uk": "Гогенцоллерн"
+  },
+  "Surname_Germanic_Pool032": {
+    "en": "Holtzmann",
+    "uk": "Гольцман"
+  },
+  "Surname_Germanic_Pool033": {
+    "en": "Hornstein",
+    "uk": "Горнштайн"
+  },
+  "Surname_Germanic_Pool034": {
+    "en": "Jäger",
+    "uk": "Єґер"
+  },
+  "Surname_Germanic_Pool035": {
+    "en": "Keller",
+    "uk": "Келлер"
+  },
+  "Surname_Germanic_Pool036": {
+    "en": "Kirchhoff",
+    "uk": "Кірхгоф"
+  },
+  "Surname_Germanic_Pool037": {
+    "en": "Krämer",
+    "uk": "Кремер"
+  },
+  "Surname_Germanic_Pool038": {
+    "en": "Krüger",
+    "uk": "Крюґер"
+  },
+  "Surname_Germanic_Pool039": {
+    "en": "Kühn",
+    "uk": "Кюн"
+  },
+  "Surname_Germanic_Pool040": {
+    "en": "Landsberg",
+    "uk": "Ландсберґ"
+  },
+  "Surname_Germanic_Pool041": {
+    "en": "Lindemann",
+    "uk": "Ліндеман"
+  },
+  "Surname_Germanic_Pool042": {
+    "en": "Löwenstein",
+    "uk": "Левенштайн"
+  },
+  "Surname_Germanic_Pool043": {
+    "en": "Meissner",
+    "uk": "Майснер"
+  },
+  "Surname_Germanic_Pool044": {
+    "en": "Metzger",
+    "uk": "Мецґер"
+  },
+  "Surname_Germanic_Pool045": {
+    "en": "Morgenstern",
+    "uk": "Морґенштерн"
+  },
+  "Surname_Germanic_Pool046": {
+    "en": "Mühlbauer",
+    "uk": "Мюльбауер"
+  },
+  "Surname_Germanic_Pool047": {
+    "en": "Nachtigall",
+    "uk": "Нахтіґаль"
+  },
+  "Surname_Germanic_Pool048": {
+    "en": "Oberholzer",
+    "uk": "Обергольцер"
+  },
+  "Surname_Germanic_Pool049": {
+    "en": "Pfeiffer",
+    "uk": "Пфайфер"
+  },
+  "Surname_Germanic_Pool050": {
+    "en": "Reichenbach",
+    "uk": "Райхенбах"
+  },
+  "Surname_Germanic_Pool051": {
+    "en": "Reichmann",
+    "uk": "Райхман"
+  },
+  "Surname_Germanic_Pool052": {
+    "en": "Riedel",
+    "uk": "Рідель"
+  },
+  "Surname_Germanic_Pool053": {
+    "en": "Rothbauer",
+    "uk": "Ротбауер"
+  },
+  "Surname_Germanic_Pool054": {
+    "en": "Schäfer",
+    "uk": "Шефер"
+  },
+  "Surname_Germanic_Pool055": {
+    "en": "Schilling",
+    "uk": "Шиллінґ"
+  },
+  "Surname_Germanic_Pool056": {
+    "en": "Schreiber",
+    "uk": "Шрайбер"
+  },
+  "Surname_Germanic_Pool057": {
+    "en": "Steinberg",
+    "uk": "Штайнберґ"
+  },
+  "Surname_Germanic_Pool058": {
+    "en": "Stubenberg",
+    "uk": "Штубенберґ"
+  },
+  "Surname_Germanic_Pool059": {
+    "en": "Weber",
+    "uk": "Вебер"
+  },
+  "Surname_Germanic_Pool060": {
+    "en": "Ziegler",
+    "uk": "Ціґлер"
+  },
+  "Surname_Romance_Pool001": {
+    "en": "Boccanegra",
+    "uk": "Бокканеґра"
+  },
+  "Surname_Romance_Pool002": {
+    "en": "Carafa",
+    "uk": "Карафа"
+  },
+  "Surname_Romance_Pool003": {
+    "en": "Colonna",
+    "uk": "Колонна"
+  },
+  "Surname_Romance_Pool004": {
+    "en": "della Scala",
+    "uk": "делла Скала"
+  },
+  "Surname_Romance_Pool005": {
+    "en": "Fieschi",
+    "uk": "Ф’єскі"
+  },
+  "Surname_Romance_Pool006": {
+    "en": "Grimaldi",
+    "uk": "Ґрімальді"
+  },
+  "Surname_Romance_Pool007": {
+    "en": "Montferrat",
+    "uk": "Монферрат"
+  },
+  "Surname_Romance_Pool008": {
+    "en": "Orsini",
+    "uk": "Орсіні"
+  },
+  "Surname_Romance_Pool009": {
+    "en": "Savelli",
+    "uk": "Савеллі"
+  },
+  "Surname_Romance_Pool010": {
+    "en": "Visconti",
+    "uk": "Вісконті"
+  },
+  "Surname_Romance_Pool011": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool012": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool013": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool014": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool015": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool016": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool017": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool018": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool019": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool020": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool021": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool022": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool023": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool024": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool025": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool026": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool027": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool028": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool029": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool030": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Romance_Pool081": {
+    "en": "Boccanegra",
+    "uk": "Бокканеґра"
+  },
+  "Surname_Romance_Pool082": {
+    "en": "Carafa",
+    "uk": "Карафа"
+  },
+  "Surname_Romance_Pool083": {
+    "en": "Colonna",
+    "uk": "Колонна"
+  },
+  "Surname_Romance_Pool084": {
+    "en": "della Scala",
+    "uk": "делла Скала"
+  },
+  "Surname_Romance_Pool085": {
+    "en": "Fieschi",
+    "uk": "Ф’єскі"
+  },
+  "Surname_Romance_Pool086": {
+    "en": "Grimaldi",
+    "uk": "Ґрімальді"
+  },
+  "Surname_Romance_Pool087": {
+    "en": "Montferrat",
+    "uk": "Монферрат"
+  },
+  "Surname_Romance_Pool088": {
+    "en": "Orsini",
+    "uk": "Орсіні"
+  },
+  "Surname_Romance_Pool089": {
+    "en": "Savelli",
+    "uk": "Савеллі"
+  },
+  "Surname_Romance_Pool090": {
+    "en": "Visconti",
+    "uk": "Вісконті"
+  },
+  "Surname_Slavic_Pool001": {
+    "en": "{Gender}|gender(Beneš,Benešová)",
+    "uk": "{Gender}|gender(Бенеш,Бенешова)"
+  },
+  "Surname_Slavic_Pool002": {
+    "en": "{Gender}|gender(Berka,Berková)",
+    "uk": "{Gender}|gender(Берка,Беркова)"
+  },
+  "Surname_Slavic_Pool003": {
+    "en": "{Gender}|gender(Boleslavský,Boleslavská)",
+    "uk": "{Gender}|gender(Болеславський,Болеславська)"
+  },
+  "Surname_Slavic_Pool004": {
+    "en": "{Gender}|gender(Černý,Černá)",
+    "uk": "{Gender}|gender(Черний,Черна)"
+  },
+  "Surname_Slavic_Pool005": {
+    "en": "{Gender}|gender(Dvořák,Dvořáková)",
+    "uk": "{Gender}|gender(Дворжак,Дворжакова)"
+  },
+  "Surname_Slavic_Pool006": {
+    "en": "{Gender}|gender(Havel,Havlová)",
+    "uk": "{Gender}|gender(Гавел,Гавлова)"
+  },
+  "Surname_Slavic_Pool007": {
+    "en": "{Gender}|gender(Hromada,Hromadová)",
+    "uk": "{Gender}|gender(Громада,Громадова)"
+  },
+  "Surname_Slavic_Pool008": {
+    "en": "{Gender}|gender(Janáček,Janáčková)",
+    "uk": "{Gender}|gender(Яначек,Яначкова)"
+  },
+  "Surname_Slavic_Pool009": {
+    "en": "{Gender}|gender(Ježek,Ježková)",
+    "uk": "{Gender}|gender(Єжек,Єжкова)"
+  },
+  "Surname_Slavic_Pool010": {
+    "en": "{Gender}|gender(Kovařík,Kovaříková)",
+    "uk": "{Gender}|gender(Коваржик,Коваржикова)"
+  },
+  "Surname_Slavic_Pool011": {
+    "en": "{Gender}|gender(Král,Králová)",
+    "uk": "{Gender}|gender(Краль,Кралова)"
+  },
+  "Surname_Slavic_Pool012": {
+    "en": "{Gender}|gender(Kyselý,Kyselá)",
+    "uk": "{Gender}|gender(Киселий,Кисела)"
+  },
+  "Surname_Slavic_Pool013": {
+    "en": "{Gender}|gender(Malý,Malá)",
+    "uk": "{Gender}|gender(Малий,Мала)"
+  },
+  "Surname_Slavic_Pool014": {
+    "en": "{Gender}|gender(Mikulášek,Mikulášková)",
+    "uk": "{Gender}|gender(Мікулашек,Мікулашкова)"
+  },
+  "Surname_Slavic_Pool015": {
+    "en": "{Gender}|gender(Novák,Nováková)",
+    "uk": "{Gender}|gender(Новак,Новакова)"
+  },
+  "Surname_Slavic_Pool016": {
+    "en": "z Rožmberka",
+    "uk": "з Рожмберка"
+  },
+  "Surname_Slavic_Pool017": {
+    "en": "{Gender}|gender(Sokol,Sokolová)",
+    "uk": "{Gender}|gender(Сокол,Соколова)"
+  },
+  "Surname_Slavic_Pool018": {
+    "en": "{Gender}|gender(Šimek,Šimková)",
+    "uk": "{Gender}|gender(Шімек,Шімкова)"
+  },
+  "Surname_Slavic_Pool019": {
+    "en": "{Gender}|gender(Toman,Tomanová)",
+    "uk": "{Gender}|gender(Томан,Томанова)"
+  },
+  "Surname_Slavic_Pool020": {
+    "en": "{Gender}|gender(Zelenka,Zelenková)",
+    "uk": "{Gender}|gender(Зеленка,Зеленкова)"
+  },
+  "Surname_Slavic_Pool021": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Slavic_Pool022": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Slavic_Pool023": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Slavic_Pool024": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Slavic_Pool025": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Slavic_Pool026": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Slavic_Pool027": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Slavic_Pool028": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Slavic_Pool029": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Slavic_Pool030": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Surname_Slavic_Pool061": {
+    "en": "{Gender}|gender(Beneš,Benešová)",
+    "uk": "{Gender}|gender(Бенеш,Бенешова)"
+  },
+  "Surname_Slavic_Pool062": {
+    "en": "{Gender}|gender(Berka,Berková)",
+    "uk": "{Gender}|gender(Берка,Беркова)"
+  },
+  "Surname_Slavic_Pool063": {
+    "en": "{Gender}|gender(Boleslavský,Boleslavská)",
+    "uk": "{Gender}|gender(Болеславський,Болеславська)"
+  },
+  "Surname_Slavic_Pool064": {
+    "en": "{Gender}|gender(Černý,Černá)",
+    "uk": "{Gender}|gender(Черний,Черна)"
+  },
+  "Surname_Slavic_Pool065": {
+    "en": "{Gender}|gender(Dvořák,Dvořáková)",
+    "uk": "{Gender}|gender(Дворжак,Дворжакова)"
+  },
+  "Surname_Slavic_Pool066": {
+    "en": "{Gender}|gender(Havel,Havlová)",
+    "uk": "{Gender}|gender(Гавел,Гавлова)"
+  },
+  "Surname_Slavic_Pool067": {
+    "en": "{Gender}|gender(Hromada,Hromadová)",
+    "uk": "{Gender}|gender(Громада,Громадова)"
+  },
+  "Surname_Slavic_Pool068": {
+    "en": "{Gender}|gender(Janáček,Janáčková)",
+    "uk": "{Gender}|gender(Яначек,Яначкова)"
+  },
+  "Surname_Slavic_Pool069": {
+    "en": "{Gender}|gender(Ježek,Ježková)",
+    "uk": "{Gender}|gender(Єжек,Єжкова)"
+  },
+  "Surname_Slavic_Pool070": {
+    "en": "{Gender}|gender(Kovařík,Kovaříková)",
+    "uk": "{Gender}|gender(Коваржик,Коваржикова)"
+  },
+  "Surname_Slavic_Pool071": {
+    "en": "{Gender}|gender(Král,Králová)",
+    "uk": "{Gender}|gender(Краль,Кралова)"
+  },
+  "Surname_Slavic_Pool072": {
+    "en": "{Gender}|gender(Kyselý,Kyselá)",
+    "uk": "{Gender}|gender(Киселий,Кисела)"
+  },
+  "Surname_Slavic_Pool073": {
+    "en": "{Gender}|gender(Malý,Malá)",
+    "uk": "{Gender}|gender(Малий,Мала)"
+  },
+  "Surname_Slavic_Pool074": {
+    "en": "{Gender}|gender(Mikulášek,Mikulášková)",
+    "uk": "{Gender}|gender(Мікулашек,Мікулашкова)"
+  },
+  "Surname_Slavic_Pool075": {
+    "en": "{Gender}|gender(Novák,Nováková)",
+    "uk": "{Gender}|gender(Новак,Новакова)"
+  },
+  "Surname_Slavic_Pool076": {
+    "en": "z Rožmberka",
+    "uk": "з Рожмберка"
+  },
+  "Surname_Slavic_Pool077": {
+    "en": "{Gender}|gender(Sokol,Sokolová)",
+    "uk": "{Gender}|gender(Сокол,Соколова)"
+  },
+  "Surname_Slavic_Pool078": {
+    "en": "{Gender}|gender(Šimek,Šimková)",
+    "uk": "{Gender}|gender(Шімек,Шімкова)"
+  },
+  "Surname_Slavic_Pool079": {
+    "en": "{Gender}|gender(Toman,Tomanová)",
+    "uk": "{Gender}|gender(Томан,Томанова)"
+  },
+  "Surname_Slavic_Pool080": {
+    "en": "{Gender}|gender(Zelenka,Zelenková)",
+    "uk": "{Gender}|gender(Зеленка,Зеленкова)"
+  },
+  "Surname_Workers_Pool101": {
+    "en": "Aschermann",
+    "uk": "Ашерман"
+  },
+  "Surname_Workers_Pool102": {
+    "en": "Blech",
+    "uk": "Блех"
+  },
+  "Surname_Workers_Pool103": {
+    "en": "Brandtner",
+    "uk": "Брандтнер"
+  },
+  "Surname_Workers_Pool104": {
+    "en": "Bruchmann",
+    "uk": "Брухман"
+  },
+  "Surname_Workers_Pool105": {
+    "en": "Dreckner",
+    "uk": "Дрекнер"
+  },
+  "Surname_Workers_Pool106": {
+    "en": "Dürr",
+    "uk": "Дюрр"
+  },
+  "Surname_Workers_Pool107": {
+    "en": "Faulhaber",
+    "uk": "Фаулгабер"
+  },
+  "Surname_Workers_Pool108": {
+    "en": "Flink",
+    "uk": "Флінк"
+  },
+  "Surname_Workers_Pool109": {
+    "en": "Flurschauf",
+    "uk": "Флуршауф"
+  },
+  "Surname_Workers_Pool110": {
+    "en": "Frommertz",
+    "uk": "Фроммерц"
+  },
+  "Surname_Workers_Pool111": {
+    "en": "Gerberling",
+    "uk": "Ґерберлінґ"
+  },
+  "Surname_Workers_Pool112": {
+    "en": "Grabenhauer",
+    "uk": "Ґрабенгауер"
+  },
+  "Surname_Workers_Pool113": {
+    "en": "Hackel",
+    "uk": "Гакель"
+  },
+  "Surname_Workers_Pool114": {
+    "en": "Harnisch",
+    "uk": "Гарніш"
+  },
+  "Surname_Workers_Pool115": {
+    "en": "Holzknecht",
+    "uk": "Гольцкнехт"
+  },
+  "Surname_Workers_Pool116": {
+    "en": "Karg",
+    "uk": "Карґ"
+  },
+  "Surname_Workers_Pool117": {
+    "en": "Kehrmann",
+    "uk": "Керман"
+  },
+  "Surname_Workers_Pool118": {
+    "en": "Kistenmacher",
+    "uk": "Кістенмахер"
+  },
+  "Surname_Workers_Pool119": {
+    "en": "Knirsch",
+    "uk": "Кнірш"
+  },
+  "Surname_Workers_Pool120": {
+    "en": "Kratz",
+    "uk": "Крац"
+  },
+  "Surname_Workers_Pool121": {
+    "en": "Krumbein",
+    "uk": "Крумбайн"
+  },
+  "Surname_Workers_Pool122": {
+    "en": "Kurz",
+    "uk": "Курц"
+  },
+  "Surname_Workers_Pool123": {
+    "en": "Langfinger",
+    "uk": "Ланґфінґер"
+  },
+  "Surname_Workers_Pool124": {
+    "en": "Moser",
+    "uk": "Мозер"
+  },
+  "Surname_Workers_Pool125": {
+    "en": "Muck",
+    "uk": "Мук"
+  },
+  "Surname_Workers_Pool126": {
+    "en": "Nörgler",
+    "uk": "Нерґлер"
+  },
+  "Surname_Workers_Pool127": {
+    "en": "Pfuhl",
+    "uk": "Пфуль"
+  },
+  "Surname_Workers_Pool128": {
+    "en": "Polter",
+    "uk": "Польтер"
+  },
+  "Surname_Workers_Pool129": {
+    "en": "Rissig",
+    "uk": "Ріссіґ"
+  },
+  "Surname_Workers_Pool130": {
+    "en": "Rumpel",
+    "uk": "Румпель"
+  },
+  "Surname_Workers_Pool131": {
+    "en": "Rustner",
+    "uk": "Рустнер"
+  },
+  "Surname_Workers_Pool132": {
+    "en": "Scharrfuß",
+    "uk": "Шаррфус"
+  },
+  "Surname_Workers_Pool133": {
+    "en": "Schlotter",
+    "uk": "Шлоттер"
+  },
+  "Surname_Workers_Pool134": {
+    "en": "Schreiberling",
+    "uk": "Шрайберлінґ"
+  },
+  "Surname_Workers_Pool135": {
+    "en": "Schwach",
+    "uk": "Швах"
+  },
+  "Surname_Workers_Pool136": {
+    "en": "Schnarcher",
+    "uk": "Шнархер"
+  },
+  "Surname_Workers_Pool137": {
+    "en": "Wackel",
+    "uk": "Вакель"
+  },
+  "Surname_Workers_Pool138": {
+    "en": "Weichsel",
+    "uk": "Вайксель"
+  },
+  "Surname_Workers_Pool139": {
+    "en": "Zappel",
+    "uk": "Цаппель"
+  },
+  "Surname_Workers_Pool140": {
+    "en": "Zinkler",
+    "uk": "Цінклер"
+  },
+  "Surname_Workers_Pool141": {
+    "en": "{Gender}|gender(Kovář,Kovářová)",
+    "uk": "{Gender}|gender(Коварж,Коваржова)"
+  },
+  "Surname_Workers_Pool142": {
+    "en": "{Gender}|gender(Vlček,Vlčková)",
+    "uk": "{Gender}|gender(Влчек,Влчкова)"
+  },
+  "Surname_Workers_Pool143": {
+    "en": "Ferraro",
+    "uk": "Ферраро"
+  },
+  "Surname_Workers_Pool144": {
+    "en": "Piccolo",
+    "uk": "Пікколо"
+  },
+  "Surname_Workers_Pool145": {
+    "en": "Rosso",
+    "uk": "Россо"
+  },
+  "Surname_Workers_Pool146": {
+    "en": "Cooper",
+    "uk": "Купер"
+  },
+  "Surname_Workers_Pool147": {
+    "en": "Miller",
+    "uk": "Міллер"
+  },
+  "Surname_Workers_Pool148": {
+    "en": "Croft",
+    "uk": "Крофт"
+  },
+  "Surname_Workers_Pool149": {
+    "en": "Hobbs",
+    "uk": "Гоббс"
+  },
+  "Surname_Workers_Pool150": {
+    "en": "Bitterling",
+    "uk": "Біттерлінґ"
+  }
+}

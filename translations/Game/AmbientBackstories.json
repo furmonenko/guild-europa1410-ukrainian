@@ -1,0 +1,1674 @@
+{
+  "Alchemist_001": {
+    "en": "Failed Apothecary",
+    "uk": "Невдалий аптекар"
+  },
+  "Alchemist_002": {
+    "en": "Keeper of Strange Remedies",
+    "uk": "Хранитель дивних ліків"
+  },
+  "Alchemist_003": {
+    "en": "Collector of Rare Ingredients",
+    "uk": "Збирає рідкісні інгредієнти"
+  },
+  "Alchemist_004": {
+    "en": "Known for Risky Experiments",
+    "uk": "Славиться ризикованими дослідами"
+  },
+  "Alchemist_005": {
+    "en": "Former Physician's Assistant",
+    "uk": "Колишній помічник лікаря"
+  },
+  "Alchemist_006": {
+    "en": "Self-Taught Alchemist",
+    "uk": "Алхімік-самоук"
+  },
+  "Alchemist_007": {
+    "en": "Trained Abroad",
+    "uk": "Навчався за кордоном"
+  },
+  "Alchemist_008": {
+    "en": "Obsessed with Transmutation",
+    "uk": "Схиблений на трансмутації"
+  },
+  "Alchemist_009": {
+    "en": "Always Smells of Sulfur",
+    "uk": "Завжди тхне сіркою"
+  },
+  "Alchemist_010": {
+    "en": "Burned Down a Workshop Once",
+    "uk": "На совісті — одна спалена майстерня"
+  },
+  "Alchemist_011": {
+    "en": "Keeps Dangerous Company",
+    "uk": "Водиться з небезпечним товариством"
+  },
+  "Alchemist_012": {
+    "en": "Suspiciously Healthy",
+    "uk": "Підозріло здоровий"
+  },
+  "Alchemist_013": {
+    "en": "Prone to Explosions",
+    "uk": "Схильний до вибухів"
+  },
+  "Alchemist_014": {
+    "en": "Sells Questionable Tonics",
+    "uk": "Продає сумнівні настоянки"
+  },
+  "Alchemist_015": {
+    "en": "Knows Too Much About Poisons",
+    "uk": "Знає забагато про отрути"
+  },
+  "Alchemist_016": {
+    "en": "Keeps Unusual Pets",
+    "uk": "Тримає незвичайних звірят"
+  },
+  "Alchemist_017": {
+    "en": "Collects Dead Things",
+    "uk": "Збирає всяку мертвечину"
+  },
+  "Alchemist_018": {
+    "en": "Claims to Have Made Gold",
+    "uk": "Хвалиться, що вмів робити золото"
+  },
+  "Alchemist_019": {
+    "en": "Never Reveals the Recipe",
+    "uk": "Рецепта не видасть"
+  },
+  "Alchemist_020": {
+    "en": "Owes Money to a Herbalist",
+    "uk": "Винен травникові"
+  },
+  "Alchemist_021": {
+    "en": "Afraid of Open Flames",
+    "uk": "Боїться відкритого вогню"
+  },
+  "Alchemist_022": {
+    "en": "Surprisingly Superstitious",
+    "uk": "Напрочуд забобонний"
+  },
+  "Blacksmith_001": {
+    "en": "Forge-Born",
+    "uk": "Народжено в кузні"
+  },
+  "Blacksmith_002": {
+    "en": "Master's Apprentice",
+    "uk": "Учень майстра"
+  },
+  "Blacksmith_003": {
+    "en": "Inherited the Workshop",
+    "uk": "Майстерня — у спадок"
+  },
+  "Blacksmith_004": {
+    "en": "Known for Fine Blades",
+    "uk": "Славиться добрими клинками"
+  },
+  "Blacksmith_005": {
+    "en": "Known for Sturdy Tools",
+    "uk": "Славиться міцним знаряддям"
+  },
+  "Blacksmith_006": {
+    "en": "Scarred by the Forge",
+    "uk": "Кузня лишила шрами"
+  },
+  "Blacksmith_007": {
+    "en": "Strong as an Ox",
+    "uk": "Дужий, як віл"
+  },
+  "Blacksmith_008": {
+    "en": "Never Without Soot",
+    "uk": "Вічно в сажі"
+  },
+  "Blacksmith_009": {
+    "en": "Proud of the Craft",
+    "uk": "Пишається своїм ремеслом"
+  },
+  "Blacksmith_010": {
+    "en": "Better with Iron than People",
+    "uk": "Із залізом ладнає краще, ніж з людьми"
+  },
+  "Blacksmith_011": {
+    "en": "Former Armorer",
+    "uk": "Колишній зброяр"
+  },
+  "Blacksmith_012": {
+    "en": "Worked for the City Guard",
+    "uk": "Працював на міську варту"
+  },
+  "Blacksmith_013": {
+    "en": "Made Weapons for Soldiers",
+    "uk": "Кував зброю для війська"
+  },
+  "Blacksmith_014": {
+    "en": "Keeps Every Scrap of Metal",
+    "uk": "Береже кожен шматок металу"
+  },
+  "Blacksmith_015": {
+    "en": "Obsessed with Good Steel",
+    "uk": "Схиблений на добрій сталі"
+  },
+  "Blacksmith_016": {
+    "en": "Hates Shoddy Work",
+    "uk": "Ненавидить халтуру"
+  },
+  "Blacksmith_017": {
+    "en": "Once Ruined a Nobleman's Sword",
+    "uk": "Якось зіпсував меч шляхтичеві"
+  },
+  "Blacksmith_018": {
+    "en": "Claims to Know the Best Ore",
+    "uk": "Божиться, що знає найкращу руду"
+  },
+  "Blacksmith_019": {
+    "en": "Burned More Than One Apron",
+    "uk": "Пропалено вже не один фартух"
+  },
+  "Blacksmith_020": {
+    "en": "Owes Money to a Merchant",
+    "uk": "Винен купцеві"
+  },
+  "Civil_001": {
+    "en": "Failed Apprentice",
+    "uk": "Невдалий учень"
+  },
+  "Civil_002": {
+    "en": "Former Soldier",
+    "uk": "Колишній вояк"
+  },
+  "Civil_003": {
+    "en": "Disgraced Clerk",
+    "uk": "Писар, що впав у неласку"
+  },
+  "Civil_004": {
+    "en": "Tavern Regular",
+    "uk": "Завсідник шинку"
+  },
+  "Civil_005": {
+    "en": "Devout Parishioner",
+    "uk": "Побожний парафіянин"
+  },
+  "Civil_006": {
+    "en": "Known Gambler",
+    "uk": "Відомий гравець"
+  },
+  "Civil_007": {
+    "en": "Petty Criminal",
+    "uk": "Дрібний злочинець"
+  },
+  "Civil_008": {
+    "en": "Well Connected",
+    "uk": "Має зв’язки"
+  },
+  "Civil_009": {
+    "en": "Deep in Debt",
+    "uk": "У боргах як у шовках"
+  },
+  "Civil_010": {
+    "en": "Newly Arrived",
+    "uk": "Щойно прибув"
+  },
+  "Civil_011": {
+    "en": "Fallen on Hard Times",
+    "uk": "Настали скрутні часи"
+  },
+  "Civil_012": {
+    "en": "Lucky Survivor",
+    "uk": "Дивом уцілів"
+  },
+  "Civil_013": {
+    "en": "Unlucky in Love",
+    "uk": "Не щастить у коханні"
+  },
+  "Civil_014": {
+    "en": "Chronic Borrower",
+    "uk": "Вічно позичає"
+  },
+  "Civil_015": {
+    "en": "Notorious Drunk",
+    "uk": "Горезвісний п’яниця"
+  },
+  "Civil_016": {
+    "en": "Aspiring Merchant",
+    "uk": "Мріє вибитися в купці"
+  },
+  "Civil_017": {
+    "en": "Retired Mercenary",
+    "uk": "Найманець на спочинку"
+  },
+  "Civil_018": {
+    "en": "Suspiciously Wealthy",
+    "uk": "Підозріло заможний"
+  },
+  "Civil_019": {
+    "en": "Everybody's Cousin",
+    "uk": "Усім кум і сват"
+  },
+  "Civil_020": {
+    "en": "Twice Widowed",
+    "uk": "Двічі овдовів"
+  },
+  "Civil_021": {
+    "en": "Seven Children",
+    "uk": "Семеро дітей"
+  },
+  "Civil_022": {
+    "en": "No Honest Trade",
+    "uk": "Чесного ремесла не має"
+  },
+  "Civil_023": {
+    "en": "Owes Everyone Money",
+    "uk": "Винен усім довкола"
+  },
+  "Civil_024": {
+    "en": "Local Busybody",
+    "uk": "Місцевий пліткар"
+  },
+  "Civil_025": {
+    "en": "Never Far from Trouble",
+    "uk": "Халепа завжди поруч"
+  },
+  "Entertainer_001": {
+    "en": "Born Performer",
+    "uk": "Лицедій від народження"
+  },
+  "Entertainer_002": {
+    "en": "Tavern Favorite",
+    "uk": "Улюбленець шинку"
+  },
+  "Entertainer_003": {
+    "en": "Street Performer",
+    "uk": "Вуличний артист"
+  },
+  "Entertainer_004": {
+    "en": "Former Court Entertainer",
+    "uk": "Колишній придворний забавник"
+  },
+  "Entertainer_005": {
+    "en": "Traveling Minstrel",
+    "uk": "Мандрівний менестрель"
+  },
+  "Entertainer_006": {
+    "en": "Known for Bawdy Songs",
+    "uk": "Славиться непристойними піснями"
+  },
+  "Entertainer_007": {
+    "en": "Crowd Pleaser",
+    "uk": "Улюбленець публіки"
+  },
+  "Entertainer_008": {
+    "en": "Always Has a Story",
+    "uk": "Завжди має що розповісти"
+  },
+  "Entertainer_009": {
+    "en": "Never Without an Audience",
+    "uk": "Завжди має глядачів"
+  },
+  "Entertainer_010": {
+    "en": "Knows Every Drinking Song",
+    "uk": "Знає кожну застольну пісню"
+  },
+  "Entertainer_011": {
+    "en": "Better on Stage than Off",
+    "uk": "На сцені приємніше, ніж у житті"
+  },
+  "Entertainer_012": {
+    "en": "Famous in Three Taverns",
+    "uk": "Знаменитість трьох шинків"
+  },
+  "Entertainer_013": {
+    "en": "Once Performed for Nobility",
+    "uk": "Колись виступав перед знаттю"
+  },
+  "Entertainer_014": {
+    "en": "Claims to Know the King's Jester",
+    "uk": "Каже, що знайомий з королівським блазнем"
+  },
+  "Entertainer_015": {
+    "en": "Performs for Coin",
+    "uk": "Виступає за гроші"
+  },
+  "Entertainer_016": {
+    "en": "Master of Improvisation",
+    "uk": "Майстер імпровізації"
+  },
+  "Entertainer_017": {
+    "en": "Known for Terrible Jokes",
+    "uk": "Славиться жахливими жартами"
+  },
+  "Entertainer_018": {
+    "en": "Loves the Sound of Applause",
+    "uk": "Обожнює оплески"
+  },
+  "Entertainer_019": {
+    "en": "Booed Out of Town Once",
+    "uk": "Якось вигнали з міста свистом"
+  },
+  "Entertainer_020": {
+    "en": "Keeps a Repertoire of Scandals",
+    "uk": "Має цілий репертуар скандалів"
+  },
+  "Entertainer_021": {
+    "en": "Collects Strange Instruments",
+    "uk": "Збирає чудернацькі інструменти"
+  },
+  "Entertainer_022": {
+    "en": "Always in Costume",
+    "uk": "Завжди в костюмі"
+  },
+  "Entertainer_023": {
+    "en": "Knows Everyone's Favorite Song",
+    "uk": "Знає улюблену пісню кожного"
+  },
+  "Entertainer_024": {
+    "en": "Surprisingly Shy",
+    "uk": "Напрочуд сором’язливий"
+  },
+  "Ghoul_001": {
+    "en": "Graveyard Regular",
+    "uk": "Завсідник цвинтаря"
+  },
+  "Ghoul_002": {
+    "en": "Keeper of the Dead",
+    "uk": "Хранитель мертвих"
+  },
+  "Ghoul_003": {
+    "en": "Corpse Collector",
+    "uk": "Збирач трупів"
+  },
+  "Ghoul_004": {
+    "en": "Familiar with the Gallows",
+    "uk": "На шибениці — як удома"
+  },
+  "Ghoul_005": {
+    "en": "Feared by Children",
+    "uk": "Ним лякають дітей"
+  },
+  "Ghoul_006": {
+    "en": "Never Seen in Daylight",
+    "uk": "Вдень його ніхто не бачив"
+  },
+  "Ghoul_007": {
+    "en": "Always Smells of Earth",
+    "uk": "Завжди пахне землею"
+  },
+  "Ghoul_008": {
+    "en": "Knows Every Burial Ground",
+    "uk": "Знає кожен цвинтар"
+  },
+  "Ghoul_009": {
+    "en": "Collector of Bones",
+    "uk": "Збирає кістки"
+  },
+  "Ghoul_010": {
+    "en": "Keeper of Strange Trophies",
+    "uk": "Хранитель дивних трофеїв"
+  },
+  "Ghoul_011": {
+    "en": "Too Comfortable Around Corpses",
+    "uk": "Серед трупів почувається надто затишно"
+  },
+  "Ghoul_012": {
+    "en": "Former Gravedigger",
+    "uk": "Колишній гробар"
+  },
+  "Ghoul_013": {
+    "en": "Works After Dark",
+    "uk": "Працює поночі"
+  },
+  "Ghoul_014": {
+    "en": "Seen Near Fresh Graves",
+    "uk": "Бачили біля свіжих могил"
+  },
+  "Ghoul_015": {
+    "en": "Knows Where the Bodies Are Buried",
+    "uk": "Знає, де закопано трупи"
+  },
+  "Ghoul_016": {
+    "en": "Avoided by the Devout",
+    "uk": "Побожні обходять стороною"
+  },
+  "Ghoul_017": {
+    "en": "Rumored to Eat the Dead",
+    "uk": "Кажуть, їсть мерців"
+  },
+  "Ghoul_018": {
+    "en": "Never Discusses His Diet",
+    "uk": "Про свій харч не розповідає"
+  },
+  "Ghoul_019": {
+    "en": "Unwelcome at Funerals",
+    "uk": "Небажаний гість на похоронах"
+  },
+  "Ghoul_020": {
+    "en": "Has Terrible Table Manners",
+    "uk": "Жахливі манери за столом"
+  },
+  "Ghoul_021": {
+    "en": "Suspiciously Pale",
+    "uk": "Підозріло блідий"
+  },
+  "Ghoul_022": {
+    "en": "Surprisingly Polite",
+    "uk": "Напрочуд чемний"
+  },
+  "Innkeeper_001": {
+    "en": "Knows Every Regular",
+    "uk": "Знає кожного завсідника"
+  },
+  "Innkeeper_002": {
+    "en": "Hears Every Rumor",
+    "uk": "Чує кожну плітку"
+  },
+  "Innkeeper_003": {
+    "en": "Never Forgets a Face",
+    "uk": "Ніколи не забуває облич"
+  },
+  "Innkeeper_004": {
+    "en": "Always Has a Story",
+    "uk": "Завжди має що розповісти"
+  },
+  "Innkeeper_005": {
+    "en": "Knows Who Owes What",
+    "uk": "Знає, хто скільки винен"
+  },
+  "Innkeeper_006": {
+    "en": "Good with Drunks",
+    "uk": "Уміє поводитися з п’яницями"
+  },
+  "Innkeeper_007": {
+    "en": "Keeps the Ale Flowing",
+    "uk": "Пиво ллється рікою"
+  },
+  "Innkeeper_008": {
+    "en": "Used to Long Nights",
+    "uk": "Звик до довгих ночей"
+  },
+  "Innkeeper_009": {
+    "en": "Knows When to Look Away",
+    "uk": "Знає, коли краще відвернутися"
+  },
+  "Innkeeper_010": {
+    "en": "Familiar with Every Excuse",
+    "uk": "Чув усі відмовки"
+  },
+  "Innkeeper_011": {
+    "en": "Always Behind the Counter",
+    "uk": "Завжди за шинквасом"
+  },
+  "Innkeeper_012": {
+    "en": "Knows the Best Gossip",
+    "uk": "Знає найсмачніші плітки"
+  },
+  "Innkeeper_013": {
+    "en": "Quick with a Tankard",
+    "uk": "Спритний з кухлем"
+  },
+  "Innkeeper_014": {
+    "en": "Good at Settling Arguments",
+    "uk": "Уміє залагоджувати суперечки"
+  },
+  "Innkeeper_015": {
+    "en": "Has Heard It All Before",
+    "uk": "Усе це вже чув"
+  },
+  "Innkeeper_016": {
+    "en": "Knows Who Tips Well",
+    "uk": "Знає, хто щедро дає на чай"
+  },
+  "Innkeeper_017": {
+    "en": "Never Short of Advice",
+    "uk": "На пораду не скупиться"
+  },
+  "Innkeeper_018": {
+    "en": "Keeps Questionable Company",
+    "uk": "Водиться з сумнівним товариством"
+  },
+  "Innkeeper_019": {
+    "en": "Knows Every Drinking Song",
+    "uk": "Знає кожну застольну пісню"
+  },
+  "Innkeeper_020": {
+    "en": "Often Working Late",
+    "uk": "Часто працює допізна"
+  },
+  "Innkeeper_021": {
+    "en": "Better with Guests than Family",
+    "uk": "З гостями ладнає краще, ніж з родиною"
+  },
+  "Innkeeper_022": {
+    "en": "Surprisingly Good Listener",
+    "uk": "Напрочуд уважний слухач"
+  },
+  "Innkeeper_023": {
+    "en": "Knows Everyone by Name",
+    "uk": "Знає всіх на ім’я"
+  },
+  "Innkeeper_024": {
+    "en": "Always Finds an Empty Seat",
+    "uk": "Завжди знайде вільне місце"
+  },
+  "Innkeeper_025": {
+    "en": "Never Far from a Full Mug",
+    "uk": "Повний кухоль завжди під рукою"
+  },
+  "Joiner_001": {
+    "en": "Master's Apprentice",
+    "uk": "Учень майстра"
+  },
+  "Joiner_002": {
+    "en": "Raised in the Workshop",
+    "uk": "Виріс у майстерні"
+  },
+  "Joiner_003": {
+    "en": "Inherited the Trade",
+    "uk": "Ремесло — у спадок"
+  },
+  "Joiner_004": {
+    "en": "Known for Fine Furniture",
+    "uk": "Славиться гарними меблями"
+  },
+  "Joiner_005": {
+    "en": "Good with Their Hands",
+    "uk": "Золоті руки"
+  },
+  "Joiner_006": {
+    "en": "Better with Wood than People",
+    "uk": "З деревом ладнає краще, ніж з людьми"
+  },
+  "Joiner_007": {
+    "en": "Always Covered in Sawdust",
+    "uk": "Вічно в тирсі"
+  },
+  "Joiner_008": {
+    "en": "Proud of the Craft",
+    "uk": "Пишається своїм ремеслом"
+  },
+  "Joiner_009": {
+    "en": "Never Wastes Good Timber",
+    "uk": "Не марнує доброго дерева"
+  },
+  "Joiner_010": {
+    "en": "Knows Every Kind of Wood",
+    "uk": "Знає кожну породу дерева"
+  },
+  "Joiner_011": {
+    "en": "Obsessed with Straight Lines",
+    "uk": "Схиблений на прямих лініях"
+  },
+  "Joiner_012": {
+    "en": "Hates Crooked Shelves",
+    "uk": "Ненавидить криві полиці"
+  },
+  "Joiner_013": {
+    "en": "Repairs Everything Twice",
+    "uk": "Усе ремонтує двічі"
+  },
+  "Joiner_014": {
+    "en": "Built Half the Neighborhood",
+    "uk": "Звів пів околиці"
+  },
+  "Joiner_015": {
+    "en": "Keeps Every Offcut",
+    "uk": "Не викидає жодного обрізка"
+  },
+  "Joiner_016": {
+    "en": "Works by Eye",
+    "uk": "Працює на око"
+  },
+  "Joiner_017": {
+    "en": "Measures Everything Twice",
+    "uk": "Усе міряє двічі"
+  },
+  "Joiner_018": {
+    "en": "Former Carpenter's Assistant",
+    "uk": "Колишній підмайстер теслі"
+  },
+  "Joiner_019": {
+    "en": "Learned from a Parent",
+    "uk": "Навчався в батьків"
+  },
+  "Joiner_020": {
+    "en": "Known for Sturdy Work",
+    "uk": "Славиться міцною роботою"
+  },
+  "Joiner_021": {
+    "en": "Takes Too Long on Every Job",
+    "uk": "Кожну роботу тягне надто довго"
+  },
+  "Joiner_022": {
+    "en": "Never Satisfied with the Finish",
+    "uk": "Вічно незадоволений оздобленням"
+  },
+  "LumberWorker_001": {
+    "en": "Raised in the Woods",
+    "uk": "Виріс у лісі"
+  },
+  "LumberWorker_002": {
+    "en": "Knows Every Tree",
+    "uk": "Знає кожне дерево"
+  },
+  "LumberWorker_003": {
+    "en": "Never Without an Axe",
+    "uk": "Завжди з сокирою"
+  },
+  "LumberWorker_004": {
+    "en": "Strong as an Ox",
+    "uk": "Дужий, як віл"
+  },
+  "LumberWorker_005": {
+    "en": "Covered in Sawdust",
+    "uk": "Весь у тирсі"
+  },
+  "LumberWorker_006": {
+    "en": "Smells of Pine",
+    "uk": "Пахне сосною"
+  },
+  "LumberWorker_007": {
+    "en": "Works from Dawn",
+    "uk": "Працює від світанку"
+  },
+  "LumberWorker_008": {
+    "en": "Hates Rotten Timber",
+    "uk": "Ненавидить трухляве дерево"
+  },
+  "LumberWorker_009": {
+    "en": "Good with an Axe",
+    "uk": "Спритно орудує сокирою"
+  },
+  "LumberWorker_010": {
+    "en": "Knows Good Wood at a Glance",
+    "uk": "Бачить добре дерево з першого погляду"
+  },
+  "LumberWorker_011": {
+    "en": "Has Felled Hundreds of Trees",
+    "uk": "Звалив сотні дерев"
+  },
+  "LumberWorker_012": {
+    "en": "Rarely Seen in Town",
+    "uk": "Рідко буває в місті"
+  },
+  "LumberWorker_013": {
+    "en": "Sleeps Better Outdoors",
+    "uk": "Краще спить просто неба"
+  },
+  "LumberWorker_014": {
+    "en": "Afraid of Falling Branches",
+    "uk": "Боїться, що на голову впаде гілка"
+  },
+  "LumberWorker_015": {
+    "en": "Once Crushed a Cart",
+    "uk": "Якось розчавив віз"
+  },
+  "LumberWorker_016": {
+    "en": "Keeps to the Forest",
+    "uk": "Тримається лісу"
+  },
+  "LumberWorker_017": {
+    "en": "Knows Every Woodland Path",
+    "uk": "Знає кожну лісову стежку"
+  },
+  "LumberWorker_018": {
+    "en": "Never Wastes Good Timber",
+    "uk": "Не марнує доброго дерева"
+  },
+  "LumberWorker_019": {
+    "en": "Former Hunter",
+    "uk": "Колишній мисливець"
+  },
+  "MineWorker_001": {
+    "en": "Raised Underground",
+    "uk": "Виріс під землею"
+  },
+  "MineWorker_002": {
+    "en": "Knows Every Tunnel",
+    "uk": "Знає кожну штольню"
+  },
+  "MineWorker_003": {
+    "en": "Never Without a Pickaxe",
+    "uk": "Завжди з кайлом"
+  },
+  "MineWorker_004": {
+    "en": "Covered in Dust",
+    "uk": "Весь у пилюці"
+  },
+  "MineWorker_005": {
+    "en": "Strong as an Ox",
+    "uk": "Дужий, як віл"
+  },
+  "MineWorker_006": {
+    "en": "Used to the Dark",
+    "uk": "Звик до темряви"
+  },
+  "MineWorker_007": {
+    "en": "Knows Good Ore at a Glance",
+    "uk": "Бачить добру руду з першого погляду"
+  },
+  "MineWorker_008": {
+    "en": "Hates Weak Supports",
+    "uk": "Не довіряє хистким кріпленням"
+  },
+  "MineWorker_009": {
+    "en": "Has Survived a Cave-In",
+    "uk": "Пережив обвал у штольні"
+  },
+  "MineWorker_010": {
+    "en": "Always Listening for Cracks",
+    "uk": "Завжди прислухається, чи не тріщить"
+  },
+  "MineWorker_011": {
+    "en": "Works by Lantern Light",
+    "uk": "Працює при світлі ліхтаря"
+  },
+  "MineWorker_012": {
+    "en": "Rarely Sees the Sun",
+    "uk": "Рідко бачить сонце"
+  },
+  "MineWorker_013": {
+    "en": "Knows Where the Best Veins Are",
+    "uk": "Знає, де найбагатші жили"
+  },
+  "MineWorker_014": {
+    "en": "Keeps Lucky Stones",
+    "uk": "Тримає камінці на щастя"
+  },
+  "MineWorker_015": {
+    "en": "Superstitious Underground",
+    "uk": "Під землею забобонний"
+  },
+  "MineWorker_016": {
+    "en": "Former Quarryman",
+    "uk": "Колишній кар’єрник"
+  },
+  "Moneylender_001": {
+    "en": "Knows Who Owes What",
+    "uk": "Знає, хто скільки винен"
+  },
+  "Moneylender_002": {
+    "en": "Never Forgets a Debt",
+    "uk": "Ніколи не забуває боргів"
+  },
+  "Moneylender_003": {
+    "en": "Good with Numbers",
+    "uk": "Дружить із цифрами"
+  },
+  "Moneylender_004": {
+    "en": "Keeps Careful Records",
+    "uk": "Усе ретельно занотовує"
+  },
+  "Moneylender_005": {
+    "en": "Counts Every Coin",
+    "uk": "Рахує кожну монету"
+  },
+  "Moneylender_006": {
+    "en": "Trusted with the Books",
+    "uk": "Йому довіряють рахункові книги"
+  },
+  "Moneylender_007": {
+    "en": "Knows Everyone's Finances",
+    "uk": "Знає, в кого скільки грошей"
+  },
+  "Moneylender_008": {
+    "en": "Collects on Time",
+    "uk": "Стягує борги вчасно"
+  },
+  "Moneylender_009": {
+    "en": "Patient with Debtors",
+    "uk": "Терплячий до боржників"
+  },
+  "Moneylender_010": {
+    "en": "Less Patient Than They Look",
+    "uk": "Не такий терплячий, як здається"
+  },
+  "Moneylender_011": {
+    "en": "Always Carries a Ledger",
+    "uk": "Завжди носить при собі рахункову книгу"
+  },
+  "Moneylender_012": {
+    "en": "Knows the Value of Everything",
+    "uk": "Знає ціну всьому"
+  },
+  "Moneylender_013": {
+    "en": "Rarely Lends Without Security",
+    "uk": "Рідко позичає без застави"
+  },
+  "Moneylender_014": {
+    "en": "Keeps Excellent Accounts",
+    "uk": "Рахунки — комар носа не підточить"
+  },
+  "Moneylender_015": {
+    "en": "Good at Reading People",
+    "uk": "Бачить людей наскрізь"
+  },
+  "Moneylender_016": {
+    "en": "Has Heard Every Excuse",
+    "uk": "Чув усі відмовки на світі"
+  },
+  "Necromancer_001": {
+    "en": "Keeper of Forbidden Tomes",
+    "uk": "Хранитель заборонених книг"
+  },
+  "Necromancer_002": {
+    "en": "Familiar with the Dead",
+    "uk": "З мерцями на короткій нозі"
+  },
+  "Necromancer_003": {
+    "en": "Knows Every Burial Rite",
+    "uk": "Знає кожен похоронний обряд"
+  },
+  "Necromancer_004": {
+    "en": "Works Best After Dark",
+    "uk": "Найкраще працює поночі"
+  },
+  "Necromancer_005": {
+    "en": "Collects Strange Relics",
+    "uk": "Збирає дивні реліквії"
+  },
+  "Necromancer_006": {
+    "en": "Knows Too Much About Corpses",
+    "uk": "Знає забагато про трупи"
+  },
+  "Necromancer_007": {
+    "en": "Has Friends in the Graveyard",
+    "uk": "Має друзів на цвинтарі"
+  },
+  "Necromancer_008": {
+    "en": "Never Afraid of the Dead",
+    "uk": "Не боїться мертвих"
+  },
+  "Necromancer_009": {
+    "en": "Studies What Others Fear",
+    "uk": "Вивчає те, чого інші бояться"
+  },
+  "Necromancer_010": {
+    "en": "Keeps Questionable Company",
+    "uk": "Водиться з сумнівним товариством"
+  },
+  "Necromancer_011": {
+    "en": "Knows Where the Bodies Are Buried",
+    "uk": "Знає, де закопано трупи"
+  },
+  "Necromancer_012": {
+    "en": "Always Smells of Incense",
+    "uk": "Завжди пахне ладаном"
+  },
+  "Necromancer_013": {
+    "en": "Suspiciously Pale",
+    "uk": "Підозріло блідий"
+  },
+  "Necromancer_014": {
+    "en": "Rarely Sleeps",
+    "uk": "Рідко спить"
+  },
+  "Necromancer_015": {
+    "en": "Avoided by the Devout",
+    "uk": "Побожні обходять стороною"
+  },
+  "Necromancer_016": {
+    "en": "Former Scholar",
+    "uk": "Колишній книжник"
+  },
+  "Necromancer_017": {
+    "en": "Former Physician",
+    "uk": "Колишній лікар"
+  },
+  "Necromancer_018": {
+    "en": "Surprisingly Polite",
+    "uk": "Напрочуд чемний"
+  },
+  "Perfumer_001": {
+    "en": "Knows Every Scent",
+    "uk": "Знає кожен аромат"
+  },
+  "Perfumer_002": {
+    "en": "Always Smells Pleasant",
+    "uk": "Завжди приємно пахне"
+  },
+  "Perfumer_003": {
+    "en": "Collector of Rare Oils",
+    "uk": "Збирає рідкісні олії"
+  },
+  "Perfumer_004": {
+    "en": "Works with Exotic Ingredients",
+    "uk": "Працює з екзотичними інгредієнтами"
+  },
+  "Perfumer_005": {
+    "en": "Knows Good Resin at a Glance",
+    "uk": "Бачить добру живицю з першого погляду"
+  },
+  "Perfumer_006": {
+    "en": "Keeps a Careful Nose",
+    "uk": "Має чуйний ніс"
+  },
+  "Perfumer_007": {
+    "en": "Never Wastes Fine Spices",
+    "uk": "Не марнує добрих прянощів"
+  },
+  "Perfumer_008": {
+    "en": "Familiar with Every Flower",
+    "uk": "Знає кожну квітку"
+  },
+  "Perfumer_009": {
+    "en": "Knows How to Hide a Bad Smell",
+    "uk": "Уміє приховати поганий запах"
+  },
+  "Perfumer_010": {
+    "en": "Trusted with Expensive Essences",
+    "uk": "Йому довіряють дорогі есенції"
+  },
+  "Perfumer_011": {
+    "en": "Has a Nose for Quality",
+    "uk": "Має нюх на якість"
+  },
+  "Perfumer_012": {
+    "en": "Keeps Secret Recipes",
+    "uk": "Береже таємні рецепти"
+  },
+  "Perfumer_013": {
+    "en": "Obsessed with Perfect Blends",
+    "uk": "Схиблений на ідеальних сумішах"
+  },
+  "Perfumer_014": {
+    "en": "Imports Strange Ingredients",
+    "uk": "Привозить дивовижні інгредієнти"
+  },
+  "Perfumer_015": {
+    "en": "Former Herbalist",
+    "uk": "Колишній травник"
+  },
+  "Perfumer_016": {
+    "en": "Former Apothecary",
+    "uk": "Колишній аптекар"
+  },
+  "Perfumer_017": {
+    "en": "Supplies Wealthy Clients",
+    "uk": "Постачає заможним клієнтам"
+  },
+  "Perfumer_018": {
+    "en": "Knows What Nobles Wear",
+    "uk": "Знає, що носить знать"
+  },
+  "Physician_001": {
+    "en": "Knows Every Remedy",
+    "uk": "Знає кожні ліки"
+  },
+  "Physician_002": {
+    "en": "Keeps a Steady Hand",
+    "uk": "Має тверду руку"
+  },
+  "Physician_003": {
+    "en": "Familiar with Every Ailment",
+    "uk": "Знає кожну хворобу"
+  },
+  "Physician_004": {
+    "en": "Trusted with Difficult Cases",
+    "uk": "Йому доручають складні випадки"
+  },
+  "Physician_005": {
+    "en": "Has Seen Worse",
+    "uk": "Бачив і гірше"
+  },
+  "Physician_006": {
+    "en": "Never Without a Remedy",
+    "uk": "Завжди має ліки"
+  },
+  "Physician_007": {
+    "en": "Knows When to Worry",
+    "uk": "Знає, коли варто хвилюватися"
+  },
+  "Physician_008": {
+    "en": "Good with Nervous Patients",
+    "uk": "Уміє заспокоїти лякливих пацієнтів"
+  },
+  "Physician_009": {
+    "en": "Keeps Careful Notes",
+    "uk": "Усе ретельно записує"
+  },
+  "Physician_010": {
+    "en": "Former Apothecary",
+    "uk": "Колишній аптекар"
+  },
+  "Physician_011": {
+    "en": "Former Barber-Surgeon",
+    "uk": "Колишній цирульник-хірург"
+  },
+  "Physician_012": {
+    "en": "Trained Abroad",
+    "uk": "Навчався за кордоном"
+  },
+  "Physician_013": {
+    "en": "Self-Taught Healer",
+    "uk": "Цілитель-самоук"
+  },
+  "Physician_014": {
+    "en": "Known for Risky Treatments",
+    "uk": "Славиться ризикованим лікуванням"
+  },
+  "Physician_015": {
+    "en": "Prefers Herbs to Prayer",
+    "uk": "Трави цінує більше, ніж молитву"
+  },
+  "Physician_016": {
+    "en": "Prefers Prayer to Herbs",
+    "uk": "Молитву цінує більше, ніж трави"
+  },
+  "Physician_017": {
+    "en": "Has Lost Few Patients",
+    "uk": "Втратив небагато пацієнтів"
+  },
+  "Physician_018": {
+    "en": "Has Lost Too Many Patients",
+    "uk": "Втратив забагато пацієнтів"
+  },
+  "Physician_019": {
+    "en": "Knows Too Much About Poisons",
+    "uk": "Знає забагато про отрути"
+  },
+  "Physician_020": {
+    "en": "Surprisingly Superstitious",
+    "uk": "Напрочуд забобонний"
+  },
+  "Priest_001": {
+    "en": "Devout Parishioner",
+    "uk": "Побожний парафіянин"
+  },
+  "Priest_002": {
+    "en": "Known for Fiery Sermons",
+    "uk": "Славиться полум’яними проповідями"
+  },
+  "Priest_003": {
+    "en": "Gentle with Sinners",
+    "uk": "Лагідний до грішників"
+  },
+  "Priest_004": {
+    "en": "Strict with Sinners",
+    "uk": "Суворий до грішників"
+  },
+  "Priest_005": {
+    "en": "Keeper of Confessions",
+    "uk": "Хранитель сповідей"
+  },
+  "Priest_006": {
+    "en": "Knows Every Parishioner",
+    "uk": "Знає кожного парафіянина"
+  },
+  "Priest_007": {
+    "en": "Trusted by the Poor",
+    "uk": "Має довіру бідноти"
+  },
+  "Priest_008": {
+    "en": "Favored by the Wealthy",
+    "uk": "Улюбленець багатіїв"
+  },
+  "Priest_009": {
+    "en": "Always Has a Scripture Ready",
+    "uk": "Завжди має напоготові цитату з Письма"
+  },
+  "Priest_010": {
+    "en": "Better at Preaching than Listening",
+    "uk": "Краще проповідує, ніж слухає"
+  },
+  "Priest_011": {
+    "en": "Better at Listening than Preaching",
+    "uk": "Краще слухає, ніж проповідує"
+  },
+  "Priest_012": {
+    "en": "Former Scholar",
+    "uk": "Колишній книжник"
+  },
+  "Priest_013": {
+    "en": "Church-Raised",
+    "uk": "Виховання церковне"
+  },
+  "Priest_014": {
+    "en": "Trained at a Monastery",
+    "uk": "Навчався в монастирі"
+  },
+  "Priest_015": {
+    "en": "Knows Every Feast Day",
+    "uk": "Знає кожне свято"
+  },
+  "Priest_016": {
+    "en": "Rarely Misses a Service",
+    "uk": "Рідко пропускає службу"
+  },
+  "Priest_017": {
+    "en": "Keeps Careful Records",
+    "uk": "Усе ретельно занотовує"
+  },
+  "Priest_018": {
+    "en": "Known for Long Sermons",
+    "uk": "Славиться довжелезними проповідями"
+  },
+  "Priest_019": {
+    "en": "Surprisingly Worldly",
+    "uk": "Напрочуд тямить у мирських справах"
+  },
+  "Prisoner_001": {
+    "en": "Wrongly Accused",
+    "uk": "Звинувачений безпідставно"
+  },
+  "Prisoner_002": {
+    "en": "Awaiting Trial",
+    "uk": "Чекає на суд"
+  },
+  "Prisoner_003": {
+    "en": "Convicted Thief",
+    "uk": "Засуджений злодій"
+  },
+  "Prisoner_004": {
+    "en": "Repeat Offender",
+    "uk": "Рецидивіст"
+  },
+  "Prisoner_005": {
+    "en": "Known Troublemaker",
+    "uk": "Відомий бешкетник"
+  },
+  "Prisoner_006": {
+    "en": "Claims Innocence",
+    "uk": "Запевняє, що невинне ягня"
+  },
+  "Prisoner_007": {
+    "en": "Knows the Guards Too Well",
+    "uk": "Надто добре знає вартових"
+  },
+  "Prisoner_008": {
+    "en": "Has Powerful Enemies",
+    "uk": "Має могутніх ворогів"
+  },
+  "Prisoner_009": {
+    "en": "Owes the Wrong People",
+    "uk": "Винен не тим людям"
+  },
+  "Prisoner_010": {
+    "en": "Former Escapee",
+    "uk": "Уже раз утікав"
+  },
+  "Prisoner_011": {
+    "en": "Caught Red-Handed",
+    "uk": "Спіймано на гарячому"
+  },
+  "Prisoner_012": {
+    "en": "Serving a Long Sentence",
+    "uk": "Відбуває довгий строк"
+  },
+  "Prisoner_013": {
+    "en": "Awaiting Sentencing",
+    "uk": "Чекає на вирок"
+  },
+  "Prisoner_014": {
+    "en": "Jailed for Debt",
+    "uk": "Сидить за борги"
+  },
+  "Prisoner_015": {
+    "en": "Jailed for Assault",
+    "uk": "Сидить за побиття"
+  },
+  "Prisoner_016": {
+    "en": "Jailed for Theft",
+    "uk": "Сидить за крадіжку"
+  },
+  "Prisoner_017": {
+    "en": "Jailed for Fraud",
+    "uk": "Сидить за шахрайство"
+  },
+  "Prisoner_018": {
+    "en": "Jailed for Smuggling",
+    "uk": "Сидить за контрабанду"
+  },
+  "Prisoner_019": {
+    "en": "Jailed for Heresy",
+    "uk": "Сидить за єресь"
+  },
+  "Prisoner_020": {
+    "en": "Jailed for Treason",
+    "uk": "Сидить за зраду"
+  },
+  "QuarryWorker_001": {
+    "en": "Raised in the Quarry",
+    "uk": "Виріс у кар’єрі"
+  },
+  "QuarryWorker_002": {
+    "en": "Knows Good Stone at a Glance",
+    "uk": "Бачить добрий камінь з першого погляду"
+  },
+  "QuarryWorker_003": {
+    "en": "Never Without a Hammer",
+    "uk": "Завжди з молотом"
+  },
+  "QuarryWorker_004": {
+    "en": "Covered in Stone Dust",
+    "uk": "Весь у кам’яному пилу"
+  },
+  "QuarryWorker_005": {
+    "en": "Used to Heavy Loads",
+    "uk": "Звик до важкої ноші"
+  },
+  "QuarryWorker_006": {
+    "en": "Knows Where to Cut",
+    "uk": "Знає, де різати"
+  },
+  "QuarryWorker_007": {
+    "en": "Hates Cracked Stone",
+    "uk": "Ненавидить тріснутий камінь"
+  },
+  "QuarryWorker_008": {
+    "en": "Works from Dawn",
+    "uk": "Працює від світанку"
+  },
+  "QuarryWorker_009": {
+    "en": "Has Survived a Rockfall",
+    "uk": "Пережив камнепад"
+  },
+  "QuarryWorker_010": {
+    "en": "Always Watching for Loose Stone",
+    "uk": "Завжди пильнує, чи не хитається камінь"
+  },
+  "QuarryWorker_011": {
+    "en": "Strong as an Ox",
+    "uk": "Дужий, як віл"
+  },
+  "QuarryWorker_012": {
+    "en": "Former Mason",
+    "uk": "Колишній муляр"
+  },
+  "QuarryWorker_013": {
+    "en": "Knows Every Kind of Stone",
+    "uk": "Знає кожен різновид каменю"
+  },
+  "QuarryWorker_014": {
+    "en": "Can Split Stone Cleanly",
+    "uk": "Розколює камінь рівнісінько"
+  },
+  "QuarryWorker_015": {
+    "en": "Rarely Leaves the Quarry",
+    "uk": "Рідко вибирається з кар’єру"
+  },
+  "QuarryWorker_016": {
+    "en": "Works by Hammer and Chisel",
+    "uk": "Працює молотом і долотом"
+  },
+  "RobberBaron_001": {
+    "en": "Known Highway Robber",
+    "uk": "Відомий харциз"
+  },
+  "RobberBaron_002": {
+    "en": "Roadside Ambusher",
+    "uk": "Чатує при дорозі"
+  },
+  "RobberBaron_003": {
+    "en": "Caravan Robber",
+    "uk": "Грабує валки"
+  },
+  "RobberBaron_004": {
+    "en": "Known Bandit",
+    "uk": "Відомий розбійник"
+  },
+  "RobberBaron_005": {
+    "en": "Wanted for Robbery",
+    "uk": "Розшукується за грабіж"
+  },
+  "RobberBaron_006": {
+    "en": "Escaped the Gallows",
+    "uk": "Утік із-під шибениці"
+  },
+  "RobberBaron_007": {
+    "en": "Preys on Travelers",
+    "uk": "Полює на подорожніх"
+  },
+  "RobberBaron_008": {
+    "en": "Targets Wealthy Merchants",
+    "uk": "Полює на багатих купців"
+  },
+  "RobberBaron_009": {
+    "en": "Works with a Gang",
+    "uk": "Працює з бандою"
+  },
+  "RobberBaron_010": {
+    "en": "Robs After Dark",
+    "uk": "Грабує поночі"
+  },
+  "RobberBaron_011": {
+    "en": "Knows the Back Roads",
+    "uk": "Знає манівці"
+  },
+  "RobberBaron_012": {
+    "en": "Has a Hidden Stash",
+    "uk": "Має схованку. Десь."
+  },
+  "RobberBaron_013": {
+    "en": "Former Mercenary",
+    "uk": "Колишній найманець"
+  },
+  "RobberBaron_014": {
+    "en": "Former Soldier",
+    "uk": "Колишній вояк"
+  },
+  "RobberBaron_015": {
+    "en": "Known Fence",
+    "uk": "Відомий скупник краденого"
+  },
+  "RobberBaron_016": {
+    "en": "Wanted in Several Towns",
+    "uk": "Розшукується в кількох містах"
+  },
+  "StoneMason_001": {
+    "en": "Master Stonecutter",
+    "uk": "Майстер-каменотес"
+  },
+  "StoneMason_002": {
+    "en": "Raised in the Mason's Yard",
+    "uk": "Виріс на мулярському дворі"
+  },
+  "StoneMason_003": {
+    "en": "Knows Good Stone at a Glance",
+    "uk": "Бачить добрий камінь з першого погляду"
+  },
+  "StoneMason_004": {
+    "en": "Carves by Eye",
+    "uk": "Тесає на око"
+  },
+  "StoneMason_005": {
+    "en": "Works by Hammer and Chisel",
+    "uk": "Працює молотом і долотом"
+  },
+  "StoneMason_006": {
+    "en": "Known for Fine Stonework",
+    "uk": "Славиться тонкою роботою з каменю"
+  },
+  "StoneMason_007": {
+    "en": "Builds to Last",
+    "uk": "Будує на віки"
+  },
+  "StoneMason_008": {
+    "en": "Hates Crooked Walls",
+    "uk": "Ненавидить криві стіни"
+  },
+  "StoneMason_009": {
+    "en": "Specializes in Arches",
+    "uk": "Майстер арок"
+  },
+  "StoneMason_010": {
+    "en": "Skilled with Decorative Carving",
+    "uk": "Майстер декоративного різьблення"
+  },
+  "StoneMason_011": {
+    "en": "Repairs Old Masonry",
+    "uk": "Лагодить старе мурування"
+  },
+  "StoneMason_012": {
+    "en": "Works on Churches",
+    "uk": "Працює на церквах"
+  },
+  "StoneMason_013": {
+    "en": "Works on Fortifications",
+    "uk": "Працює на укріпленнях"
+  },
+  "StoneMason_014": {
+    "en": "Former Quarry Worker",
+    "uk": "Колишній каменотес"
+  },
+  "StoneMason_015": {
+    "en": "Trained under a Master Mason",
+    "uk": "Навчався в майстра-муляра"
+  },
+  "StoneMason_016": {
+    "en": "Has Built Half the Quarter",
+    "uk": "Збудував пів кварталу"
+  },
+  "Tailor_001": {
+    "en": "Master Tailor",
+    "uk": "Майстер-кравець"
+  },
+  "Tailor_002": {
+    "en": "Raised in the Workshop",
+    "uk": "Виріс у майстерні"
+  },
+  "Tailor_003": {
+    "en": "Trained under a Master Tailor",
+    "uk": "Навчався в майстра-кравця"
+  },
+  "Tailor_004": {
+    "en": "Known for Fine Stitching",
+    "uk": "Славиться тонким шиттям"
+  },
+  "Tailor_005": {
+    "en": "Cuts Cloth by Eye",
+    "uk": "Кроїть на око"
+  },
+  "Tailor_006": {
+    "en": "Never Wastes Good Fabric",
+    "uk": "Не марнує доброї тканини"
+  },
+  "Tailor_007": {
+    "en": "Works for Wealthy Clients",
+    "uk": "Працює на заможних клієнтів"
+  },
+  "Tailor_008": {
+    "en": "Specializes in Fine Garments",
+    "uk": "Шиє вишукане вбрання"
+  },
+  "Tailor_009": {
+    "en": "Repairs Expensive Clothes",
+    "uk": "Лагодить дорогий одяг"
+  },
+  "Tailor_010": {
+    "en": "Keeps Every Scrap of Cloth",
+    "uk": "Береже кожен клапоть тканини"
+  },
+  "Tailor_011": {
+    "en": "Knows Good Wool at a Glance",
+    "uk": "Бачить добру вовну з першого погляду"
+  },
+  "Tailor_012": {
+    "en": "Knows Fine Linen from Cheap Cloth",
+    "uk": "Відрізнить добрий льон від дешевої ряднини"
+  },
+  "Tailor_013": {
+    "en": "Obsessed with a Perfect Fit",
+    "uk": "Схиблений на ідеальному крої"
+  },
+  "Tailor_014": {
+    "en": "Always Carries Needles",
+    "uk": "Завжди має при собі голки"
+  },
+  "Tailor_015": {
+    "en": "Works Late by Candlelight",
+    "uk": "Працює допізна при свічці"
+  },
+  "Tailor_016": {
+    "en": "Former Weaver",
+    "uk": "Колишній ткач"
+  },
+  "Thief_001": {
+    "en": "Pickpocket",
+    "uk": "Кишеньковий злодій"
+  },
+  "Thief_002": {
+    "en": "Burglar",
+    "uk": "Домушник"
+  },
+  "Thief_003": {
+    "en": "Housebreaker",
+    "uk": "Нічний злодій"
+  },
+  "Thief_004": {
+    "en": "Purse Snatcher",
+    "uk": "Зриває гаманці"
+  },
+  "Thief_005": {
+    "en": "Known Cutpurse",
+    "uk": "Відомий кишеньковий злодій"
+  },
+  "Thief_006": {
+    "en": "Lockpicker",
+    "uk": "Зламує замки"
+  },
+  "Thief_007": {
+    "en": "Shoplifter",
+    "uk": "Цупить із крамниць"
+  },
+  "Thief_008": {
+    "en": "Sneaks in After Dark",
+    "uk": "Прокрадається поночі"
+  },
+  "Thief_009": {
+    "en": "Targets Wealthy Homes",
+    "uk": "Обчищає багаті доми"
+  },
+  "Thief_010": {
+    "en": "Works Crowded Markets",
+    "uk": "Орудує на людних ринках"
+  },
+  "Thief_011": {
+    "en": "Knows Every Back Alley",
+    "uk": "Знає кожен закапелок"
+  },
+  "Thief_012": {
+    "en": "Sells Stolen Goods",
+    "uk": "Збуває крадене"
+  },
+  "Thief_013": {
+    "en": "Works with a Fence",
+    "uk": "Працює зі скупником краденого"
+  },
+  "Thief_014": {
+    "en": "Escaped the Watch Before",
+    "uk": "Уже тікав від варти"
+  },
+  "Thief_015": {
+    "en": "Wanted for Theft",
+    "uk": "Розшукується за крадіжку"
+  },
+  "Thief_016": {
+    "en": "Never Caught Red-Handed",
+    "uk": "Жодного разу не спіймано на гарячому"
+  },
+  "TownWatch_001": {
+    "en": "Watch Veteran",
+    "uk": "Ветеран варти"
+  },
+  "TownWatch_002": {
+    "en": "Patrols the Night",
+    "uk": "Нічний дозорець"
+  },
+  "TownWatch_003": {
+    "en": "Guards the City Gates",
+    "uk": "Стереже міську браму"
+  },
+  "TownWatch_004": {
+    "en": "Keeps the Peace",
+    "uk": "Береже спокій"
+  },
+  "TownWatch_005": {
+    "en": "Knows Every Alley",
+    "uk": "Знає кожен провулок"
+  },
+  "TownWatch_006": {
+    "en": "Former Soldier",
+    "uk": "Колишній вояк"
+  },
+  "TownWatch_007": {
+    "en": "Trained with the Watch",
+    "uk": "Вишколений вартою"
+  },
+  "TownWatch_008": {
+    "en": "Known for Strict Discipline",
+    "uk": "Славиться суворою дисципліною"
+  },
+  "TownWatch_009": {
+    "en": "Quick to Make Arrests",
+    "uk": "Швидкий на арешти"
+  },
+  "TownWatch_010": {
+    "en": "Keeps an Eye on Troublemakers",
+    "uk": "Не спускає ока з гультяїв"
+  },
+  "TownWatch_011": {
+    "en": "Guards Important Buildings",
+    "uk": "Охороняє важливі будівлі"
+  },
+  "TownWatch_012": {
+    "en": "Escorts Prisoners",
+    "uk": "Конвоює в’язнів"
+  },
+  "TownWatch_013": {
+    "en": "Breaks Up Tavern Fights",
+    "uk": "Розбороняє бійки в шинку"
+  },
+  "TownWatch_014": {
+    "en": "Watches the Market",
+    "uk": "Наглядає за ринком"
+  },
+  "TownWatch_015": {
+    "en": "Knows the Local Criminals",
+    "uk": "Знає місцевих злочинців"
+  },
+  "TownWatch_016": {
+    "en": "Rarely Leaves Their Post",
+    "uk": "Рідко залишає пост"
+  },
+  "Trader_001": {
+    "en": "Traveling Merchant",
+    "uk": "Мандрівний купець"
+  },
+  "Trader_002": {
+    "en": "Market Trader",
+    "uk": "Ринковий торговець"
+  },
+  "Trader_003": {
+    "en": "Wholesale Dealer",
+    "uk": "Гуртовий торговець"
+  },
+  "Trader_004": {
+    "en": "Imports Foreign Goods",
+    "uk": "Привозить чужоземний крам"
+  },
+  "Trader_005": {
+    "en": "Exports Local Goods",
+    "uk": "Вивозить місцевий крам"
+  },
+  "Trader_006": {
+    "en": "Deals in Luxury Goods",
+    "uk": "Торгує розкішним крамом"
+  },
+  "Trader_007": {
+    "en": "Deals in Everyday Wares",
+    "uk": "Торгує повсякденним крамом"
+  },
+  "Trader_008": {
+    "en": "Trades Across Borders",
+    "uk": "Торгує через кордони"
+  },
+  "Trader_009": {
+    "en": "Keeps a Market Stall",
+    "uk": "Має ятку на ринку"
+  },
+  "Trader_010": {
+    "en": "Supplies Local Shops",
+    "uk": "Постачає місцеві крамниці"
+  },
+  "Trader_011": {
+    "en": "Buys in Bulk",
+    "uk": "Купує гуртом"
+  },
+  "Trader_012": {
+    "en": "Sells at a Profit",
+    "uk": "Продає з зиском"
+  },
+  "Trader_013": {
+    "en": "Knows the Trade Routes",
+    "uk": "Знає торгові шляхи"
+  },
+  "Trader_014": {
+    "en": "Travels with Caravans",
+    "uk": "Мандрує з валками"
+  },
+  "Trader_015": {
+    "en": "Bargains Hard",
+    "uk": "Торгується до останнього"
+  },
+  "Trader_016": {
+    "en": "Keeps Careful Accounts",
+    "uk": "Ретельно веде рахунки"
+  }
+}

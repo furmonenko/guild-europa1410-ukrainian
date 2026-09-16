@@ -1,0 +1,2514 @@
+{
+  "Cart_Cow_Pool001": {
+    "en": "Moo Moo",
+    "uk": "Му-му"
+  },
+  "Cart_Cow_Pool002": {
+    "en": "Otis",
+    "uk": "Отіс"
+  },
+  "Cart_Cow_Pool003": {
+    "en": "Cow King",
+    "uk": "Коров’ячий король"
+  },
+  "Cart_Cow_Pool004": {
+    "en": "Daisy",
+    "uk": "Ромашка"
+  },
+  "Cart_Cow_Pool005": {
+    "en": "Sir Loin",
+    "uk": "Сер Філей"
+  },
+  "Cart_Cow_Pool006": {
+    "en": "Ribeye",
+    "uk": "Антрекот"
+  },
+  "Cart_Cow_Pool007": {
+    "en": "Milkshake",
+    "uk": "Молокотряска"
+  },
+  "Cart_Cow_Pool008": {
+    "en": "Sisyphus",
+    "uk": "Сізіф"
+  },
+  "Cart_Cow_Pool009": {
+    "en": "Chubbyhoof",
+    "uk": "Товстокопитка"
+  },
+  "Cart_Cow_Pool010": {
+    "en": "Big Guy",
+    "uk": "Здоровань"
+  },
+  "Cart_Cow_Pool011": {
+    "en": "Bessy",
+    "uk": "Красуля"
+  },
+  "Cart_Donkey_Pool001": {
+    "en": "Stallion",
+    "uk": "Жеребець"
+  },
+  "Cart_Donkey_Pool002": {
+    "en": "Ogre's Best Friend",
+    "uk": "Найкращий друг огра"
+  },
+  "Cart_Donkey_Pool003": {
+    "en": "Kong",
+    "uk": "Конг"
+  },
+  "Cart_Donkey_Pool004": {
+    "en": "Buridan",
+    "uk": "Буридан"
+  },
+  "Cart_Donkey_Pool005": {
+    "en": "Dominick ",
+    "uk": "Домінік "
+  },
+  "Cart_Donkey_Pool006": {
+    "en": "Eeyore",
+    "uk": "Іа"
+  },
+  "Cart_Donkey_Pool007": {
+    "en": "Benjamin",
+    "uk": "Бенджамін"
+  },
+  "Cart_Donkey_Pool008": {
+    "en": "Jack",
+    "uk": "Джек"
+  },
+  "Cart_Donkey_Pool009": {
+    "en": "Speedy",
+    "uk": "Прудкий"
+  },
+  "Cart_Donkey_Pool010": {
+    "en": "Ranger",
+    "uk": "Бродяга"
+  },
+  "Cart_Goat_Pool001": {
+    "en": "Tanngrisnir ",
+    "uk": "Таннґріснір "
+  },
+  "Cart_Goat_Pool002": {
+    "en": "Tanngnjóstr ",
+    "uk": "Танньйостр "
+  },
+  "Cart_Goat_Pool003": {
+    "en": "Amalthea",
+    "uk": "Амалтея"
+  },
+  "Cart_Goat_Pool004": {
+    "en": "Black Phillip",
+    "uk": "Чорний Філіп"
+  },
+  "Cart_Goat_Pool005": {
+    "en": "Scape",
+    "uk": "Цап-відбувайло"
+  },
+  "Cart_Goat_Pool006": {
+    "en": "Vincent van Goat",
+    "uk": "Вінсент ван Цап"
+  },
+  "Cart_Goat_Pool007": {
+    "en": "Bandid",
+    "uk": "Бандитка"
+  },
+  "Cart_Goat_Pool008": {
+    "en": "Lightning",
+    "uk": "Блискавка"
+  },
+  "Cart_Goat_Pool009": {
+    "en": "Biscuit",
+    "uk": "Сухарик"
+  },
+  "Cart_Goat_Pool010": {
+    "en": "G.O.A.T.",
+    "uk": "G.O.A.T."
+  },
+  "Cart_Goat_Pool011": {
+    "en": "Billy the Kid",
+    "uk": "Біллі Козеня"
+  },
+  "Cart_Horse_Pool001": {
+    "en": "Torrent",
+    "uk": "Потік"
+  },
+  "Cart_Horse_Pool002": {
+    "en": "Sugarfoot",
+    "uk": "Цукроніжка"
+  },
+  "Cart_Horse_Pool003": {
+    "en": "Shadowmane",
+    "uk": "Тіньогрив"
+  },
+  "Cart_Horse_Pool004": {
+    "en": "Sleipnir",
+    "uk": "Слейпнір"
+  },
+  "Cart_Horse_Pool005": {
+    "en": "Epona",
+    "uk": "Епона"
+  },
+  "Cart_Horse_Pool006": {
+    "en": "Bullseye",
+    "uk": "Яблучко"
+  },
+  "Cart_Horse_Pool007": {
+    "en": "Agro",
+    "uk": "Аґро"
+  },
+  "Cart_Horse_Pool008": {
+    "en": "Pony Montana",
+    "uk": "Поні Монтана"
+  },
+  "Cart_Horse_Pool009": {
+    "en": "Powerhoof",
+    "uk": "Міцнокопит"
+  },
+  "Cart_Horse_Pool010": {
+    "en": "Atlas",
+    "uk": "Атлант"
+  },
+  "Cart_Horse_Pool011": {
+    "en": "Glitterhoof",
+    "uk": "Блискокопит"
+  },
+  "Cart_Horse_Pool012": {
+    "en": "Pferdinand",
+    "uk": "Гнідінанд"
+  },
+  "Cart_Horse_Pool013": {
+    "en": "Boxer",
+    "uk": "Боксер"
+  },
+  "Dwelling_Dwelling_Pool001": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Dwelling_Dwelling_Pool002": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Dwelling_Dwelling_Pool003": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Dwelling_Dwelling_Pool004": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Dwelling_Dwelling_Pool005": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Dwelling_Dwelling_Pool006": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Dwelling_Dwelling_Pool007": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Dwelling_Dwelling_Pool008": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Dwelling_Dwelling_Pool009": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Dwelling_Dwelling_Pool010": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "ExtractionFacility_Mine_Pool001": {
+    "en": "The Iron Vein",
+    "uk": "Залізна жила"
+  },
+  "ExtractionFacility_Mine_Pool002": {
+    "en": "Fat Nuggets",
+    "uk": "Жирні самородки"
+  },
+  "ExtractionFacility_Mine_Pool003": {
+    "en": "Endless Galleries",
+    "uk": "Безкінечні штольні"
+  },
+  "ExtractionFacility_Mine_Pool004": {
+    "en": "Collapsed Access",
+    "uk": "Завалений вхід"
+  },
+  "ExtractionFacility_Mine_Pool005": {
+    "en": "Mouth of Hell",
+    "uk": "Пекельна паща"
+  },
+  "ExtractionFacility_Mine_Pool006": {
+    "en": "The Abyss of Echoes",
+    "uk": "Безодня відлунь"
+  },
+  "ExtractionFacility_Mine_Pool007": {
+    "en": "The Devil's Digging End",
+    "uk": "Чортів забій"
+  },
+  "ExtractionFacility_Mine_Pool008": {
+    "en": "The Sparkly Cavern",
+    "uk": "Іскриста печера"
+  },
+  "ExtractionFacility_Mine_Pool009": {
+    "en": "The Whispering Pit",
+    "uk": "Шепітна копальня"
+  },
+  "ExtractionFacility_Mine_Pool010": {
+    "en": "The Gem Gem",
+    "uk": "Коштовна коштовність"
+  },
+  "ExtractionFacility_Quarry_Pool001": {
+    "en": "Brick by Brick",
+    "uk": "Цеглина до цеглини"
+  },
+  "ExtractionFacility_Quarry_Pool002": {
+    "en": "Rock Bottom",
+    "uk": "Саме дно"
+  },
+  "ExtractionFacility_Quarry_Pool003": {
+    "en": "Warning, Quicksand!",
+    "uk": "Обережно, сипучі піски!"
+  },
+  "ExtractionFacility_Quarry_Pool004": {
+    "en": "Sandcastle",
+    "uk": "Піщаний замок"
+  },
+  "ExtractionFacility_Quarry_Pool005": {
+    "en": "Sharp Stone",
+    "uk": "Гострий камінь"
+  },
+  "ExtractionFacility_Quarry_Pool006": {
+    "en": "The Mason's Source",
+    "uk": "Каменярська криниця"
+  },
+  "ExtractionFacility_Quarry_Pool007": {
+    "en": "The Earthcut",
+    "uk": "Земляний розріз"
+  },
+  "ExtractionFacility_Quarry_Pool008": {
+    "en": "Pebble Vale",
+    "uk": "Галькова долина"
+  },
+  "ExtractionFacility_Quarry_Pool009": {
+    "en": "The Dust Pit",
+    "uk": "Курна яма"
+  },
+  "ExtractionFacility_Quarry_Pool010": {
+    "en": "Stony Ground",
+    "uk": "Кам’янистий ґрунт"
+  },
+  "ExtractionFacility_VillageMarket_Pool001": {
+    "en": "From the Fields",
+    "uk": "З полів"
+  },
+  "ExtractionFacility_VillageMarket_Pool002": {
+    "en": "The First Harvest",
+    "uk": "Перший урожай"
+  },
+  "ExtractionFacility_VillageMarket_Pool003": {
+    "en": "Fresh from the Dirt",
+    "uk": "Свіженьке з грядки"
+  },
+  "ExtractionFacility_VillageMarket_Pool004": {
+    "en": "What the Land Gives",
+    "uk": "Що земля дала"
+  },
+  "ExtractionFacility_VillageMarket_Pool005": {
+    "en": "Fresh Enough",
+    "uk": "Досить свіже"
+  },
+  "ExtractionFacility_VillageMarket_Pool006": {
+    "en": "Fleece & Furrow",
+    "uk": "Руно й борозна"
+  },
+  "ExtractionFacility_VillageMarket_Pool007": {
+    "en": "The Winnow Yard",
+    "uk": "Подвір’я віяльників"
+  },
+  "ExtractionFacility_VillageMarket_Pool008": {
+    "en": "Sheaf & Bale",
+    "uk": "Сніп і в’язка"
+  },
+  "ExtractionFacility_VillageMarket_Pool009": {
+    "en": "The Threshing Floor",
+    "uk": "Тік"
+  },
+  "ExtractionFacility_VillageMarket_Pool010": {
+    "en": "The Roughcut Market",
+    "uk": "Базар як є"
+  },
+  "ExtractionFacility_WoodlandArea_Pool001": {
+    "en": "Lots of Wood",
+    "uk": "Дров до біса"
+  },
+  "ExtractionFacility_WoodlandArea_Pool002": {
+    "en": "Timber Vale",
+    "uk": "Колодова долина"
+  },
+  "ExtractionFacility_WoodlandArea_Pool003": {
+    "en": "High Pines",
+    "uk": "Високі сосни"
+  },
+  "ExtractionFacility_WoodlandArea_Pool004": {
+    "en": "The Chop Shop",
+    "uk": "Рубальня"
+  },
+  "ExtractionFacility_WoodlandArea_Pool005": {
+    "en": "Lumberjack's Lair",
+    "uk": "Лігво лісоруба"
+  },
+  "ExtractionFacility_WoodlandArea_Pool006": {
+    "en": "Fallen Vale",
+    "uk": "Долина вітролому"
+  },
+  "ExtractionFacility_WoodlandArea_Pool007": {
+    "en": "Axe's Edge",
+    "uk": "Лезо сокири"
+  },
+  "ExtractionFacility_WoodlandArea_Pool008": {
+    "en": "Saw's Edge",
+    "uk": "Зубці пилки"
+  },
+  "ExtractionFacility_WoodlandArea_Pool009": {
+    "en": "The Chop Forest",
+    "uk": "Рубаний ліс"
+  },
+  "ExtractionFacility_WoodlandArea_Pool010": {
+    "en": "Undergrowth",
+    "uk": "Хмизняк"
+  },
+  "Guild_AlchemistsGuild_Pool001": {
+    "en": "The Controlled Explosion Guild",
+    "uk": "Гільдія керованого вибуху"
+  },
+  "Guild_AlchemistsGuild_Pool002": {
+    "en": "The Unstable Mixture Society",
+    "uk": "Товариство нестійкої суміші"
+  },
+  "Guild_AlchemistsGuild_Pool003": {
+    "en": "The Final Substance",
+    "uk": "Остання субстанція"
+  },
+  "Guild_AlchemistsGuild_Pool004": {
+    "en": "The Perfect Solution Assembly",
+    "uk": "Зібрання ідеального розчину"
+  },
+  "Guild_AlchemistsGuild_Pool005": {
+    "en": "The Chrysopoeia Circle",
+    "uk": "Коло хризопеї"
+  },
+  "Guild_AlchemistsGuild_Pool006": {
+    "en": "The Almost Perfect Solution Assembly",
+    "uk": "Зібрання майже ідеального розчину"
+  },
+  "Guild_AlchemistsGuild_Pool007": {
+    "en": "The Order of Prima Materia",
+    "uk": "Орден першоматерії"
+  },
+  "Guild_AlchemistsGuild_Pool008": {
+    "en": "The Transmutation Brotherhood",
+    "uk": "Братство трансмутації"
+  },
+  "Guild_AlchemistsGuild_Pool009": {
+    "en": "Brotherhood of the Scorched Ceiling",
+    "uk": "Братство обпаленої стелі"
+  },
+  "Guild_AlchemistsGuild_Pool010": {
+    "en": "Circle of the Azoth",
+    "uk": "Коло Азоту"
+  },
+  "Guild_GraveyardWardensGuild_Pool001": {
+    "en": "The Custodians of the Silent Garden",
+    "uk": "Сторожі тихого саду"
+  },
+  "Guild_GraveyardWardensGuild_Pool002": {
+    "en": "The Order of the Last Address",
+    "uk": "Орден останньої адреси"
+  },
+  "Guild_GraveyardWardensGuild_Pool003": {
+    "en": "The Society of Natural Post-Mortem Activity",
+    "uk": "Товариство природної посмертної активності"
+  },
+  "Guild_GraveyardWardensGuild_Pool004": {
+    "en": "The Guild of Persistent Aromas",
+    "uk": "Гільдія стійких ароматів"
+  },
+  "Guild_GraveyardWardensGuild_Pool005": {
+    "en": "The Bureau of Eternal Shifts",
+    "uk": "Управа вічних змін"
+  },
+  "Guild_GraveyardWardensGuild_Pool006": {
+    "en": "The Fellowship of Unpaid Overtime",
+    "uk": "Братство неоплачених понаднормових"
+  },
+  "Guild_GraveyardWardensGuild_Pool007": {
+    "en": "The Fellowship of Unfinished Business",
+    "uk": "Братство незавершених справ"
+  },
+  "Guild_GraveyardWardensGuild_Pool008": {
+    "en": "The Society of Advanced Decomposition",
+    "uk": "Товариство поглибленого розкладу"
+  },
+  "Guild_GraveyardWardensGuild_Pool009": {
+    "en": "The Society of That Was Probably Gas",
+    "uk": "Товариство «То, мабуть, гази»"
+  },
+  "Guild_GraveyardWardensGuild_Pool010": {
+    "en": "The Order of Secure Lids",
+    "uk": "Орден щільного віка"
+  },
+  "Guild_GuardsGuild_Pool001": {
+    "en": "The Wardens of the Gate",
+    "uk": "Сторожі брами"
+  },
+  "Guild_GuardsGuild_Pool002": {
+    "en": "The Guardians of the Streets",
+    "uk": "Сторожі вулиць"
+  },
+  "Guild_GuardsGuild_Pool003": {
+    "en": "The City Sentinels",
+    "uk": "Міські вартові"
+  },
+  "Guild_GuardsGuild_Pool004": {
+    "en": "The Society of Raised Eyebrows",
+    "uk": "Товариство піднятих брів"
+  },
+  "Guild_GuardsGuild_Pool005": {
+    "en": "The Sleep-Deprived Watch",
+    "uk": "Невиспана варта"
+  },
+  "Guild_GuardsGuild_Pool006": {
+    "en": "The Fellowship of Unnecessary Questions",
+    "uk": "Братство зайвих питань"
+  },
+  "Guild_GuardsGuild_Pool007": {
+    "en": "The Order of Paid Discretion",
+    "uk": "Орден оплаченої мовчанки"
+  },
+  "Guild_GuardsGuild_Pool008": {
+    "en": "The Guild of Selective Enforcement",
+    "uk": "Гільдія вибіркового правосуддя"
+  },
+  "Guild_GuardsGuild_Pool009": {
+    "en": "The Brotherhood of Convenient Blindness",
+    "uk": "Братство зручної сліпоти"
+  },
+  "Guild_GuardsGuild_Pool010": {
+    "en": "We'll Need to Check That",
+    "uk": "«Це треба перевірити»"
+  },
+  "Guild_InnkeepersGuild_Pool001": {
+    "en": "The Order of the Bottomless Mug",
+    "uk": "Орден бездонного кухля"
+  },
+  "Guild_InnkeepersGuild_Pool002": {
+    "en": "The Guild of Responsible Drinking",
+    "uk": "Гільдія культурного пиття"
+  },
+  "Guild_InnkeepersGuild_Pool003": {
+    "en": "The Fellowship of Heard Conversations",
+    "uk": "Братство підслуханих розмов"
+  },
+  "Guild_InnkeepersGuild_Pool004": {
+    "en": "Alekeepers Anonymous",
+    "uk": "Анонімні шинкарі"
+  },
+  "Guild_InnkeepersGuild_Pool005": {
+    "en": "The Order of Emotional Support Ale",
+    "uk": "Орден душерозрадного пива"
+  },
+  "Guild_InnkeepersGuild_Pool006": {
+    "en": "The Guild of Bad Life Choices",
+    "uk": "Гільдія поганих життєвих рішень"
+  },
+  "Guild_InnkeepersGuild_Pool007": {
+    "en": "The Fellowship of She Left Me",
+    "uk": "Братство «Вона мене покинула»"
+  },
+  "Guild_InnkeepersGuild_Pool008": {
+    "en": "The Fellowship of She Left Me Again",
+    "uk": "Братство «Вона знову мене покинула»"
+  },
+  "Guild_InnkeepersGuild_Pool009": {
+    "en": "The Society of Drowning Our Sorrows",
+    "uk": "Товариство «Заливаємо горе»"
+  },
+  "Guild_InnkeepersGuild_Pool010": {
+    "en": "The Society of Just One More",
+    "uk": "Товариство «Ще по одній»"
+  },
+  "Guild_JoinersGuild_Pool001": {
+    "en": "The Saw & Chisel Guild",
+    "uk": "Гільдія пилки й долота"
+  },
+  "Guild_JoinersGuild_Pool002": {
+    "en": "The Wood Moves Society",
+    "uk": "Товариство «Дерево живе»"
+  },
+  "Guild_JoinersGuild_Pool003": {
+    "en": "The Timberwrights",
+    "uk": "Деревомайстри"
+  },
+  "Guild_JoinersGuild_Pool004": {
+    "en": "The Hidden Joint",
+    "uk": "Прихований шип"
+  },
+  "Guild_JoinersGuild_Pool005": {
+    "en": "The Against the Grain Brotherhood",
+    "uk": "Братство «Поперек волокон»"
+  },
+  "Guild_JoinersGuild_Pool006": {
+    "en": "The Smooth Finish",
+    "uk": "Гладенька робота"
+  },
+  "Guild_JoinersGuild_Pool007": {
+    "en": "The Well-Joined Society",
+    "uk": "Товариство добрих з’єднань"
+  },
+  "Guild_JoinersGuild_Pool008": {
+    "en": "The Joined Hands Brotherhood",
+    "uk": "Братство з’єднаних рук"
+  },
+  "Guild_JoinersGuild_Pool009": {
+    "en": "The Fine Grain Society",
+    "uk": "Товариство тонкого волокна"
+  },
+  "Guild_JoinersGuild_Pool010": {
+    "en": "The Measure Twice, Cut Once Society",
+    "uk": "Товариство «Сім разів відміряй»"
+  },
+  "Guild_JoinersGuild_Pool011": {
+    "en": "The Nine-Fingers Band",
+    "uk": "Ватага дев’ятипалих"
+  },
+  "Guild_MoneyLendersGuild_Pool001": {
+    "en": "The Society of Settled Disputes",
+    "uk": "Товариство залагоджених суперечок"
+  },
+  "Guild_MoneyLendersGuild_Pool002": {
+    "en": "The Society of Convenient Clauses",
+    "uk": "Товариство вигідних застережень"
+  },
+  "Guild_MoneyLendersGuild_Pool003": {
+    "en": "In Your Time of Need Guild",
+    "uk": "Гільдія «У скрутну годину»"
+  },
+  "Guild_MoneyLendersGuild_Pool004": {
+    "en": "Brotherhood of Here to Assist",
+    "uk": "Братство «Завжди до послуг»"
+  },
+  "Guild_MoneyLendersGuild_Pool005": {
+    "en": "You Owe Us",
+    "uk": "«Ви нам винні»"
+  },
+  "Guild_MoneyLendersGuild_Pool006": {
+    "en": "A Debt Between Friends Society",
+    "uk": "Товариство «Борг між друзями»"
+  },
+  "Guild_MoneyLendersGuild_Pool007": {
+    "en": "We Remember",
+    "uk": "«Ми пам’ятаємо»"
+  },
+  "Guild_MoneyLendersGuild_Pool008": {
+    "en": "The Order of the Unforgotten Ledger",
+    "uk": "Орден пам’ятливої книги"
+  },
+  "Guild_MoneyLendersGuild_Pool009": {
+    "en": "No Hurry at All Brotherhood",
+    "uk": "Братство «Та не поспішайте»"
+  },
+  "Guild_MoneyLendersGuild_Pool010": {
+    "en": "Time Keeps Count Society",
+    "uk": "Товариство «Час усе лічить»"
+  },
+  "Guild_PerfumersGuild_Pool001": {
+    "en": "The Three Notes Society",
+    "uk": "Товариство трьох нот"
+  },
+  "Guild_PerfumersGuild_Pool002": {
+    "en": "The Fine Nose Society",
+    "uk": "Товариство тонкого нюху"
+  },
+  "Guild_PerfumersGuild_Pool003": {
+    "en": "The Traders of Scent",
+    "uk": "Торговці пахощами"
+  },
+  "Guild_PerfumersGuild_Pool004": {
+    "en": "The Hidden Note Society",
+    "uk": "Товариство прихованої ноти"
+  },
+  "Guild_PerfumersGuild_Pool005": {
+    "en": "The Lingering Scent Brotherhood",
+    "uk": "Братство стійкого шлейфу"
+  },
+  "Guild_PerfumersGuild_Pool006": {
+    "en": "The Nose Fatigue Society",
+    "uk": "Товариство втомленого носа"
+  },
+  "Guild_PerfumersGuild_Pool007": {
+    "en": "The Sealed Bottle Guild",
+    "uk": "Гільдія запечатаного флакона"
+  },
+  "Guild_PerfumersGuild_Pool008": {
+    "en": "The First Impression Society",
+    "uk": "Товариство першого враження"
+  },
+  "Guild_PerfumersGuild_Pool009": {
+    "en": "The Broken Accord Assembly",
+    "uk": "Зібрання порушеного акорду"
+  },
+  "Guild_PerfumersGuild_Pool010": {
+    "en": "We Can Fix Your Stench",
+    "uk": "«Ваш сморід — наша справа»"
+  },
+  "Guild_PreachersGuild_Pool001": {
+    "en": "Fellowship of the Chapter and Verse",
+    "uk": "Братство розділу й вірша"
+  },
+  "Guild_PreachersGuild_Pool002": {
+    "en": "Order of the Overlong Sermon",
+    "uk": "Орден задовгої проповіді"
+  },
+  "Guild_PreachersGuild_Pool003": {
+    "en": "Order of the Certain Damnation",
+    "uk": "Орден неминучого прокляття"
+  },
+  "Guild_PreachersGuild_Pool004": {
+    "en": "The Circle of Willing Donations",
+    "uk": "Коло добровільних пожертв"
+  },
+  "Guild_PreachersGuild_Pool005": {
+    "en": "The Society of Almost Virtuous Souls",
+    "uk": "Товариство майже праведних душ"
+  },
+  "Guild_PreachersGuild_Pool006": {
+    "en": "The Pay and Be Forgiven Society",
+    "uk": "Товариство «Заплати й будь прощений»"
+  },
+  "Guild_PreachersGuild_Pool007": {
+    "en": "The Order of Timely Repentance",
+    "uk": "Орден вчасного каяття"
+  },
+  "Guild_PreachersGuild_Pool008": {
+    "en": "The Order of the Open Hand",
+    "uk": "Орден відкритої долоні"
+  },
+  "Guild_PreachersGuild_Pool009": {
+    "en": "The Assembly of Good Intentions",
+    "uk": "Зібрання добрих намірів"
+  },
+  "Guild_PreachersGuild_Pool010": {
+    "en": "The Order of Convenient Redemption",
+    "uk": "Орден зручного спокутування"
+  },
+  "Guild_RobbersGuild_Pool001": {
+    "en": "The Bureau of Flexible Ownership",
+    "uk": "Управа гнучкої власності"
+  },
+  "Guild_RobbersGuild_Pool002": {
+    "en": "The Private Goods Custodians",
+    "uk": "Хранителі приватного майна"
+  },
+  "Guild_RobbersGuild_Pool003": {
+    "en": "The Society of Borrowed Things",
+    "uk": "Товариство позичених речей"
+  },
+  "Guild_RobbersGuild_Pool004": {
+    "en": "The Fellowship of Sudden Loss",
+    "uk": "Братство раптової втрати"
+  },
+  "Guild_RobbersGuild_Pool005": {
+    "en": "The Guild of Violent Acquisition",
+    "uk": "Гільдія насильницького придбання"
+  },
+  "Guild_RobbersGuild_Pool006": {
+    "en": "The Brotherhood of Unplanned Donations",
+    "uk": "Братство незапланованих пожертв"
+  },
+  "Guild_RobbersGuild_Pool007": {
+    "en": "The Black Ledger",
+    "uk": "Чорна книга"
+  },
+  "Guild_RobbersGuild_Pool008": {
+    "en": "The Locksmith Guild",
+    "uk": "Цех замкових справ"
+  },
+  "Guild_RobbersGuild_Pool009": {
+    "en": "The Fellowship of Flexible Law",
+    "uk": "Братство гнучкого закону"
+  },
+  "Guild_RobbersGuild_Pool010": {
+    "en": "We Are Totally Not Criminals",
+    "uk": "«Ми геть не злочинці»"
+  },
+  "Guild_SmithsGuild_Pool001": {
+    "en": "The Grind Will Fix It Brotherhood",
+    "uk": "Братство «Шліфовка виправить»"
+  },
+  "Guild_SmithsGuild_Pool002": {
+    "en": "The Forged Brotherhood",
+    "uk": "Куте братство"
+  },
+  "Guild_SmithsGuild_Pool003": {
+    "en": "The Anvil Circle",
+    "uk": "Коло ковадла"
+  },
+  "Guild_SmithsGuild_Pool004": {
+    "en": "The Order of Smiths",
+    "uk": "Орден ковалів"
+  },
+  "Guild_SmithsGuild_Pool005": {
+    "en": "The Forgemasters' Guild",
+    "uk": "Гільдія майстрів горна"
+  },
+  "Guild_SmithsGuild_Pool006": {
+    "en": "The Singing Anvil",
+    "uk": "Співуче ковадло"
+  },
+  "Guild_SmithsGuild_Pool007": {
+    "en": "The Iron Authority",
+    "uk": "Залізна влада"
+  },
+  "Guild_SmithsGuild_Pool008": {
+    "en": "The Hammer Council",
+    "uk": "Рада молота"
+  },
+  "Guild_SmithsGuild_Pool009": {
+    "en": "Heat. Beat. Repeat Society",
+    "uk": "Товариство «Нагрій. Вдар. Повтори»"
+  },
+  "Guild_SmithsGuild_Pool010": {
+    "en": "The Final Strike",
+    "uk": "Останній удар"
+  },
+  "Guild_StoneMasonsGuild_Pool001": {
+    "en": "Set in Stone Society",
+    "uk": "Товариство «Висічено в камені»"
+  },
+  "Guild_StoneMasonsGuild_Pool002": {
+    "en": "The Lift Together Brotherhood",
+    "uk": "Братство «Разом — підняли!»"
+  },
+  "Guild_StoneMasonsGuild_Pool003": {
+    "en": "The Solid Foundation Assembly",
+    "uk": "Зібрання міцного фундаменту"
+  },
+  "Guild_StoneMasonsGuild_Pool004": {
+    "en": "The Well-Laid Assembly",
+    "uk": "Зібрання рівної кладки"
+  },
+  "Guild_StoneMasonsGuild_Pool005": {
+    "en": "The Mortarbound Brotherhood",
+    "uk": "Братство, скріплене розчином"
+  },
+  "Guild_StoneMasonsGuild_Pool006": {
+    "en": "The Keystone Society",
+    "uk": "Товариство замкового каменя"
+  },
+  "Guild_StoneMasonsGuild_Pool007": {
+    "en": "The First Stone Guild",
+    "uk": "Гільдія першого каменя"
+  },
+  "Guild_StoneMasonsGuild_Pool008": {
+    "en": "The Firmly Set Guild",
+    "uk": "Гільдія міцної кладки"
+  },
+  "Guild_StoneMasonsGuild_Pool009": {
+    "en": "The Bedrock Assembly",
+    "uk": "Зібрання корінної породи"
+  },
+  "Guild_StoneMasonsGuild_Pool010": {
+    "en": "The Set and Settled Society",
+    "uk": "Товариство «Покладено й осіло»"
+  },
+  "Guild_TailorsGuild_Pool001": {
+    "en": "The It Will Stretch Society",
+    "uk": "Товариство «Розтягнеться»"
+  },
+  "Guild_TailorsGuild_Pool002": {
+    "en": "The Golden Seam Society",
+    "uk": "Товариство золотого шва"
+  },
+  "Guild_TailorsGuild_Pool003": {
+    "en": "The Well-Suited Society",
+    "uk": "Товариство доброго крою"
+  },
+  "Guild_TailorsGuild_Pool004": {
+    "en": "The Loose Thread Brotherhood",
+    "uk": "Братство висячої нитки"
+  },
+  "Guild_TailorsGuild_Pool005": {
+    "en": "The Second Skin Society",
+    "uk": "Товариство другої шкіри"
+  },
+  "Guild_TailorsGuild_Pool006": {
+    "en": "The Silhouette Society",
+    "uk": "Товариство гарного силуету"
+  },
+  "Guild_TailorsGuild_Pool007": {
+    "en": "The Well-Fitted Guild",
+    "uk": "Гільдія «Як улите»"
+  },
+  "Guild_TailorsGuild_Pool008": {
+    "en": "Order of the Client Who Lied About Their Measurements",
+    "uk": "Орден замовника, що збрехав про мірки"
+  },
+  "Guild_TailorsGuild_Pool009": {
+    "en": "Order of the Lost Bobbin",
+    "uk": "Орден загубленої шпульки"
+  },
+  "Guild_TailorsGuild_Pool010": {
+    "en": "Brotherhood of the Dropped Pin",
+    "uk": "Братство впущеної шпильки"
+  },
+  "Guild_ThievesGuild_Pool001": {
+    "en": "The Order of Lightened Pockets",
+    "uk": "Орден полегшених кишень"
+  },
+  "Guild_ThievesGuild_Pool002": {
+    "en": "The Committee for Unexpected Ownership",
+    "uk": "Комітет несподіваної власності"
+  },
+  "Guild_ThievesGuild_Pool003": {
+    "en": "The Society of Misplaced Goods",
+    "uk": "Товариство загублених речей"
+  },
+  "Guild_ThievesGuild_Pool004": {
+    "en": "The Hidden Hand",
+    "uk": "Прихована рука"
+  },
+  "Guild_ThievesGuild_Pool005": {
+    "en": "The Light Pockets Society",
+    "uk": "Товариство легких кишень"
+  },
+  "Guild_ThievesGuild_Pool006": {
+    "en": "We Only Borrow Things",
+    "uk": "«Ми лише позичаємо»"
+  },
+  "Guild_ThievesGuild_Pool007": {
+    "en": "Absolutely Not Thieves",
+    "uk": "Геть не злодії"
+  },
+  "Guild_ThievesGuild_Pool008": {
+    "en": "The Gentle Touch",
+    "uk": "Легкий дотик"
+  },
+  "Guild_ThievesGuild_Pool009": {
+    "en": "The Discreet Society",
+    "uk": "Мовчазне товариство"
+  },
+  "Guild_ThievesGuild_Pool010": {
+    "en": "The Bureau of Non-Consensual Exchange",
+    "uk": "Управа однобічного обміну"
+  },
+  "Guild_TradersGuild_Pool001": {
+    "en": "The Mutual Advantage Society",
+    "uk": "Товариство взаємної вигоди"
+  },
+  "Guild_TradersGuild_Pool002": {
+    "en": "The Honest Profit Guild",
+    "uk": "Гільдія чесного зиску"
+  },
+  "Guild_TradersGuild_Pool003": {
+    "en": "Order of I Make Nothing on This",
+    "uk": "Орден «Я на цьому нічого не маю»"
+  },
+  "Guild_TradersGuild_Pool004": {
+    "en": "The Final Offer Association",
+    "uk": "Спілка останньої пропозиції"
+  },
+  "Guild_TradersGuild_Pool005": {
+    "en": "The Just Enough Profit Guild",
+    "uk": "Гільдія «Аби на хліб»"
+  },
+  "Guild_TradersGuild_Pool006": {
+    "en": "The Silver Tongue Traders",
+    "uk": "Сріблоязикі купці"
+  },
+  "Guild_TradersGuild_Pool007": {
+    "en": "The Just Business Guild",
+    "uk": "Гільдія «Нічого особистого»"
+  },
+  "Guild_TradersGuild_Pool008": {
+    "en": "The Better End of the Deal",
+    "uk": "Вигідний бік угоди"
+  },
+  "Guild_TradersGuild_Pool009": {
+    "en": "The Terms May Vary",
+    "uk": "«Умови можуть змінюватися»"
+  },
+  "Guild_TradersGuild_Pool010": {
+    "en": "Special Price, Only For You Brotherhood",
+    "uk": "Братство «Лише для Вас — особлива ціна»"
+  },
+  "Guild_TravellingEntertainersGuild_Pool001": {
+    "en": "The Society of Performing Arts",
+    "uk": "Товариство лицедіїв"
+  },
+  "Guild_TravellingEntertainersGuild_Pool002": {
+    "en": "The Order of Stagecraft",
+    "uk": "Орден сценічного мистецтва"
+  },
+  "Guild_TravellingEntertainersGuild_Pool003": {
+    "en": "The Society of Painted Smiles",
+    "uk": "Товариство намальованих усмішок"
+  },
+  "Guild_TravellingEntertainersGuild_Pool004": {
+    "en": "The Grand Guild of Spectacle",
+    "uk": "Велика гільдія видовищ"
+  },
+  "Guild_TravellingEntertainersGuild_Pool005": {
+    "en": "The Society of Wandering Wonders",
+    "uk": "Товариство мандрівних чудес"
+  },
+  "Guild_TravellingEntertainersGuild_Pool006": {
+    "en": "The Guild of Spectacles and Delights",
+    "uk": "Гільдія видовищ і втіх"
+  },
+  "Guild_TravellingEntertainersGuild_Pool007": {
+    "en": "The Society of Ladies and Gentlemen",
+    "uk": "Товариство «Пані та панове»"
+  },
+  "Guild_TravellingEntertainersGuild_Pool008": {
+    "en": "The Fellowship of Unquestionably Ethical Performances",
+    "uk": "Братство бездоганно пристойних вистав"
+  },
+  "Guild_TravellingEntertainersGuild_Pool009": {
+    "en": "The Guild of Astonishment and Applause",
+    "uk": "Гільдія подиву й оплесків"
+  },
+  "Guild_TravellingEntertainersGuild_Pool010": {
+    "en": "The Society of Unusual Talents",
+    "uk": "Товариство незвичайних талантів"
+  },
+  "OccupationBuilding_Alchemist_Pool001": {
+    "en": "Tincture Trumpery",
+    "uk": "Настоянки-витребеньки"
+  },
+  "OccupationBuilding_Alchemist_Pool002": {
+    "en": "Herb and Turnip",
+    "uk": "Зілля й бурячиння"
+  },
+  "OccupationBuilding_Alchemist_Pool003": {
+    "en": "Field Herbs",
+    "uk": "Польові трави"
+  },
+  "OccupationBuilding_Alchemist_Pool004": {
+    "en": "Evil Odours",
+    "uk": "Лихі випари"
+  },
+  "OccupationBuilding_Alchemist_Pool005": {
+    "en": "Ludicrous Laboratories",
+    "uk": "Лабораторія ляпсусів"
+  },
+  "OccupationBuilding_Alchemist_Pool006": {
+    "en": "Traumatic Drinks",
+    "uk": "Травматичні напої"
+  },
+  "OccupationBuilding_Alchemist_Pool007": {
+    "en": "Health in Danger",
+    "uk": "Здоров’я під загрозою"
+  },
+  "OccupationBuilding_Alchemist_Pool008": {
+    "en": "Magic Parlour",
+    "uk": "Чарівна світлиця"
+  },
+  "OccupationBuilding_Alchemist_Pool009": {
+    "en": "Alchemist's Corner",
+    "uk": "Куток алхіміка"
+  },
+  "OccupationBuilding_Alchemist_Pool010": {
+    "en": "Fantastic Flasks",
+    "uk": "Фантастичні флакони"
+  },
+  "OccupationBuilding_Church_Pool001": {
+    "en": "The Crying Virgin",
+    "uk": "Плачуча Діва"
+  },
+  "OccupationBuilding_Church_Pool002": {
+    "en": "Donations Welcome!",
+    "uk": "Пожертви вітаються!"
+  },
+  "OccupationBuilding_Church_Pool003": {
+    "en": "Faith Will be Rewarded!",
+    "uk": "Віра винагородиться!"
+  },
+  "OccupationBuilding_Church_Pool004": {
+    "en": "Truthful & Virtuous",
+    "uk": "Правдиві й доброчесні"
+  },
+  "OccupationBuilding_Church_Pool005": {
+    "en": "Dedication & Peace",
+    "uk": "Посвята й мир"
+  },
+  "OccupationBuilding_Church_Pool006": {
+    "en": "God's Homestead",
+    "uk": "Божа садиба"
+  },
+  "OccupationBuilding_Church_Pool007": {
+    "en": "Confess & Pray",
+    "uk": "Сповідайся й молися"
+  },
+  "OccupationBuilding_Church_Pool008": {
+    "en": "Conservative Concepts",
+    "uk": "Консервативні концепції"
+  },
+  "OccupationBuilding_Church_Pool009": {
+    "en": "Almighty Praise",
+    "uk": "Всемогутня хвала"
+  },
+  "OccupationBuilding_Church_Pool010": {
+    "en": "The 5 Apostles",
+    "uk": "5 апостолів"
+  },
+  "OccupationBuilding_Entertainer_Pool001": {
+    "en": "Making Merry",
+    "uk": "Гуляй, душе!"
+  },
+  "OccupationBuilding_Entertainer_Pool002": {
+    "en": "True Vagabonds",
+    "uk": "Справжні волоцюги"
+  },
+  "OccupationBuilding_Entertainer_Pool003": {
+    "en": "Animals & Sensations",
+    "uk": "Звірі й сенсації"
+  },
+  "OccupationBuilding_Entertainer_Pool004": {
+    "en": "Blood & Revenge",
+    "uk": "Кров і помста"
+  },
+  "OccupationBuilding_Entertainer_Pool005": {
+    "en": "Trumpery & Theatre",
+    "uk": "Витребеньки й вистави"
+  },
+  "OccupationBuilding_Entertainer_Pool006": {
+    "en": "Short-Lived Curses",
+    "uk": "Недовговічні прокльони"
+  },
+  "OccupationBuilding_Entertainer_Pool007": {
+    "en": "Curses and Charms",
+    "uk": "Прокльони й замовляння"
+  },
+  "OccupationBuilding_Entertainer_Pool008": {
+    "en": "A Cursed Life",
+    "uk": "Прокляте життя"
+  },
+  "OccupationBuilding_Entertainer_Pool009": {
+    "en": "Clan Life",
+    "uk": "Життя ватагою"
+  },
+  "OccupationBuilding_Entertainer_Pool010": {
+    "en": "Marvellous Life",
+    "uk": "Дивовижне життя"
+  },
+  "OccupationBuilding_Graveyard_Pool001": {
+    "en": "The Creaking Gates",
+    "uk": "Рипуча брама"
+  },
+  "OccupationBuilding_Graveyard_Pool002": {
+    "en": "The Haunted Grounds",
+    "uk": "Примарний цвинтар"
+  },
+  "OccupationBuilding_Graveyard_Pool003": {
+    "en": "Carcass Camp",
+    "uk": "Трупний табір"
+  },
+  "OccupationBuilding_Graveyard_Pool004": {
+    "en": "Beneath the Linden Tree",
+    "uk": "Під липою"
+  },
+  "OccupationBuilding_Graveyard_Pool005": {
+    "en": "Resting-Place",
+    "uk": "Місце спочинку"
+  },
+  "OccupationBuilding_Graveyard_Pool006": {
+    "en": "Eternal Rest",
+    "uk": "Вічний спочинок"
+  },
+  "OccupationBuilding_Graveyard_Pool007": {
+    "en": "Deathly Hush",
+    "uk": "Мертва тиша"
+  },
+  "OccupationBuilding_Graveyard_Pool008": {
+    "en": "Witching Hour",
+    "uk": "Відьомська година"
+  },
+  "OccupationBuilding_Graveyard_Pool009": {
+    "en": "Misty Silence",
+    "uk": "Туманна тиша"
+  },
+  "OccupationBuilding_Graveyard_Pool010": {
+    "en": "Mildew & Decay",
+    "uk": "Цвіль і тлін"
+  },
+  "OccupationBuilding_Graveyard_Pool011": {
+    "en": "Corpse Depot",
+    "uk": "Склад небіжчиків"
+  },
+  "OccupationBuilding_Graveyard_Pool012": {
+    "en": "Pale Bones",
+    "uk": "Бліді кістки"
+  },
+  "OccupationBuilding_Graveyard_Pool013": {
+    "en": "Decaying Cadaver",
+    "uk": "Трухлявий мрець"
+  },
+  "OccupationBuilding_Graveyard_Pool014": {
+    "en": "Skeleton Springs",
+    "uk": "Кістяні джерела"
+  },
+  "OccupationBuilding_Guard_Pool001": {
+    "en": "We Are the Law!",
+    "uk": "Закон — це ми!"
+  },
+  "OccupationBuilding_Guard_Pool002": {
+    "en": "Sword & Screams",
+    "uk": "Меч і крики"
+  },
+  "OccupationBuilding_Guard_Pool003": {
+    "en": "Law and Order",
+    "uk": "Закон і порядок"
+  },
+  "OccupationBuilding_Guard_Pool004": {
+    "en": "Criminal's End",
+    "uk": "Кінець злочинця"
+  },
+  "OccupationBuilding_Guard_Pool005": {
+    "en": "No Mercy",
+    "uk": "Без пощади"
+  },
+  "OccupationBuilding_Guard_Pool006": {
+    "en": "Short Trial",
+    "uk": "Короткий суд"
+  },
+  "OccupationBuilding_Guard_Pool007": {
+    "en": "Vigilant Steel",
+    "uk": "Пильна сталь"
+  },
+  "OccupationBuilding_Guard_Pool008": {
+    "en": "Swords of Justice",
+    "uk": "Мечі правосуддя"
+  },
+  "OccupationBuilding_Guard_Pool009": {
+    "en": "Vengeful Vigilantes",
+    "uk": "Месники-самосудці"
+  },
+  "OccupationBuilding_Guard_Pool010": {
+    "en": "Judgment's Wrath",
+    "uk": "Гнів правосуддя"
+  },
+  "OccupationBuilding_Inn_Pool001": {
+    "en": "Laughter & Liquid",
+    "uk": "Сміх і трунок"
+  },
+  "OccupationBuilding_Inn_Pool002": {
+    "en": "Decent Glasses",
+    "uk": "Чесна чарка"
+  },
+  "OccupationBuilding_Inn_Pool003": {
+    "en": "Closing Time",
+    "uk": "Остання чарка"
+  },
+  "OccupationBuilding_Inn_Pool004": {
+    "en": "Dance 'Til Midnight",
+    "uk": "Танці до півночі"
+  },
+  "OccupationBuilding_Inn_Pool005": {
+    "en": "Riff-Raff Meeting",
+    "uk": "Зборище голоти"
+  },
+  "OccupationBuilding_Inn_Pool006": {
+    "en": "Bishop's Head",
+    "uk": "Голова єпископа"
+  },
+  "OccupationBuilding_Inn_Pool007": {
+    "en": "Patricians' Corner",
+    "uk": "Патриціанський куток"
+  },
+  "OccupationBuilding_Inn_Pool008": {
+    "en": "The Fat Goose",
+    "uk": "Гладка гуска"
+  },
+  "OccupationBuilding_Inn_Pool009": {
+    "en": "The Stewed Chicken",
+    "uk": "Тушкована курка"
+  },
+  "OccupationBuilding_Inn_Pool010": {
+    "en": "The Three Oaks",
+    "uk": "Три дуби"
+  },
+  "OccupationBuilding_Joiner_Pool001": {
+    "en": "Rotten Wood",
+    "uk": "Трухлява деревина"
+  },
+  "OccupationBuilding_Joiner_Pool002": {
+    "en": "Very Brittle",
+    "uk": "Дуже крихке"
+  },
+  "OccupationBuilding_Joiner_Pool003": {
+    "en": "Saw Shavings",
+    "uk": "Тирса"
+  },
+  "OccupationBuilding_Joiner_Pool004": {
+    "en": "Durable Woodwork",
+    "uk": "Міцна столярка"
+  },
+  "OccupationBuilding_Joiner_Pool005": {
+    "en": "Good Wood Construction",
+    "uk": "Добра деревина"
+  },
+  "OccupationBuilding_Joiner_Pool006": {
+    "en": "The Iron Oak",
+    "uk": "Залізний дуб"
+  },
+  "OccupationBuilding_Joiner_Pool007": {
+    "en": "Wooden Decorations",
+    "uk": "Дерев’яні прикраси"
+  },
+  "OccupationBuilding_Joiner_Pool008": {
+    "en": "Turned Angel",
+    "uk": "Точений янгол"
+  },
+  "OccupationBuilding_Joiner_Pool009": {
+    "en": "Only Oak",
+    "uk": "Лише дуб"
+  },
+  "OccupationBuilding_Joiner_Pool010": {
+    "en": "Ornate Decoration",
+    "uk": "Вишукане оздоблення"
+  },
+  "OccupationBuilding_MoneyLender_Pool001": {
+    "en": "Gold Reserves",
+    "uk": "Золотий запас"
+  },
+  "OccupationBuilding_MoneyLender_Pool002": {
+    "en": "Interest on Interest",
+    "uk": "Відсоток на відсоток"
+  },
+  "OccupationBuilding_MoneyLender_Pool003": {
+    "en": "The Golden Hen",
+    "uk": "Золота курочка"
+  },
+  "OccupationBuilding_MoneyLender_Pool004": {
+    "en": "Speculator's Luck",
+    "uk": "Щастя спекулянта"
+  },
+  "OccupationBuilding_MoneyLender_Pool005": {
+    "en": "Wealth Makers",
+    "uk": "Творці багатства"
+  },
+  "OccupationBuilding_MoneyLender_Pool006": {
+    "en": "Flashing Coin",
+    "uk": "Блискуча монета"
+  },
+  "OccupationBuilding_MoneyLender_Pool007": {
+    "en": "The Social Divide",
+    "uk": "Соціальна прірва"
+  },
+  "OccupationBuilding_MoneyLender_Pool008": {
+    "en": "Extortionate Interest",
+    "uk": "Лихварський відсоток"
+  },
+  "OccupationBuilding_MoneyLender_Pool009": {
+    "en": "Friend of the Miserly",
+    "uk": "Друг скупердяїв"
+  },
+  "OccupationBuilding_MoneyLender_Pool010": {
+    "en": "Low Interest",
+    "uk": "Низький відсоток"
+  },
+  "OccupationBuilding_Perfumer_Pool001": {
+    "en": "Smelly Flower",
+    "uk": "Смердюча квітка"
+  },
+  "OccupationBuilding_Perfumer_Pool002": {
+    "en": "Occasional Stinks",
+    "uk": "Іноді смердить"
+  },
+  "OccupationBuilding_Perfumer_Pool003": {
+    "en": "Waft of Love",
+    "uk": "Подих кохання"
+  },
+  "OccupationBuilding_Perfumer_Pool004": {
+    "en": "Hardly Smells",
+    "uk": "Майже не тхне"
+  },
+  "OccupationBuilding_Perfumer_Pool005": {
+    "en": "Fuggy Boilery",
+    "uk": "Задушна варильня"
+  },
+  "OccupationBuilding_Perfumer_Pool006": {
+    "en": "Questionable Aroma",
+    "uk": "Сумнівний аромат"
+  },
+  "OccupationBuilding_Perfumer_Pool007": {
+    "en": "Shady Scents",
+    "uk": "Темні пахощі"
+  },
+  "OccupationBuilding_Perfumer_Pool008": {
+    "en": "Scent of Sin",
+    "uk": "Запах гріха"
+  },
+  "OccupationBuilding_Perfumer_Pool009": {
+    "en": "Smell Without Regret",
+    "uk": "Нюхай без каяття"
+  },
+  "OccupationBuilding_Perfumer_Pool010": {
+    "en": "Perfect Perfumes",
+    "uk": "Парфуми «Парфе»"
+  },
+  "OccupationBuilding_Robber_Pool001": {
+    "en": "Dark Fortress",
+    "uk": "Темна фортеця"
+  },
+  "OccupationBuilding_Robber_Pool002": {
+    "en": "The Black Fee",
+    "uk": "Чорна плата"
+  },
+  "OccupationBuilding_Robber_Pool003": {
+    "en": "Robbers' Den",
+    "uk": "Розбійницьке кубло"
+  },
+  "OccupationBuilding_Robber_Pool004": {
+    "en": "The Stolen Haul",
+    "uk": "Крадена здобич"
+  },
+  "OccupationBuilding_Robber_Pool005": {
+    "en": "Vulture's Nest",
+    "uk": "Гніздо стерв’ятника"
+  },
+  "OccupationBuilding_Robber_Pool006": {
+    "en": "The Shattered Keep",
+    "uk": "Зруйнована вежа"
+  },
+  "OccupationBuilding_Robber_Pool007": {
+    "en": "The Dark Passage",
+    "uk": "Темний прохід"
+  },
+  "OccupationBuilding_Robber_Pool008": {
+    "en": "The Highwaymen's Roost",
+    "uk": "Гніздо харцизів"
+  },
+  "OccupationBuilding_Robber_Pool009": {
+    "en": "The Silver Toll",
+    "uk": "Срібне мито"
+  },
+  "OccupationBuilding_Robber_Pool010": {
+    "en": "The Extortion Gate",
+    "uk": "Брама здирства"
+  },
+  "OccupationBuilding_Smithy_Pool001": {
+    "en": "Heavy Hammer",
+    "uk": "Важкий молот"
+  },
+  "OccupationBuilding_Smithy_Pool002": {
+    "en": "The Farrier",
+    "uk": "Підковувач"
+  },
+  "OccupationBuilding_Smithy_Pool003": {
+    "en": "Hot Embers",
+    "uk": "Гарячий жар"
+  },
+  "OccupationBuilding_Smithy_Pool004": {
+    "en": "Simple Tool",
+    "uk": "Простий інструмент"
+  },
+  "OccupationBuilding_Smithy_Pool005": {
+    "en": "The Forge",
+    "uk": "Кузня"
+  },
+  "OccupationBuilding_Smithy_Pool006": {
+    "en": "Burning Embers",
+    "uk": "Палкий жар"
+  },
+  "OccupationBuilding_Smithy_Pool007": {
+    "en": "Glowing Coals",
+    "uk": "Розпечене вугілля"
+  },
+  "OccupationBuilding_Smithy_Pool008": {
+    "en": "Hot from the Forge",
+    "uk": "З пилу, з жару"
+  },
+  "OccupationBuilding_Smithy_Pool009": {
+    "en": "Nails Here!",
+    "uk": "Цвяхи тут!"
+  },
+  "OccupationBuilding_Smithy_Pool010": {
+    "en": "Iron Work",
+    "uk": "Залізна робота"
+  },
+  "OccupationBuilding_Smithy_Pool011": {
+    "en": "Rusty & Heavy",
+    "uk": "Іржаве й важке"
+  },
+  "OccupationBuilding_Smithy_Pool012": {
+    "en": "The Silver Lining",
+    "uk": "Нема лиха без добра"
+  },
+  "OccupationBuilding_StoneMason_Pool001": {
+    "en": "Stone by Stone",
+    "uk": "Камінь до каменя"
+  },
+  "OccupationBuilding_StoneMason_Pool002": {
+    "en": "Could Collapse",
+    "uk": "Може завалитися"
+  },
+  "OccupationBuilding_StoneMason_Pool003": {
+    "en": "First Attempt",
+    "uk": "Перша спроба"
+  },
+  "OccupationBuilding_StoneMason_Pool004": {
+    "en": "Fine Stone Mason's Art",
+    "uk": "Вишукане каменярство"
+  },
+  "OccupationBuilding_StoneMason_Pool005": {
+    "en": "Fundamentals of Foundations",
+    "uk": "Основи основ"
+  },
+  "OccupationBuilding_StoneMason_Pool006": {
+    "en": "Guaranteed Weather-Proof",
+    "uk": "Гарантовано від негоди"
+  },
+  "OccupationBuilding_StoneMason_Pool007": {
+    "en": "Ornate Relief",
+    "uk": "Вишуканий рельєф"
+  },
+  "OccupationBuilding_StoneMason_Pool008": {
+    "en": "No Experiments",
+    "uk": "Без експериментів"
+  },
+  "OccupationBuilding_StoneMason_Pool009": {
+    "en": "Slate & Ebony",
+    "uk": "Сланець і ебен"
+  },
+  "OccupationBuilding_StoneMason_Pool010": {
+    "en": "Ready To Move In!",
+    "uk": "Заїжджайте й живіть!"
+  },
+  "OccupationBuilding_Tailor_Pool001": {
+    "en": "The Golden Sash ",
+    "uk": "Золотий пояс "
+  },
+  "OccupationBuilding_Tailor_Pool002": {
+    "en": "The Nimble Needle",
+    "uk": "Моторна голка"
+  },
+  "OccupationBuilding_Tailor_Pool003": {
+    "en": "The Outfitter",
+    "uk": "Одягальня"
+  },
+  "OccupationBuilding_Tailor_Pool004": {
+    "en": "Stitch by Stitch",
+    "uk": "Стібок за стібком"
+  },
+  "OccupationBuilding_Tailor_Pool005": {
+    "en": "The Latest Fashion",
+    "uk": "Остання мода"
+  },
+  "OccupationBuilding_Tailor_Pool006": {
+    "en": "The Fashion Maker",
+    "uk": "Законодавець мод"
+  },
+  "OccupationBuilding_Tailor_Pool007": {
+    "en": "Leather & Linen",
+    "uk": "Шкіра й полотно"
+  },
+  "OccupationBuilding_Tailor_Pool008": {
+    "en": "The Brocade Cloak",
+    "uk": "Парчевий плащ"
+  },
+  "OccupationBuilding_Tailor_Pool009": {
+    "en": "Bags'n'Socks",
+    "uk": "Торби й панчохи"
+  },
+  "OccupationBuilding_Tailor_Pool010": {
+    "en": "The Brave Little Tailor",
+    "uk": "Хоробрий кравчик"
+  },
+  "OccupationBuilding_Thief_Pool001": {
+    "en": "The One-Armed Bandit",
+    "uk": "Однорукий бандит"
+  },
+  "OccupationBuilding_Thief_Pool002": {
+    "en": "The Empty Purse",
+    "uk": "Порожня калита"
+  },
+  "OccupationBuilding_Thief_Pool003": {
+    "en": "The Lost Wallet",
+    "uk": "Загублена калитка"
+  },
+  "OccupationBuilding_Thief_Pool004": {
+    "en": "Pinch & Be Pinched",
+    "uk": "Хто краде, в того й крадуть"
+  },
+  "OccupationBuilding_Thief_Pool005": {
+    "en": "Lost and Found",
+    "uk": "Загублене-знайдене"
+  },
+  "OccupationBuilding_Thief_Pool006": {
+    "en": "Your Money is Safe",
+    "uk": "Ваші гроші в безпеці"
+  },
+  "OccupationBuilding_Thief_Pool007": {
+    "en": "Town Guard's Friend",
+    "uk": "Друг міської варти"
+  },
+  "OccupationBuilding_Thief_Pool008": {
+    "en": "Lilias Pastia",
+    "uk": "Лілас Пастья"
+  },
+  "OccupationBuilding_Thief_Pool009": {
+    "en": "Scoundrels' Meet",
+    "uk": "Зборище пройдисвітів"
+  },
+  "OccupationBuilding_Thief_Pool010": {
+    "en": "The Bloody Dagger",
+    "uk": "Закривавлений кинджал"
+  },
+  "OccupationBuilding_Trader_Pool001": {
+    "en": "The Well-Stocked Trader",
+    "uk": "Запасливий купець"
+  },
+  "OccupationBuilding_Trader_Pool002": {
+    "en": "Overseas Dispatch",
+    "uk": "Заморська доставка"
+  },
+  "OccupationBuilding_Trader_Pool003": {
+    "en": "The Large Cart",
+    "uk": "Великий віз"
+  },
+  "OccupationBuilding_Trader_Pool004": {
+    "en": "Wholesale",
+    "uk": "Гуртом"
+  },
+  "OccupationBuilding_Trader_Pool005": {
+    "en": "From All the World",
+    "uk": "З усього світу"
+  },
+  "OccupationBuilding_Trader_Pool006": {
+    "en": "Business House",
+    "uk": "Торговий дім"
+  },
+  "OccupationBuilding_Trader_Pool007": {
+    "en": "Trumpery and Junk",
+    "uk": "Мотлох і дрібнички"
+  },
+  "OccupationBuilding_Trader_Pool008": {
+    "en": "Everything in Stock!",
+    "uk": "Усе в наявності!"
+  },
+  "OccupationBuilding_Trader_Pool009": {
+    "en": "Well-Known Routes Only",
+    "uk": "Лише знайомими шляхами"
+  },
+  "OccupationBuilding_Trader_Pool010": {
+    "en": "Barrels & Bales",
+    "uk": "Бочки й тюки"
+  },
+  "PersonalBuilding_BeeHives_Pool001": {
+    "en": "Sweet & Slightly Violent",
+    "uk": "Солодкі й трохи жорстокі"
+  },
+  "PersonalBuilding_BeeHives_Pool002": {
+    "en": "The Sunlit Comb",
+    "uk": "Сонячні стільники"
+  },
+  "PersonalBuilding_BeeHives_Pool003": {
+    "en": "The Sweet Dominion",
+    "uk": "Солодке володарство"
+  },
+  "PersonalBuilding_BeeHives_Pool004": {
+    "en": "Honeyhall",
+    "uk": "Медова зала"
+  },
+  "PersonalBuilding_BeeHives_Pool005": {
+    "en": "Coup d'Bee",
+    "uk": "Бджолиний переворот"
+  },
+  "PersonalBuilding_BeeHives_Pool006": {
+    "en": "Buzziness & Co.",
+    "uk": "Дзиж і Ко"
+  },
+  "PersonalBuilding_BeeHives_Pool007": {
+    "en": "Wax On, Wax Off",
+    "uk": "Віск нанести — віск зняти"
+  },
+  "PersonalBuilding_BeeHives_Pool008": {
+    "en": "Sweet Profit",
+    "uk": "Солодкий зиск"
+  },
+  "PersonalBuilding_BeeHives_Pool009": {
+    "en": "No Kings Allowed",
+    "uk": "Королям вхід заборонено"
+  },
+  "PersonalBuilding_BeeHives_Pool010": {
+    "en": "We Know Your Face Apiary",
+    "uk": "Пасіка «Ми знаємо Ваше обличчя»"
+  },
+  "PersonalBuilding_BeeHives_Pool011": {
+    "en": "Honey & Heresy",
+    "uk": "Мед і єресь"
+  },
+  "PersonalBuilding_BeeHives_Pool012": {
+    "en": "We Are Many",
+    "uk": "Нас багато"
+  },
+  "PersonalBuilding_BeeHives_Pool013": {
+    "en": "Workers' Union (All Female)",
+    "uk": "Спілка робітниць (лише жінки)"
+  },
+  "PersonalBuilding_BeeHives_Pool014": {
+    "en": "Long Live the Fertile One",
+    "uk": "Хай живе плодюча!"
+  },
+  "PersonalBuilding_BeeHives_Pool015": {
+    "en": "Stingholders' Assembly",
+    "uk": "Збори жалоносців"
+  },
+  "PersonalBuilding_Shrine_Pool001": {
+    "en": "The Devout Corner",
+    "uk": "Побожний куток"
+  },
+  "PersonalBuilding_Shrine_Pool002": {
+    "en": "The “Just in Case” Shrine",
+    "uk": "Капличка «Про всяк випадок»"
+  },
+  "PersonalBuilding_Shrine_Pool003": {
+    "en": "Saint Mercator the Well-Margined",
+    "uk": "Святий Меркатор Щедрої Націнки"
+  },
+  "PersonalBuilding_Shrine_Pool004": {
+    "en": "Saint Bartholomew of Modest Profits",
+    "uk": "Святий Варфоломій Скромного Зиску"
+  },
+  "PersonalBuilding_Shrine_Pool005": {
+    "en": "Saint Vitus of Many Descendants",
+    "uk": "Святий Віт Багатодітний"
+  },
+  "PersonalBuilding_Shrine_Pool006": {
+    "en": "Saint Adelheid of Not Being Caught",
+    "uk": "Свята Адельгайда Неспійманих"
+  },
+  "PersonalBuilding_Shrine_Pool007": {
+    "en": "Private Dealings with the Divine",
+    "uk": "Приватні справи з Господом"
+  },
+  "PersonalBuilding_Shrine_Pool008": {
+    "en": "The Saint of Convenient Outcomes",
+    "uk": "Святий вигідних наслідків"
+  },
+  "PersonalBuilding_Shrine_Pool009": {
+    "en": "The Altar of Selective Repentance",
+    "uk": "Вівтар вибіркового каяття"
+  },
+  "PersonalBuilding_Shrine_Pool010": {
+    "en": "Candlelit Sanctum",
+    "uk": "Святилище при свічках"
+  },
+  "PersonalBuilding_Statue_Pool001": {
+    "en": "The One Who Definitely Deserved a Statue",
+    "uk": "Той, хто точно заслужив статую"
+  },
+  "PersonalBuilding_Statue_Pool002": {
+    "en": "The Eternal Taxpayer",
+    "uk": "Вічний платник податків"
+  },
+  "PersonalBuilding_Statue_Pool003": {
+    "en": "The Master of Coin",
+    "uk": "Володар монети"
+  },
+  "PersonalBuilding_Statue_Pool004": {
+    "en": "The First Citizen",
+    "uk": "Перший громадянин"
+  },
+  "PersonalBuilding_Statue_Pool005": {
+    "en": "The People's Favorite Citizen",
+    "uk": "Улюбленець народу"
+  },
+  "PersonalBuilding_Statue_Pool006": {
+    "en": "The Pride of the City",
+    "uk": "Гордість міста"
+  },
+  "PersonalBuilding_Statue_Pool007": {
+    "en": "The Man/Woman of Remarkable Merit",
+    "uk": "Чоловік/жінка видатних заслуг"
+  },
+  "PersonalBuilding_Statue_Pool008": {
+    "en": "The Town's Most Modest Citizen",
+    "uk": "Найскромніший громадянин міста"
+  },
+  "PersonalBuilding_Statue_Pool009": {
+    "en": "The Appreciated (At Last)",
+    "uk": "Поцінований (нарешті)"
+  },
+  "PersonalBuilding_Statue_Pool010": {
+    "en": "The Honored Burgher",
+    "uk": "Шановний міщанин"
+  },
+  "PersonalBuilding_Statue_Pool011": {
+    "en": "The Statue of Someone Important (Me)",
+    "uk": "Статуя когось важливого (мене)"
+  },
+  "PersonalBuilding_Statue_Pool012": {
+    "en": "Commissioned by Popular Demand (Unverified)",
+    "uk": "Споруджено на прохання народу (не перевірено)"
+  },
+  "PersonalBuilding_Statue_Pool013": {
+    "en": "The Generous Soul (According to Himself)",
+    "uk": "Щедра душа (за власними словами)"
+  },
+  "PersonalBuilding_Statue_Pool014": {
+    "en": "The Self-Made Hero",
+    "uk": "Герой, що зробив себе сам"
+  },
+  "PersonalBuilding_Statue_Pool015": {
+    "en": "Our Esteemed Neighbor",
+    "uk": "Наш шановний сусід"
+  },
+  "PersonalBuilding_StorageShed_Pool001": {
+    "en": "The Strategic Hoard",
+    "uk": "Стратегічний запас"
+  },
+  "PersonalBuilding_StorageShed_Pool002": {
+    "en": "The “I Might Need This” House",
+    "uk": "Хата «Ще знадобиться»"
+  },
+  "PersonalBuilding_StorageShed_Pool003": {
+    "en": "The Necessary Excess",
+    "uk": "Необхідний надлишок"
+  },
+  "PersonalBuilding_StorageShed_Pool004": {
+    "en": "The Calculated Accumulation",
+    "uk": "Розважливе накопичення"
+  },
+  "PersonalBuilding_StorageShed_Pool005": {
+    "en": "The Patient Speculator",
+    "uk": "Терплячий спекулянт"
+  },
+  "PersonalBuilding_StorageShed_Pool006": {
+    "en": "Hold for Later",
+    "uk": "На потім"
+  },
+  "PersonalBuilding_StorageShed_Pool007": {
+    "en": "Profit Pending",
+    "uk": "Прибуток очікується"
+  },
+  "PersonalBuilding_StorageShed_Pool008": {
+    "en": "Stored Advantage",
+    "uk": "Перевага на складі"
+  },
+  "PersonalBuilding_StorageShed_Pool009": {
+    "en": "Just in Case",
+    "uk": "Про всяк випадок"
+  },
+  "PersonalBuilding_StorageShed_Pool010": {
+    "en": "Absolutely Needed",
+    "uk": "Конче потрібне"
+  },
+  "PublicBuilding_Blackmarket_Pool001": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Blackmarket_Pool002": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Blackmarket_Pool003": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Blackmarket_Pool004": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Blackmarket_Pool005": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Blackmarket_Pool006": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Blackmarket_Pool007": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Blackmarket_Pool008": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Blackmarket_Pool009": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Blackmarket_Pool010": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_CannonTower_Pool001": {
+    "en": "The Argument Settler",
+    "uk": "Миротворець"
+  },
+  "PublicBuilding_CannonTower_Pool002": {
+    "en": "Diplomatic Tower",
+    "uk": "Вежа дипломатії"
+  },
+  "PublicBuilding_CannonTower_Pool003": {
+    "en": "The Roof Inspector",
+    "uk": "Покрівельник"
+  },
+  "PublicBuilding_CannonTower_Pool004": {
+    "en": "The Last Word",
+    "uk": "Останнє слово"
+  },
+  "PublicBuilding_CannonTower_Pool005": {
+    "en": "The Long-Distance Complaint",
+    "uk": "Далекобійна скарга"
+  },
+  "PublicBuilding_CannonTower_Pool006": {
+    "en": "The Window Maker",
+    "uk": "Майстер вікон"
+  },
+  "PublicBuilding_CannonTower_Pool007": {
+    "en": "The Renovator",
+    "uk": "Реставратор"
+  },
+  "PublicBuilding_CannonTower_Pool008": {
+    "en": "The Sleeping Giant",
+    "uk": "Сплячий велетень"
+  },
+  "PublicBuilding_CannonTower_Pool009": {
+    "en": "Old Agnes",
+    "uk": "Стара Аґнес"
+  },
+  "PublicBuilding_CannonTower_Pool010": {
+    "en": "Tower No. 4",
+    "uk": "Вежа № 4"
+  },
+  "PublicBuilding_CannonTower_Pool011": {
+    "en": "Orthan's Tower",
+    "uk": "Вежа Ортана"
+  },
+  "PublicBuilding_CannonTower_Pool012": {
+    "en": "Ramazin's Tower",
+    "uk": "Вежа Рамазіна"
+  },
+  "PublicBuilding_CannonTower_Pool013": {
+    "en": "Tower of Zott",
+    "uk": "Вежа Зотта"
+  },
+  "PublicBuilding_Fountain_Pool001": {
+    "en": "Mayor's Generosity",
+    "uk": "Щедрість бургомістра"
+  },
+  "PublicBuilding_Fountain_Pool002": {
+    "en": "Civic Refresher",
+    "uk": "Міська освіжалка"
+  },
+  "PublicBuilding_Fountain_Pool003": {
+    "en": "Moisture for the Masses",
+    "uk": "Вологу — масам!"
+  },
+  "PublicBuilding_Fountain_Pool004": {
+    "en": "The Thirst Solution",
+    "uk": "Проти спраги"
+  },
+  "PublicBuilding_Fountain_Pool005": {
+    "en": "Still & Flowing",
+    "uk": "Стояча й проточна"
+  },
+  "PublicBuilding_Fountain_Pool006": {
+    "en": "Gift of the Council",
+    "uk": "Дар ради"
+  },
+  "PublicBuilding_Fountain_Pool007": {
+    "en": "Votes & Water",
+    "uk": "Голоси й вода"
+  },
+  "PublicBuilding_Fountain_Pool008": {
+    "en": "Market Fountain",
+    "uk": "Ринковий фонтан"
+  },
+  "PublicBuilding_Fountain_Pool009": {
+    "en": "Fountain of the Quarter",
+    "uk": "Кварталовий фонтан"
+  },
+  "PublicBuilding_Fountain_Pool010": {
+    "en": "Marble Spring",
+    "uk": "Мармурове джерело"
+  },
+  "PublicBuilding_Marketplace_Pool001": {
+    "en": "Market Square",
+    "uk": "Ринкова площа"
+  },
+  "PublicBuilding_Marketplace_Pool002": {
+    "en": "Market Hall",
+    "uk": "Ринкова зала"
+  },
+  "PublicBuilding_Marketplace_Pool003": {
+    "en": "Open Market",
+    "uk": "Вільний ринок"
+  },
+  "PublicBuilding_Marketplace_Pool004": {
+    "en": "Street Market",
+    "uk": "Вуличний торг"
+  },
+  "PublicBuilding_Marketplace_Pool005": {
+    "en": "The Stalls",
+    "uk": "Ятки"
+  },
+  "PublicBuilding_Marketplace_Pool006": {
+    "en": "Trading Yard",
+    "uk": "Торговий двір"
+  },
+  "PublicBuilding_Marketplace_Pool007": {
+    "en": "Merchant Court",
+    "uk": "Купецький двір"
+  },
+  "PublicBuilding_Marketplace_Pool008": {
+    "en": "The Exchange",
+    "uk": "Біржа"
+  },
+  "PublicBuilding_Marketplace_Pool009": {
+    "en": "Busy Market",
+    "uk": "Жвавий ринок"
+  },
+  "PublicBuilding_Marketplace_Pool010": {
+    "en": "Humming Market",
+    "uk": "Гомінкий торг"
+  },
+  "PublicBuilding_PhysiciansOffice_Pool001": {
+    "en": "Cough & Coffin",
+    "uk": "Кашель і труна"
+  },
+  "PublicBuilding_PhysiciansOffice_Pool002": {
+    "en": "The Final Check-Up",
+    "uk": "Останній огляд"
+  },
+  "PublicBuilding_PhysiciansOffice_Pool003": {
+    "en": "One Foot in the Grave",
+    "uk": "Однією ногою в могилі"
+  },
+  "PublicBuilding_PhysiciansOffice_Pool004": {
+    "en": "Pill & Prayer Medical",
+    "uk": "Пігулка й молитва"
+  },
+  "PublicBuilding_PhysiciansOffice_Pool005": {
+    "en": "The Last Resort Clinic",
+    "uk": "Лічниця «Остання надія»"
+  },
+  "PublicBuilding_PhysiciansOffice_Pool006": {
+    "en": "Sawbones & Co.",
+    "uk": "Кісткопил і Ко"
+  },
+  "PublicBuilding_PhysiciansOffice_Pool007": {
+    "en": "Scalpel & Scream",
+    "uk": "Скальпель і крик"
+  },
+  "PublicBuilding_PhysiciansOffice_Pool008": {
+    "en": "Doctor Leech's Delight",
+    "uk": "Утіха доктора П’явки"
+  },
+  "PublicBuilding_PhysiciansOffice_Pool009": {
+    "en": "MediEvilCare",
+    "uk": "Злікарня"
+  },
+  "PublicBuilding_PhysiciansOffice_Pool010": {
+    "en": "St. Hypochondrius' Clinic",
+    "uk": "Лічниця святого Іпохондрія"
+  },
+  "PublicBuilding_Pillory_Pool001": {
+    "en": "The Market of Accountability",
+    "uk": "Ринок відповідальності"
+  },
+  "PublicBuilding_Pillory_Pool002": {
+    "en": "Open for Public Ridicule",
+    "uk": "Відкрито для загального глуму"
+  },
+  "PublicBuilding_Pillory_Pool003": {
+    "en": "The Shame Frame",
+    "uk": "Рамка ганьби"
+  },
+  "PublicBuilding_Pillory_Pool004": {
+    "en": "The Tribunal Post",
+    "uk": "Стовп судилища"
+  },
+  "PublicBuilding_Pillory_Pool005": {
+    "en": "The “Told You So” Stand",
+    "uk": "Стовп «А я ж казав»"
+  },
+  "PublicBuilding_Pillory_Pool006": {
+    "en": "Rot & Reflect",
+    "uk": "Гний і кайся"
+  },
+  "PublicBuilding_Pillory_Pool007": {
+    "en": "The Social Correction Device",
+    "uk": "Пристрій суспільного виправлення"
+  },
+  "PublicBuilding_Pillory_Pool008": {
+    "en": "The Square of Bitter Lessons",
+    "uk": "Площа гірких уроків"
+  },
+  "PublicBuilding_Pillory_Pool009": {
+    "en": "The Unfortunate Spotlight",
+    "uk": "Незавидна увага"
+  },
+  "PublicBuilding_Pillory_Pool010": {
+    "en": "Bread, Circuses & You",
+    "uk": "Хліб, видовища і Ви"
+  },
+  "PublicBuilding_Prison_Pool001": {
+    "en": "Shush & Suffer",
+    "uk": "Цить і терпи"
+  },
+  "PublicBuilding_Prison_Pool002": {
+    "en": "Irony Bars",
+    "uk": "Залізна іронія"
+  },
+  "PublicBuilding_Prison_Pool003": {
+    "en": "Muffled Scream",
+    "uk": "Приглушений крик"
+  },
+  "PublicBuilding_Prison_Pool004": {
+    "en": "Torturer's Delight",
+    "uk": "Утіха ката"
+  },
+  "PublicBuilding_Prison_Pool005": {
+    "en": "Cat-o'-Nine-Tails",
+    "uk": "Дев’ятихвоста кішка"
+  },
+  "PublicBuilding_Prison_Pool006": {
+    "en": "Check In, Never Check Out!",
+    "uk": "Вхід — так, вихід — ні!"
+  },
+  "PublicBuilding_Prison_Pool007": {
+    "en": "Permanent Residence",
+    "uk": "Постійне місце проживання"
+  },
+  "PublicBuilding_Prison_Pool008": {
+    "en": "The Iron Keep",
+    "uk": "Залізна вежа"
+  },
+  "PublicBuilding_Prison_Pool009": {
+    "en": "The Guilt's End",
+    "uk": "Кінець провини"
+  },
+  "PublicBuilding_Prison_Pool010": {
+    "en": "Punishment Guaranteed Co.",
+    "uk": "«Кара гарантована»"
+  },
+  "PublicBuilding_Rostrum_Pool001": {
+    "en": "Shout Platform",
+    "uk": "Майданчик для крику"
+  },
+  "PublicBuilding_Rostrum_Pool002": {
+    "en": "The Elevated Opinion",
+    "uk": "Піднесена думка"
+  },
+  "PublicBuilding_Rostrum_Pool003": {
+    "en": "Yell Here",
+    "uk": "Кричати тут"
+  },
+  "PublicBuilding_Rostrum_Pool004": {
+    "en": "Talky Talk Stand",
+    "uk": "Балакальня"
+  },
+  "PublicBuilding_Rostrum_Pool005": {
+    "en": "Volume Over Substance",
+    "uk": "Гучність понад суть"
+  },
+  "PublicBuilding_Rostrum_Pool006": {
+    "en": "Approved for Dramatic Gestures",
+    "uk": "Дозволено для драматичних жестів"
+  },
+  "PublicBuilding_Rostrum_Pool007": {
+    "en": "Raised Expectations",
+    "uk": "Підвищені сподівання"
+  },
+  "PublicBuilding_Rostrum_Pool008": {
+    "en": "The Crowd Stirrer",
+    "uk": "Підбурювач натовпу"
+  },
+  "PublicBuilding_Rostrum_Pool009": {
+    "en": "Say It With Confidence",
+    "uk": "Кажи впевнено"
+  },
+  "PublicBuilding_Rostrum_Pool010": {
+    "en": "Glory or Tomatoes",
+    "uk": "Слава або гнилі яйця"
+  },
+  "PublicBuilding_SovereignsSeat_Pool001": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_Pool002": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_Pool003": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_Pool004": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_Pool005": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_Pool006": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_Pool007": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_Pool008": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_Pool009": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_SovereignsSeat_Pool010": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_TownHall_Pool001": {
+    "en": "The Civic Assembly",
+    "uk": "Міське віче"
+  },
+  "PublicBuilding_TownHall_Pool002": {
+    "en": "The Council Chambers",
+    "uk": "Радні палати"
+  },
+  "PublicBuilding_TownHall_Pool003": {
+    "en": "The Court of Governance",
+    "uk": "Осідок влади"
+  },
+  "PublicBuilding_TownHall_Pool004": {
+    "en": "The Tax Collector's Lair",
+    "uk": "Лігво митаря"
+  },
+  "PublicBuilding_TownHall_Pool005": {
+    "en": "The Chamber of Unfulfilled Promises",
+    "uk": "Палата невиконаних обіцянок"
+  },
+  "PublicBuilding_TownHall_Pool006": {
+    "en": "Mayor's Mansion of Misery",
+    "uk": "Палати поневірянь"
+  },
+  "PublicBuilding_TownHall_Pool007": {
+    "en": "The Heart of the City",
+    "uk": "Серце міста"
+  },
+  "PublicBuilding_TownHall_Pool008": {
+    "en": "Voice of the People",
+    "uk": "Голос народу"
+  },
+  "PublicBuilding_TownHall_Pool009": {
+    "en": "Citadel of Order",
+    "uk": "Твердиня порядку"
+  },
+  "PublicBuilding_TownHall_Pool010": {
+    "en": "Council of Chaos",
+    "uk": "Рада безпорадних"
+  },
+  "PublicBuilding_TownsGate_Pool001": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_TownsGate_Pool002": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_TownsGate_Pool003": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_TownsGate_Pool004": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_TownsGate_Pool005": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_TownsGate_Pool006": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_TownsGate_Pool007": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_TownsGate_Pool008": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_TownsGate_Pool009": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_TownsGate_Pool010": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_Well_Pool001": {
+    "en": "Well Well Well",
+    "uk": "Ну й криниця!"
+  },
+  "PublicBuilding_Well_Pool002": {
+    "en": "The Deep Echo",
+    "uk": "Глибоке відлуння"
+  },
+  "PublicBuilding_Well_Pool003": {
+    "en": "Community Well",
+    "uk": "Громадська криниця"
+  },
+  "PublicBuilding_Well_Pool004": {
+    "en": "Dig & Drink",
+    "uk": "Копай і пий"
+  },
+  "PublicBuilding_Well_Pool005": {
+    "en": "The Necessary Hole",
+    "uk": "Потрібна діра"
+  },
+  "PublicBuilding_Well_Pool006": {
+    "en": "Pull the Rope",
+    "uk": "Тягни мотузку!"
+  },
+  "PublicBuilding_Well_Pool007": {
+    "en": "Drink at Your Own Risk",
+    "uk": "Пий на свій страх і ризик"
+  },
+  "PublicBuilding_Well_Pool008": {
+    "en": "Vertical Lake",
+    "uk": "Вертикальне озеро"
+  },
+  "PublicBuilding_Well_Pool009": {
+    "en": "Down There Somewhere",
+    "uk": "Десь там, унизу"
+  },
+  "PublicBuilding_Well_Pool010": {
+    "en": "Hydration Infrastructure (Manual)",
+    "uk": "Інфраструктура зволоження (ручна)"
+  },
+  "PublicBuilding_Well_Pool011": {
+    "en": "Bring Your Own Bucket",
+    "uk": "Відро — своє"
+  },
+  "PublicBuilding_Well_Pool012": {
+    "en": "The Hole Stares Back",
+    "uk": "Діра дивиться у відповідь"
+  },
+  "PublicBuilding_Well_Pool013": {
+    "en": "The Thirst Abyss",
+    "uk": "Безодня спраги"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool001": {
+    "en": "Workers' Rest",
+    "uk": "Робітничий спочинок"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool002": {
+    "en": "Cold Storeroom",
+    "uk": "Холодна комора"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool003": {
+    "en": "Homestead",
+    "uk": "Садиба"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool004": {
+    "en": "Workers' Peace",
+    "uk": "Спокій робітника"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool005": {
+    "en": "The Bed of Straw",
+    "uk": "Солом’яна постіль"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool006": {
+    "en": "Sleepy Abode",
+    "uk": "Сонна оселя"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool007": {
+    "en": "Serfs' Home",
+    "uk": "Челядня"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool008": {
+    "en": "End of the Day",
+    "uk": "Шабаш"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool009": {
+    "en": "Windy Hut",
+    "uk": "Хата на протягах"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool010": {
+    "en": "Cold Cottage",
+    "uk": "Холодна хатина"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool011": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool012": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool013": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool014": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool015": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool016": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool017": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool018": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool019": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "PublicBuilding_WorkersAccommodation_Pool020": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Residence_House_Pool001": {
+    "en": "House and Court",
+    "uk": "Хата й подвір’я"
+  },
+  "Residence_House_Pool002": {
+    "en": "Evening Peace",
+    "uk": "Вечірній спокій"
+  },
+  "Residence_House_Pool003": {
+    "en": "Solid Walls",
+    "uk": "Міцні стіни"
+  },
+  "Residence_House_Pool004": {
+    "en": "Honest Home",
+    "uk": "Чесна оселя"
+  },
+  "Residence_House_Pool005": {
+    "en": "Peaceful Work",
+    "uk": "Мирна праця"
+  },
+  "Residence_House_Pool006": {
+    "en": "Considered Walls",
+    "uk": "Продумані стіни"
+  },
+  "Residence_House_Pool007": {
+    "en": "Pleasant & Prosperous",
+    "uk": "Ситно й затишно"
+  },
+  "Residence_House_Pool008": {
+    "en": "Bourgeois Homestead",
+    "uk": "Міщанська садиба"
+  },
+  "Residence_House_Pool009": {
+    "en": "Comfortably Habitable",
+    "uk": "Цілком придатне для життя"
+  },
+  "Residence_House_Pool010": {
+    "en": "Warm Winters",
+    "uk": "Теплі зими"
+  },
+  "Residence_House_Pool011": {
+    "en": "Count the Bricks",
+    "uk": "Порахуй цеглини"
+  },
+  "Residence_House_Pool012": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Residence_House_Pool013": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Residence_House_Pool014": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Residence_House_Pool015": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Residence_House_Pool016": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Residence_House_Pool017": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Residence_House_Pool018": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Residence_House_Pool019": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Residence_House_Pool020": {
+    "en": "TBD",
+    "uk": "TBD"
+  },
+  "Residence_Villa_Pool001": {
+    "en": "Money is Good!",
+    "uk": "Гроші не пахнуть!"
+  },
+  "Residence_Villa_Pool002": {
+    "en": "Riches? Yes!",
+    "uk": "Багатство? Так!"
+  },
+  "Residence_Villa_Pool003": {
+    "en": "We're Doing Well!",
+    "uk": "У нас усе добре!"
+  },
+  "Residence_Villa_Pool004": {
+    "en": "Lap of Luxury",
+    "uk": "Лоно розкоші"
+  },
+  "Residence_Villa_Pool005": {
+    "en": "Extensions Included",
+    "uk": "Прибудови включено"
+  },
+  "Residence_Villa_Pool006": {
+    "en": "Owner's Jewellery",
+    "uk": "Хазяйські коштовності"
+  },
+  "Residence_Villa_Pool007": {
+    "en": "Hill of Decadence",
+    "uk": "Гора декадансу"
+  },
+  "Residence_Villa_Pool008": {
+    "en": "Large Family",
+    "uk": "Велика родина"
+  },
+  "Residence_Villa_Pool009": {
+    "en": "Villa Abode",
+    "uk": "Вілла-оселя"
+  },
+  "Residence_Villa_Pool010": {
+    "en": "Rosy Home",
+    "uk": "Рожевий дім"
+  }
+}
