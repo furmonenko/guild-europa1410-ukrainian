@@ -56,7 +56,7 @@ git commit
 | 3б+4 (зроблено, $3.4) | Status Effects, Politics, Actions, Notifications | Sonnet | 87 тис. |
 | 5 (зроблено, $3.3) | Events | Opus + рецензія Sonnet | 57 тис. |
 | 6 (зроблено, $2.3) | HistoricalEvents, Challenges, Backstories | Opus + рецензія Sonnet | 36 тис. |
-| 7 | Game_VO/Dialogue | Opus | 23 тис. |
+| 7 (зроблено, $0.8) | Game_VO/Dialogue | Opus + рецензія Opus у сесії | 23 тис. |
 | 8 | Building Name Pools, AmbientBackstories, Character Name Pools (транслітерація) | Opus | 24 тис. |
 
 Рецензія Opus — після кожного Sonnet-заходу. Opus-розділи рецензуємо в грі; за бажанням — Sonnet-рецензія
