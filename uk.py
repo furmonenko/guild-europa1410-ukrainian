@@ -5,6 +5,7 @@
     python uk.py check       validate translations/ against the current English source
     python uk.py status      translation coverage per namespace
     python uk.py build       build the mod into dist/
+    python uk.py package     build + zip the mod with the player readme for distribution
     python uk.py install     build + copy the mod into the game's Paks/~mods
     python uk.py uninstall   remove the mod from the game
 
@@ -31,6 +32,7 @@ WORK, DIST, TOOLS, TRANSLATIONS = ROOT / 'work', ROOT / 'dist', ROOT / 'tools', 
 DEFAULT_GAME = r'D:\SteamLibrary\steamapps\common\The Guild - Europa 1410'
 
 MOD_NAME = 'ZZ_Ukrainian_P'
+MOD_VERSION = '1.0.0'  # bump together with docs/release/readme-player.txt and the git tag
 ENGINE_VERSION = 'UE5_6'
 # The Ukrainian text replaces this culture until the game gets a real `uk` culture.
 TARGET_CULTURE = 'en'
@@ -211,6 +213,18 @@ def cmd_build(args):
     print(f'built {DIST}')
 
 
+def cmd_package(args):
+    cmd_build(args)
+    out = DIST / f'Europa1410-UA-{MOD_VERSION}.zip'
+    readme = (ROOT / 'docs/release/readme-player.txt').read_text(encoding='utf-8')
+    with zipfile.ZipFile(out, 'w', zipfile.ZIP_DEFLATED) as z:
+        for ext in ('pak', 'utoc', 'ucas'):
+            z.write(DIST / f'{MOD_NAME}.{ext}', f'{MOD_NAME}.{ext}')
+        # BOM + CRLF so the readme opens cleanly in Notepad
+        z.writestr('ЧИТАЙ-МЕНЕ.txt', readme.replace('\r\n', '\n').replace('\n', '\r\n').encode('utf-8-sig'))
+    print(f'packaged {out}')
+
+
 def mods_dir(args):
     return Path(args.game) / 'Europa1410/Content/Paks/~mods'
 
@@ -237,7 +251,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument('--game', default=os.environ.get('EUROPA1410_DIR', DEFAULT_GAME))
     sub = parser.add_subparsers(dest='cmd', required=True)
-    for name in ('tools', 'extract', 'check', 'build', 'install', 'uninstall'):
+    for name in ('tools', 'extract', 'check', 'build', 'package', 'install', 'uninstall'):
         sub.add_parser(name)
     sub.add_parser('status').add_argument('--all', action='store_true', help='include untranslated namespaces')
     args = parser.parse_args()
